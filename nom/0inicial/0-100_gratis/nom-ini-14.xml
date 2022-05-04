@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>La docente del aula de cinco años busca desarrollar habilidades de clasificación en los niños.
+Para ello, aprovechando que los niños están realizando un proyecto para reutilizar objetos del
+aula, entrega a cada equipo una caja con plumones usados.
+	</q0>
+	<g0>
+	</g0>
+	<q>Considerando el propósito de la docente, ¿qué acción es pertinente que realice a continuación?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Decirles que agrupen los plumones en función de si pintan o no.</a>
+		<a>Decirles que piensen cómo reutilizarán los plumones y, de acuerdo a ello, los agrupen.</a>
+		<a>Decirles que los plumones son apropiados para aprender a contar y, por tanto, sería útil
+que los agruparan por color.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

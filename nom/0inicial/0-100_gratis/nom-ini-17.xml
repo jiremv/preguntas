@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Organizados en grupos de 6 integrantes, los niños del aula de cinco años han reciclado
+materiales y construido un juguete. Ahora, se preparan para explicar a sus compañeros
+cómo lo hicieron. La docente busca aprovechar esta situación para que los niños resuelvan
+problemas. Para ello, primero les dice lo siguiente: "Necesitamos que 2 niños de cada grupo
+cuenten cómo construyeron el juguete y el resto responda las preguntas que hagan sus
+compañeros. Entonces, ¿cuántos niños deberán responder las preguntas?". Luego, se asegura
+de que los niños comprendan el problema que les acaba de plantear.
+	</q0>
+	<g0>
+	</g0>
+	<q>En el marco de la resolución de problemas, ¿qué acción es pertinente que la docente realice
+a continuación?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Pedirles que cada uno resuelva el problema. Luego, decirles que comparen sus respuestas
+con las de sus compañeros.</a>
+		<a>Designar a los niños que presentarán el juguete en cada grupo. Luego, pedir a estos niños
+que cuenten cuántos compañeros quedan en sus grupos.</a>
+		<a>Proponerles que discutan en su grupo cómo harán para saber cuántos niños responderán
+las preguntas. Luego, pedirles que expliquen la propuesta que acordaron.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

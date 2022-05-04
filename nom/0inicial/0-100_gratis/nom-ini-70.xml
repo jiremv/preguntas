@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Víctor y Pamela, del aula de cinco años, entablan el siguiente diálogo. </q0>
+	<g0>./../../preguntas/nom/0inicial/0-100_gratis/nom-ini-270-p.png</g0>
+	<q>¿Qué uso del número se evidencia en la intervención de Pamela?</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>Como ordinal.</a>
+		<a>Como cardinal.</a>
+		<a>Como nominal.</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

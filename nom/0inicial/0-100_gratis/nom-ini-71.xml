@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los niños y la docente del aula de cinco años pasean por la ribera del río. Al llegar a una cocha, observan
+        pequeños peces. Entusiasmados, conversan sobre lo que observan. De regreso al aula, Pedro le pregunta a la
+        docente: "Señorita, ¿qué respiran los peces?, ¿agua?".</q0>
+    <g0></g0>
+    <q>A partir de la intervención de Pedro, la docente busca que los niños construyan sus propias explicaciones sobre
+       la respiración de los peces. ¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Decirles que en el agua hay oxígeno y que los peces respiran ese oxígeno. Para ello, en lugar de pulmones,
+           poseen branquias que funcionan como un colador que solo deja pasar el oxígeno. Finalmente, pedirles que digan
+           con sus propias palabras lo que entendieron.</a>
+        <a>Presentarles una ilustración del sistema respiratorio de los peces. Luego, pedirles que la observen y
+           describan detalladamente. Finalmente, pedirles que, a partir de la ilustración, planteen hipótesis respecto
+           de qué y cómo respiran los peces.</a>
+        <a>Proponerles que dibujen qué y cómo se imaginan que respiran los peces. Luego, pedirles que conversen con sus
+           compañeros sobre lo que han dibujado. Finalmente, buscar con ellos información que complemente sus respuestas.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

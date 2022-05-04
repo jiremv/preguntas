@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>La docente del aula de cinco años conversa con los niños respecto de sus responsabilidades
+para la presente semana. Cuando conversa con el grupo “Las hormiguitas”, que cuenta con 5
+integrantes, les dice que ellos estarán a cargo de las siguientes responsabilidades:
+	</q0>
+	<g0>./../../preguntas/nom/0inicial/0-100_gratis/nom-ini-165-p.png
+	</g0>
+	<q>Luego, añade lo siguiente: “Niños, las 3 responsabilidades deben ser repartidas entre todos
+los integrantes”. Considerando que la docente busca aprovechar esta situación para que los
+niños resuelvan problemas cotidianos, ¿qué acción debe realizar a continuación?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Decirles que piensen cómo podrían distribuir las 3 responsabilidades en el grupo de
+modo que todos realicen por lo menos una.</a>
+		<a>Asignar a cada niño un número del 1 al 5, y luego decirles que se distribuyan las tareas
+de manera correlativa hasta que todos tengan por lo menos una.</a>
+		<a>Indicarles que limpiar las mesas y repartir las loncheras son actividades diarias y, por
+tanto, cada una debe ser realizada por 2 niños; mientras que las plantas las puede regar
+1 niño cada 2 días.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

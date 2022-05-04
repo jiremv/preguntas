@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>La docente del aula de cinco años busca favorecer el acercamiento de los niños a la lectura.
+Para ello, ha colocado en el respaldo de las sillas tarjetas con sus respectivos nombres y ha
+cambiado las sillas de lugar antes de que ellos ingresen al aula. Cuando los niños ingresan,
+la docente les propone que encuentren sus sillas guiándose de las tarjetas que observan en
+ellas. Entonces, Daniela y Damaris se acercan al mismo tiempo a la silla de Damaris. Este es
+el diálogo que surge a continuación:
+	</q0>
+	<g0>./../../preguntas/nom/0inicial/0-100_gratis/nom-ini-181-p.png
+	</g0>
+	<q>Daniela mira desconcertada a la docente. Ante esta situación, ¿cuál de las siguientes acciones
+es más pertinente para favorecer el acercamiento de Daniela a la lectura?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Preguntar a Daniela: “¿Todavía no sabes reconocer tu nombre? ¿Te gustaría que te
+enseñe a reconocerlo?”. Luego, llevarla hacia su silla, señalar la tarjeta y decirle: “Mira,
+aquí dice Daniela. Ahora ya puedes sentarte en tu silla”.</a>
+		<a>Preguntar a Daniela: “¿Hay alguna marca que te permita reconocer tu silla? ¿Qué te
+parece si te doy un sticker para que lo pegues en ella cuando la encuentres?”. Luego,
+pedir a los niños que ayuden a Daniela a encontrar su silla.</a>
+		<a>Preguntar a Daniela: “¿Por qué crees que ahí está escrito tu nombre? ¿Te parece si
+buscamos tu nombre en el cartel de asistencia?”. Después de hacerlo, añadir: “Ahora
+vamos a la silla en la que está Damaris. ¿Ahí dice tu nombre? ¿En qué se parece a tu
+nombre? ¿En qué se diferencia?”.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

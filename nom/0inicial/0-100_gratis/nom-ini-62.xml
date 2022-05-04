@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>La docente les pregunta a los niños de cinco años para qué sirven los números. A continuación,
+se presentan algunas respuestas. </q0>
+	<g0>./../../preguntas/nom/0inicial/0-100_gratis/nom-ini-262-p.png</g0>
+	<q> ¿En cuál de las intervenciones se evidencia el uso del número como nominal?</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>En la de Eva.</a>
+		<a>En la de Javier.</a>
+		<a>En la de Marcela.</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>
