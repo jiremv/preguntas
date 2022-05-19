@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Adriana del aula de 5 años quiere desarrollar la participación de los niños en el cuidado 
+    del medio ambiente. Ella planifica un paseo con sus niños por las principales calles de la localidad. Durante esta 
+    actividad, los niños
+observan que las calles están sucias, con desperdicios de papeles, latas, botellas. También perciben que las personas 
+queman la basura alrededor de las casas, observan la presencia de roedores y moscas por la acumulación de basura. 
+Para tener éxito en la construcción de aprendizajes, ¿qué actividades permanentes ha realizado Adriana?
+</q>
+    <as r="R" correcta="0">
+        <a>Salir a recorrer las calles de su comunidad, formular diversas preguntas del tema, promover la expresión oral sobre formas del cuidado del medio ambiente.</a>
+        <a>Pintar diversas figuras del cuidado del medio ambiente, presentar láminas con figuras del cuidado del medio ambiente, distar textos para ser escritos por los niños quienes los pegan en los murales del patio escolar.</a>
+        <a>Realizar marchas con los niños con diversos carteles elaborados por los padres, dictar diversos textos para ser escritos por los niños, pegar los afiches en los alrededores de la comunidad para concientizar a la población.</a>
+        <a>Motivar el decorado con bolitas de papel alrededor de los afiches de los niños, investigar diversas formas del cuidado
+del medio ambiente para vivir mejor, dictar textos para ser escritos por los niños y pegar los afiches.</a>
+    </as>
+    <x>A.</x>
+</p>
