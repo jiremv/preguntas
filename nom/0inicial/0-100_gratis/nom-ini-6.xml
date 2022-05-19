@@ -1,35 +1,26 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>Los niños del aula de cinco años juegan en el patio de la I.E. Julio y sus amigos están saltando
-liga en un extremo del patio. De pronto, Ana y un grupo de niños corren cerca de Julio y sus
-compañeros e interfieren en el juego de estos. Fastidiado, Julio le dice a Ana que ella y su
-grupo deben jugar en otro sitio, pues él y sus amigos estaban en ese lugar primero. Ana le
-responde que el patio es de todos. Ante ello, los niños empiezan a discutir. La docente, que
-estuvo observando la situación, se acerca para intervenir.
-	</q>
-	<q2>¿Cuál de las siguientes acciones es pertinente que la docente realice a continuación para
-promover la resolución del conflicto entre los niños?	
-	</q2>
-	<as r="R" correcta="2">
-		<a>Explicar a los niños que todos tienen derecho a jugar en el patio. Luego, asignar a cada
-grupo un espacio en el patio para que jueguen. Finalmente, pedir a ambos grupos que
-se amisten.</a>
-		<a>Decirles que no está bien discutir entre compañeros. Luego, proponerles un nuevo juego
-en el que puedan participar todos juntos. Finalmente, recordarles la importancia de
-convivir en armonía.</a>
-		<a>Preguntar a Ana y a Julio qué sucedió. Luego, pedirles que digan cómo podrían hacer para
-que todos puedan jugar en el patio sin interrumpirse. Finalmente, establecer acuerdos a
-partir de sus propuestas.</a>
-	</as>	
-	<x>C.</x>
-	<i></i>
-	<x2>
-	</x2>
-	<i2></i2>
-	<v1></v1>
+    <q0></q0>
+    <g0></g0>
+    <q>Los niños del aula de cinco años juegan en el patio de la I.E. Julio y sus amigos están saltando liga en un
+       extremo del patio. De pronto, Ana y un grupo de niños corren cerca de Julio y sus compañeros e interfieren en el
+       juego de estos. Fastidiado, Julio le dice a Ana que ella y su grupo deben jugar en otro sitio, pues él y sus
+       amigos estaban en ese lugar primero. Ana le responde que el patio es de todos. Ante ello, los niños empiezan a
+       discutir. La docente, que estuvo observando la situación, se acerca para intervenir.</q>
+    <q2>¿Cuál de las siguientes acciones es pertinente que la docente realice a continuación para promover la resolución
+        del conflicto entre los niños?</q2>
+    <as r="R" correcta="2">
+        <a>Explicar a los niños que todos tienen derecho a jugar en el patio. Luego, asignar a cada grupo un espacio en
+           el patio para que jueguen. Finalmente, pedir a ambos grupos que se amisten.</a>
+        <a>Decirles que no está bien discutir entre compañeros. Luego, proponerles un nuevo juego en el que puedan
+           participar todos juntos. Finalmente, recordarles la importancia de convivir en armonía.</a>
+        <a>Preguntar a Ana y a Julio qué sucedió. Luego, pedirles que digan cómo podrían hacer para que todos puedan
+           jugar en el patio sin interrumpirse. Finalmente, establecer acuerdos a partir de sus propuestas.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
 </p>

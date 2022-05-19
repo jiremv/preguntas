@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>La docente del aula de dos a tres años busca favorecer la colaboración voluntaria entre los
-niños. ¿Cuál de las siguientes intervenciones es pertinente para ese propósito?
-	</q>
-	<q2>	
-	</q2>
-	<as r="R" correcta="0">
-		<a>"¿Quién puede llevar las cucharas a la mesa para comer el refrigerio?".</a>
-		<a>"Para mantener el aula en orden, cada uno debe guardar el juguete con el que jugó".</a>
-		<a>"A los que esperen sentaditos, les pondré una estrellita en la frente. ¿Quién quiere una
-estrellita?".</a>
-	</as>	
-	<x>A.</x>
-	<i></i>
-	<x2>
-	</x2>
-	<i2></i2>
-	<v1></v1>
+    <q0></q0>
+    <g0></g0>
+    <q>La docente del aula de dos a tres años busca favorecer la colaboración voluntaria entre los niños. ¿Cuál de las
+       siguientes intervenciones es pertinente para ese propósito?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>"¿Quién puede llevar las cucharas a la mesa para comer el refrigerio?".</a>
+        <a>"Para mantener el aula en orden, cada uno debe guardar el juguete con el que jugó".</a>
+        <a>"A los que esperen sentaditos, les pondré una estrellita en la frente. ¿Quién quiere una estrellita?".</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
 </p>

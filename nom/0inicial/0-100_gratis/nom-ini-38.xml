@@ -1,24 +1,19 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>38.png
-	</g0>
-	<q>¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información
-explícita en este fragmento?
-	</q>
-	<q2>	
-	</q2>
-	<as r="R" correcta="1">
-		<a>¿Qué será un bagrecico?</a>
-		<a>¿Dónde vivían los peces de esta historia?</a>
-		<a>¿Qué opinan de la decisión del bagrecico de conocer el mar?</a>
-	</as>	
-	<x>B.</x>
-	<i></i>
-	<x2>
-	</x2>
-	<i2></i2>
-	<v1></v1>
+    <q0></q0>
+    <g0>38.png</g0>
+    <q>¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este
+       fragmento?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>¿Qué será un bagrecico?</a>
+        <a>¿Dónde vivían los peces de esta historia?</a>
+        <a>¿Qué opinan de la decisión del bagrecico de conocer el mar?</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
 </p>

@@ -1,23 +1,21 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>Jazmín es una niña que presenta baja visión y será incluida en el aula de cinco años. A raíz de
-ello, las docentes de la IE comparten ideas sobre cómo favorecer la inclusión de la niña en el
-aula.</q0>
-	<g0></g0>
-	<q>A continuación, se presentan los comentarios de tres docentes.</q>
-   <g>59.png</g>
-	<q2>¿Cuál de los comentarios se enmarca en el enfoque inclusivo?</q2>
-   <g2></g2>
-	<as r="R" correcta="2">
-		<a>El de Sandra.</a>
-		<a>El de Gladis.</a>
-		<a>El de Martha.</a>
-	</as>
-	<x>C</x>
-	<i></i>
-	<x2>
-	</x2>
-	<i2></i2>
-	<v1></v1>
+    <q0>Jazmín es una niña que presenta baja visión y será incluida en el aula de cinco años. A raíz de ello, las
+        docentes de la IE comparten ideas sobre cómo favorecer la inclusión de la niña en el aula.</q0>
+    <g0></g0>
+    <q>A continuación, se presentan los comentarios de tres docentes.</q>
+    <g>59.png</g>
+    <q2>¿Cuál de los comentarios se enmarca en el enfoque inclusivo?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>El de Sandra.</a>
+        <a>El de Gladis.</a>
+        <a>El de Martha.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
 </p>
