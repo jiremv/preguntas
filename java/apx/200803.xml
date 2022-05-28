@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son los lenguajes de programación usados en APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Java y Javascript</a>
+		<a>COBOL</a>
+		<a>Java</a>
+		<a>COBOL y Javascript</a>
 	</as>
 	<x>C</x>
 	<i></i>

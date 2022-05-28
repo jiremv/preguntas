@@ -2,15 +2,16 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
 	<q0></q0>
-	<g0></g0>
+	<g0>Marca las arquitecturas de backend disponibles</g0>
 	<q></q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Datio</a>
+		<a>FileX</a>
+		<a>APX</a>
+		<a>HOST</a>
 	</as>
 	<x>C</x>
 	<i></i>
