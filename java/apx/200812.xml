@@ -3,15 +3,13 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Sepuederealizar losdesplieguesenAtenea?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Si</a>
+		<a>No</a>
 	</as>
 	<x>B</x>
 	<i></i>

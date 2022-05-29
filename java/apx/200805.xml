@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>Marca las tecnologías o plataformas con las que APX se puede integrar</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Rest API Públicas</a>
+		<a>MongoDB</a>
+		<a>SEMaaS</a>
+		<a>Datio</a>
 	</as>
 	<x>D</x>
 	<i></i>

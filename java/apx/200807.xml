@@ -3,15 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q> ¿En qué etapa del proceso, el equipo de Arquitectura APX, confirma el soporte a un
+proyecto?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Analysis</a>
+		<a>Planning</a>
+		<a>Design & setup</a>
+		<a>Operations</a>
 	</as>
 	<x>B</x>
 	<i></i>

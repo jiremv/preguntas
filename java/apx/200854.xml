@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué herramienta se usa para la configuración de los servicios ECS (Ether Cloud Services)?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Apx-cli</a>
+		<a>Ecs-cli</a>
+		<a>Upsi-cli</a>
+		<a>Apx-clí y Ecs-Cli</a>
 	</as>
 	<x>B</x>
 	<i></i>

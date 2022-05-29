@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué propiedades de Consola de Operaciones APX son necesarias para el uso del Interna! API Connector?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>api.connector.<apUogicaUd>.url</a>
+		<a>api.connector.proxy.username</a>
+		<a>api.connector.proxy.password</a>
+		<a>api.connector.<apUogicaUd>.invoke.type</a>
 	</as>
 	<x>A</x>
 	<i></i>

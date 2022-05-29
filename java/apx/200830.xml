@@ -3,14 +3,18 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>Indique verdadero (V) ó falso (F) por cada enunciado: (1) Al crear un recurso APX en la Consola Ether,se crea automáticamente la configuración del jenkins.
+(11) EnAPX, todas las transacciones de tipo CRUD se invocan con el método HTTP
+POST. (111) La cobertura de código mínima para la Certificación de Componentes
+APX es 90%.</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>VFV</a>
+		<a>FFV</a>
+		<a>VVV</a>
+		<a>FFF</a>
 	</as>
 	<x>C</x>
 	<i></i>

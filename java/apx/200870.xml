@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>En la consola ether,¿cuál es el modo de deploy utilizado para desplegar un
+recursoAPX Batch?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Generar imagen online</a>
+		<a>R2 Batch</a>
+		<a>Generar imagen batch</a>
+		<a>Physics online</a>
 	</as>
 	<x>D</x>
 	<i></i>

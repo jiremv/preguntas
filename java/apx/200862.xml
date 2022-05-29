@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuál eselcomandoAPX CU paraagregar una librería?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>apx add dep</a>
+		<a>apx show</a>
+		<a>apx add lib</a>
+		<a>apx add dto</a>
 	</as>
 	<x>D</x>
 	<i></i>

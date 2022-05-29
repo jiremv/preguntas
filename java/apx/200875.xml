@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Desde dónde no es posible realizar una ejecución de unJob APX durante su
+desarrollo?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Consola de Operaciones APX</a>
+		<a>Control-M</a>
+		<a>Postman</a>
+		<a>Consola Ether</a>
 	</as>
 	<x>A</x>
 	<i></i>

@@ -3,14 +3,19 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>Enuna Base de Datos MongoDB nueva, ¿cómo se cargan las credencialesy
+parámetros deconexión física a laBDen laConsola deOperacionesAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de Arquitectura de
+Seguridad Local</a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de laaS DB Holding</a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de Arquitectura de
+Datos Local</a>
+		<a>Se solicita la carga de credenciales y parámetros deconexiónalequipodeArquitecturaAPX
+Local</a>
 	</as>
 	<x>D</x>
 	<i></i>

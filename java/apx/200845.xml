@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué utilitario se utiliza para el consumo de APl's externos desde APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>dbc</a>
+		<a>extapiconnector</a>
+		<a>communicationmanager</a>
+		<a>intapiconnector</a>
 	</as>
 	<x>B</x>
 	<i></i>

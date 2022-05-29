@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Con qué equipo se debe coordinar elDiseño de un Evento?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Arquitectura APX</a>
+		<a>Equipo de Proyecto</a>
+		<a>EquipoSEMaaS</a>
+		<a>API Catalog</a>
 	</as>
 	<x>D</x>
 	<i></i>

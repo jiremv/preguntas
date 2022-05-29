@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>En los parámetros de configuración de MongoDB, ¿cuál de ellos referencia a los datos de usuario y contraseña de la BD?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>mongodb.%1ogic_db_name%. physicalDB</a>
+		<a>mongodb.%logic_db_name%.credentia1Prefix</a>
+		<a>mongodb.%logic_db_name%. collection</a>
+		<a>Todos</a>
 	</as>
 	<x>B</x>
 	<i></i>

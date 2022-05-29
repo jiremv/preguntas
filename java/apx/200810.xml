@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son los requisitos para un despliegue a Producción de componentes APX? </q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Certificación de Componentes OCTA</a>
+		<a>Historia Jira de Despliegue APX</a>
+		<a>Solicitud de despliegue en Ether</a>
+		<a>Certificación de Componentes APX</a>
 	</as>
 	<x>A</x>
 	<i></i>

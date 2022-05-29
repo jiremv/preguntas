@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáleselflujodesolicituddecreaciónde namespace? </q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>El aplicativo lo crea</a>
+		<a>Se crea ticket Jira hacia Arquitectura APX, donde se incluye los nombres de los namespaces y
+el MSA cerrado.</a>
+		<a>Se solicita por correo hacia APX Holding</a>
+		<a>Se solicita a través de Service Desk a APX Holding</a>
 	</as>
 	<x>D</x>
 	<i></i>

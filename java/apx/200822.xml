@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>Según la guía de Lineamientos de Diseño deAplicacionesAPX, ¿cuál es el prefijo que antecede al nombre del recurso online?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>El código de la UUAA</a>
+		<a>El prefijo ora</a>
+		<a>El prefijo onl</a>
+		<a>A criterio del desarrollador</a>
 	</as>
 	<x>C</x>
 	<i></i>

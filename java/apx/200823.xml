@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuál es elcomando para agregar la dependencia del utilitario para realizar
+operaciones con una Base de Datos Oracle?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>apx add util -n jdbc</a>
+		<a>util-n jdbc</a>
+		<a>add util jdbc</a>
+		<a>apx add jdbc</a>
 	</as>
 	<x>A</x>
 	<i></i>

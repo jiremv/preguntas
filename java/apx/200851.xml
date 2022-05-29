@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué arquitecturas pueden publicar eventos de negocio?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>ASO</a>
+		<a>APX</a>
+		<a>APX y ASO</a>
+		<a>APX y HOST</a>
 	</as>
 	<x>D</x>
 	<i></i>

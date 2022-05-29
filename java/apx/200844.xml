@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué valor numérico identifica el tipo de invocación a Servicios ASO?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>2</a>
+		<a>0</a>
+		<a>1</a>
+		<a>3</a>
 	</as>
 	<x>C</x>
 	<i></i>

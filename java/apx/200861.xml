@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿En qué entornos de la Consola Ether es necesario desplegar un recurso de tipo APX Batch?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>DEV, INT,AUS,OCT</a>
+		<a>DEV,INT,AUS,OCT,PROD</a>
+		<a>DEV,PROD</a>
+		<a>DEV</a>
 	</as>
 	<x>A</x>
 	<i></i>

@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Con qué Base de Datos puede trabajar una Shell Script deAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>MongoDB</a>
+		<a>ElasticSearch</a>
+		<a>Oracle</a>
+		<a>Todas</a>
 	</as>
 	<x>C</x>
 	<i></i>

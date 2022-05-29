@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son las principales tareas que se realizan durante la sub-etapa de Construcción Design & Setup"?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Alta de UUAA en Consola de Operaciones APX</a>
+		<a>Alta de usuarios en las consola de APX y Atenea</a>
+		<a>Perfilado de transacciones</a>
+		<a>Validación de Diseño de Componentes APX</a>
 	</as>
 	<x>A</x>
 	<i></i>

@@ -3,15 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué comando se usa para poder visualizar los parámetros de entrada en una
+transacción?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>apx show in</a>
+		<a>apx show out</a>
+		<a>apx show</a>
+		<a>apx trx in</a>
 	</as>
 	<x>A</x>
 	<i></i>

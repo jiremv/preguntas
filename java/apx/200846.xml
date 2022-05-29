@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué propiedades deConsola deOperacionesAPX son necesarias para el uso
+delExterna!APIConnector?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>api.connector.proxy.port</a>
+		<a>api.connector.<apUogicaUd>.url</a>
+		<a>api.connector.proxy.host</a>
+		<a>api.connector.<api_logical_id>.invoke.type</a>
 	</as>
 	<x>A</x>
 	<i></i>

@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuál es la ruta de las propiedades necesarias para los test unitarios de unJob
+APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Job name /src/test/resources/META-I NF/spring/configuration-application-test.properties</a>
+		<a>Job name /src/test/resources/configurati on-application-test.properties</a>
+		<a>Job name /src/test/resources/spri ng/configuration-application-test.properties</a>
+		<a>Job name/src/test/configuration-application-test.properties</a>
 	</as>
 	<x>A</x>
 	<i></i>

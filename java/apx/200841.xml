@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué utilitario se utiliza para el consumo deAPl's internos desde APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>extapiconnector</a>
+		<a>jdbc</a>
+		<a>intapiconnector</a>
+		<a>communicationmanager</a>
 	</as>
 	<x>C</x>
 	<i></i>

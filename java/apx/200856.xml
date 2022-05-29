@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué propiedad de la ConsolaAPX es necesario para eluso del API Connector?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>api.connector.<id>.host, api.connector.<id>.port</a>
+		<a>api.connector.<id>.invoke.type</a>
+		<a>api.connector.<id>.upsilon</a>
+		<a>api.connector.<id>.url</a>
 	</as>
 	<x>B</x>
 	<i></i>

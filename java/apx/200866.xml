@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáleselrepositoriodearchivosquepermiteleer,procesar y/o guardar
+información mediante los JobsAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Consola de Operaciones APX</a>
+		<a>Artifactory</a>
+		<a>DataX</a>
+		<a>FileX</a>
 	</as>
 	<x>C</x>
 	<i></i>
