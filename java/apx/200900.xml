@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son las ramas en Bitbucket que pueden ser modificadas para cambios en los componentes APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Solo develop</a>
+		<a>Solo feature y develop</a>
+		<a>Solo feature, bugfix y hotfix</a>
+		<a>Solo feature y hotfix</a>
 	</as>
 	<x>C</x>
 	<i></i>

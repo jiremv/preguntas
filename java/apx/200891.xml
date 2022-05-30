@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Qué es una UUAA?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Código de laTransacción en APX</a>
+		<a>Código del Producto en Ether</a>
+		<a>Código de la Aplicación en Ether</a>
+		<a>Código del Recurso en APX</a>
 	</as>
 	<x>C</x>
 	<i></i>

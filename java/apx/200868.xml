@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es la ruta de las propiedades necesarias para los test unitarios de unJob
-APX?</q>
+	<q>¿Cuáles son los componentes APX que forman elusuario BOT?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>Job name /src/test/resources/META-I NF/spring/configuration-application-test.properties</a>
-		<a>Job name /src/test/resources/configurati on-application-test.properties</a>
-		<a>Job name /src/test/resources/spri ng/configuration-application-test.properties</a>
-		<a>Job name/src/test/configuration-application-test.properties</a>
+		<a>Transacción</a>
+		<a>OTO</a>
+		<a>Librería</a>
+		<a>UUAA</a>
 	</as>
 	<x>A</x>
 	<i></i>

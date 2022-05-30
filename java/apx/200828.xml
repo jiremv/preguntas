@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>Indique el comando para adicionar datos de entrada a una transacción APX</q>
+	<q>¿Qué se necesita para poder hacer uso el Entorno LocaldeAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>apx show in</a>
-		<a>apx add in</a>
-		<a>apx in</a>
-		<a>apx add</a>
+		<a>Se descarga, descomprimey ejecuta el bat respectivo</a>
+		<a>Se descarga y ejecuta desde el archivo comprimido</a>
+		<a>Se agregan parámetros en las variables de entorno de sistema</a>
+		<a>1y3</a>
 	</as>
 	<x>B</x>
 	<i></i>

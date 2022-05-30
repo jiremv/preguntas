@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué valor numérico identifica el tipo de invocación a Servicios ASO?</q>
+	<q>¿Cuales son las propiedades básicas que se deben dar de alta en la Consola de Operaciones APX para conectarse a MongoDB?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>2</a>
-		<a>0</a>
-		<a>1</a>
-		<a>3</a>
+		<a>mongodb.%1ogic_db_name%.jndi.url</a>
+		<a>mongodb.%1ogi c_db_name%. credentia1Prefix</a>
+		<a>mongodb.%1ogic_db_name%. physicalDB</a>
+		<a>mongodb.%1ogic_db_name%. collection</a>
 	</as>
 	<x>C</x>
 	<i></i>

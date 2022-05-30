@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Enqué componente se agregan los conectores APX?</q>
+	<q>¿En qué tipos de runtime APX se puede utilizar el conector de MongoDB?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Transacción</a>
-		<a>DTO</a>
-		<a>Interface de Librería</a>
-		<a>Implementación de Librería</a>
+		<a>APX Online</a>
+		<a>APX Batch</a>
+		<a>ORA Batch</a>
+		<a>Ninguno</a>
 	</as>
 	<x>D</x>
 	<i></i>

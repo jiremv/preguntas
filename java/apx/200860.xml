@@ -3,17 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es el servicio de Ether Cloud Services que permite suscribirse a un evento deSEMaaS?</q>
+	<q>¿Cómo solicita el Equipo de Proyecto la carga de credenciales del Proxy?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Upsilon</a>
-		<a>Epsilon</a>
-		<a>PSI</a>
-		<a>Lambda
-Opción 5
-Opción 6</a>
+		<a>Mediante una tarea Jira al equipo de Arquitectura APX Local</a>
+		<a>Mediante un correo al equipo de Arquitectura de Seguridad Local</a>
+		<a>Mediante un Service Desk al equipo de APX Holding</a>
+		<a>Mediante un Service Desk al equipo de Proxy Nextgen Mexico</a>
+	</as>
 	</as>
 	<x>C</x>
 	<i></i>

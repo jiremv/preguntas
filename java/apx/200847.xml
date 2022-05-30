@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Quécomando utilizamos para agregar conectores enAPX?</q>
+	<q>Elconector deMongoDBseagrega a:</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>apx add dep</a>
-		<a>apx add in</a>
-		<a>apx add util</a>
-		<a>apx add out</a>
+		<a>DTO</a>
+		<a>Transacción</a>
+		<a>Implementación de la Librería</a>
+		<a>Interface de la Librería</a>
 	</as>
 	<x>C</x>
 	<i></i>

@@ -3,17 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>"Indique que excepciónes son permitidas en la Arquitectura APX: (1)
-BusinessException (11) DuplicateKeyException (111) NoResultExceptionlV.
-Exception"</q>
+	<q>¿Quéarchivo .batsenecesitaejecutar parainiciarlaConsoladeOperaciones
+APX del Entorno Local?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Solo I</a>
-		<a>I, II, III</a>
-		<a>I y IV</a>
-		<a>Todas</a>
+		<a>startBatch</a>
+		<a>startBundlor</a>
+		<a>startOnline</a>
+		<a>startConsole</a>
 	</as>
 	<x>B</x>
 	<i></i>

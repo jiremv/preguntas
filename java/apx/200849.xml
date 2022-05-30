@@ -3,15 +3,19 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>.¿Cómo solicita el Equipo de Proyecto la generación decredenciales del proxy que permitirá lacomunicación conAPl's externos?</q>
+	<q>Enuna Base de Datos MongoDB nueva, ¿cómo se cargan las credencialesy
+parámetros deconexión física a laBDen laConsola deOperacionesAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Mediante una tarea Jira al equipo de Arquitectura APX Local</a>
-		<a>Mediante un Service Desk al equipo de Proxy Nextgen Mexico</a>
-		<a>Mediante un correo al equipo de Arquitectura de Seguridad Local</a>
-		<a>Mediante un Service Desk al equipo de APX Holding</a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de Arquitectura de
+Seguridad Local</a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de laaS DB Holding</a>
+		<a>Se solicita la carga de credenciales y parámetros de conexión al equipo de Arquitectura de
+Datos Local</a>
+		<a>Se solicita la carga de credenciales y parámetros deconexiónalequipodeArquitecturaAPX
+Local</a>
 	</as>
 	<x>B</x>
 	<i></i>

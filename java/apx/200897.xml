@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son los equipos que aprueban undespliegue a Producción de
+componentesAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Gestión de Cambios</a>
+		<a>Solution Architect</a>
+		<a>Arquitectura de Servicios ASO</a>
+		<a>Arquitectura APX</a>
 	</as>
 	<x>A</x>
 	<i></i>

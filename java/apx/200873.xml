@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es la utilería de Oracle que permite la carga de datos en una tabla?</q>
+	<q>¿Dónde se debe instalar el utilitario de MongoDB? </q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>ORAOOOOOr</a>
-		<a>ORA00001r</a>
-		<a>ORAOOOOO</a>
-		<a>ORA00001</a>
+		<a>En la implementación de la librería</a>
+		<a>En el job</a>
+		<a>En la implementación del job</a>
+		<a>EnelOTO</a>
 	</as>
 	<x>A</x>
 	<i></i>

@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Dónde se debe instalar el utilitario de MongoDB? </q>
+	<q>¿Qué tipo de invocación del Interna! API Conector nos permite publicar eventos?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>En la implementación de la librería</a>
-		<a>En el job</a>
-		<a>En la implementación del job</a>
-		<a>EnelOTO</a>
+		<a>lnternalUpsilonConnector</a>
+		<a>lmpersonalización</a>
+		<a>interBackendCicsUtils</a>
+		<a>Invocación simple</a>
 	</as>
 	<x>C</x>
 	<i></i>

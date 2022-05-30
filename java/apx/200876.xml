@@ -3,14 +3,14 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Dónde se guardan las imágenes docker generadas luego del despliegue de una ShellScriptde APX?</q>
-   <g></g>
+	<q>¿Cuáleselrepositoriodearchivosquepermiteleer,procesar y/o guardar
+información mediante los JobsAPX?</q>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>Job Manager</a>
-		<a>Consola Ether</a>
+		<a>Consola de Operaciones APX</a>
 		<a>Artifactory</a>
+		<a>DataX</a>
 		<a>FileX</a>
 	</as>
 	<x>D</x>

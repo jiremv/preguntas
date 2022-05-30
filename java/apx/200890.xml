@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cómo se llama el parámetro del body de ejecución de unShell Script donde
+puedo establecer los parámetros de entrada?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>SHELLSCRIPT_PARAMETERS</a>
+		<a>JobParameters</a>
+		<a>SH_EXEC_PARAMETERS</a>
+		<a>PARAMETERS</a>
 	</as>
 	<x>C</x>
 	<i></i>

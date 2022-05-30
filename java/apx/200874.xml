@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿QuéinstruccióndeMavenpodemos usar parasaber sinuestroproyectose
-encuentra correctamente creado?</q>
+	<q>¿Cuál es la nomenclatura de unnamespace batch?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>apx validate</a>
-		<a>docker image check target/<Código de Job></a>
-		<a>javac target/<Código de Job>.java</a>
-		<a>Ninguna</a>
+		<a>Parte fija: bch + País de Ejecución + Entorno + UUAA + Código del Job</a>
+		<a>Parte fija: apx-batch + País de Ejecución + UUAA + Código del Job + Entorno</a>
+		<a>Es unformato libre</a>
+		<a>País de Ejecución + UUAA + Código del Job + Entorno + Parte fija: apx</a>
 	</as>
 	<x>B</x>
 	<i></i>

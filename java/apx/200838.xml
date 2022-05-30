@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿En qué tipos de runtime APX se puede utilizar el conector de MongoDB?</q>
+	<q>Indique el comando para adicionar datos de entrada a una transacción APX</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>APX Online</a>
-		<a>APX Batch</a>
-		<a>ORA Batch</a>
-		<a>Ninguno</a>
+		<a>apx show in</a>
+		<a>apx add in</a>
+		<a>apx in</a>
+		<a>apx add</a>
 	</as>
 	<x>A</x>
 	<i></i>

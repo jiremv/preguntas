@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Desde dónde no es posible realizar una ejecución de unJob APX durante su
-desarrollo?</q>
+	<q>¿Cuáles son los valores del objeto parameters necesarios para ejecutar un Job APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>Consola de Operaciones APX</a>
-		<a>Control-M</a>
-		<a>Postman</a>
-		<a>Consola Ether</a>
+		<a>JOB_EXECUTION_NAMESPACE</a>
+		<a>rutaArchivo</a>
+		<a>RUNTIME</a>
+		<a>ALTERNATI VE_JMAGE</a>
 	</as>
 	<x>A</x>
 	<i></i>

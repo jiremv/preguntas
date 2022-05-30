@@ -3,16 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué tipos patrones de Arquitectura de Eventos se pueden implementar con
-SEMaaS?</q>
+	<q>¿Qué propiedades de Consola de Operaciones APX son necesarias para el uso del Interna! API Connector?</q>
+   <g></g>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Publicación y consumidor</a>
-		<a>Publicación y suscripción</a>
-		<a>Publicación, suscripción y enriquecimiento</a>
-		<a>Publicación,navegación y enriquecimiento</a>
+		<a>api.connector.<apUogicaUd>.url</a>
+		<a>api.connector.proxy.username</a>
+		<a>api.connector.proxy.password</a>
+		<a>api.connector.<apUogicaUd>.invoke.type</a>
 	</as>
 	<x>C</x>
 	<i></i>

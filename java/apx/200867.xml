@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué componente de APX se debe excluir del análisis deSonar? </q>
+	<q>¿Cuál es la estructura delevento quese configura en APX y SEMaaS?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Transacción</a>
+		<a>RecordType</a>
+		<a>Payload</a>
+		<a>UpsilonRequest</a>
 		<a>DTO</a>
-		<a>Librería</a>
-		<a>Job</a>
 	</as>
 	<x>B</x>
 	<i></i>

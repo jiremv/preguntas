@@ -3,16 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es elcomando para agregar la dependencia del utilitario para realizar
-operaciones con una Base de Datos Oracle?</q>
+	<q>¿Qué comando se usa para poder visualizar los parámetros de entrada en una
+transacción?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>apx add util -n jdbc</a>
-		<a>util-n jdbc</a>
-		<a>add util jdbc</a>
-		<a>apx add jdbc</a>
+		<a>apx show in</a>
+		<a>apx show out</a>
+		<a>apx show</a>
+		<a>apx trx in</a>
 	</as>
 	<x>A</x>
 	<i></i>

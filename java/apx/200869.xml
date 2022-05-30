@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuáleselflujodesolicituddecreaciónde namespace? </q>
+	<q>¿Qué equipo es el encargado de perfilar el usuario BOT deAPX para que tenga autoridaddepublicareventos?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>El aplicativo lo crea</a>
-		<a>Se crea ticket Jira hacia Arquitectura APX, donde se incluye los nombres de los namespaces y
-el MSA cerrado.</a>
-		<a>Se solicita por correo hacia APX Holding</a>
-		<a>Se solicita a través de Service Desk a APX Holding</a>
+		<a>Equipo de Perfilado</a>
+		<a>Equipo de Arquitectura APX</a>
+		<a>EquipoSEMaaS</a>
+		<a>Equipo deArquitectura de Seguridad</a>
 	</as>
 	<x>D</x>
 	<i></i>

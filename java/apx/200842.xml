@@ -3,15 +3,17 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué propiedades de Consola de Operaciones APX son necesarias para el uso del Interna! API Connector?</q>
+	<q>¿Cómo se agrega una dependencia de OTO en una libreria?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>api.connector.<apUogicaUd>.url</a>
-		<a>api.connector.proxy.username</a>
-		<a>api.connector.proxy.password</a>
-		<a>api.connector.<apUogicaUd>.invoke.type</a>
+		<a>Abrir una terminal en el proyecto de la transacción y ejecutar el comando apx add dep</a>
+		<a>Abrír una terminal en el proyecto de la implementación de la librería y ejecutar el comando apx
+add dep</a>
+		<a>Abrir unaterminal en el proyecto de lainterface de la librería y ejecutar el comando apx add
+dep</a>
+		<a>Abrir una terminal en el proyecto de la interface de la librería y ejecutar el comando apx add dto</a>
 	</as>
 	<x>A</x>
 	<i></i>

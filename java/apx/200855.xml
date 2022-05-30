@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Con qué equipo se debe coordinar elDiseño de un Evento?</q>
+	<q>¿Qué utilitario se utiliza para el consumo de APl's externos desde APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Arquitectura APX</a>
-		<a>Equipo de Proyecto</a>
-		<a>EquipoSEMaaS</a>
-		<a>API Catalog</a>
+		<a>dbc</a>
+		<a>extapiconnector</a>
+		<a>communicationmanager</a>
+		<a>intapiconnector</a>
 	</as>
 	<x>D</x>
 	<i></i>

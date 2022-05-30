@@ -3,17 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cómo se agrega una dependencia de OTO en una libreria?</q>
+	<q>Según la guía de Lineamientos de Diseño deAplicacionesAPX, ¿cuál es el prefijo que antecede al nombre del recurso online?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Abrir una terminal en el proyecto de la transacción y ejecutar el comando apx add dep</a>
-		<a>Abrír una terminal en el proyecto de la implementación de la librería y ejecutar el comando apx
-add dep</a>
-		<a>Abrir unaterminal en el proyecto de lainterface de la librería y ejecutar el comando apx add
-dep</a>
-		<a>Abrir una terminal en el proyecto de la interface de la librería y ejecutar el comando apx add dto</a>
+		<a>El código de la UUAA</a>
+		<a>El prefijo ora</a>
+		<a>El prefijo onl</a>
+		<a>A criterio del desarrollador</a>
 	</as>
 	<x>C</x>
 	<i></i>

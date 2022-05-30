@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Dónde se guardan las imágenes docker generadas luego del despliegue de una ShellScriptde APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Job Manager</a>
+		<a>Consola Ether</a>
+		<a>Artifactory</a>
+		<a>FileX</a>
 	</as>
 	<x>C</x>
 	<i></i>

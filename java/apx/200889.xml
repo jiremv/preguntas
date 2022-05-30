@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuál es la utilería deOracle que permite la eliminación de datos en una tabla?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>ORAOOOOOr</a>
+		<a>ORA00001r</a>
+		<a>ORA00005r</a>
+		<a>ORA00006r</a>
 	</as>
 	<x>D</x>
 	<i></i>

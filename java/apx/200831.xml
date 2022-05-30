@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué es MongoDB?</q>
+	<q>La unidad de despliegue online básica debe estar conformada por:</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Es una BD NoSQL orientada a grafos</a>
-		<a>Es una BD NoSQL orientada a grafos</a>
-		<a>Es una BD NoSQL que almacena JSON.</a>
-		<a>Es una BD NoSQL que almacena tablas.</a>
+		<a>Transacción y OTO</a>
+		<a>Transacción A, transacción B,librería y OTO</a>
+		<a>Transacción, librería y OTO</a>
+		<a>Transacción y librería</a>
 	</as>
 	<x>B</x>
 	<i></i>

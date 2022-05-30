@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>Noes aplicable para la ejecución de un ORA Batch en ambientes productivos:</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>BD Oracle</a>
+		<a>Postman</a>
+		<a>Control-M</a>
+		<a>Namespace</a>
 	</as>
 	<x>B</x>
 	<i></i>

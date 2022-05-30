@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es la nomenclatura de unnamespace batch?</q>
+	<q>¿Qué herramienta se usa para la configuración de los servicios ECS (Ether Cloud Services)?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Parte fija: bch + País de Ejecución + Entorno + UUAA + Código del Job</a>
-		<a>Parte fija: apx-batch + País de Ejecución + UUAA + Código del Job + Entorno</a>
-		<a>Es unformato libre</a>
-		<a>País de Ejecución + UUAA + Código del Job + Entorno + Parte fija: apx</a>
+		<a>Apx-cli</a>
+		<a>Ecs-cli</a>
+		<a>Upsi-cli</a>
+		<a>Apx-clí y Ecs-Cli</a>
 	</as>
 	<x>B</x>
 	<i></i>

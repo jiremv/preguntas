@@ -3,15 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué código HTTP indica una respuesta satisfactoria? </q>
+	<q>¿Dónde se programa undespliegue a producción luego de las aprobaciones
+respectivas?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>300</a>
-		<a>400</a>
-		<a>200</a>
-		<a>409</a>
+		<a>Consola de Operaciones APX</a>
+		<a>Consola de Atenea</a>
+		<a>Consola Ether</a>
+		<a>Remedy</a>
 	</as>
 	<x>C</x>
 	<i></i>

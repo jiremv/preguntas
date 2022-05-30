@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuál es la estructura delevento quese configura en APX y SEMaaS?</q>
+	<q>¿Quécomando utilizamos para agregar conectores enAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>RecordType</a>
-		<a>Payload</a>
-		<a>UpsilonRequest</a>
-		<a>DTO</a>
+		<a>apx add dep</a>
+		<a>apx add in</a>
+		<a>apx add util</a>
+		<a>apx add out</a>
 	</as>
 	<x>A</x>
 	<i></i>

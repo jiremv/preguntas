@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cómo se crea unrecurso de tipoAPX ORA?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Registrando unService DeskaAPX Holding un recurso de tipo APX ORA</a>
+		<a>Agregando unrecurso tipoAPX ORAen laConsolaAPX</a>
+		<a>Solicitando aArquitectura APX un recurso de tipo Shell Script</a>
+		<a>Agregando un recurso tipo Shell Script en laConsola Ether</a>
 	</as>
 	<x>D</x>
 	<i></i>

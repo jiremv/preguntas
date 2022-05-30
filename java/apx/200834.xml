@@ -3,15 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuales son las propiedades básicas que se deben dar de alta en la Consola de Operaciones APX para conectarse a MongoDB?</q>
+	<q>En la configuración del jdbc, el nombre lógico cumple la función de:</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>mongodb.%1ogic_db_name%.jndi.url</a>
-		<a>mongodb.%1ogi c_db_name%. credentia1Prefix</a>
-		<a>mongodb.%1ogic_db_name%. physicalDB</a>
-		<a>mongodb.%1ogic_db_name%. collection</a>
+		<a>Es el encargado de realizar la conexión con la BD</a>
+		<a>Hacer la referencia a los properties que hacen referencia a los parámetros de conexión para la
+BD</a>
+		<a>No tiene nada que ver con la configuración con el JDBC</a>
+		<a>Ninguna de las anteriores</a>
 	</as>
 	<x>B</x>
 	<i></i>

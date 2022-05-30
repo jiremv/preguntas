@@ -3,15 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué propiedad de la ConsolaAPX es necesario para eluso del API Connector?</q>
+	<q>¿Qué propiedades deConsola deOperacionesAPX son necesarias para el uso
+delExterna!APIConnector?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>api.connector.<id>.host, api.connector.<id>.port</a>
-		<a>api.connector.<id>.invoke.type</a>
-		<a>api.connector.<id>.upsilon</a>
-		<a>api.connector.<id>.url</a>
+		<a>api.connector.proxy.port</a>
+		<a>api.connector.<apUogicaUd>.url</a>
+		<a>api.connector.proxy.host</a>
+		<a>api.connector.<api_logical_id>.invoke.type</a>
 	</as>
 	<x>B</x>
 	<i></i>

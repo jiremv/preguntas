@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>En la configuración del jdbc, el nombre lógico cumple la función de:</q>
+	<q>¿Cuál es la manera correcta para agregar dependencias entre componentes de</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Es el encargado de realizar la conexión con la BD</a>
-		<a>Hacer la referencia a los properties que hacen referencia a los parámetros de conexión para la
-BD</a>
-		<a>No tiene nada que ver con la configuración con el JDBC</a>
-		<a>Ninguna de las anteriores</a>
+		<a>Agregar los tags dependency e import-packag en el pom del componente</a>
+		<a>Ejecutando el comando mvn install dep</a>
+		<a>Ejecutando el comando apx add dep</a>
+		<a>Agregando la dependenci a en la Consola de Operaciones APX</a>
 	</as>
 	<x>B</x>
 	<i></i>

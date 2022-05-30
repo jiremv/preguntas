@@ -3,16 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué propiedades deConsola deOperacionesAPX son necesarias para el uso
-delExterna!APIConnector?</q>
+	<q>En una libreria APX, ¿cómo se envían los parámetros de conexión al conector de MongoDB?</q>
+   <g></g>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a>api.connector.proxy.port</a>
-		<a>api.connector.<apUogicaUd>.url</a>
-		<a>api.connector.proxy.host</a>
-		<a>api.connector.<api_logical_id>.invoke.type</a>
+		<a>Mediante DataTable<Object></a>
+		<a>Mediante List<Object></a>
+		<a>Mediante Map<String, Object></a>
+		<a>Mediante Constantes</a>
 	</as>
 	<x>A</x>
 	<i></i>

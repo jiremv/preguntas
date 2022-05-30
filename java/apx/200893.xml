@@ -3,14 +3,16 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿A partir de qué entornoes necesario solicitar el Perfilado de una Transacción
+APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Desarrollo</a>
+		<a>Producción</a>
+		<a>Calidad</a>
+		<a>Test</a>
 	</as>
 	<x>D</x>
 	<i></i>

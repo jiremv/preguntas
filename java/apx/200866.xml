@@ -3,16 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuáleselrepositoriodearchivosquepermiteleer,procesar y/o guardar
-información mediante los JobsAPX?</q>
+	<q>¿Qué propiedad de la ConsolaAPX es necesario para eluso del API Connector?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Consola de Operaciones APX</a>
-		<a>Artifactory</a>
-		<a>DataX</a>
-		<a>FileX</a>
+		<a>api.connector.<id>.host, api.connector.<id>.port</a>
+		<a>api.connector.<id>.invoke.type</a>
+		<a>api.connector.<id>.upsilon</a>
+		<a>api.connector.<id>.url</a>
 	</as>
 	<x>C</x>
 	<i></i>

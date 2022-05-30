@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Cuáles son los componentes APX que forman elusuario BOT?</q>
+	<q>¿Enqué componente se agregan los conectores APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
 		<a>Transacción</a>
-		<a>OTO</a>
-		<a>Librería</a>
-		<a>UUAA</a>
+		<a>DTO</a>
+		<a>Interface de Librería</a>
+		<a>Implementación de Librería</a>
 	</as>
 	<x>A</x>
 	<i></i>

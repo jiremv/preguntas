@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Sobre qué tipo de componente en Bitbucket se realiza un Despliegue deAPX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Rama Release (release/1.2)</a>
+		<a>Tag deVersión Release (1.2.2-RELEASE)</a>
+		<a>Tag de Versión (1.2.2)</a>
+		<a> Rama Release Candidate (RC/1.2)</a>
 	</as>
 	<x>C</x>
 	<i></i>

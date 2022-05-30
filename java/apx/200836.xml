@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>En una libreria APX, ¿cómo se envían los parámetros de conexión al conector de MongoDB?</q>
+	<q>¿Cúal es la sintaxis correcta de los properties que se registran en el archivo sql <UUAA>R<cód igo>IMPL.properties?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>Mediante DataTable<Object></a>
-		<a>Mediante List<Object></a>
-		<a>Mediante Map<String, Object></a>
-		<a>Mediante Constantes</a>
+		<a><identificador_property>=< logicaLname>;query</a>
+		<a><identificador_property>=query</a>
+		<a><identificador_property>=<l ogicaLname>.query</a>
+		<a>Ninguna de las anteriores</a>
 	</as>
 	<x>C</x>
 	<i></i>

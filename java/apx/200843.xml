@@ -3,16 +3,19 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>¿Qué equipose encarga delVoBo para consumo deserviciosASO desdeAPX
-(APP 1300038)?</q>
+	<q>¿Cómoseagrega elconector de MongoDBenuncomponente APX?</q>
+   <g></g>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a>Arquitectura ASO</a>
-		<a>Arquitectura APX</a>
-		<a>Arquitectura ALPHA</a>
-		<a>APX Holding</a>
+		<a>Abrir una terminal en el proyecto de la interface de la librería y ejecutar el comando apx add util
+-n mongo</a>
+		<a>Abrir una terminal en el proyecto de la implementación de la librería y ejecutar el comando apx
+add util -n mongo</a>
+		<a>Abrir una terminal en el proyecto de la transacción y ejecutar el comando apx add util -n mongo</a>
+		<a>Abrir una terminal en el proyecto de la interface de la libreríay ejecutar el comando apx add util
+-n mongodb</a>
 	</as>
 	<x>B</x>
 	<i></i>

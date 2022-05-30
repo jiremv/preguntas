@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Cuáles son los puntos de validación en la solicitud de Diseño de Componentes APX?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="0">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>Diagrama de Componentes</a>
+		<a>Modelo de Base de Datos</a>
+		<a>Volumetría y Concurrencia</a>
+		<a>Orígenes y destino de integraciones</a>
 	</as>
 	<x>A</x>
 	<i></i>

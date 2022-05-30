@@ -3,15 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q>Elconector deMongoDBseagrega a:</q>
+	<q>Indicar la alternativa correcta con respecto a los test unitarios:</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="2">
-		<a>DTO</a>
-		<a>Transacción</a>
-		<a>Implementación de la Librería</a>
-		<a>Interface de la Librería</a>
+		<a>Permiten comprobar la funcionalidad del código.</a>
+		<a>Están enfocados a probar o testear la funcionalidad de un método en específico.</a>
+		<a>Ayudan a comprender la funcionalidad e identificar código innecesario.</a>
+		<a>Todas son correctas</a>
 	</as>
 	<x>C</x>
 	<i></i>

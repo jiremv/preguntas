@@ -3,14 +3,15 @@
 <p>
 	<q0></q0>
 	<g0></g0>
-	<q></q>
+	<q>¿Quién es el responsable de crear el Producto y la Aplicación en la Consola Ether?</q>
    <g></g>
 	<q2></q2>
    <g2></g2>
 	<as r="R" correcta="1">
-		<a></a>
-		<a></a>
-		<a></a>
+		<a>El Arquitecto APX</a>
+		<a>El Solutions Architect</a>
+		<a>El Arquitecto Ether</a>
+		<a>El Líder Técnico</a>
 	</as>
 	<x>B</x>
 	<i></i>
