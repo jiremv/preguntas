@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>23.png</g0>
+    <q>La docente busca aprovechar esta situación para favorecer que los niños diseñen prototipos. ¿Cuál de las
+       siguientes acciones es más pertinente para ese propósito?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Pedir a cada grupo que proponga cómo elaborar el paracaídas y con qué materiales. Luego, decirles que dibujen
+           su propuesta y expliquen a sus compañeros cómo la realizarán.</a>
+        <a>Repartir a cada niño un círculo de plástico recortado, ocho trozos de pita del mismo tamaño y un muñeco
+           pequeño. Luego, guiar paso a paso la elaboración del paracaídas.</a>
+        <a>Presentarles en un papelógrafo los materiales que se requieren para elaborar el paracaídas, los moldes y la
+           secuencia de elaboración. Luego, explicarles cómo armar el paracaídas y decirles que lo elaboren.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

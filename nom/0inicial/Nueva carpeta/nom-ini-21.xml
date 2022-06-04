@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>21.png</g0>
+    <q>Juana se queda observando las flores detenidamente. Luego de unos momentos, le pregunta a la docente: "¿Por qué
+       las flores tienen color?".</q>
+    <q2>La docente busca ayudar a Juana a construir sus propias explicaciones respecto del mundo físico. Considerando
+        ese propósito, ¿qué acción es más pertinente que realice la docente ante la inquietud de la niña?</q2>
+    <as r="R" correcta="2">
+        <a>Decirle que las flores tienen color porque así pueden atraer a las aves, abejas y otros insectos. Estos
+           llevan el polen de una flor a otra y así las flores pueden asegurar su supervivencia.</a>
+        <a>Indicarle que, cuando regresen al aula, buscarán en los libros la respuesta. Luego de consultar en los
+           libros, proponerle elaborar un álbum con flores de distintos colores.</a>
+        <a>Compartir con los demás niños la pregunta de Juana y pedirles que propongan respuestas. Luego,
+           complementarlas con la lectura de textos científicos sencillos.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los niños del aula de cinco años van a realizar un juego que han llamado "Le pongo la chompa a mi silla". Este
+        consiste en buscar una chompa con los ojos vendados, encontrarla y ponérsela a una silla siguiendo indicaciones
+        como "avanza", "adelante", "atrás", etc. Para ello los niños forman cinco grupos de cuatro integrantes cada uno.
+        Los grupos se ubican en diferentes lugares del aula y al centro de cada grupo, colocan una silla. Luego,
+        voluntariamente se dividen los roles: tres niños esconden la chompa dentro del espacio que se les ha asignado y,
+        además, dan las indicaciones, y un niño sigue estas para encontrar la chompa y ponérsela a la silla. Cuando lo
+        logre, se intercambian los roles.</q0>
+    <g0></g0>
+    <q>¿Qué aprendizaje están desarrollando principalmente los niños con esta actividad?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Reconocer a través del tacto características de objetos como la chompa o la silla.</a>
+        <a>Establecer relaciones espaciales al dar y seguir indicaciones.</a>
+        <a>Utilizar objetos del entorno para realizar juegos.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

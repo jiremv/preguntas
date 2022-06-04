@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Cuando Fernando, de cuatro años, cuenta objetos, suele decir lo siguiente: "1, 2, 3, 4, 5". Dice esto incluso
+        cuando cuenta un mismo objeto dos veces, como en este caso.</q0>
+    <g0>69.png</g0>
+    <q>De acuerdo con la información presentada, ¿qué principio del conteo evidencia haber alcanzado Fernando?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Orden estable.</a>
+        <a>No pertinencia del orden.</a>
+        <a>Correspondencia término a término.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Los niños del aula de cinco años se están lavando las manos. En ese contexto, la docente observa que, cuando
+       terminan de asearse, algunos niños dejan el caño abierto. Ante ello, la docente busca que los niños comprendan la
+       importancia de cuidar el agua.</q>
+    <q2>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q2>
+    <as r="R" correcta="1">
+        <a>Proponerles dramatizar lo sucedido durante el lavado de manos. Luego, explicarles que las personas, animales
+           y plantas necesitan agua para vivir. Finalmente, decirles que el agua se va a acabar en cualquier momento y,
+           por lo tanto, es importante cuidarla.</a>
+        <a>Presentarles imágenes de personas recibiendo agua de camiones cisterna y pedirles que describan lo que
+           observan. Luego, preguntarles si alguna vez faltó agua en sus casas, qué hicieron en ese momento y qué harían
+           si el agua se acabara. Finalmente, explicarles que el agua se va a acabar en cualquier momento y preguntarles
+           si dejar el caño abierto ayuda a cuidarla.</a>
+        <a>Reunir a los niños en asamblea y decirles que ha observado que los caños quedan abiertos después del lavado
+           de manos. Luego, indicarles que es responsabilidad de todos cuidar el agua y para asegurar ello incorporarán
+           la norma de convivencia "Cerrar el caño después de usarlo". Finalmente, decirles que evaluarán el
+           cumplimiento de esa norma diariamente.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

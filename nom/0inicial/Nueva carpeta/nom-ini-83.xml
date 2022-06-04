@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente y los niños del aula de cinco años han visitado una granja. Al volver al aula, dialogan y acuerdan
+        elaborar dibujos sobre la visita.</q0>
+    <g0></g0>
+    <q>En esa situación, ¿cuál de las siguientes acciones es más pertinente para favorecer la expresión creativa de los
+       niños?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Proponerles que elaboren un dibujo de la granja que sea lo más parecido posible a la que visitaron.</a>
+        <a>Pedirles que dibujen lo que más les gustó de la granja y utilicen para ello los materiales que deseen.</a>
+        <a>Darles siluetas de animales de la granja para que las delineen y decirles que decoren sus dibujos con papel
+           embolillado.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

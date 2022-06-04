@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones favorece la apropiación del sistema de escritura en los niños?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Presentarles en un papelógrafo el texto de una canción breve. Luego de leerles el texto, señalar algunas
+           palabras para que las adivinen. Finalmente, entregarles hojas con el texto de la canción para que repasen las
+           palabras con plumón.</a>
+        <a>Presentarles una lista de los libros de la biblioteca del aula. Luego de leerles la lista, decirles que, cada
+           vez que tomen un libro prestado, escriban su nombre en la lista, al costado del nombre del libro
+           correspondiente.</a>
+        <a>Presentarles una lista con los ingredientes para preparar una ensalada de frutas. Luego de leerles la lista,
+           decirles que la transcriban a sus cuadernos e indicarles qué fruta le toca traer a cada uno.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

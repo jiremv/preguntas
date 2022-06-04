@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Miriam está preocupada porque sus niños y niñas utilizan los materiales de lectura en forma 
+    desordenada, se disputan los materiales de lectura y, por ejemplo, cogen varios cuentos al mismo tiempo. Más aun, no
+    toman interés a la hora de la lectura, cambian de texto sin terminar de observarlo. ¿Qué secuencia didáctica debe 
+    utilizar Miriam para desarrollar con pertinencia el inicio del aprendizaje de la lectura?
+</q>
+    <as r="R" correcta="2">
+        <a>Realizan una asamblea para tomar acuerdos de cómo actuar durante la lectura; absuelven diversas preguntas acerca de 
+los textos; dramatizan el texto leído; infieren el contenido del texto leído y dibujan otro final del cuento.</a>
+        <a>Organizan su texto oralmente; expresan con claridad el mensaje; aplican varios recursos expresivos; grafican el hecho y personaje que les agradó; responden interrogantes y evalúan su trabajo para mejorarlo.</a>
+        <a>Utilizan diversos textos con agrado; relatan hechos del contexto; organizan su texto oralmente expresan con claridad 
+un mensaje; describen imágenes; reflexionan sobre el uso de sus textos.</a>
+        <a>Exploran diversos textos en forma ordenada; escogen el texto de su agrado; utilizan imágenes y las relacionan con la 
+palabra; anticipan el contenido del texto; expresan su gusto por los personajes y hechos del texto.</a>
+    </as>
+    <x>C.</x>
+</p>

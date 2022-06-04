@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Carla, de tres años, ha ingresado hace poco al jardín. El primer día, ella se resistía a ingresar al aula.
+        Entonces, la mamá le entregó a Carla el oso de peluche favorito de la niña para que la acompañe. Tras ello,
+        Carla ingresó al aula, pero se mantuvo aislada de sus compañeros toda la jornada mientras se aferraba a su oso.
+        Al segundo día, Carla ingresó al aula con su oso, pero se mantuvo junto a la docente. Al tercer día, la docente
+        observa que de vez en cuando Carla se acerca a sus compañeros, pero inmediatamente se retrae y vuelve a
+        interactuar solo con su oso.</q0>
+    <g0></g0>
+    <q>La docente interpreta que Carla se encuentra en proceso de transición del hogar a la escuela y busca continuar
+       favoreciendo ese proceso. Considerando dicho propósito, ¿cuál de las siguientes intervenciones es pertinente que
+       realice la docente?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"Carla, ven; vamos a trabajar todos juntos. Guardaré tu osito y te lo devolveré a la hora de salida".</a>
+        <a>"Carla, pregúntale a tu osito si quiere estar con nosotros. Nosotros tenemos muchas ganas de trabajar con
+           ustedes".</a>
+        <a>"Carla, creo que tu osito quiere descansar. Vamos a sentarlo en ese estante y, desde allí, él te va a cuidar
+           mientras trabajamos todos juntos".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

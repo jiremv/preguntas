@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿En cuál de las siguientes acciones se evidencia el principio de cardinalidad?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>La docente le dice a Daniel que le ayude a contar las pelotas que hay en la caja. Daniel lo hace diciendo lo
+           siguiente: "1, 2, 3, 4 y 5. Hay 5 pelotas".</a>
+        <a>La docente le dice a Sonia que reparta 4 cuerdas en su grupo. Ella entrega las cuerdas una por una diciendo
+           lo siguiente: "Esta es para Susana, esta para Pedro, esta para Ana y esta para mí".</a>
+        <a>La docente le dice a José que escoja 3 juguetes y los ubique sobre la mesa, empezando por el que más le
+           gusta. José lo hace diciendo lo siguiente: "Este es el que más me gusta, este me gusta después. Y este es el
+           que me gusta menos".</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

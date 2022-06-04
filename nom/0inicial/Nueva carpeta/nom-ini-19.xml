@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente y los niños del aula de cinco años han recolectado diversos materiales como botellas, cajas, bloques
+        de madera, etc. para el sector de construcción. Ahora, la docente les plantea el siguiente problema: "Niños,
+        ¿cómo podrían ordenar estos materiales en el sector de construcción para que puedan utilizarlos con facilidad?".</q0>
+    <g0></g0>
+    <q>En esta situación, ¿cuál de las siguientes acciones es pertinente para favorecer la resolución de problemas?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>Presentarles un dibujo del sector de construcción en el que se considere el criterio de accesibilidad a los
+           materiales. Luego, pedirles que ordenen el sector guiándose del dibujo.</a>
+        <a>Pedirles que en grupos acuerden cómo organizarán los materiales del sector de construcción y lo representen
+           con un dibujo. Luego, decirles que expliquen su propuesta usando el dibujo.</a>
+        <a>Decirle a cada niño que elija un material y lo coloque en el espacio que considere adecuado. Luego, pedir a
+           cada uno que dibuje cómo quedó el sector y solicitar voluntarios para que presenten sus dibujos.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>32.png</g0>
+    <q>¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este
+       cuento?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>¿Para qué pintó el profesor Chucrut de color fresa a una de las vacas?</a>
+        <a>¿Qué les parece lo que hizo el profesor Chucrut con las vacas?</a>
+        <a>¿Con qué alimentó el profesor Chucrut a las vacas?</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

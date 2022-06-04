@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>74.png</g0>
+    <q>Entonces, la docente les pide que viertan ambos líquidos en un solo vaso transparente y, luego, los remuevan con
+       una cuchara. Los niños observan sorprendidos que, después de unos momentos, ambos líquidos se separan.</q>
+    <g></g>
+    <q2>¿Qué proceso de aprendizaje está promoviendo la docente en su última intervención?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La transferencia de los aprendizajes.</a>
+        <a>El conflicto cognitivo.</a>
+        <a>La metacognición.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

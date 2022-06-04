@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Sonia es una niña de cinco años que presenta hipoacusia leve o sordera leve. Ella requiere mirar el rostro de
+        las personas para observar sus gestos, y, de ese modo, comprender mejor lo que dicen. Sonia será incluida en una
+        IE.</q0>
+    <g0></g0>
+    <q>En el marco de un enfoque inclusivo, la docente busca generar condiciones que favorezcan el aprendizaje de la
+       niña. ¿Cuál de las siguientes acciones es pertinente que realice la docente para ese propósito?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Preparar para Sonia actividades de aprendizaje más sencillas que las propuestas para el resto de sus
+           compañeros. Así, ella podrá realizarlas y valorar sus logros.</a>
+        <a>Desarrollar las actividades con todos los niños, como habitualmente se realizan. Reservar un momento de la
+           jornada para atender las necesidades de aprendizaje de Sonia de manera individualizada.</a>
+        <a>Pedir a los niños que se sienten formando círculos. Asegurar que esta disposición se mantenga tanto para las
+           actividades de aprendizaje que se realicen en grupos pequeños como durante la asamblea.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>

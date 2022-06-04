@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>La docente y los niños del aula de cinco años se encuentran explorando los libros de la biblioteca. Si el
+       propósito de la docente es promover en los niños la aproximación a la lectura,</q>
+    <g></g>
+    <q2>¿qué acción es más pertinente que realice a continuación?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Proponerles que en parejas escojan un libro que les guste. Luego, decirles que señalen las letras que
+           conozcan y las lean en voz alta.</a>
+        <a>Decirles que cada uno elija el libro que desee. Luego, indicarles que se pongan cómodos para leerlo, y, si
+           algún niño le pide que le lea el libro, atender su pedido.</a>
+        <a>Seleccionar diversos libros y entregar uno distinto a cada niño. Luego, decirles que, cuando terminen de
+           revisarlo, la llamen para entregarles uno nuevo.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v1></v1>
+</p>
