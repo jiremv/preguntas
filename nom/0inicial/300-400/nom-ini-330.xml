@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Lidia, profesora de niños de 3 años quiere trabajar el tema de la direccionalidad y las formas de 
+    desplazamiento en el espacio físico para lograr nociones espaciales.
+¿Con qué actividad de aprendizaje deberá iniciar?
+</q>
+    <as r="R" correcta="0">
+        <a>Construir un circuito en el patio y que los niños realicen rutas verballzando las acciones que realizan al pasar por el
+circuito.</a>
+        <a>Jugar a la gallinita ciega para que cada niño conduzca a un compañero a lo largo de todo el circuito.</a>
+        <a>Dar a cada niño un par de fichas en hojas de papel para que realicen actividades de laberintos.</a>
+        <a>Dar a cada niño un par de hojas de papel y pedirles que dibujen la ruta para ir desde su casa al colegio.</a>
+    </as>
+    <x>A.</x>
+</p>

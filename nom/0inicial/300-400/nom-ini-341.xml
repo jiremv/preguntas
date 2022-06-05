@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Todos los días, Manolo va solo al jardín, en el camino un perro le ladra y lo asusta, llega al jardín con
+    los pantalones mojados, se sienta en su sitio, no participa y no sale a las actividades al aire libre. La docente 
+    se percata de su actitud, conversa con él y lo atiende. ¿En qué instrumento registrará lo acontecido?
+</q>
+    <as r="R" correcta="3">
+        <a>Registra en el diario el comportamiento de Manolo.</a>
+        <a>Registra la conducta de Manolo usando la lista de cotejos.</a>
+        <a>Registra el hecho en la escala de Lickert.</a>
+        <a>Registra la conducta de Manolo en el anecdotario.</a>
+    </as>
+    <x>D.</x>
+</p>

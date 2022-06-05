@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En una I.E. del nivel primaria el Director observa una sesión de aprendizaje del área de Matemática de
+                segundo grado donde se propone desarrollar la capacidad de resolución de problemas con números y
+                operaciones; para ello, la docente del grado organiza a los estudiantes en grupos asignándoles un juego
+                diferente a cada uno, con el propósito de activar en los estudiantes sus conocimientos y habilidades
+                matemáticas para encontrar la solución al problema.</q0>
+    <g0></g0>
+    <q>¿según el planteamiento presentado en qué momento se evidencia el enfoque centrado en la resolución de
+               problemas?</q>
+    <as r="R" correcta="0">
+        <a>Cuando los estudiantes activan sus conocimientos y habilidades matemáticas utilizando el juego como
+                pretexto de aprendizaje.</a>
+        <a>Cuando los estudiantes resuelven problemas en fichas estructuradas.</a>
+        <a>Cuando los estudiantes desarrollan conocimientos y aplica una regla especifica para la solución de
+                problemas.</a>
+        <a>Cuando la docente aplica estrategias específicas con consignas determinadas.</a>
+    </as>
+    <x>A.</x>
+</p>

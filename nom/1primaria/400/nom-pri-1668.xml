@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Norma decide utilizar los precios de los televisores y le parece interesante plantear a sus niños del 3°
+                grado de educación primaria el siguiente problema: "Javier ha comprado un televisor que va a pagar a
+                plazos de la siguiente manera: la mitad de su importe, en el momento de llevárselo; dos terceras partes
+                del resto, al cabo de un mes; y los S/. 350 restantes, ai cabo de dos meses. ¿Cuánto ha costado el
+                televisor?</q0>
+    <g0></g0>
+    <q>Al revisar los indicadores planteados en las rutas del aprendizaje del área de matemática, Norma se da
+               cuenta de que el problema:</q>
+    <as r="R" correcta="3">
+        <a>Es pertinente para el 3° grado por el rango numérico.</a>
+        <a>No es pertinente para el 3° grado porque está descontextualizado.</a>
+        <a>Es pertinente para el 3° grado porque solo se trata de dividir una cantidad,</a>
+        <a>No es pertinente para el 3° grado porque se trata de números racionales.</a>
+    </as>
+    <x>D.</x>
+</p>

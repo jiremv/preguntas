@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la localidad de Cotahuasi, el 22 de mayo se festeja el aniversario del Área Natural Protegida,
+                celebración donde participa toda la población. Juan maestro de la Institución Educativa "María
+                Auxiliadora", ha programado con los estudiantes participar en diferentes actividades que contribuyan al
+                cuidado y protección de la biodiversidad como: pago a los Apus, faenas comunales, pago a la tierra y ai
+                agua, turismo local y convenciones sobre la contaminación de la minería informal.</q0>
+    <g0></g0>
+    <q>¿Cuál es el rol que cumple Juan al momento de ejecutar las actividades con sus estudiantes?</q>
+    <as r="R" correcta="3">
+        <a>Propicia en los estudiantes actividades de aprendizaje retadoras y de alta demanda cognitiva como
+                integrante de la comunidad.</a>
+        <a>Facilitan actividades educativas que favorecen el desarrollo personal y comunal demostrando identidad.</a>
+        <a>Propicia la evaluación permanente en el desarrollo de actividades programadas tomando decisiones en
+                función a los aprendizajes esperados.</a>
+        <a>Facilita el protagonismo del estudiante para que éste pueda jugar un papel más activo en el proceso de
+                su formación como integrante de su comunidad.</a>
+    </as>
+    <x>D.</x>
+</p>

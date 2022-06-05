@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Carmen llega al aula de inicial y encuentra que varios de sus niños están esperándola deseosos de jugar 
+    en los sectores del aula. Los niños se inquietan cada vez más al ver llegar a otros compañeritos y se resisten a
+    permanecer sentados, por tal motivo la profesora decide dejarlos jugar de manera libre confiando en la seguridad 
+    de los sectores. Al pasar 30 minutos entona una canción para que guarden los juguetes y empezar el tema del día: 
+    "Los medios de transporte". ¿Qué tipo de materiales son pertinentes para lograr el propósito de la sesión?
+</q>
+    <as r="R" correcta="1">
+        <a>Material estructurado.</a>
+        <a>Material estructurado y no estructurado.</a>
+        <a>Material no estructurado.</a>
+        <a>Juguetes.</a>
+    </as>
+    <x>B.</x>
+</p>

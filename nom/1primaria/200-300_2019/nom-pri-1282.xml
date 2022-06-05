@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de segundo grado han organizado los acontecimientos más importantes de sus vidas en una línea
+        de tiempo. Durante la presentación de Suni, una estudiante, se desarrolló el siguiente diálogo.</q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1282-p.png</g0>
+    <q>Si el docente desea aprovechar la situación para promover el diálogo intercultural, ¿cuál de las siguientes
+       intervenciones es más pertinente?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>"¡Qué interesante lo que comenta Suni! Yo soy del norte y allá a los niños les dicen 'churres'. Y a
+           mí, por ejemplo, me decían 'churrito' de niño. ¿Alguno de ustedes tiene familia en otras regiones?
+           ¿Conocen otra forma de llamar a los niños?".</a>
+        <a>"¿Acaso no han escuchado la palabra 'wawa'? Es una palabra que viene del quechua. Pueden preguntar a
+           sus familiares mayores si han escuchado esa palabra. Ahora, ¿qué les parece si le pedimos a Suni que
+           continúe con su exposición?".</a>
+        <a>"No incomoden a Suni. Cada familia tiene sus costumbres. ¿Acaso les gustaría que otros se burlen o los
+           molesten por el nombre de cariño con el que los llaman? ¿Recuerdan que una de las normas de convivencia es
+           el respeto?".</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

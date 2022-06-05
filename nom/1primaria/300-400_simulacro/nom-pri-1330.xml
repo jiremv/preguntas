@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>A un aula de segundo grado asisten dos niños que presentan discapacidad intelectual moderada. Algunos padres de
+      familia de dicha aula han manifestado su molestia a la profesora, pues consideran que ella dedica mucho tiempo a
+      estos niños, dejando de lado al resto del grupo. Por este motivo, le han pedido que dichos niños sean trasladados
+      a otra aula.</q0>
+  <g0></g0>
+  <q>Ante estos hechos, la profesora pide al director que intervenga. ¿Cuál de las siguientes acciones es más pertinente
+     que realice el director?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Reunir a los padres de los dos niños con discapacidad intelectual moderada y solicitarles que asistan a la IE de
+       manera alternada para apoyar a sus hijos; así, la profesora podrá dedicar el tiempo necesario a los demás
+       estudiantes.</a>
+    <a>Reunir a los padres de familia del aula para escucharlos, tomar nota de sus principales preocupaciones y
+       solicitar al SAANEE que brinde orientación sobre esta problemática a la brevedad posible, en el marco de las
+       funciones que le competen.</a>
+    <a>Reunir a los padres de familia del aula y sensibilizarlos sobre los derechos de las personas con necesidades
+       educativas especiales, sobre la importancia de los valores de igualdad y equidad, y precisarles que cada niño
+       tiene sus propias características y que atenderlos adecuadamente supone un beneficio para todos.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

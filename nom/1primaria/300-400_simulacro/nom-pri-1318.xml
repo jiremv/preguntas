@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1316-p1.png
+  </g0>
+  <q>Según el texto, ¿en qué consiste 'la fuerza de la escuela'?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>En apostar por el fomento de un conocimiento sólido, por un aprendizaje situado y por un pensamiento crítico.</a>
+    <a>En poner las TIC al servicio de los fines educativos, al margen de los intereses de las multinacionales
+       tecnológicas.</a>
+    <a>En poder generar espacios de tranquilidad desde los cuales los estudiantes puedan observar críticamente la
+       evolución de la sociedad.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

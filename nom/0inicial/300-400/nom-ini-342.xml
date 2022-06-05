@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En una Institución Educativa Inicial, la docente Juana quiere averiguar si el niño Napito de cinco años
+    representa situaciones que involucran cantidades y magnitudes en diversos contextos. ¿Qué técnica debe utilizar 
+    Juana para evidenciar el logro de la capacidad planteada y en qué instrumento debe registrarlo?</q>
+    <as r="R" correcta="0">
+        <a>La observación - diario de observación.</a>
+        <a>La observación - anecdotario.</a>
+        <a>El portafolio - diario de observación.</a>
+        <a>La entrevista - anecdotario.</a>
+    </as>
+    <x>A.</x>
+</p>

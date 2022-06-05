@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luis, jefe del grupo N° 3 de aula, al exponer un trabajo identifica, procesa, produce y administra información
+        matemática escrita,</q0>
+    <g0></g0>
+    <q>esto evidencia:</q>
+    <as r="R" correcta="1">
+        <a>Capacidad y autoestima.</a>
+        <a>Capacidad de comunicación escrita.</a>
+        <a>Dominio de tema.</a>
+        <a>Responsabilidad y creatividad.</a>
+    </as>
+    <x>B.</x>
+</p>

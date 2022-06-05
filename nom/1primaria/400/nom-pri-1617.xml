@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Jenny, profesora de 2° grado, se percata que el material didáctico es insuficiente, sin embargo
+                considera que debería de contar con nuevo material para desarrollar y ampliar el y experimentando en
+                situaciones reales afianzarán sus aprendizajes. Para tal efecto.</q0>
+    <g0></g0>
+    <q>¿Qué estrategias de implementación de materiales será la más adecuada?</q>
+    <as r="R" correcta="0">
+        <a>Elabora junto a los padres de familia y alumnos materiales pertinentes a las necesidades de aprendizaje.</a>
+        <a>Gestiona al Ministerio de Educación para la dotación de nuevos materiales adecuados para el aprendizaje.</a>
+        <a>Promueve a las entidades privadas a fin que le implemente con materiales educativos para las necesidades
+                de aprendizaje.</a>
+        <a>Diseña sus propios materiales didácticos a fin Incrementar los materiales requeridos en los aprendizajes.</a>
+    </as>
+    <x>A.</x>
+</p>

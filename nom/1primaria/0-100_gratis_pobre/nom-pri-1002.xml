@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Ernesto es un estudiante del cuarto grado. Sus compañeros suelen
+              pedirle favores con bastante frecuencia, como prestar sus útiles o
+              ayudarlos con las tareas. El docente ha notado que él siempre
+              accede a los pedidos de sus compañeros por evitar que se disgusten
+              con él, a pesar de sentirse incómodo, cansado y hasta aburrido de
+              esta situación.</q0>
+  <q>¿Qué habilidad requiere desarrollar Ernesto para enfrentar esta
+             situación?</q>
+  <as r="R" correcta="2">
+    <a>Empatía.</a>
+    <a>Resiliencia.</a>
+    <a>Asertividad.</a>
+    <a>Escucha activa.</a>
+  </as>
+  <x>C.</x>
+</p>

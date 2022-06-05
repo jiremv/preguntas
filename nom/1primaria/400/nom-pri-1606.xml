@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Lucrecia del 1° grado ha planificado actividades iúdicas con sus estudiantes para
+                desarrollar la noción de equivalencia y utiliza la estrategia: "Elaborar trenes de igual tamaño con el
+                uso de diferentes regletas que suman diez".</q0>
+    <g0></g0>
+    <q>La profesora desea desarrollar la siguiente habilidad matemática:</q>
+    <as r="R" correcta="2">
+        <a>Comunica situaciones que involucren cantidades diferentes.</a>
+        <a>Utiliza expresiones simbólicas en sus operaciones algorítmicas.</a>
+        <a>Matematiza situaciones de equivalencia en diversos contextos.</a>
+        <a>Representa situaciones de igualdad numérica y de operatividad.</a>
+    </as>
+    <x>C.</x>
+</p>

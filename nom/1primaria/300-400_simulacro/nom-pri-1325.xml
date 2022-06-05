@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>A inicios del último bimestre, un padre de familia solicita a la dirección de la IE el adelanto de las
+      evaluaciones de su hijo porque su familia va a cambiar de residencia al extranjero.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes acciones debe realizar el director de la IE antes de acceder a esta solicitud?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Pedir copia del pasaporte y visa de viaje del estudiante.</a>
+    <a>Comprobar en el SIAGIE que el estudiante no tenga áreas desaprobadas.</a>
+    <a>Verificar que el estudiante tenga calificaciones en los periodos anteriores.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

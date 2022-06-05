@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los alumnos del 4° grado de educación primaria, utilizando la estrategia de ensayo - error lograron resolver el
+        siguiente problema: En la bodega "Ña Panchita", un queso envuelto en bolsa de plástico y en caja de cartón,
+        cuesta S/. 21.00. el queso sin bolsa de plástico, pero con caja, cuesta S/. 20.00. Sí el queso cuesta tres veces
+        lo que cuesta la caja, ¿cuánto costará un queso envuelto en bolsa únicamente? Ai finalizar la clase, mientras
+        reflexionaban sobre el proceso seguido identificaron otra estrategia para resolver el problema con mayor
+        facilidad y en menor tiempo.</q0>
+    <g0></g0>
+    <q>¿Cuál considera usted que es esa estrategia?</q>
+    <as r="R" correcta="0">
+        <a>Hacer uso de diagramas de tiras.</a>
+        <a>Representación sagital y gráfica.</a>
+        <a>Organización de datos en cuadros.</a>
+        <a>Representación gráfica simbólica.</a>
+    </as>
+    <x>A.</x>
+</p>

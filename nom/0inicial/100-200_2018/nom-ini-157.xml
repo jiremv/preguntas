@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Los niños del aula de cinco años están desarrollando el proyecto "Conociendo cómo nacen y crecen los peces".
+       Previamente, la docente ha coordinado con los padres la realización de una visita y han acordado que los niños
+       elegirán el lugar. En este punto, los niños tienen dos propuestas: visitar el río o una piscigranja, ambas
+       cercanas a la IE. Ellos están divididos frente a ambas propuestas y no logran ponerse de acuerdo.</q>
+    <q2>En esa situación, la docente busca desarrollar en los niños habilidades para una convivencia democrática. ¿Cuál
+        de las siguientes intervenciones es más pertinente para ese propósito?</q2>
+    <as r="R" correcta="2">
+        <a>Decir: "Niños, ¿qué les parece si hacemos un sorteo para decidir a dónde iremos? Después del sorteo, todos
+           debemos aceptar la propuesta ganadora".</a>
+        <a>Decir: "Niños, como no se ponen de acuerdo, me apena decirles que yo tomaré la decisión por ustedes. Elegiré
+           el lugar que visitaremos y deberán aceptar mi decisión".</a>
+        <a>Decir: "Niños, les propongo que salgan voluntarios de cada propuesta para que nos digan por qué el lugar que
+           proponen visitar es mejor para lo que queremos aprender. Luego, votaremos".</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

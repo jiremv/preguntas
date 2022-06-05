@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un estudiante ha logrado el desempeño: "Resuelve problemas en los que requiere separar una de las partes
+                de un todo, usando soporte concreto y gráfico, y explica qué hizo para resolverlo".</q0>
+    <g0></g0>
+    <q>Según este desempeño ¿Cuál de los siguientes problemas será capaz de resolver este estudiante?</q>
+    <as r="R" correcta="0">
+        <a>./../preguntas/nom/1primaria/700/nom-pri-1680-p-a.png</a>
+        <a>./../preguntas/nom/1primaria/700/nom-pri-1680-p-b.png</a>
+    </as>
+    <x>A.</x>
+</p>

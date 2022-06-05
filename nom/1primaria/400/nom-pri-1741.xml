@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Susana, maestra del tercer grado en la I.E. "Divino Niño" de Mariano Melgar, ha planificado realizar una
+                sesión de aprendizaje, la cual tiene como propósito que sus estudiantes tengan noción de fracciones y lo
+                representen utilizando material concreto. Susana valiéndose del proyecto del enfoque ambiental programa
+                con sus estudiantes realizar la visita al huerto de la Institución Educativa para reconocer la cuarta
+                parte del terreno que la dirección del colegio les asignó.</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito de la sesión de aprendizaje?</q>
+    <as r="R" correcta="1">
+        <a>Que sus estudiantes describan la situación observada y la representen con material concreto en
+                situaciones matemáticas.</a>
+        <a>Que sus estudiantes comprendan el significado de fracciones equivalentes y las representen con material
+                concreto.</a>
+        <a>Que sus estudiantes construyan el significado de fracciones y los representen con material concreto.</a>
+        <a>Que sus estudiantes manipulen el material concreto y representen simbólicamente.</a>
+    </as>
+    <x>B.</x>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Le han encargado diseñar una sesión de aprendizaje sobre el tema: "Los recursos naturales". Conociendo
+               los procesos cognitivos y pedagógicos implicados en un aprendizaje significativo. ¿Cuál de las siguientes
+               secuencias didácticas resultaría más eficaz para elaborar dicha sesión?</q>
+    <as r="R" correcta="1">
+        <a>Evaluación de lo aprendido, reflexión, recojo de saberes previos, generación del conflicto cognitivo,
+                procesos de comprensión del tema, actividades para reforzar.</a>
+        <a>Recojo de saberes previos, generación del conflicto cognitivo, procesos de inducción y deducción,
+                evaluación de lo aprendido, reflexión y actividades de refuerzo.</a>
+        <a>Generación del conflicto cognitivo, procesos de Inducción y deducción para comprender el tema,
+                evaluación, actividades de refuerzo y reflexión.</a>
+        <a>Recojo de saberes previos, generación del conflicto cognitivo, evaluación del aprendizaje, procesos de
+                Inducción y deducción, actividades para reforzar y reflexión.</a>
+    </as>
+    <x>B.</x>
+</p>

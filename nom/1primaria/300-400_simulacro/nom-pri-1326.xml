@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>En una IE con veinticinco secciones, cuando falta un día para el inicio de las clases, una profesora solicita
+      licencia de 20 días por motivos de salud. La directora inmediatamente informa a la UGEL de la solicitud de la
+      profesora y envía los documentos correspondientes.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes acciones debe realizar luego la directora de modo que los niños no pierdan clases?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Cubrir con personal de la IE la carga horaria de la profesora que solicitó la licencia.</a>
+    <a>Conseguir un(a) profesor(a) para cubrir la licencia y realizar la propuesta a la UGEL para su contrato.</a>
+    <a>Otorgar la licencia a la profesora solicitante solo cuando esta haya conseguido un(a) profesor(a) para su
+       reemplazo.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1311-p.png</g0>
+  <q>¿Por qué se dice, al final del texto, que 'La provincia suspiró'?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Porque los yanahuanquinos sentían satisfacción de haber sido capaces de salvaguardar la moneda del doctor
+       Montenegro durante tanto tiempo.</a>
+    <a>Porque los yanahuanquinos sentían alivio de que el doctor Montenegro ya no fuera a tomar represalias contra
+       alguno de ellos.</a>
+    <a>Porque los yanahuanquinos sentían pena de haber perdido la moneda que había sido una fuente de alegría para toda
+       la provincia. a</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

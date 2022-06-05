@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Lea las siguientes situaciones:
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1169-p.png
+	</g0>
+	<q>A partir de lo descrito en cada situación, ¿cuál de ellas constituye un dilema moral?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>La situación I.</a>
+		<a>La situación II.</a>
+		<a>La situación III.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

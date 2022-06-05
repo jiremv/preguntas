@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La docente presenta una lámina referente a la cosecha, los niños empiezan a observar y realizan suposiciones,
+    entre ellos intercambian opiniones 
+    sobre la lámina, la docente aclara las suposiciones de los niños. ¿Qué secuencia didáctica se observa en la actividad?
+</q>
+    <as r="R" correcta="1">
+        <a>Iniciación a la comprensión lectora.</a>
+        <a>Iniciación a la lectura.</a>
+        <a>Iniciación a la Escritura.</a>
+        <a>Iniciación a la lecto-escritura.</a>
+    </as>
+    <x>B.</x>
+</p>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Susan, una niña de 5 años, es muy participativa. Cada vez que la maestra lee, ella formula sus hipótesis,
+    hace preguntas, aclara dudas sobre lo leído, repite el texto con sus propias palabras, dibuja, dramatiza, etc. 
+    ¿Qué proceso didáctico se refleja en los dominios de la niña?
+</q>
+    <as r="R" correcta="2">
+        <a>Planificación, textualización y revisión de un texto.</a>
+        <a>Experiencia, reflexión e interrogación de textos.</a>
+        <a>Actividades antes, durante y después de la lectura.</a>
+        <a>Planificación, ejecución y evaluación de la lectura.</a>
+    </as>
+    <x>C.</x>
+</p>

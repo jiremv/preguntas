@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Rosita, docente de una Institución Educativa Inicial Polidocente Completo, a través de los talleres de
+    Rutas del Aprendizaje, recibió orientaciones sobre los proyectos de aprendizaje, pese a no tener claro sobre esta
+    unidad didáctica consideró que debe trabajar con esta alternativa de planificación.
+Frente a esta realidad, ¿cuál es la estrategia más pertinente?</q>
+    <as r="R" correcta="3">
+        <a>Solicitar apoyo a otros docentes, para que le faciliten un modelo de proyecto para planificar en base a ello.</a>
+        <a>Realizar jornadas de autoformación para clarificar sus ideas y planificar proyectos de aprendizaje de manera conjunta
+con las tres edades.</a>
+        <a>Planificar un proyecto en base a las unidades de aprendizaje de los años anteriores.</a>
+        <a>Buscar Información y plantear proyectos de aprendizaje a sus niños y niñas en base a sus Intereses, necesidades, 
+situaciones o hechos de su contexto.</a>
+    </as>
+    <x>D.</x>
+</p>

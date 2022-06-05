@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El Director de la I.E. "Eduardo López de Romaña", haciendo uso del propósito comunicativo, improvisa un
+                pequeño discurso en el que indica que los últimos estudios refieren que los cambios climáticos de todas
+                maneras van a suceder, sin importar lo que haga o deje de hacer la mano del hombre. Por ello, no se
+                puede culpar a los seres humanos porque no sería su responsabilidad.</q0>
+    <q>¿Cuál es la estrategia más pertinente para que los estudiantes se expresen oralmente?</q>
+    <as r="R" correcta="1">
+        <a>Que los estudiantes realicen comentarios espontáneos a cerca del discurso escuchado.</a>
+        <a>Que los estudiantes demuestren interés al realizar sus comentarios.</a>
+        <a>Que los estudiantes escuchen el mensaje y soliciten la aclaración respectiva para poder opinar.</a>
+        <a>Que los estudiantes expresen su opinión sistemáticamente acerca del discurso escuchado.</a>
+    </as>
+    <x>B.</x>
+</p>

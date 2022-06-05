@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Milagros es una niña de segundo grado de primaria. Al resolver problemas frecuentemente falla en la
+               elaboración de un plan, además emplea mucho tiempo en cada problema.</q>
+    <enunciado2>Ante la dificultad descrita, ¿cuál es la estrategia didáctica adecuada que la maestra debe aplicar para
+                ayudar a Milagros?</enunciado2>
+    <as r="R" correcta="1">
+        <a>Leer atentamente el problema y expresar con sus propias palabras, Identificando los datos y la p.</a>
+        <a>Realizar simulaciones representando el problema de forma vivencial y con material concreto.</a>
+        <a>Ejecutar la estrategia elegida, y comprobar cada uno de los procedimientos utilizados.</a>
+        <a>Generar un ambiente de confianza y organizar la información en forma conjunta identificando los
+                elementos del problema.</a>
+    </as>
+    <x>B.</x>
+</p>

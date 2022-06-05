@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Martha es profesora de primaria que está aplicando las Rutas del Aprendizaje de matemática, por eso
+                llevó a sus estudiantes al mercado a realizar compras para elaborar una ensalada de frutas en el aula.</q0>
+    <q>¿Qué capacidad está utilizando?</q>
+    <as r="R" correcta="3">
+        <a>La capacidad de matematizar empleando la matemática en situaciones del mundo real en términos
+                matemáticos.</a>
+        <a>La capacidad de representar simbólicamente donde los símbolos matemáticos ayudan a la formalización.</a>
+        <a>La capacidad de elaborar estrategias utilizando las matemáticas para resolver problemas de la vida
+                cotidiana.</a>
+        <a>La capacidad de representar desarrollando habilidades como seleccionar, interpretar, traducir y emplear
+                esquemas variados.</a>
+    </as>
+    <x>D.</x>
+</p>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente tiene como propósito que los estudiantes de sexto grado comprendan las relaciones entre el área y
+        el perímetro de figuras planas. Para ello, propone la siguiente actividad.</q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1276-p1.png</g0>
+    <q></q>
+    <g>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1276-p2.png</g>
+    <q2></q2>
+    <g2>El docente busca ayudar a Marco a reflexionar sobre el error que presenta su propuesta de organización de las
+       mesas. ¿Cuál de las siguientes acciones pedagógicas es pertinente para brindar una adecuada retroalimentación
+       a Marco?</g2>
+    <as r="R" correcta="0">
+        <a>Solicitarle que cuente los sitios disponibles en su representación de la organización de las mesas. Luego,
+           preguntarle: "¿Es posible que se puedan sentar 26 personas? ¿Por qué? Al cambiar la disposición de las
+           mesas, ¿se modificó la medida de la superficie ocupada o del contorno?". Después, pedirle que indique
+           cuál de estas medidas corresponde al área y cuál al perímetro, y que responda si siempre se cumple que a
+           igual área habrá igual perímetro.</a>
+        <a>Solicitarle que cuente la cantidad de mesas y de sitios disponibles en la organización que ha representado.
+           Luego, comentarle que no siempre que se mantiene la cantidad de mesas se mantienen los sitios disponibles.
+           Después, preguntarle: "Si movemos 1 de las 2 mesas que están juntas en la fila inferior para que haya 8
+           en la fila del medio, ¿cuántos sitios habrá disponibles ahora? ¿Era correcta tu organización?".</a>
+        <a>Solicitarle que, a partir de su representación de la organización de las mesas, indique cuál es el área y
+           cuál el perímetro de esta figura. Luego, preguntarle: "¿El área estará representada por los 12
+           cuadrados? Y ¿el perímetro por las 26 unidades o sitios disponibles?, ¿estás seguro?". Después,
+           pedirle que piense en otra estrategia para resolver el problema y proponga una nueva organización.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

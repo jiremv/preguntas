@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Es cumpleaños de Juanita y no vino a clases. Esta situación es aprovechada por la docente y decide junto
+    con los niños escribirle una carta, después de la primera apropiación del texto, la docente josefina escribe en un 
+    papelote la carta mediante lluvia de ideas para que luego puedan "leerla" conversa sobre el contenido de la carta.
+    El q nos indica que:
+</q>
+    <as r="R" correcta="3">
+        <a>Josefina cumple con la secuencia didáctica llegando a acuerdos.</a>
+        <a>Josefina cumple con la secuencia didáctica descubriendo el significado.</a>
+        <a>Josefina cumple con la secuencia didáctica de aproximación del texto.</a>
+        <a>Josefina no cumple con la secuencia didáctica.</a>
+    </as>
+    <x>D.</x>
+</p>

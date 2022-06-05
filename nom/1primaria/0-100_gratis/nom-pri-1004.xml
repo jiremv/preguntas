@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Las docentes de primer grado están planificando actividades para la primera parte del año.
+Estas actividades tienen como propósito conocer las conceptualizaciones de los estudiantes
+sobre el sistema de escritura.
+	</q0>
+	<g0>
+	</g0>
+	<q>¿Qué docente propone la actividad más adecuada para lograr dicho propósito?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>María: “Sugiero que mostremos la letra de una canción conocida por ellos desde el
+nivel inicial para cantarla juntos. Luego, hay que entregar a cada estudiante la letra de
+la canción sin algunas vocales en algunas palabras para que descubran qué vocales se
+necesitan en ellas”.</a>
+		<a>Patricia: “Peguemos en la pizarra un papelógrafo dividido en dos columnas. En la
+columna de la izquierda, mostremos los dibujos de varios objetos; en la derecha, las
+letras iniciales de los nombres de ellos. Luego, pidamos que unan cada dibujo con la letra
+correspondiente”.</a>
+		<a>Luzmila: “Podemos pedir a cada estudiante que describa, de forma oral, a uno de
+sus animales favoritos. Luego, les indicamos que lo dibujen en una hoja. Sobre esta
+base, pedimos que, además, escriban cómo creen que se escribe el nombre de dicho
+animal”.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

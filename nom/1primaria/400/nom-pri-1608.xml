@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los niños y niñas del 5° grado realizan una visita de estudios al centro ceremonial arqueológico de
+                Caral.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes estrategias permite desarrollar la capacidad tempero espacial?</q>
+    <as r="R" correcta="1">
+        <a>Planteamiento de dilemas temporales.</a>
+        <a>Elaboración de una línea de tiempo.</a>
+        <a>Resolución de una prueba objetiva.</a>
+        <a>Desarrollo de un grupo focal.</a>
+    </as>
+    <x>B.</x>
+</p>

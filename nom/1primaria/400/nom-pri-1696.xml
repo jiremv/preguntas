@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente Manuela se ha propuesto fortalecer la capacidad: "Asume una posición sobre un asunto público
+                y la sustenta de forma razonada (con base en información de ese asunto)"</q0>
+    <g0></g0>
+    <q>¿Cuál es la situación que le facilitará desarrollar mejor esta capacidad en sus alumnos?</q>
+    <as r="R" correcta="0">
+        <a>La acumulación de basura en las calles de la ciudad.</a>
+        <a>La elección del Municipio Escolar.</a>
+        <a>La participación en los Juegos Deportivos Escolares.</a>
+        <a>La participación en el desfile cívico por el aniversario de la ciudad.</a>
+    </as>
+    <x>A.</x>
+</p>

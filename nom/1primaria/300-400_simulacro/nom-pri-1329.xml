@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Al comienzo del año escolar, una profesora de segundo grado comunica a la directora de la IE la situación de Luis,
+      un nuevo estudiante que presenta discapacidad auditiva. Ã‰l solo puede percibir sonidos muy fuertes, y esto le
+      quita confianza al intentar relacionarse con sus nuevos compañeros. La profesora pide consejo a la directora sobre
+      cómo ayudar mejor a Luis a integrarse al grupo.</q0>
+  <g0></g0>
+  <q>¿Qué estrategia debe proponer la directora a los profesores para que estos propicien la inclusión de Luis?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Desarrollar las sesiones con actividades de baja demanda cognitiva para que Luis no sienta que se encuentra en
+       desventaja frente al resto de sus compañeros y, así, pueda comunicarse con ellos.</a>
+    <a>Atender de manera individual a Luis, durante las horas de recreo o luego del horario de clase, con la finalidad
+       de proveerle el apoyo que requiere para desarrollar las capacidades y los contenidos de aprendizaje.</a>
+    <a>Promover que los estudiantes de la clase compartan sus experiencias de manera libre y espontánea a través de
+       dibujos, arcilla o juegos de roles, de modo que Luis logre expresarse e interactuar con sus compañeros en el
+       proceso de aprendizaje.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

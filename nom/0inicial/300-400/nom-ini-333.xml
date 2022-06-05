@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora del aula "Los Triunfadores", desarrolló el proyecto "Las plantas de mi comunidad", observando que sus niños 
+    habían seguido una secuencia con piedritas pintadas, para poder cercar las plantas del biohuerto,
+    ¿Qué logro se evidencia?</q>
+    <as r="R" correcta="2">
+        <a>Los niños ordenan en serie una colección de objetos.</a>
+        <a>Los niños ordenan una colección de objetos sin patrones de repetición.</a>
+        <a>Los niños construyen secuencias con patrones de repetición.</a>
+        <a>Los niños muestran interés por el cuidado de las plantas.</a>
+    </as>
+    <x>C.</x>
+</p>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Una docente plantea la siguiente secuencia a los estudiantes.
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1179-p.png
+	</g0>
+	<q>¿Cuál de los siguientes grupos de preguntas es pertinente para favorecer que los estudiantes
+encuentren la figura que continúa en la secuencia?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>¿En cuál de las figuras mostradas hay mayor cantidad de círculos? y ¿en cuál hay
+menor cantidad de círculos? ¿Cuál de las figuras está formada por 5 círculos? y ¿cuál
+está formada por 6 círculos? ¿Cuántos círculos hay en total si se juntan la figura 1 y la
+figura 2?, ¿cuántos círculos hay en total si se juntan la figura 3 y la figura 4?, ¿y cuántos
+círculos habrá en la figura 5?</a>
+		<a>¿De qué forma varía la figura 2 con respecto a la figura 1? ¿La figura 3 con respecto a la
+figura 2? y ¿la figura 4 con respecto a la figura 3? ¿Qué parte de las figuras se mantiene
+igual? ¿Qué parte de estas cambia? ¿Qué forma tendrá la figura 5? ¿Cuántos círculos
+habrá en la figura 5?</a>
+		<a>¿Qué tipo de figura se ha utilizado para formar la secuencia? ¿Cuántas figuras se observan
+en la secuencia? ¿Cuántos círculos forman la figura 1?, ¿cuántos círculos forman la
+figura 2?, ¿cuántos forman la figura 3? y ¿cuántos forman la figura 4? ¿Cuántos círculos
+habrá en la figura 5?</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

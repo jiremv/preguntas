@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de la I.E. "Inmaculada concepción" han participado en el campeonato deportivo escolar
+                que se realizó en el Instituto Peruano del Deporte, los estudiantes de primer grado quieren comprender
+                la tabla de posiciones de los equipos participantes. El docente explica a sus estudiantes que: un
+                partido de fútbol ganado vale 3 puntos, un partido empatado vale 1 punto y un partido perdido vale 0. Si
+                el equipo de Inmaculada ha ganado algunos partidos.</q0>
+    <q>¿Cuál de estas acciones ayudan a desarrollar la capacidad de "matematiza"?</q>
+    <as r="R" correcta="0">
+        <a>Elaboran un cuadro de doble entrada para poder completar las cantidades, utiliza chapitas y piedritas
+                para completar el cuadro.</a>
+        <a>Representa la cantidad de puntos que obtuvo la I.E. Inmaculada con chapitas y compara entre ellos.</a>
+        <a>Elaboran un gráfico de barras simbolizando los logros que obtuvieron cada uno de los equipos.</a>
+        <a>Realiza operaciones matemáticas que le permita realizar algoritmos sencillos de acuerdo al grado y edad
+                del estudiante.</a>
+    </as>
+    <x>A.</x>
+</p>

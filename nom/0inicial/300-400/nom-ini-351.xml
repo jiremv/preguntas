@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Susana trabaja en una cuna donde atiende a un grupo de niños de 6 a 9 meses. Un día, previa
+                planificación, coloca a uno de los niños echado boca arriba; a ambos lados, cerca de sus manos y dentro
+                de su campo visual, coloca un pañuelo de colores, un muñeco de peluche pequeño, fácil de coger, y una
+                canastita de paja suave y liviana. La docente le dice muy dulcemente: "Aquí tienes unos objetos que te
+                gustan, te doy este pañuelo que es tu preferido, este muñeco de peluche y esta canastita; vamos a jugar
+                con ellos para descubrir que son diferentes" y entregó cada objeto al niño, dejando que los manipule
+                mientras ella los describe.</q0>
+    <g0></g0>
+    <q>Durante el desarrollo de esta actividad. ¿Qué capacidades ha logrado fortalecer Susana?</q>
+    <as r="R" correcta="1">
+        <a>Desarrolla nociones lógico-matemáticas tales como adentro, afuera, arriba, abajo, agrupar, dispersar,
+                etc.</a>
+        <a>Responde a la voz del adulto mediante movimientos corporales, manipulativos y expresión gestual,
+                manifiesta preferencia por algunos objetos cercanos.</a>
+        <a>Expresa sus necesidades y solicita apoyo cuando lo necesita, se relaciona con los adultos a través de
+                movimientos corporales y gestuales.</a>
+        <a>Ejercita su sentido de orientación, explora materiales de su entorno.</a>
+    </as>
+    <x>B.</x>
+</p>

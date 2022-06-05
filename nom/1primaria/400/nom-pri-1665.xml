@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Graciela, profesora del 5° grado, ha recibido la queja de algunos alumnos del aula, porque a Pedro, el
+                niño más inquieto, le gusta colocar apodos a sus compañeros según las características de sus apariencias
+                físicas, durante las clases les envía notas Insultándolos pese a que ellos ya hablaron con él. La
+                docente conversa con Pedro sobre el hecho, sin embargo él comenta que sus compañeros también lo insultan
+                y que sólo lo hace para defenderse.</q0>
+    <g0></g0>
+    <q>Ante esta situación, ¿cuál es la estrategia más adecuada que Graciela debe de optar?</q>
+    <as r="R" correcta="0">
+        <a>La profesora debe diseñar actividades de aprendizaje en las que se desarrolle el respeto y el buen trato
+                entre compañeros.</a>
+        <a>La docente debe llamar la atención a Pedro y a los demás compañeros para Inculcar el respeto y el buen
+                trato entre compañeros.</a>
+        <a>La docente hace reflexionar a Pedro y sus compañeros para desarrollar en ellos el respeto y el buen
+                trato.</a>
+        <a>La docente informa a ia Dirección y ilama a los padres de Pedro para informar el mal comportamiento
+                entre sus compañeros.</a>
+    </as>
+    <x>A.</x>
+</p>

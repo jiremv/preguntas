@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En la hora del juego libre, la docente indica a los niños y niñas, lo que deben realizar. Para ello, en 
+    orden de lista, los conduce a los sectores del aula, aprovechando este momento para enseñar algunas capacidades.
+¿Qué evidencia este hecho?
+</q>
+    <as r="R" correcta="3">
+        <a>Que la docente se interesa en que los niños aprendan las capacidades programadas en su unidad de aprendizaje.</a>
+        <a>Que la docente tiene en cuenta la secuencia metodológica de la hora del juego libre en los sectores.</a>
+        <a>Que la docente respeta la secuencia metodológica en la hora del juego libre en los sectores.</a>
+        <a>Que la docente desconoce su rol durante la hora del juego libre.</a>
+    </as>
+    <x>D.</x>
+</p>

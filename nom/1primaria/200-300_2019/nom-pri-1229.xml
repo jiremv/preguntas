@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente se ha hecho cargo de un nuevo grado y durante los primeros dias de trabajo ha detectado que
+        manifestaciones de racismo, agresividad e intolerancia. Por ello, está preocupado por determinar actividades y/o
+        estrategias que le permitan mejorar las relaciones de un modo democrático y formativo.</q0>
+    <q>¿Cuáles son las estrategias más pertinentes que podríamos sugerirle a nuestro colega?</q>
+    <as r="R" correcta="0">
+        <a>Planificar actividades que implique recreación, trabajos en equipo y debates.</a>
+        <a>Fijar normas de convivencia con castigos claros para quienes las incumplan.</a>
+        <a>Separar, en actividades distintas, a los alumnos que generan los conflictos.</a>
+        <a>Hacerles firmar cartas de compromiso en presencia de sus padres.</a>
+    </as>
+    <x>A.</x>
+</p>

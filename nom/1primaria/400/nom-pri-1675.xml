@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La maestra Julia de la I.E de Atoccasa de Churcampa, desarrolla una sesión de aprendizaje de matemática:
+                "Resolvemos situaciones problemáticas que implica el uso de fracciones". María, obtiene la respuesta
+                correcta utilizando el procedimiento adecuado, mientras que Juan y Darío tienen problemas para resolver;
+                al darse cuenta de esto el profesor le pide a María que explique en la pizarra el procedimiento
+                utilizado para hallar la respuesta. Después de varios intentos Juan fue capaz de resolverlo con la ayuda
+                de María. Darío nunca logró resolver el problema y se mostraba triste y aburrido en la clase.</q0>
+    <g0></g0>
+    <q>Ante esta situación, el instrumento de evaluación de Julia debe contener:</q>
+    <as r="R" correcta="1">
+        <a>Los calificativos correspondientes a cada uno de los niños con AD, A y C.</a>
+        <a>Descripción del desempeño de los niños(as) sobre los niveles de logro.</a>
+        <a>Clasificación de los estudiantes en aprobados y desaprobados.</a>
+        <a>Descripción de las potencialidades de María y Juan para realizar clases más avanzadas.</a>
+    </as>
+    <x>B.</x>
+</p>

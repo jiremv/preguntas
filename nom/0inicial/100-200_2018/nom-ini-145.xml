@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Una carretera pasa por las ciudades P, Q, R y S, pero no necesariamente en ese orden. Su recorrido es de sur a
+       norte y viceversa. Si se sabe que la ciudad S está al norte de Q y R, la ciudad Q está al sur de P y la ciudad S
+       está entre P y R, ¿cuál de estas ciudades está más al norte?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>P</a>
+        <a>Q</a>
+        <a>R</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

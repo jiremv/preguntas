@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el día del logro estuvieron presentes estudiantes, profesores, autoridades, padres y madres de
+                familia de varias instituciones educativas. Los niños y niñas presentaron sus trabajos: maquetas,
+                láminas, tejidos a palillos, juegos hechos con materiales de la zona, materiales de aprendizaje,
+                tienditas escolares, etc. Expusieron ante una comisión respectiva y respondieron las preguntas del
+                público.</q0>
+    <g0></g0>
+    <q>¿Cuál de las actividades realizadas favorecen mejor el desarrollo de ia expresión oral"?</q>
+    <as r="R" correcta="1">
+        <a>Confección y presentación pública de los trabajos.</a>
+        <a>Exponer y dialogar sobre la experiencia de producción de sus trabajos.</a>
+        <a>Asistir a este evento y hacer la presentación respectiva.</a>
+        <a>Debatir e Intercambiar opiniones sobre los materiales didácticos.</a>
+    </as>
+    <x>B.</x>
+</p>

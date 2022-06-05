@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Los niños han manifestado sus necesidades e intereses y la profesora tiene claras las atenciones que debe 
+    brindarles a través de unidades didácticas. Al mismo tiempo urge la necesidad de que los niños desarrollen sus
+    habilidades investigativas y de exploración. Por ello, decide atender primero las necesidades de sus niños para pasar 
+    después a plantear otro tipo de unidad didáctica.
+Señale cuál es la secuencia didáctica que corresponde al tipo de unidad que la maestra ha priorizado.
+</q>
+    <as r="R" correcta="0">
+        <a>Determinar los aprendizajes, plantear interrogantes, seleccionar competencias y capacidades y precisión
+        de desempeños,
+planificar y negociar con los niños, determinación de actividades con los niños.</a>
+        <a>Seleccionar competencias, capacidades e indicadores, analizar un problema comunal con los niños, programar
+        actividades,
+elaborar el listado de hipótesis, averiguar del problema, hacer un listado de conclusiones y dar alternativas de solución 
+con los niños.</a>
+        <a>Seleccionar logros de aprendizaje, capacidades e indicadores, analizar el contenido, las estrategias el
+        cronograma, 
+dar nombre a la actividad sin la participación de los niños y ejecutar con ellos las actividades.</a>
+        <a>Seleccionar competencias e indicadores en función de talentos y potencialidades de los niños, indicar el
+        propósito y
+los beneficios, determinar estrategias, metodología y pasos a seguir con los niños.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Keyla, docente del 4to grado, ha planificado trabajar la producción de textos instructivos a partir del
+                proyecto "Feria gastronómica", dentro de las actividades planificadas por fiestas patrias. Estos textos
+                serán publicados en este evento.</q0>
+    <g0></g0>
+    <q>Considerando el trabajo a realizar, la docente debe aplicar las siguientes estrategias:</q>
+    <as r="R" correcta="3">
+        <a>Búsqueda de los textos a escribir, ejecución del plan de escritura, revisión de los trabajos, edición y
+                evaluación.</a>
+        <a>Redacción de los textos, revisión de los trabajos y publicación de los textos escritos por los
+                estudiantes en la feria.</a>
+        <a>Redacción de ios trabajos, corrección de los errores cometidos por los estudiantes, la evaluación y
+                publicación de los textos en la feria.</a>
+        <a>Planificación de las actividades, textualización, revisión de los trabajos, edición y publicación de ios
+                textos en la feria.</a>
+    </as>
+    <x>D.</x>
+</p>

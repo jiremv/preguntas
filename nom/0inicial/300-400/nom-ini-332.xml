@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Víctor es un niño PIETBAF. Él tiene un año y medio de edad y cuando llega la hora de su baño diario, 
+    la mamá y la promotora preparan lo necesario para su aseo. Antes de sumergirle en la tina, le anticipan para el baño. 
+    El niño se siente feliz para estar en el agua.
+¿Qué genera el baño placentero en el niño?
+</q>
+    <as r="R" correcta="0">
+        <a>Confianza en si mismo.</a>
+        <a>Placer por descubrir.</a>
+        <a>Sensaciones de temor.</a>
+        <a>Dependencia y sobreprotección.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Rosa, profesora del 2° grado de primaria, plantea a sus estudiantes la siguiente situación problemática:
+                se tiene 18 manzanas y se desea empaquetarlas, ¿de cuántas maneras podemos agruparlas? Ha planteado a
+                los niños que trabajen de forma grupal y que busquen todas las combinaciones posibles haciendo uso de
+                las regletas de Cousenaire para formar el número 18, luego dibujan los resultados en un papelote y lo
+                exponen ante sus demás compañeros.</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito de la actividad de aprendizaje?</q>
+    <as r="R" correcta="2">
+        <a>Los estudiantes comprenden el problema, buscan soluciones posibles y aplican sus estrategias de solución.</a>
+        <a>Los estudiantes buscan la solución del problema, aplican sus estrategias y explican la solución.</a>
+        <a>Los estudiantes comprenden el problema, plantean estrategias de solución, las aplican y argumentan sus
+                respuestas.</a>
+        <a>Los estudiantes comprenden el problema, aplican sus conocimientos para solucionar el problema y explican
+                la solución.</a>
+    </as>
+    <x>C.</x>
+</p>

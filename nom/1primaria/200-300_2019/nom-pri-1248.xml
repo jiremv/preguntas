@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Fue un día normal de clases. Al sonar el timbre de salida (12:30 p.m.), la profesora, sin manifestar palabra
+        alguna, se dirigió rápidamente a la puerta y la cerró con llave impidiendo la salida de los alumnos durante un
+        lapso de diez minutos. Ella quería observar las diversas reacciones emocionales de sus estudiantes ante una
+        situación inusual. Algunos de ellos comenzaron a manifestar acciones de violencia y protesta; otros estaban
+        incómodos, pero aún así mantenían la calma.</q0>
+    <g0></g0>
+    <q>¿A cuál de las siguientes estrategias corresponde la situación planteada?</q>
+    <as r="R" correcta="2">
+        <a>Vlvenciar dinámicas para desarrollar el sentido de seguridad y protección personal.</a>
+        <a>Reforzar periódicamente los procesos de comunicación y relaciones personales.</a>
+        <a>Propiciar actividades que desarrollen el autocontrol y dominio de sus emociones.</a>
+        <a>Reafirmar a través de juegos en el aula el sentido de seguridad y autoestima.</a>
+    </as>
+    <x>C.</x>
+</p>

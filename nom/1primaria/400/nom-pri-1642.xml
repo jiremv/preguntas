@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los especialistas de la UGEL 09 de Huaura, realizan la visita a una Institución Educativa pública de la
+                zona urbana y observan que le profesor Segundo, tiene sus unidades y sesiones al día, pero que en los
+                documentos no se evidencia el uso de textos escolares entregados por el MINEDU, pues él manifiesta que
+                son poco provechosos y no son didácticos.</q0>
+    <g0></g0>
+    <q>Segundo, desconoce que:</q>
+    <as r="R" correcta="0">
+        <a>Los textos del MINEDU están orientados al desarrollo de capacidades y presenta secuencias didácticas.</a>
+        <a>Los textos del MINEDU son materiales complementarios para promover mayor conocimiento.</a>
+        <a>Los textos del MINEDU promueven el aprendizaje colaborativo en la sociedad globalizada.</a>
+        <a>Los textos del MINEDU están orientados a las adquisiciones de conocimientos y logro de aprendizajes.</a>
+    </as>
+    <x>A.</x>
+</p>

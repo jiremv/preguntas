@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente María, a cargo del quinto grado de primaria, tiene como objetivo que sus estudiantes
+                desarrollen la capacidad de redactar un oficio. Para ello, elabora el proyecto de aprendizaje
+                "Implementemos nuestra biblioteca de aula" y propone a sus estudiantes gestionar ante las autoridades e
+                instituciones de la región la donación de algunas enciclopedias, revistas, libros y otros.</q0>
+    <q>Ante la situación descrita, ¿cuál de las actividades deberá trabajar la docente para la planificación del
+               texto que producirán sus estudiantes?</q>
+    <as r="R" correcta="0">
+        <a>Elaborar un plan de escritura, para que los estudiantes organicen sus ideas al escribir el oficio.</a>
+        <a>Redactar un oficio siguiendo una secuencia lógica y temporal según su estructura y a quién va dirigido.</a>
+        <a>Revisar los oficios, empleando los recursos ortográficos adecuados para separar expresiones, párrafos y
+                para dar claridad a sus escritos.</a>
+        <a>Usar en el oficio un vocabulario adecuado al destinatario, tipo de texto y propósito.</a>
+    </as>
+    <x>A.</x>
+</p>

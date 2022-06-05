@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los alumnos del 3° grado de educación primaria, cada vez que ayudan en el salón, siempre piden algún
+                regalo como recompensa. Sin embargo, la semana pasada, cuando Jorge llegó quince minutos tarde y Ana se
+                pasó dos minutos de la hora de entrada, pidieron que Jorge reciba mayor sanción por llegar más tarde,
+                sin importarles sus razones. El profesor analiza los casos y concluye que sus niños están aplicando el
+                concepto de justicia y de sanción impropios de su edad.</q0>
+    <g0></g0>
+    <q>¿Qué acción debería priorizarse para que los niños avancen en la aplicación de los conceptos de justicia
+               y equidad?</q>
+    <as r="R" correcta="0">
+        <a>Representación de roles.</a>
+        <a>Consejería periódica.</a>
+        <a>Dilemas morales.</a>
+        <a>Observación de vídeos.</a>
+    </as>
+    <x>A.</x>
+</p>

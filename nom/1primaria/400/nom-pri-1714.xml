@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>El profesor Víctor, al ingresar al aula de clase, observa que sus estudiantes están muy interesados en
+               dar explicación de por qué se produjo un temblor y buscar formas de prevenir los incendios que
+               ocasionaron pérdidas de vida en su comunidad. Frente a esta situación, el docente planifica trabajar el
+               organizador comprensión de la diversidad geográfica y de los procesos históricos Ante la situación
+               descrita, ¿cuál de las capacidades es pertinente para ser trabajada con los estudiantes?</q>
+    <as r="R" correcta="0">
+        <a>Indaga sobre las causas y los efectos de los desastres de origen natural y de origen tecnológico en su
+                región.</a>
+        <a>Reconoce la importancia del Sistema Nacional de Defensa Civil para enfrentar situaciones de riesgo.</a>
+        <a>Aplica medidas de seguridad ante situaciones de riesgo.</a>
+        <a>Participa con responsabilidad en la organización y evaluación de simulacros de sismo en la escuela.</a>
+    </as>
+    <x>A.</x>
+</p>

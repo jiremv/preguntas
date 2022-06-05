@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lucas está de vacaciones en Europa. De los 100 dólares que tiene, gasta 30 dólares en una tienda y el
+        equivalente a 40 euros en otra.</q0>
+    <g0></g0>
+    <q>Sabiendo que un dólar equivale a 3,25 soles y un euro equivale a 3,80 soles, ¿a cuántos soles equivale el monto
+       que le sobra?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>75,50 soles.</a>
+        <a>97,50 soles.</a>
+        <a>114,00 soles.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

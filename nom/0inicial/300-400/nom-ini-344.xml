@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Josefa, docente de una I.E.I, ha considerado en su proyecto de aprendizaje denominado: 
+    "Elaboremos un álbum de los animales de mi comunidad" la siguiente actividad de aprendizaje: 
+    "Fiesta de los animales de mi comunidad" con el propósito que los niños agrupen a los animales de acuerdo a sus 
+    características: el lugar donde viven, de qué se alimentan y la cubierta de su cuerpo. Josefa utiliza los materiales
+    dotados por el MED como: máscaras de animales, kit de animales domésticos, de animales de la granja, de animales de 
+    la selva y materiales de la comunidad.
+¿Qué opinión tienes de Josefa, frente a la selección de materiales en la situación planteada?
+</q>
+    <as r="R" correcta="1">
+        <a>Logró que los niños adquieran la noción de número, jugando a contar con los animalitos de la granja.</a>
+        <a>Seleccionó adecuadamente los materiales en actividades lúdicas y contextualizadas, para lograr su propósito.</a>
+        <a>Usó los materiales de manera pertinente que ayudó a resolver situaciones del contexto real.</a>
+        <a>Logró patrones de igualdad, relaciones y funciones, utilizando materiales pertinentes. </a>
+    </as>
+    <x>B.</x>
+</p>

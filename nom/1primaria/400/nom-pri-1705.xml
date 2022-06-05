@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+<q>José es un docente del 2° grado de educación primaria, está trabajando producción de textos narrativos, en la
+etapa de textualización observa que los trabajos de los estudiantes tienen muchos errores ortográficos. ¿Qué debe hacer 
+el docente de aula frente a esta situación?
+</q>
+<as r="R" correcta="1">
+<a>Interrumpir la etapa de textualización y corregir las observaciones de manera grupal. 
+</a><a>Terminar la etapa de textualización y proponer estrategias para la revisión y corrección grupal de las producciones. 
+</a><a>Regresar a la etapa de planificación y proponer el uso del diccionario. 
+</a><a>Concluir la etapa de textualizaclón y publicar las producciones.</a>
+</as>
+<x>B.</x>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1306-p.png</g0>
+  <q>¿Cuál de los siguientes pasajes del texto muestra que la autora está a favor de la alfabetización mediática?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>'Es necesario empoderar a los ciudadanos y facilitarles la adquisición de las competencias necesarias para
+       comprender y evaluar la información [...]'.</a>
+    <a>'[...] la Iniciativa de Polarización Digital [...] hace participar a estudiantes universitarios en el análisis de
+       la veracidad de noticias de Twitter o Facebook'.</a>
+    <a>'Una de las principales características de las redes sociales es que ajustan los contenidos que muestran según
+       las búsquedas previas de los usuarios'.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

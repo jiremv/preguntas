@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Una docente, con el propósito de que sus estudiantes de segundo grado inicien su proceso
+de comprensión del sistema de numeración decimal, está planificando una actividad que
+consiste en realizar composiciones y descomposiciones de números de dos cifras.
+	</q0>
+	<g0>
+	</g0>
+	<q>Ella ha encontrado dos materiales conformados por paquetes de tarjetas que puede utilizar
+en dicha actividad.
+	</q>
+	<g>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1172-p.png
+	</g>
+	<q2>¿Por qué el uso del material 2 es más pertinente para el logro del propósito de la docente?
+	</q2>
+	<as r="R" correcta="2">
+		<a>Porque contribuye a que los estudiantes establezcan relaciones de orden entre números
+conformados por una cifra y dos cifras.</a>
+		<a>Porque permite que los estudiantes puedan formar una mayor cantidad de números
+naturales de dos cifras.</a>
+		<a>Porque ayuda a que los estudiantes reconozcan el valor posicional de las cifras que
+forman el número.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

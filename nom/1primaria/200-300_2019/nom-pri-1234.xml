@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La maestra Juana, docente de la I.E. "Carlos José Echavarry Ozacar" de San José de Tiabaya ha desarrollado una
+        actividad de aprendizaje para sus estudiantes del quinto grado, ellos han logrado proponer un sistema de medidas
+        de prevención en caso de sismos, proyecto que inclusive ha quedado en segundo lugar a nivel de la UGEL Arequipa
+        Norte. Al término del primer semestre la docente aplica una prueba escrita para verificar la incidencia del
+        proyecto, teniendo como resultado a la mayoría de estudiantes desaprobados, Juana se siente mal por estos
+        resultados ya que pensó que todos los estudiantes aprobarían por que tuvieron un alto nivel de desempeño en el
+        proyecto.</q0>
+    <q>¿Qué debería hacer Juana para obtener una real información de los logros de sus estudiantes?</q>
+    <as r="R" correcta="1">
+        <a>Diseñar un instrumento de evaluación que permita medir el impacto del proyecto.</a>
+        <a>Diseñar y aplicar un instrumento de recojo de información en coherencia con el propósito del proyecto.</a>
+        <a>Reprogramar la actividad para aplicar paralelamente instrumentos de evaluación progresiva.</a>
+        <a>Aprobar a todos los estudiantes pues su desempeño ha sido excelente en la realización del proyecto.</a>
+    </as>
+    <x>B.</x>
+</p>

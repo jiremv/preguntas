@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Piero, de tres años, está resfriado. Para limpiarse la nariz, constantemente le pide ayuda a la docente. Ante
+       ello, la docente busca que él aprenda a limpiarse la nariz autónomamente.</q>
+    <q2>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q2>
+    <as r="R" correcta="2">
+        <a>Animar a Piero diciéndole que él ya es un niño grande y que los niños grandes sí pueden limpiarse la nariz
+           solos.</a>
+        <a>Atender a Piero y luego llamar a sus padres para decirles que deben enseñarle al niño a limpiarse la nariz
+           solo.</a>
+        <a>Limpiarle la nariz a Piero mostrándole cómo se hace y decirle que la próxima vez intente hacerlo solo.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

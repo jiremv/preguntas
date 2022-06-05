@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Juana, cumpliendo el último hito de la movilización de los aprendizajes ("rendición de cuentas"),
+                desarrolla ia siguiente secuencia de actividades: aplica instrumentos de evaluación, interpreta y
+                sistematiza la información y socializa los resultados con los padres de familia y autoridades para la
+                toma de decisiones conjuntas en pro de la mejora de los aprendizajes.</q0>
+    <g0></g0>
+    <q>Lo realizado por el docente refleja que la evaluación ha cumplido principalmente las siguientes funciones:</q>
+    <as r="R" correcta="0">
+        <a>Pedagógica y social.</a>
+        <a>Integral e informativa.</a>
+        <a>Terminal y flexible.</a>
+        <a>Participativa y social.</a>
+    </as>
+    <x>A.</x>
+</p>

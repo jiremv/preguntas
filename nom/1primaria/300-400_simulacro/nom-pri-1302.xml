@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1301-p.png</g0>
+  <q>En el tercer párrafo, ¿a qué se refiere la expresión 'miríada de sitios de internet'?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>A la calidad de los sitios de internet.</a>
+    <a>A la cantidad de los sitios de internet.</a>
+    <a>A la reputación de los sitios de internet.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

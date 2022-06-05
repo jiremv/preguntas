@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1263-p1.png</g0>
+    <q>Luego de algunas sesiones de aprendizaje, un equipo de estudiantes realizó una indagación en la que comparó
+        el funcionamiento de dos circuitos eléctricos. A continuación, se presenta la conclusión de la indagación de
+        los estudiantes.</q>
+    <g>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1264-p.png</g>
+    <q2>La docente busca retroalimentar al equipo de estudiantes para que reflexione sobre su conclusión. ¿Cuál de las
+       siguientes preguntas favorece dicho propósito?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>¿De qué otra manera pueden colocar los elementos del circuito 2?</a>
+        <a>¿Qué pasaría si instalan un interruptor en el circuito 2?</a>
+        <a>¿Qué les parece si quitan una pila del circuito 2?</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

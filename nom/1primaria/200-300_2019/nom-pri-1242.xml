@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luis, profesor de 2° grado tiene propuesto trabajar con sus alumnos las características y funciones de los
+        órganos de los sentidos. Durante el desarrollo de la sesión de aprendizaje escucha de sus alumnos diversos
+        comentarios como: "¡El ají pica profe!" "¡Las azucenas huelen rico!" "¡El arco iris tiene 7 colores!" "¡Mi perro
+        es sordo porque mi papá le cortó sus orejas!" Sorprendido, el docente concluye para sí: "¡Cuánto saben estos
+        niños!" Y muy contento les presenta una lámina para que los niños dibujen y escriban los nombres de los órganos
+        de los sentidos. Finalmente aplica una evaluación de apareamiento.</q0>
+    <g0></g0>
+    <q>Según lo manifestado por los niños se evidencia que el docente generó:</q>
+    <as r="R" correcta="3">
+        <a>La evaluación del aprendizaje.</a>
+        <a>La construcción del aprendizaje.</a>
+        <a>La transferencia de saberes.</a>
+        <a>La motivación.</a>
+    </as>
+    <x>D.</x>
+</p>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La I.E. N° 37025 de Manzanayocc, del distrito de Anco, cuenta con un biohuerto donde existen plantas,
+                angiospermas y gimnospermas. Las niñas y los niños en el área de Ciencia y Ambiente vivencian a través
+                de la observación, experimentación.</q0>
+    <q>En esta situación propuesta, el aprendizaje esperado es:</q>
+    <as r="R" correcta="3">
+        <a>Señalan clases de flores existentes.</a>
+        <a>Identifican plantas con flores y sin ellas.</a>
+        <a>Clasifican los reinos de la naturaleza.</a>
+        <a>Identifican tipos de raíces.</a>
+    </as>
+    <x>D.</x>
+</p>

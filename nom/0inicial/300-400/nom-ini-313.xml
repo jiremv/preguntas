@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Melissa, profesora del aula de 5 años, considera que la evaluación es permanente porque se realiza durante
+    todo el año. Dentro de la evaluación que realiza a sus alumnos encuentra que Rosita presenta dificultades para 
+    socializar, juega sola, evade los juegos grupales, y también se resiste a responder preguntas.
+Esta situación afecta su aprendizaje. ¿Cuál es la conclusión acerca del comportamiento de Rosita y qué necesita para lograr 
+mejoras en su aprendizaje?</q>
+    <as r="R" correcta="2">
+        <a>Rosita es una niña que tiene problemas en su hogar y necesita desarrollar capacidades de confianza y seguridad para 
+lograr afirmar su identidad y su sentimiento de pertenencia al grupo social.</a>
+        <a>Rosita muestra una conducta retraída por agresiones constantes recibidas en su familia, necesita recibir afecto para 
+afirmar su autoestima y desarrollarse armoniosamente.</a>
+        <a>Rosita es una niña tímida que necesita desarrollar capacidades de confianza y seguridad para lograr afirmar su identidad 
+y su sentimiento de pertenencia a un grupo social.</a>
+        <a>Rosita carece de apoyo de sus pares y necesita fortalecer la comunicación activa de su entorno, participar en reuniones
+sociales, compartir juegos grupales.</a>
+    </as>
+    <x>C.</x>
+</p>

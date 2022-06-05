@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor César está planificando afianzar en sus alumnos de 4° grado la capacidad de argumentar en el área de
+        Matemática.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes situaciones problema, es la más adecuada para lograr este propósito?</q>
+    <as r="R" correcta="0">
+        <a>Elaboración de banderines para adornar el aula.</a>
+        <a>Lectura de un gráfico de barras.</a>
+        <a>Elaborar un afiche publicitario.</a>
+        <a>Escribir una agenda de cumpleaños.</a>
+    </as>
+    <x>A.</x>
+</p>

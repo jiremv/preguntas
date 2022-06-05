@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1155-p.png
+	</g0>
+	<q>Como parte del proyecto, los estudiantes están elaborando breves descripciones de los
+animales que han elegido. En este contexto, el docente nota que uno de los estudiantes
+escribió ‘tucha’ (en lugar de ‘trucha’) en varias partes de su texto. Por esta razón, busca que
+el estudiante avance en su proceso de apropiación del sistema de escritura. ¿Cuál de las
+siguientes acciones es más adecuada para conseguir su propósito?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Pedir al estudiante que diga palabras similares a ‘trapo’ o ‘tren’. Luego, escribirlas delante
+de él para que las compare con ‘tucha’ y seleccione, de dichas palabras, la parte que
+necesita para escribir ‘trucha’.</a>
+		<a>Decir al estudiante que ha escrito la palabra ‘trucha’ sin una ‘r’ entre la letra ‘t’ y la letra
+‘u’. Luego, indicarle que busque dicha palabra las veces que aparece en su texto para que
+la escriba correctamente.</a>
+		<a>Solicitar al estudiante que repita la sílaba ‘tru’ varias veces. Luego, entregarle una lista
+de palabras en las que se ha omitido la letra ‘r’, como ‘t_ueno’, ‘t_apecio’, para que la
+complete.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

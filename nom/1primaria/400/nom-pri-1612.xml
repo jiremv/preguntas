@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el aula del quinto grado de primaria la profesora Clotilde quiere construir la noción de fracción y
+                las operaciones con fracciones homogéneas. Para ello debe plantear problemas matemáticos, partiendo del
+                enfoque centrado en la resolución de problemas.</q0>
+    <g0></g0>
+    <q>A partir de la situación descrita, ¿cuál de los siguientes problemas corresponde a este enfoque?</q>
+    <as r="R" correcta="1">
+        <a>Manuel gana al dia 48 soles. Si quiere repartir su dinero en partes iguales a sus 4 hijos. ¿Qué parte le
+                toca a cada hijo? ¿Cómo se escribe esa parte en números?</a>
+        <a>Un agricultor tiene dividido su terreno en parcelas, si cultiva papas en sus 3/9 de su terreno, camote
+                en 1/9 y zanahorias en los 2/9 ¿Qué fracción de su terreno usó?</a>
+        <a>Los padres de Claudia trajeron a la escuela una torta por sus cumpleaños. Si en el aula hay 4 grupos y
+                se necesita repartir la torta en partes ¡guales. ¿Qué parte le toca a cada grupo?</a>
+        <a>María tiene una pizza, si ya comió 3/8 de la pizza. ¿Qué fracción de la pizza, aun le falta comer? ¿Cómo
+                se escribe esa parte en números?</a>
+    </as>
+    <x>B.</x>
+</p>

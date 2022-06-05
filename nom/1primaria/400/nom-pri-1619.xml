@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Raquel, docente de 3° grado de primaria, ha planificado una sesión de aprendizaje vinculada a la
+                comprensión de textos expositivos. Para ello, ha entregado a sus alumnos una lectura sobre el corazón y
+                sus funciones. Su objetivo es lograr que los estudiantes identifiquen las partes que componen este
+                órgano y expliquen su funcionamiento.</q0>
+    <g0></g0>
+    <q>Una actividad pertinente para el logro de este objetivo sería:</q>
+    <as r="R" correcta="0">
+        <a>Elaborar un organizador visual y exponer su contenido.</a>
+        <a>Solicitar que los estudiantes elaboren un comentario del texto.</a>
+        <a>Procurar que los estudiantes expongan sus trabajos en un plenario.</a>
+        <a>Representar el corazón con material reciclable, en una maqueta.</a>
+    </as>
+    <x>A.</x>
+</p>

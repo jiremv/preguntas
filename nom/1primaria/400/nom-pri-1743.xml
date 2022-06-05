@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la clase de Ciencia y Ambiente, en el Laboratorio, durante los experimentos de cambios de estado de
+                la materia, Juan y Luis, ocasionaron la caída y ruptura de una probeta; situación que generó una fuerte
+                discusión entre los niños, al punto que se iban a ir a las manos. Al ver esta situación, Jorge, el
+                profesor, acudió inmediatamente y luego de un largo diálogo, escuchando sus argumentos, propició que se
+                calmaran y amistaran, y continuó con la clase de manera armoniosa.</q0>
+    <g0></g0>
+    <q>La estrategia utilizada por el docente para fortalecer la convivencia democrática es:</q>
+    <as r="R" correcta="2">
+        <a>La de deliberación.</a>
+        <a>La de construcción de normas de convivencia.</a>
+        <a>La de mediación.</a>
+        <a>La de democratización.</a>
+    </as>
+    <x>C.</x>
+</p>

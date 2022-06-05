@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+<q>Francisco es un docente del 3° grado de primaria, él quiere ejecutar una sesión de aprendizaje con el propósito 
+de desarrollar capacidades para resolver operaciones de multiplicación. ¿Cuál serla la secuencia didáctica más adecuada que el docente debe aplicar? 
+</q>
+<as r="R" correcta="2">
+<a>Proponer una situación problemática, repasar de manera grupal la tabla de multiplicar, resolver los problemas planteados y socializar los resultados. 
+</a><a>Repasar la tabla de multiplicación, elaborar material concreto, resolver los problemas planteados y comunicar los resultados. 
+</a><a>Proponer una situación de aprendizaje, seleccionar y aplicar una estrategia adecuada, manipulación de material concreto, representación gráfica, simbólica y abstracta. 
+</a><a>Repasar la tabla d multiplicación, proponer ejercicios sencillos, utilizar los textos de matemática y resolver problemas.</a>
+</as>
+<x>C.</x>
+</p>

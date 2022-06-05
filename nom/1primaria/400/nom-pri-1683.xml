@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Ignacio durante el desarrollo de su sesión de aprendizaje aplica la técnica grupal, para lo cual
+                distribuye a los estudiantes, Elena, una estudiante, le comunica que se le ha extraviado su celular.
+                Ignacio toma la decisión de reunirse con los coordinadores de cada grupo y les hace saber lo sucedido,
+                manifestándoles que esta acción es un problema y se debe solucionar inmediatamente ya que estas
+                actitudes alteran el clima emocional de aula. Los coordinadores convocan en ese instante a una reunión,
+                convirtiéndose entonces el aula en un espacio en el que ellos manifiestan sus opiniones sobre lo
+                ocurrido y tratan de buscar soluciones al problema.</q0>
+    <g0></g0>
+    <q>¿Qué estrategias propone Ignacio para que los estudiantes solucionen el problema?</q>
+    <as r="R" correcta="2">
+        <a>Propone un proyecto para que los estudiantes gestionen y repongan la pérdida del celular y se
+                restablezca el clima emocional.</a>
+        <a>Propone el trabajo cooperativo a largo plazo como estrategia que busca solucionar el problema y se
+                restablezca el clima emocional.</a>
+        <a>Propone la asamblea de aula para que los estudiantes encuentren la solución al problema y se restablezca
+                el clima emocional.</a>
+        <a>Propone la creación de espacios para promover el bien común en beneficio de todos y se restablezca el
+                clima emocional.</a>
+    </as>
+    <x>C.</x>
+</p>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Paúl es un estudiante del quinto grado de la I.E. "El Altiplano" del distrito de Yura. Al momento de
+                producir textos, inserta ideas oaspectos que no tienen relación con el tema que se está tratando.</q0>
+    <g0></g0>
+    <q>¿Cuál es el error constructivo que presenta Paúl durante la producción de sus textos?</q>
+    <as r="R" correcta="0">
+        <a>La disgregación que no guarda relación con el propósito de la producción del texto.</a>
+        <a>La repetición innecesaria de ideas que se presenta de manera consecutiva a ¡o largo de su propio texto.</a>
+        <a>La contradicción de ideas con la presencia de incongruencias en la redacción de su texto.</a>
+        <a>Ausencia de información importante que impide la producción del texto.</a>
+    </as>
+    <x>A.</x>
+</p>

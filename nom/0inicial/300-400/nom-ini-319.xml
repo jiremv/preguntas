@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Margot como parte de su planificación del área de Matemática pretende que los niños a través
+    de situaciones vivenciales, aprendan a realizar agrupaciones de diversos elementos que lo rodean.
+¿Qué debe planificar de manera específica?</q>
+    <as r="R" correcta="2">
+        <a>Un proyecto de aprendizaje matemático</a>
+        <a>Una secuencia de pensamiento matemático</a>
+        <a>Una sesión de aprendizaje sobre clasificación</a>
+        <a>Una sesión de psicomotricidad con materiales concretos</a>
+    </as>
+    <x>C.</x>
+</p>

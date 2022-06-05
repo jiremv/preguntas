@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Mediante la representación con títeres, los estudiantes de 1° grado interpretan canciones, huaynos y
+                coplas del carnaval cajamarquino. En esta actividad, expresan sus emociones e ideas. Luego, comparten
+                sus experiencias y determinan los aspectos positivos y negativos de esta celebración.</q0>
+    <g0></g0>
+    <q>¿A qué actividad de expresión oral corresponde la experiencia anterior?</q>
+    <as r="R" correcta="1">
+        <a>Organizamos asambleas y participamos con entusiasmo.</a>
+        <a>Representamos las festividades de nuestro pueblo cajamarquino.</a>
+        <a>Resolvemos un cuestionario oral sobre el carnaval.</a>
+        <a>Repetimos las coplas de nuestro carnaval cajamarquino.</a>
+    </as>
+    <x>B.</x>
+</p>

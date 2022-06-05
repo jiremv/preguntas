@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En las frecuentes actividades de lectura, el profesor del 3° grado de primaria ha logrado que todos los
+       estudiantes tengan un diccionario a la mano. Les ha reiterado que sin diccionario no se hace ninguna lectura. Los
+       estudiantes son conscientes de que las clases son divertidas pues les permite participar activamente en los
+       reiterados concursos de uso del diccionario. A partir del caso presentado, ¿qué puede concluir usted como
+       docente, en función al uso del diccionario en la construcción de la comprensión de textos?</q>
+    <as r="R" correcta="3">
+        <a>Es pertinente porque genera dinamismo y confianza en la clase, condición para seguir aprendiendo.</a>
+        <a>No es pertinente porque los estudiantes deberán usar el diccionario al concluir la clase de lectura.</a>
+        <a>Es pertinente porque se asume que un buen lector es aquel que conoce el significado básico de las palabras.</a>
+        <a>No es pertinente porque su uso desmedido está interfiriendo la comprensión global del texto.</a>
+    </as>
+    <x>D.</x>
+</p>

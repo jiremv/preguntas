@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Los niños de 4 años cuando juegan les cuesta devolver las cosas que han usado, dejándolas tiradas en el 
+    aula. ¿Qué debe hacer la profesora?
+</q>
+    <as r="R" correcta="0">
+        <a>Llegar a acuerdos con los niños, acompañarlos en el establecimiento del hábito y realizar un seguimiento.</a>
+        <a>Pedir al personal de limpieza que recojan las cosas ya que los niños son muy pequeños para hacerlo.</a>
+        <a>Decirle a los niños que se sienten y que ella va a recoger todo más rápido y poder así empezar la clase.</a>
+        <a>Decirle a los niños que los que recojan y acomodan más cosas, que luego serán premiados por su colaboración.</a>
+    </as>
+    <x>A.</x>
+</p>

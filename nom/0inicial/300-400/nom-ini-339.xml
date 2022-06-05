@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>José, un niño de la sección de 4 años, llevó a su aula diversos productos que se venden en la tienda pero 
+    en miniatura, despertando el interés de sus compañeros, los niños proponen a la docente tener una tienda en el aula.
+    ¿En qué momento de la secuencia didáctica se prioriza la propuesta de los niños?</q>
+    <as r="R" correcta="2">
+        <a>En la ejecución de las actividades que utiliza en la secuencia didáctica.</a>
+        <a>En la realización de actividades de la situación didáctica.</a>
+        <a>En la negociación de la planificación conjunta docente-niños.</a>
+        <a>En la evaluación de los resultados al cumplir el proyecto.</a>
+    </as>
+    <x>C.</x>
+</p>

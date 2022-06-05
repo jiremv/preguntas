@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Karina es una docente comprometida con su trabajo pedagógico, labora en un pueblo de la provincia de
+                Canta y tiene la intención de que los estudiantes se involucren de manera activa y consciente en el
+                proceso de aprendizaje. Para ello, está plenamente convencida que debe comunicar a los estudiantes lo
+                que aprenderán en la sesión, para activar, movilizar sus saberes y despertar su Interés.</q0>
+    <g0></g0>
+    <q>¿Cuál seria la decisión más apropiada para lograr su objetivo?</q>
+    <as r="R" correcta="2">
+        <a>Recoger los saberes previos, como docente sabe que es parte de inicio de una sesión de aprendizaje.</a>
+        <a>Generar conflictos cognitivos, como procesos para la formulación de interrogantes.</a>
+        <a>Recoger los saberes previos y comunicar el propósito de la sesión, para que los estudiantes activen sus
+                conocimientos.</a>
+        <a>Aplicar instrumentos de coevaluación, porque la decente espera buenos resultados.</a>
+    </as>
+    <x>C.</x>
+</p>

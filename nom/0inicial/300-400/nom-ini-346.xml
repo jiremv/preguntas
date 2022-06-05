@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Un proyecto de aprendizaje planteado por la profesora María Inés inició con el planteamiento de ideas
+    sobre lo que quería lograr con sus niños y niñas y porqué era necesario abordarlo. Luego, realizó la selección de 
+    competencias y capacidades. A continuación, motivó el interés de los niños haciéndolos participar a partir de sus 
+    aportes y sugerencias. Finalmente, los niños expusieron los trabajos realizados, ¿Qué momento del proceso didáctico
+    faltó realizar a la docente?
+</q>
+    <as r="R" correcta="2">
+        <a>Pre planificación.</a>
+        <a>Planificación.</a>
+        <a>Evaluación.</a>
+        <a>Ejecución y desarrollo.</a>
+    </as>
+    <x>C.</x>
+</p>

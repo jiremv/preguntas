@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente presenta a los estudiantes de quinto grado la siguiente situación hipotética.</q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1284-p.png</g0>
+    <q>El docente busca que los estudiantes reflexionen éticamente sobre la situación presentada, ¿cuál de los
+       siguientes conjuntos de preguntas es más pertinente para cumplir su propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"Si consideramos las intenciones de Fernando para regalar su juguete, ¿dirían que fueron egoístas? ¿Por
+           qué? ¿Aconsejarían a Fernando para que actúe de forma generosa en otra situación? ¿Qué le dirían?".</a>
+        <a>"Antes de saber la intención que tuvo Fernando, ¿qué pensaron sobre su acción? ¿Por qué? ¿Cambiaron
+           sus opiniones acerca de la acción que realizó Fernando luego de conocer sus intenciones? ¿Por qué?".</a>
+        <a>Cuando el amigo de Fernando recibió el regalo, ¿cómo creen que se sintió? ¿Por qué? ¿Cómo creen que
+           actuaría si se enterara de las razones de Fernando para regalarle el juguete? Y ustedes, ¿cómo
+           actuarían?".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

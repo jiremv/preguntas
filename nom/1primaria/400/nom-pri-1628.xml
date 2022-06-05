@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Si se planifica una actividad de comprensión lectora, con el propósito de que los niños de 6° grado de
+                primaria identifiquen relaciones al interior del texto,</q0>
+    <q>¿cuál de las actividades siguientes sería la más adecuada?</q>
+    <as r="R" correcta="3">
+        <a>Responder un cuestionario sobre el tema, la idea principal y el propósito del autor.</a>
+        <a>Elaborar un esquema o un dibujo sobre lo que más le llamó su atención al leer.</a>
+        <a>Establecer asociaciones de similitud-diferencia, causa-efecto, problemas-solución u otras.</a>
+        <a>Emitir juicios y valoraciones sobre el contenido y los aspectos formales del texto.</a>
+    </as>
+    <x>D.</x>
+</p>

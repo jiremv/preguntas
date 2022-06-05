@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Martha, docente de la LE. N° 40211 "Héroes del Cenepa" de Paucarpata, organiza a sus estudiantes en el
+                patio de la escuela y les comunica que rápidamente se formen en dos columnas. El docente pide a Rosita
+                que diga la cantidad de estudiantes que hay en cada columna y registra las cantidades en un papelógrafo.
+                Se continúa con las situaciones problemáticas que permitirán desarrollar capacidades matemáticas que se
+                presentan en la actividad hasta encontrar cinco formaciones diferentes.</q0>
+    <g0></g0>
+    <q>¿Qué capacidades matemáticas desarrollará Martha en sus estudiantes al realizar la actividad planteada?</q>
+    <as r="R" correcta="0">
+        <a>Martha desarrollará en los estudiantes la representación del proceso que implica usar una variedad de
+                esquemas para expresar una situación.</a>
+        <a>Martha desarrolla diversas estrategias para resolver problemas y elaborar un plan o estrategia sobre
+                cómo utilizar la matemática en la vida cotidiana.</a>
+        <a>Martha desarrolla un proceso de transformación que consiste en trasladar a enunciados matemáticos a
+                situaciones del mundo real.</a>
+        <a>Martha utiliza la comunicación como un proceso transversal en el desarrollo de la competencia matemática.</a>
+    </as>
+    <x>A.</x>
+</p>

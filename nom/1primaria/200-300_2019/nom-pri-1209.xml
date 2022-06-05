@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Con el propósito que los estudiantes de 6° grado logren diferenciar las principales características evolutivas de
+       los seres humanos, la profesora Marina, propició que sus alumnos lean textos informativos, observen vs y elaboren
+       cuadros comparativos sobre el tema. Pedro, un alumno del aula dice: "Qué interesante el tema de la evolución
+       humana. No comprendía bien de qué se trataba, pero cuando hice los cuadros comparativos, lo entendí mejor. Creo
+       que eso me ayudó." Las expresiones que manifiesta Pedro, reflejan que la docente:</q>
+    <as r="R" correcta="2">
+        <a>Ha propiciado el desarrollo de aprendizajes significativos en sus estudiantes.</a>
+        <a>Ha generado la motivación por aprender en sus estudiantes.</a>
+        <a>Ha desarrollado habilidades metacognitivas en sus estudiantes.</a>
+        <a>Ha generado la transferencia de conocimientos en sus estudiantes.</a>
+    </as>
+    <x>C.</x>
+</p>

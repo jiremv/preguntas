@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente Ricardo trabaja en una Institución Educativa de Barranca, Ha decidido aprovechar las riquezas
+                naturales de la zona para programar con sus niños y niñas una investigación que acopie, organice y
+                actualice información sobre las plantas y animales existentes en la localidad. Ha organizado a los niños
+                y niñas en dos equipos de trabajo, uno se encargará de los animales y el otro de las plantas. Al cabo de
+                una semana, los estudiantes se disponen a realizar una exposición sobre sus investigaciones.</q0>
+    <g0></g0>
+    <q>Con el desarrollo de esta actividad, ¿qué capacidad quiere desarrollar el docente en sus estudiantes?</q>
+    <as r="R" correcta="2">
+        <a>Identifica plantas y animales de su entorno en sus hábitats.</a>
+        <a>Reconoce las diferentes plantas y animales nativos de su localidad.</a>
+        <a>Clasifica animales y plantas de su localidad por sus características.</a>
+        <a>Seres vivientes y conservación del medio ambiente.</a>
+    </as>
+    <x>C.</x>
+</p>

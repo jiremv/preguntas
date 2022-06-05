@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el aula de cuatro años, los niños están cantando la canción "Los patitos". En ese contexto, la docente busca
+        favorecer la expresión corporal y gestual de los niños al entonar dicha canción.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Pedirles que imaginen que son patitos y preguntarles cómo se moverían. Luego, dejarles experimentar
+           libremente esos movimientos.</a>
+        <a>Proporcionarles diversos elementos como los picos, las alas y las patas de los patitos. Luego, pedirles que
+           se los pongan y canten la canción.</a>
+        <a>Mostrarles cómo se paran, mueven su cuerpo y caminan los patitos. Luego, ensayar con ellos hasta que logren
+           realizar los movimientos de los patitos.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

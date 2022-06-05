@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Rosario es una docente de 6° de Primaria. Ella trabaja en un colegio de la zona urbana de Lima,
+  donde existe la discriminación a los estudiantes que proceden de la zona andina.
+  José es un niño que vino hace dos años a la capital con su familia desde una zona rural de Junín.
+  Él aprendió a hablar el castellano pero con cierto "dejo". Ahora ya no quiere hablar en quechua
+  por que sus compañeros se burlan y lo tildan de "cholo".</q0>
+  <q>¿Qué debe hacer Rosario, desde la planificación, para que no exista discriminación en el aula?
+  </q>
+  <as r="R" correcta="2">
+    <a>Programar en su unidad didáctica temas relacionados a la discriminación</a>
+    <a>Programar en su unidad didáctica temas relacionados al idioma quechua</a>
+    <a>Programar en su unidad didáctica los enfoques intercultural e inclusivo</a>
+    <a>Programar en su unidad didáctica el tema: La Región Andina.</a>
+  </as>
+  <x>C.</x>
+  <video>https://www.youtube.com/embed/zzV4QiFP0Ac?start=272</video>
+</p>

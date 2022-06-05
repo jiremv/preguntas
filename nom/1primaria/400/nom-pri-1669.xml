@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Este año, a la profesora Rosario le han designado el aula del 3o grado "A". El director le hizo entrega
+                de los resultados de la prueba ECE aplicados a los estudiantes en el año anterior. Los resultados
+                reflejan que del total de alumnos, un 35% de sus estudiantes se encuentran en el Nivel de logro 1,
+                mientras que un 45% en el Nivel de logro 2 y un 20% en el Nivel de logro Inicio.</q0>
+    <g0></g0>
+    <q>¿Qué acciones debe desarrollar la docente con la información recibida?</q>
+    <as r="R" correcta="0">
+        <a>Analizar y reflexionar sobre los resultados obtenidos y elaborar un plan de mejora de los aprendizajes y
+                establecer compromisos.</a>
+        <a>Analizar y reflexionar sobre los resultados obtenidos y elaborar un plan de apoyo para los estudiantes
+                de bajo rendimiento.</a>
+        <a>Analizar y reflexionar para identificar las causas del bajo rendimiento de los estudiantes y establecer
+                compromisos de mejora.</a>
+        <a>Analizar y reflexionar sobre los resultados obtenidos y ejecutar un plan de mejora de los aprendizajes.</a>
+    </as>
+    <x>A.</x>
+</p>

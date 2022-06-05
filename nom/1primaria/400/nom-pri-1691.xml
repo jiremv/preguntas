@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En un aula de clase de 5° grado, los niños se encuentran explorando un foco (bombilla eléctrica), una
+                pila (pila seca) y un alambre para encontrar diferentes formas de prender el foco.</q0>
+    <g0></g0>
+    <q>La manera más pertinente de intervención del docente, a fin de propiciar la construcción del aprendizaje
+               en sus estudiantes es:</q>
+    <as r="R" correcta="1">
+        <a>Proporcionar una guía de experimentación para que los niños lo realicen.</a>
+        <a>Intercambiar impresiones y argumentos acerca de sus hallazgos.</a>
+        <a>Determinar tiempos en función de su optimización.</a>
+        <a>Orientar acerca del cuidado que deben tener con los materiales utilizados.</a>
+    </as>
+    <x>B.</x>
+</p>

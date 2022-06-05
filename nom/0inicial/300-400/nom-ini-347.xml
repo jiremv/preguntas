@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En estos últimos tiempos, los padres de familia quieren participar en los procesos de aprendizaje de sus
+    hijos, motivados por la maestra a quien, por cierto, estiman mucho y ante el interés de los niños, ofrecen enseñarles 
+    canciones. Los niños entusiasmados, acuerdan hacer un cancionero.
+Señale la secuencia didáctica correspondiente a dicho proyecto.</q>
+    <as r="R" correcta="1">
+        <a>Preplanificación-planificación-planificación.</a>
+        <a>Planificación-ejecución-evaluación.</a>
+        <a>Planificación-elaboración de estrategias-evaluación.</a>
+        <a>Planificación-ejecución-retroalimentación.</a>
+    </as>
+    <x>B.</x>
+</p>

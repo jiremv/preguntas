@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?><!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Juanita es una niña de 7 años que en el aula muestra poca predisposición para la lectura,
+  participa sólo cuando la profesora lo exige y cuando le hace preguntas sobre lo leído, responde:
+  "parecer que sí", "creo que no". Para la profesora Rufina, Juanita no es una buena estudiante y decide conversar
+  con su mamá. La señora, muestra su extrañeza y le informa que en casa Juanita lee por iniciativa propia los textos
+  de Comunicación, que su hermana usó el año anterior. "No solamente lee, sino que comparte lo que lee con su papá,
+  le p por significados de palabras que no conoce y comenta las actitudes de los personajes".
+  La profesora Rufina comprende que algo no está funcionando bien en su clase. ¿Qué debería hacer la profesora para cambiar
+  esta situación?</q>
+  <as r="R" correcta="3">
+    <a>Hablar nuevamente con Juanita y exlicarle la ventaja de la lectura.</a>
+    <a>Juntar a Juanita con una niña que lee bien para que se sienta motivada.</a>
+    <a>Revisar los textos que Juanita lee en casa para compararlos con los que ella usa en el aula.</a>
+    <a>Pedir que Juanita lleve sus lecturas a la escuela y trabajar la expresión oral con todas las niñas de su aula.</a>
+  </as>
+  <x>D.</x>
+  <video>https://www.youtube.com/embed/EjUbbHcMu-Y</video>
+</p>

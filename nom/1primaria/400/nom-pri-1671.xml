@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El día de ayer, en la comunidad de Chugur, dos familias cosecharon papas. La familia Rodríguez ha
+                cosechado 50 sacos de papa y la familia Vásquez 67. Los niños de 7 años de edad que han asistido a esta
+                actividad tienen la inquietud de saber cuántos sacos de papas le falta a la familia Rodríguez para tener
+                igual que la familia Vásquez.</q0>
+    <g0></g0>
+    <q>Según las rutas del aprendizaje propuestas por el Ministerio de Educación, si bien todas las capacidades
+               matemáticas se movilizan, es necesario enfatizar solo algunas. ¿Qué capacidades matemáticas serán
+               pertinentes priorizar en la resolución de esta situación problemática?</q>
+    <as r="R" correcta="1">
+        <a>Usa expresiones simbólicas y comunica.</a>
+        <a>Representa y argumenta.</a>
+        <a>Matematiza y comunica.</a>
+        <a>Elabora estrategias y usa expresiones simbólicas.</a>
+    </as>
+    <x>B.</x>
+</p>

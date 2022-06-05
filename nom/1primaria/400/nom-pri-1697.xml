@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de 5° grado, por indicaciones de su maestro, escriben un texto descriptivo. Antes de
+                empezar a desarrollar esta capacidad, el docente en un papelote les da algunas pistas para la redacción:
+                ¿Qué vamos a escribir?, ¿a quién va dirigido el texto?, ¿qué vamos a decir?, ¿cómo lo vamos a escribir?,
+                etc.</q0>
+    <g0></g0>
+    <q>¿A qué actividad corresponden las pistas dadas por el docente?</q>
+    <as r="R" correcta="3">
+        <a>Interrogación de textos.</a>
+        <a>Redacción de textos significativos.</a>
+        <a>Elaboración de una ficha con preguntas.</a>
+        <a>Elaboración de un plan de escritura.</a>
+    </as>
+    <x>D.</x>
+</p>

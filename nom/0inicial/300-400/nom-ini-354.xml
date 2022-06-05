@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>César es un niño de I Ciclo que no muestra sentimientos de culpa, tiene reacciones impulsivas y rápidas
+                frente a sus pares y también ante la profesora Brenda. Cuando participa de la construcción de torres de
+                4, 5 y 6 piezas; Brenda observa que César deja de lado la actividad apenas se cae la torre. Así mismo,
+                cuando se le pide que coloque objetos en una botella se aburre rápidamente, llora, y tira los objetos a
+                quienes le rodean.</q0>
+    <g0></g0>
+    <q>En esta situación, ¿qué estrategias debe utilizar la docente para mejorar el comportamiento de César?</q>
+    <as r="R" correcta="2">
+        <a>Facilitar la autorregulación a través de la verbalización de las emociones y acciones del niño,
+                brindándole seguridad física y afectiva ante sus errores.</a>
+        <a>Registrar el comportamiento del niño, hablar con sus padres para que lo estimulen y ayuden a ser
+                socialmente competente, y brindarle seguridad física y afectiva.</a>
+        <a>bservar las actividades espontáneas del niño, escuchando con atención sus expresiones y brindarle
+                seguridad arectiva, para que vernalice sus emociones.</a>
+        <a>Evaluar la actitud del estudiante, derivarlo a un especialista para su tratamiento, anotar sus conductas
+                en un anecdotario, brindarle seguridad.</a>
+    </as>
+    <x>C.</x>
+</p>

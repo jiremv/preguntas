@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En una salida al parque, un grupo de niños y niñas de 5 años se interesó en las hormigas y chanchitos que
+    encontraban y se pusieron a atraparlos y jugar con ellos. La maestra observa y decide acercarse y hacerles preguntas.
+    Los niños le manifiestan sus intereses, curiosidades y saberes. Luego, la maestra decide llevar al aula hormigas y 
+    chanchitos para continuar con la clase usando algunos materiales proporcionados por el MED.
+¿Qué acción ha desarrollado la maestra?</q>
+    <as r="R" correcta="2">
+        <a>La indagación para darle Importancia e Impacto de la ciencia en el desarrollo del pensamiento.</a>
+        <a>Una actividad para crear un ambiente de interacción con la mayor participación de sus niños y niñas.</a>
+        <a>Una situación de enseñanza para construir xes a partir de la confrontación de sus saberes.</a>
+        <a>Una situación de interés para los niños y niñas para informar y explicar sobre un dato de la naturaleza.</a>
+    </as>
+    <x>C.</x>
+</p>

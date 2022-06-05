@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Tomás es estudiante de quinto grado de primaria, Al resolver situaciones problemáticas se siente
+                Inseguro y se frustra rápidamente. La profesora ha observado que Tomás no comprende los problemas y por
+                ello frecuentemente sus respuestas son erróneas.</q0>
+    <g0></g0>
+    <q>Ante esta situación descrita, ¿cuál es la estrategia didáctica adecuada para ayudar a Tomás en la
+               comprensión del problema?</q>
+    <as r="R" correcta="3">
+        <a>Hacer diagramas para representar en forma gráfica la relación de los datos del problema.</a>
+        <a>Mostrar a Tomás los datos y la p en el problema para que él realice la operación.</a>
+        <a>Reflexionar sobre sus procedimientos para comprender sus emociones ante el problema.</a>
+        <a>Explicar con sus propias palabras de qué trata el problema y qué se le está solicitando.</a>
+    </as>
+    <x>D.</x>
+</p>

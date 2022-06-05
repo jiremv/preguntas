@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes preguntas es pertinente para que los niños reflexionen sobre el texto?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>¿Qué piensan de lo que hacía Frederick en el cuento?</a>
+        <a>¿Por qué los ratoncitos aplaudieron a Frederick al final?</a>
+        <a>¿Qué recogieron los ratoncitos cuando notaron que el invierno estaba cerca?</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

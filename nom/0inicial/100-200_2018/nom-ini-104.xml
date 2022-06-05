@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4101-p2.png</g0>
+    <q>¿Cuál es la razón principal por la que a la tejedora "le pareció que su tristeza era más grande que el palacio"?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Porque su esposo se olvidó de la idea de tener hijos junto a ella.</a>
+        <a>Porque su esposo la había aislado en la torre más alta del palacio.</a>
+        <a>Porque su vida se redujo a tejer cada uno de los pedidos de su esposo.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

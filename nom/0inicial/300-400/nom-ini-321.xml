@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Mónica, docente de una Institución Educativa Inicial, tiene a cargo la sección de 3 años, para ver el logro 
+    alcanzado en sus niños y niñas, evalúa permanentemente a través de la observación sistemática y registra sus avances, 
+    lo que le permite obtener información y reflexionar acerca del desempeño de sus niños y niñas. ¿Con qué finalidad
+    la docente realiza esta actividad?
+</q>
+    <as r="R" correcta="1">
+        <a>Para conocer específicamente a cada uno de sus niños y niñas e informar a los padres de familia sobre sus avances.</a>
+        <a>Para analizar, reflexionar y plantear estrategias para mejorar y alcanzar aprendizajes esperados en todos sus estudiantes.</a>
+        <a>Para dar prioridad a la "HORA DE JUEGO", donde todos los niños participen activamente y desarrollar su motricidad.</a>
+        <a>Para informar a los padres sobre el nivel y ritmo de aprendizaje en la que se encuentra su niño o niña.</a>
+    </as>
+    <x>B.</x>
+</p>

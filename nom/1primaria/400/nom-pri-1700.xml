@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Eduardo, alumno del IV ciclo, resuelve sin dificultad el siguiente problema:</q0>
+    <g0>./../preguntas/nom/1primaria/700/nom-pri-1700-p.png</g0>
+    <q>¿Cuál de las siguientes expresiones describe el tipo de problema que puede resolver Eduardo?</q>
+    <as r="R" correcta="2">
+        <a>Cambio: Se conoce la cantidad inicial y luego se aumente. Se pregunta por la cantidad final.</a>
+        <a>Cambio: Se conoce la cantidad final e inicial. Se pregunta por el aumento.</a>
+        <a>Cambio: Se conoce la cantidad final y el aumento, se pregunta por la cantidad inicial.</a>
+        <a>Cambio: se conoce la cantidad inicial y luego se hace disminuir. Se pregunta por la cantidad final.</a>
+    </as>
+    <x>C.</x>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Sonia trabaja en zona rural con alumnos de 5° grado. Durante la clase de Ciencia y Ambiente
+        realizan una salida al campo, donde los niños se quedan maravillados de ser tanta diversidad de plantas. De
+        pronto, la docente solicita la atención de todos y les dice: "¡observen cómo viven esos líquenes y esas algas en
+        tan singular interrelación y equilibrio!". Y siguió explicando y respondiendo preguntas e inquietudes de los
+        alumnos, en torno al beneficio mutuo de estos seres vivientes.</q0>
+    <g0></g0>
+    <q>El propósito de la sesión de aprendizaje de la docente fue que sus alumnos logren:</q>
+    <as r="R" correcta="0">
+        <a>Identificar las diferentes formas de asociaclonismo de los seres vivos relacionadas con la simbiosis.</a>
+        <a>Identificar las diferentes formas de asociacionismo de los seres vivos relacionadas con el comensalismo.</a>
+        <a>Identificar las diferentes formas de asociacionismo de los seres vivos relacionadas con el mutualismo.</a>
+        <a>Identificar las diferentes formas de asociacionismo de los seres vivos relacionadas con el parasitismo.</a>
+    </as>
+    <x>A.</x>
+</p>

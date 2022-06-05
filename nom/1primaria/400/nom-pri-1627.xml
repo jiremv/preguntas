@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Mayra del 5° grado de primaria había programado una visita a la municipalidad del distrito
+                de la jurisdicción de su I.E. para entrevistar al alcalde y los trabajadores y conocer de forma directa
+                la problemática de su localidad, sin embargo en ese día no había pase al local municipal porque estaban
+                refaccionando las veredas y calles que daban acceso a la municipalidad. La profesora se preocupó mucho
+                por lo que estaba pasando y de pronto ve que uno de los niños estaba conversando con uno de los
+                vigilantes de la obra, entonces la docente coordina con el capataz de la obra, organiza grupos de niños
+                y les da pautas para que entrevisten a los trabajadores de la obra.</q0>
+    <q>¿Cuál de las estrategias ilustra mejor el caso comentado?</q>
+    <as r="R" correcta="0">
+        <a>Uso de la anécdota para matizar una exposición.</a>
+        <a>Uso de la improvisación para salir de! paso.</a>
+        <a>Uso de las relaciones humanas para hacer amigos.</a>
+        <a>Uso de la contingencia como oportunidad de aprendizaje.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente pide a los niños que se sienten en circulo en la
+                alfombra, los niños se paran, mueven las sillas y se distraen
+                conversando entre ellos y con los juguetes. La docente les
+                repite la indicación pero los pequeños se toman 20 minutos para
+                llegar a sentarse en silencio. Una vez que están en silencio,
+                les lee un cuento extenso, sin modular la voz y sin mostrarle
+                las figuritas, por lo que los niños se pierden y se aburren,
+                poniéndose a conversar. En ese momento, la docente interrumpe el
+                relato y les llama la atención. De manera reiterativa los niños
+                se distraen y la docente detiene la lectura para recordarles las
+                normas de convivencia. Cuando terminan, la docente les da las
+                indicaciones de una tarea para realizar mientras los niños están
+                distraídos, caminando hacia sus sitios, por lo que cuando llegan
+                a sus mesas, más de la mitad no ha comprendido la indicación y
+                necesitan que les repitan las instrucciones.</q0>
+    <q>Dada la situación descrita, es evidente que:</q>
+    <as r="R" correcta="1">
+        <a>Se observa que más de la mitad del tiempo de la sesión la
+                mayoría de los estudiantes no están realizando ninguna tarea
+                académica o de aprendizaje; puesto que la docente no propone
+                actividades de aprendizaje que involucre la participación de sus
+                estudiantes.</a>
+        <a>La docente no incluye actividades académicas que motiven a los
+                estudiantes; pues se evidencia que éstos no se involucran en las
+                actividades propuestas generándose extensas transiciones al
+                organizar y mantener la disciplina en el aula.</a>
+        <a>La docente maximiza el tiempo dedicado al aprendizaje; pues
+                organiza las actividades de manera pertinente generandose
+                motivación y participación activa en las actividades propuestas;
+                finalmente comprenden las indicaciones dadas, pues no hay
+                necesidad de repetirles las instrucciones.</a>
+        <a>No aprovecha al máximo el tiempo en la sesión de aprendizaje,
+                monitoreando sólo a un grupo de estudiantes, debido a que un
+                reducido número de estudiantes está involucrado en la sesión,
+                mientras que el resto conversa y distrae a sus compañeros.</a>
+    </as>
+    <x>B.</x>
+</p>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Eduardo es un docente de 4° grado de la I.E. N° 37425 de Angaraes, quien trabaja con los materiales
+                distribuidos por el MED y que al finalizar el primer trimestre se da cuenta sobre la pérdida de los
+                materiales, para lo cual convoca a los padres de familia a fin de plantear el problema y buscar las
+                soluciones de manera conjunta.</q0>
+    <q>A partir de la situación descrita, ¿cuál es la estrategia más pertinente que debe plantear?</q>
+    <as r="R" correcta="2">
+        <a>Organizar el comité de aula para realizar el Inventario de los materiales existentes y faltantes.</a>
+        <a>Organizar a los padres de familia y designar responsabilidades para la conservación y mantenimiento.</a>
+        <a>Organizar a los niños y niñas designando responsabilidades y monitoreando su cumplimiento.</a>
+        <a>Aplicar lo estipulado en el Reglamento Interno, sancionando al estudiante en caso de pérdida.</a>
+    </as>
+    <x>C.</x>
+</p>

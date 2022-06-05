@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1259-p1.png</g0>
+    <q>A continuación, se presenta la transcripción de un fragmento de la exposición de una de las estudiantes.</q>
+    <g>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1259-p2.png</g>
+    <q2>El docente espera a que Fabiana concluya su exposición para resaltar los aspectos mejor logrados respecto de la
+       coherencia de su texto oral. ¿Cuál de las siguientes acciones es adecuada para lograr su propósito?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Señalarle que los conectores que ha utilizado, como 'o sea' y 'entonces', ayudan a anticipar algunas
+           explicaciones en su texto oral.</a>
+        <a>Indicarle que el vocabulario que ha empleado en su texto oral permite que pueda adecuarse a diferentes tipos
+           de audiencia.</a>
+        <a>Mencionarle que la estrecha relación temática entre las ideas que ha presentado favorece la comprensión
+           del mensaje de su texto oral.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

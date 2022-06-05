@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1316-p1.png</g0>
+  <q>¿Cuál de las siguientes afirmaciones es consistente con la postura del autor sobre el uso de tecnología en las
+     escuelas?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>La lectura de textos en formato digital impide ejercitar el análisis, el razonamiento, la crítica y la memoria.</a>
+    <a>Muchas veces, se invierte en recursos tecnológicos sin evaluar su pertinencia ante las necesidades de aprendizaje
+       de los estudiantes.</a>
+    <a>Es vital promover el desarrollo de las habilidades comunicativas de los estudiantes para que se puedan adaptar al
+       acelerado cambio tecnológico.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

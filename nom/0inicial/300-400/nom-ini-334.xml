@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En el momento de "La hora del cuento",
+    los niños y niñas se predisponen a escuchar el cuento que la docente les va a leer.
+    Cada niño va a coger su alfombra para sentarse en el piso. En este momento, la docente observa 
+    que dos niños están, muy inquietos, comparando sus alfombras. Uno dice "Mi alfombra tiene coquitos" 
+    el otro contesta "De mí, tiene rayitas de colores y es más grande". A partir de esta situación, la docente se propone 
+    planificar un proyecto al que denominará "Confeccionamos nuestras alfombras", el cual le permitirá desarrollar 
+    actividades para lograr capacidades matemáticas en los niños y niñas.
+¿Qué actividades serán las más adecuadas para desarrollar capacidades matemáticas en los niños y niñas?
+</q>
+    <as r="R" correcta="3">
+        <a>Diseñamos nuestras alfombras, confeccionamos nuestras alfombras,elaboramos nuestras normas de convivencia, 
+        cumplimos nuestras responsabilidades para elaborar las alfombras.</a>
+        <a>Elaboramos diseños para nuestras alfombras, exploramos nuestras alfombras, comparamos nuestras alfombras, 
+        cumplimos las normas de convivencia.</a>
+        <a>Exploramos nuestras alfombras, comparamos nuestras alfombras, elaboramos nuestras alfombras con la ayuda 
+        de mamá, exhibimos nuestras alfombras.</a>
+        <a>Recolectamos materiales para nuestras alfombras, exploramos los materiales, elaboramos nuestros diseños,
+        seleccionamos los materiales, construimos nuestras alfombras, exponemos nuestros trabajos.</a>
+    </as>
+    <x>D.</x>
+</p>

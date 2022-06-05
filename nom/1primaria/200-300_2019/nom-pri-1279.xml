@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/1primaria/200-300_2019/nom-pri-1279-p1.png</g0>
+    <q>La docente decide aprovechar esta situación para que los estudiantes relacionen diferentes unidades de medida.
+       Así, primero grafica una balanza en equilibrio donde representa la situación descrita por Juan.</q>
+    <g>./../../preguntas/nom/1primaria/200-300_2019/nom-pri-1279-p2.png</g>
+    <q2>Si el propósito de la docente es que los estudiantes establezcan relaciones de equivalencia entre la arroba y el
+        kilogramo, ¿cuál de las siguientes acciones es pertinente para ello?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Indicarles que comparen la cantidad de arrobas que pesa el costalillo de papas con la cantidad de kilogramos
+           que pesa el mismo. Luego, preguntarles cuánto pesarían 2 costalillos de papa tanto en arrobas como en
+           kilogramos.</a>
+        <a>Solicitarles que describan las imágenes presentadas, prestando atención al peso del costalillo de papas en
+           cada caso. Luego, preguntarles si es posible afirmar que el costalillo de papas pesa en total 2 arrobas y 23
+           kilogramos.</a>
+        <a>Pedirles que mencionen cuántas arrobas pesa el costalillo de papas y cuántos kilogramos pesa el mismo. Luego,
+           preguntarles por qué creen que el número de kilogramos es mayor que el número de arrobas.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

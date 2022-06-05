@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una madre de familia de un niño de quinto grado conversa con la directora de la IE, informándole que una profesora
+      grita constantemente a su hijo por no traer sus útiles escolares o por no hacer bien la tarea, y que llega incluso
+      a golpearlo con una regla de madera. La directora levanta un acta simple registrando lo señalado, y dice a la
+      madre de familia que entiende que la situación es delicada y que tomará las medidas que se establecen para estos
+      casos.</q0>
+  <g0></g0>
+  <q>¿Cuál es la acción administrativa que debe realizar la directora inmediatamente después de levantar el acta?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Reunir al Comité de Tutoría y reportar el hecho en el SÃSEVE.</a>
+    <a>Retirar preventivamente a la profesora y comunicarlo a la UGEL mediante oficio.</a>
+    <a>Separar preventivamente a la profesora comunicándoselo mediante un memorando.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

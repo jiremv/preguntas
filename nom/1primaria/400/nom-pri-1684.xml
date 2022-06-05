@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La maestra Teresa está muy contenta porque en el año 2018 ha logrado que todos sus estudiantes
+                desarrollen aprendizajes significativos partiendo de su realidad, construyendo nuevos saberes en
+                diversas situaciones de su vida diaria y en su contexto, pero se ha dado cuenta que presentan
+                debilidades en el proceso de meta-cognición.</q0>
+    <g0></g0>
+    <q>¿Cuál de estas acciones sería la más pertinente para atender esta problemática?</q>
+    <as r="R" correcta="0">
+        <a>Aplicar un instrumento de auto evaluación para reflexionar sobre su proceso de aprendizaje,</a>
+        <a>Aplicar una lista de cotejos, para verificar el logro de los contenidos de aprendizaje.</a>
+        <a>Promover en los estudiantes la heteroevaluación que le permita sistematizar sus experiencias de
+                aprendizaje.</a>
+        <a>Preguntar a los estudiantes acerca de los procedimientos que han tenido en el desarrollo de los
+                aprendizajes esperados.</a>
+    </as>
+    <x>A.</x>
+</p>

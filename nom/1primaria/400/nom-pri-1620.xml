@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Carla trabaja con sus alumnos una noticia que han encontrado en el periódico: "Se colocarán
+                tres nuevos solmáforos (dispositivos similares a un semáforo, que indican el grado de radiación solar)
+                en la ciudad, a fin de esta alerta de los peligros de las radiaciones solares". La profesora conversa
+                con los niños, sobre el uso del bloqueador, del sombrero y los riesgos de exponerse directamente al Sol
+                en horas señaladas.</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito de esta sesión de aprendizaje?</q>
+    <as r="R" correcta="1">
+        <a>Incrementar el uso del bloqueador de mayor protección y ia compra de lentes.</a>
+        <a>Conocer algunas formas de protegerse la piel de los rayos solares.</a>
+        <a>No salir de casa durante el día, ni ir a lugares donde no haya sombra.</a>
+        <a>Identificar las causas del cáncer a la piel y evitarlas a toda costa.</a>
+    </as>
+    <x>B.</x>
+</p>

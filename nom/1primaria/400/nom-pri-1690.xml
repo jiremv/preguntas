@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luis, maestro de la I.E. N° 40207 "Mariano Melgar" de Hunter, ha ejecutado con sus estudiantes el
+                proyecto denominado "Beneficios de la Chía". El cual ha sido ganador en la FENCYT. Para ello los
+                estudiantes han demostrado interés por adquirir nuevos conocimientos en Ciencia y Tecnología.</q0>
+    <g0></g0>
+    <q>¿Qué capacidades han desarrollado los estudiantes de Luis, durante el desarrollo del proyecto?</q>
+    <as r="R" correcta="0">
+        <a>Los alumnos han desarrollado la capacidad de organizar proyectos productivos utilizando la biodiversidad
+                de su contexto.</a>
+        <a>Los alumnos han desarrollado la capacidad de seleccionar información sobre temas del uso de recursos
+                tecnológicos.</a>
+        <a>Los alumnos han desarrollado la capacidad de organizar proyectos de innovación utilizando la
+                biodiversidad de su contexto.</a>
+        <a>Los alumnos han desarrollado la capacidad de formular nuevas conjeturas basadas en evidencias reales.</a>
+    </as>
+    <x>A.</x>
+</p>

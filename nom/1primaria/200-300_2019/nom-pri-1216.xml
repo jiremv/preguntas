@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Alicia ha sido designada para hacerse cargo del 5° grado de primaria. Ella trabaja de manera muy
+       activa y didáctica e Incluye en sus sesiones el uso de material didáctico. Sin embargo ha notado que a los
+       estudiantes les cuesta compartir los materiales porque los estudiantes verbalizan "esto es mío" "este es mi
+       espacio". ¿Qué acciones inmediatas debería de tomar la docente de aula?</q>
+    <as r="R" correcta="2">
+        <a>La profesora debería de realizar actividades de reforzamlento para promover el respeto, la tolerancia y la
+           asertividad en los estudiantes.</a>
+        <a>La profesora debería de realizar actividades de reforzamiento para promover el trabajo colaboratlvo, la
+           tolerancia entre todos los estudiantes.</a>
+        <a>La profesora debe planificar sesiones de reforzamiento que Involucre el desarrollo del trabajo cooperativo, y
+           asertivo entre los estudiantes.</a>
+        <a>La profesora debe realizar actividades en las que se involucre el desarrollo del respeto, la tolerancia, la
+           asertividad y el trabajo colaborativo entre los estudiantes.</a>
+    </as>
+    <x>C.</x>
+</p>

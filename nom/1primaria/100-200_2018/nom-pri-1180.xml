@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Un docente tiene como propósito desarrollar una actividad inicial para favorecer que
+los estudiantes comprendan la generalización del patrón de una secuencia. Para ello ha
+seleccionado la siguiente secuencia:
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1180-p.png
+	</g0>
+	<q>¿Cuál de los siguientes grupos de preguntas es pertinente para favorecer el logro del propósito
+del docente?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>¿Qué relación existe entre la columna central de cuadraditos de cada figura y el número
+de figura? ¿Cuántos cuadraditos habrá en la columna central de la figura 5?, ¿en la
+figura 10?, ¿y en la figura “n”? ¿Cómo se relaciona la cantidad de cuadraditos ubicados
+a cada costado de la columna central con el número de figura? ¿Cuántos cuadraditos
+habrá en la figura “n”?</a>
+		<a>¿Cuántas figuras se observan en la secuencia? ¿Cuántos cuadraditos hay en total en las
+4 figuras presentadas? Si la expresión n + 2(n-1) permite encontrar la cantidad total de
+cuadraditos en cualquier figura, ¿cuántos cuadraditos habrá en total en la figura 10?, ¿en
+la figura 50?, ¿y en la figura 100?</a>
+		<a>¿Cuántos cuadraditos hay en la figura 1?, ¿cuántos hay en la figura 2?, ¿cuántos hay en
+la figura 3?, ¿y cuántos hay en la figura 4? ¿Cuántos cuadraditos hay en total entre la
+figura 1 y la figura 2?, ¿entre la figura 2 y la figura 3?, ¿y entre la figura 3 y la figura 4?</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

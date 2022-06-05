@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q></q>
+    <grafico>./../preguntas/nom/1primaria/700/nom-pri-1639-p.png</grafico>
+    <as r="R" correcta="0">
+        <a>Teorías constructivistas del aprendizaje</a>
+        <a>Teorías conductistas del aprendizaje</a>
+        <a>Teorías Cognitivistas del aprendizaje</a>
+        <a>Todas las anteriores</a>
+    </as>
+    <x>A.</x>
+</p>

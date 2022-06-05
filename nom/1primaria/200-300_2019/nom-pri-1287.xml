@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Tomando en cuenta que se acercan las elecciones generales, una institución educativa ha propuesto desarrollar
+        un proyecto relacionado con la participación ciudadana en los procesos electorales. En este contexto, los
+        estudiantes de sexto grado han investigado sobre los procesos electorales en la segunda mitad del siglo XX en el
+        Perú. Después de haber analizado diversas fuentes, un estudiante ha elaborado el siguiente texto.</q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1287-p.png</g0>
+    <q>¿Cuál de los siguientes aprendizajes se evidencia en el texto elaborado por el estudiante?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>El reconocimiento de la simultaneidad entre diferentes procesos históricos.</a>
+        <a>El reconocimiento de cambios y permanencias de un proceso histórico.</a>
+        <a>El reconocimiento de la multicausalidad de un proceso histórico.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

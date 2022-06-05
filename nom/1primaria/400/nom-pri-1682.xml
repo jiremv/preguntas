@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes del segundo grado de la I.E "Fernando Belaunde Terry" de Chiguata construirán un
+                herbario de plantas silvestres, para ello toman la iniciativa y proponen a la maestra Rosario realizar
+                un recorrido por la comunidad con el propósito de recolectar plantas, cumpliendo consignas durante el
+                recorrido. Al finalizar la jornada evaluarán la actividad realizada y los compromisos asumidos.</q0>
+    <g0></g0>
+    <q>¿Cuál es el rol que deben cumplir los estudiantes en la realización de una actividad significativa?</q>
+    <as r="R" correcta="0">
+        <a>El rol del estudiante es ser agente activo, participativo, proactivo y propositivo durante el desarrollo
+                de las actividades significativas.</a>
+        <a>El rol del estudiante es ser agente receptivo que asimila conocimientos, los ordena y los comunica.</a>
+        <a>El roí del estudiante como centro de los procesos pedagógicos planteados por los agentes educativos.</a>
+        <a>El rol del estudiante como agente comunicador y socializador de sus aprendizajes.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente del aula de cuatro años le pide a Iván que coloque los platos para los niños de su grupo. Entonces,
+        Iván coloca un plato en el sitio de cada compañero mientras dice: "Este es para Karen, este para Carlo, este
+        para Rocío y este para mí".</q0>
+    <g0></g0>
+    <q>¿Qué principio del conteo se evidencia en la intervención de Iván?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Correspondencia término a término.</a>
+        <a>Orden estable.</a>
+        <a>Abstracción.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

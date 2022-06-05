@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente tiene como propósito que sus estudiantes resuelvan situaciones problemáticas referidas a
+        estructuras multiplicativas. En este contexto, el docente plantea a los estudiantes el siguiente problema.</q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1273-p.png</g0>
+    <q>Al hacer el seguimiento a la labor de los estudiantes, el docente nota que la mayoría de ellos no comprende la
+       situación propuesta, por lo que decide implementar una estrategia que los ayude a comprenderla. ¿Cuál de las
+       siguientes acciones pedagógicas es pertinente para este propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Pedir a los estudiantes que planteen ejemplos sobre el reparto equitativo y presentarles una división para
+           explicarles cómo funciona el algoritmo. Luego, pedirles que resuelvan por sí mismos algunos ejercicios,
+           para que así tengan los conocimientos previos necesarios para resolver el problema propuesto.</a>
+        <a>Proponer a los estudiantes que resuelvan un problema más sencillo y de estructura diferente, pero con los
+           mismos números. Por ejemplo: "Un profesor compra 12 lápices por niño. En total ha comprado 84 lápices.
+           ¿Cuántos niños hay en su clase?". Luego, guiarlos para que identifiquen que el problema inicial donde
+           mostraron dificultad puede resolverse con la misma operación.</a>
+        <a>Resolver con los estudiantes una situación de la misma estructura, pero de menor dificultad. Por ejemplo:
+           "Tengo 3 polos y 2 pantalones. ¿De cuántas maneras puedo vestirme?". Luego, reformularla, así:
+           "Tengo 3 polos y algunos pantalones. Si los combino, puedo vestirme de 6 maneras distintas, ¿cuántos
+           pantalones tengo?" y analizar con ellos qué implica tener la incógnita en distinta posición.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

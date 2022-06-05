@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La docente Jhanina, del aula de 5 años, durante el desarrollo de su proyecto de Aprendizaje denominado: 
+    "Huertos verdes", le corresponde desarrollar una capacidad del Área Ciencia y Ambiente, en el huerto. 
+    Los niños y niñas en grupo salen del aula y se disponen a trabajar en parejas para sembrar las semillas de 
+    plantas medicinales. Jhanina tiene mucho cuidado que los niños cumplan con las normas establecidas.
+¿Cuál es la denominación más aceptada para esta actividad de aprendizaje?</q>
+    <as r="R" correcta="3">
+        <a>Aprendamos a cumplir responsabilidades en el huerto.</a>
+        <a>Aprendamos a trabajar en grupo.</a>
+        <a>Organizamos nuestras normas para trabajar en el huerto.</a>
+        <a>Sembramos semillas de plantas medicinales.</a>
+    </as>
+    <x>D.</x>
+</p>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Un docente presenta a los estudiantes una lámina en la que se representan balanzas en
+equilibrio. La lámina se muestra a continuación:
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1178-p.png
+	</g0>
+	<q>El propósito del docente es que los estudiantes establezcan relaciones de equivalencia entre
+los conos, esferas y el cilindro.
+	</q>
+	<q2>¿Cuál de las siguientes acciones pedagógicas es pertinente que realice para que se pueda
+lograr el propósito planteado?
+	</q2>
+	<as r="R" correcta="2">
+		<a>Solicitar a los estudiantes que cuenten los conos y esferas que están en la balanza 1, así
+como las esferas y cilindros que están en la balanza 2. Luego, preguntar: “Respecto de las
+balanzas 1 y 2, ¿qué objetos hay en mayor cantidad? ¿Y qué objeto en menor cantidad?”.</a>
+		<a>Presentar a los estudiantes el procedimiento de regla de tres simple para establecer la
+equivalencia y para mostrarles que dos esferas equivalen a seis conos. Luego, pedir que
+grafiquen la balanza 2 reemplazando las dos esferas por los seis conos.</a>
+		<a>Pedir a los estudiantes que identifiquen la cantidad de conos que pesan lo mismo que
+una esfera y la cantidad de esferas que pesan lo mismo que un cilindro. Luego, preguntar:
+“¿Cuántos conos pesarán lo mismo que un cilindro?”.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

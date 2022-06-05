@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la Cuna N° 02 la profesora Jenny atiende a un grupo de 5 niños de 14 a 24 meses, en el horario de
+                8.00 a.m. a 4 p.m. Los niños almuerzan en la cuna, la maestra considera que el momento de alimentación
+                es un punto sensible de la relación entre ella y sus niños.</q0>
+    <g0></g0>
+    <q>¿Qué condiciones primordiales debe tener en cuenta la profesora para el logro de capacidades en la
+               formación de hábitos alimenticios?</q>
+    <as r="R" correcta="1">
+        <a>Propiciar la alegría y tranquilidad durante las comidas, conocer sus gustos y hábitos, anticipar que
+                debe comer de todo.</a>
+        <a>Propiciar la alegría y tranquilidad durante las comidas, conocer sus gustos y hábitos, condicionar la
+                preparación de la hora de de la comida con una comunicación armoniosa.</a>
+        <a>Comunicar a los niños la hora de la comida, recomendar que deben comer todo, conocer gustos y hábitos.</a>
+        <a>Propiciar la alegría y tranquilidad durante las comidas, advertir que deben comer todo, condicionar la
+                hora de la comida con una comunicación armoniosa.</a>
+    </as>
+    <x>B.</x>
+</p>

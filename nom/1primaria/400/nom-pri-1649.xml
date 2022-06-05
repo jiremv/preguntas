@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q></q>
+    <grafico>./../preguntas/nom/1primaria/700/nom-pri-1649-p.png</grafico>
+    <as r="R" correcta="1">
+        <a>Sí es adecuada, porque orienta al estudiante desde el inicio hasta el final en el proceso matemático dándole las indicaciones precisas de cómo resolver los problemas.</a>
+        <a>No es adecuada, porque presenta un único procedimiento a aplicar y no permite que los estudiantes realmente puedan buscar cóm resolver los problemas.</a>
+        <a>Sí es adecuada, porque parte de la identificación de los errores en el aula para su posterior corrección con la ayuda del docente.</a>
+        <a>No es adecuada, porque incide en la identificación de errores y no de aciertos, lo que limita el logro de los aprendizajes propuestos en la meta.</a>
+    </as>
+    <x>B.</x>
+</p>

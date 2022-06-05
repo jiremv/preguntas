@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Un domingo Felícita planificó un proyecto de aprendizaje tomando como punto de partida la falta de higiene 
+    personal de los niños. El lunes empezó a ejecutar el proyecto durante diez días subsiguientes, al término de este 
+    tiempo evalúa el proyecto juntamente con los niños. A tu criterio:
+</q>
+    <as r="R" correcta="0">
+        <a>Felícita cumplió con la secuencia didáctica de la elaboración de un proyecto.</a>
+        <a>Felícita no cumplió con la secuencia didáctica de la elaboración de un proyecto.</a>
+        <a>Felícita debió planificar una unidad de aprendizaje.</a>
+        <a>Felícita deberá planificar un módulo de aprendizaje.</a>
+    </as>
+    <x>A.</x>
+</p>

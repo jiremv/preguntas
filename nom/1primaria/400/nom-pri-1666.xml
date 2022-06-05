@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Juana, profesora de 3° grado de primaria, inicia su sesión con un juego y ha organizado a los
+                estudiantes en grupos de 4 integrantes cada uno. El juego consiste en que cada estudiante lance los
+                dados uno por uno de tal manera que, al culminar los lanzamientos, se obtenga 21. Cada niño registra en
+                un cuadro de doble entrada los puntos obtenidos en cada lanzamiento. Gana el alumno que logre el máximo
+                puntaje.</q0>
+    <g0></g0>
+    <q>De acuerdo a lo descrito, ¿cuál considera usted que es el propósito de esta actividad?</q>
+    <as r="R" correcta="3">
+        <a>Los estudiantes realizan operaciones de cálculo mental de manera lúdica y entretenida.</a>
+        <a>Los estudiantes aprenden a operar números naturales de manera lúdica y entretenida.</a>
+        <a>Los estudiantes realizan operaciones de adición de manera lúdica y entretenida.</a>
+        <a>Los estudiantes desarrollan cálculos matemáticos de manera lúdica y entretenida.</a>
+    </as>
+    <x>D.</x>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Juan León, de una I.E. de Santa Eulalia, en su hora de clase de Tutoría estaba trabajando:
+                "Participación democrática y buen clima en el aula", mientras cada niño o niña salía al frente y exponía
+                sus ideas libremente, observó que uno de los niños le jaló el cabello a su compañero y éste reaccionó
+                muy violento, sin importarle la presencia del profesor y de los demás compañeros,</q0>
+    <g0></g0>
+    <q>¿qué debió hacer el profesor Juan al enterarse de este incidente?</q>
+    <as r="R" correcta="3">
+        <a>Dramatizar el caso, promoviendo la participación de todos los niños y niñas.</a>
+        <a>Ignorar los detalles y continuar su clase ya planificada.</a>
+        <a>Tomar como ejemplo lo sucedido y fortalecer su clase, iniciando con una llamada de atención.</a>
+        <a>Promover como estrategias la práctica de valores y el buen clima en el aula para lograr el bienestar
+                entre todos.</a>
+    </as>
+    <x>D.</x>
+</p>

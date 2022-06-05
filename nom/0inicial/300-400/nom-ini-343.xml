@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Juliana, docente del aula de 5 años, está planificando la actividad "Jugando con los números", 
+    para favorecer el desarrollo de las nociones de cantidad y número. ¿Qué material pertinente seleccionará?
+</q>
+    <as r="R" correcta="1">
+        <a>La docente selecciona bloques lógicos, regletas de Coussinaire y octogonitos.</a>
+        <a>La docente selecciona dados numéricos, tarjetas con números y figuriformas.</a>
+        <a>La docente selecciona diversas láminas de número y cantidad.</a>
+        <a>La docente selecciona rompecabezas, chapas y palitos de colores.</a>
+    </as>
+    <x>B.</x>
+</p>

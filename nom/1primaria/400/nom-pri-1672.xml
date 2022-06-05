@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Fernanda, del segundo grado de primaria, observa que algunos de sus estudiantes participan
+                poco en clase. Tienen temor a expresar oralmente sus opiniones porque algunos de sus compañeros se
+                burlan o rechazan de plano.</q0>
+    <g0></g0>
+    <q>Frente a la situación descrita, ¿cuál actividad es la más pertinente para desarrollar la capacidad de
+               expresión oral?</q>
+    <as r="R" correcta="0">
+        <a>Realizar juego de roles para que los estudiantes pierdan la timidez al exponer sus opiniones.</a>
+        <a>Proponer debates sobre temas de su interés, estimulando la participación de los estudiantes inhibidos.</a>
+        <a>Exponer diversos temas de interés de sus estudiantes, y hacer preguntas que aseguren una exitosa
+                respuesta.</a>
+        <a>Estimular la lluvia de ideas invitando a los estudiantes a plantear sus puntos de vista frente a un tema.</a>
+    </as>
+    <x>A.</x>
+</p>

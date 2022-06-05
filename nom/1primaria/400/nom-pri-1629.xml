@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Durante el aniversario del colegio "El Valor de Saber" las profesoras prepararán una vianda con sus
+                niños, por lo que la profesora Silvia de tercer grado trabajará el tema "Las recetas de cocina".</q0>
+    <q>¿Qué secuencia didáctica debe seguir la profesora para lograr que sus niños desarrollen un proceso de la
+               construcción del aprendizaje?</q>
+    <as r="R" correcta="2">
+        <a>Preparar el plato indicado por la receta, explicar a los demás cómo lo hicieron, preguntar a los niños
+                si han comido ese platillo antes, escribir la receta en casa.</a>
+        <a>Explorar lo que saben los niños sobre la receta, redactar la receta con ellos, preparar la receta y
+                explicar en otra aula cómo la prepararon.</a>
+        <a>Copiar la receta de Internet, analizar el plato y lo que lleva, explicar a los demás la preparación,
+                hacer una lista de ingredientes.</a>
+        <a>Preguntar a los chicos si han comido antes ese plato, contarlo a los demás compañeros, analizar la
+                receta con sus ingredientes y modo de preparación, elaborar la receta.</a>
+    </as>
+    <x>C.</x>
+</p>

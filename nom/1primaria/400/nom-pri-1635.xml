@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La maestra Edith del cuarto grado de la I.E. "El Badén", observa que a sus estudiantes aún les falta
+                fortalecer algunos procesos que, los conlleven a reflexionar sobre algunas actitudes negativas que
+                manifiestan durante el trabajo en equipo.</q0>
+    <q>¿Qué capacidades debe retroalimentar Edith para lograr el pensamiento crítico en sus estudiantes?</q>
+    <as r="R" correcta="2">
+        <a>Que los estudiantes desarrollan la autoestima como base de la actitud propositiva que les permitan
+                contribuir al mejoramiento y transformación de la realidad en la que se desenvuelven.</a>
+        <a>Que los estudiantes construyan su identidad para integrarse al proceso de convivencia democrática que
+                les permita contribuir al mejoramiento y transformación de la realidad en la que se desenvuelven.</a>
+        <a>Que los estudiantes desarrollen capacidades de la diversidad geográfica y del proceso histórico que les
+                permita contribuir al mejoramiento y transformación de la realidad en la que se desenvuelven.</a>
+        <a>Que los estudiantes desarrollen capacidades propositivas y reflexivas que les permita contribuir
+                al mejoramiento y transformación de la realidad en la que se desenvuelven.</a>
+    </as>
+    <x>C.</x>
+</p>

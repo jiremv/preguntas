@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el caserío de Peña Blanca se evidencia que la población hace uso irracional del agua. Además, se ha
+                identificado que los niños y jóvenes no toman conciencia de esta situación, lo que empeora el problema.
+                Frente a esta realidad, la profesora del 6° grado de educación primaria ha planificado con sus
+                estudiantes una asamblea para tratar el tema: "Propuestas para cuidad el agua en nuestra comunidad".</q0>
+    <g0></g0>
+    <q>Teniendo en cuenta los aprendizajes ciudadanos, ¿cuál de las siguientes competencias debería priorizar la
+               profesora en la sesión planteada?</q>
+    <as r="R" correcta="0">
+        <a>Delibera democráticamente.</a>
+        <a>Convive democrática e interculturalmente.</a>
+        <a>Participa democráticamente.</a>
+        <a>Preserva el entorno natural y material.</a>
+    </as>
+    <x>A.</x>
+</p>

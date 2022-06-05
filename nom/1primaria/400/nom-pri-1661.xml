@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Peter expresa la intención de su sesión de aprendizaje: "Que los niños y niñas del 6° grado, a partir de
+                las estrategias de producción de textos, aprendan a bosquejar una ficha de entrevista, para investigar
+                con sus familiares, autoridades y vecinos sobre la celebración de la Semana Santa en su comunidad".</q0>
+    <g0></g0>
+    <q>Peter sabe que los propósitos de los aprendizajes son importantes, sobre todo si lo trabajamos con los
+               niños(as) para el ejercicio de la ciudadanía, impulsando la concertación desde el aula. Para ello, debe
+               definirse el siguiente título de la sesión:</q>
+    <as r="R" correcta="1">
+        <a>Describimos la ficha de entrevista sobre la celebración de la Semana Santa en su comunidad.</a>
+        <a>Elaboramos una ficha de entrevista sobre la celebración de la Semana Santa.</a>
+        <a>Reconocemos la estructura de una ficha de entrevista sobre la celebración de la Semana Santa en su
+                comunidad.</a>
+        <a>Investigamos la celebración de la Semana Santa en la localidad.</a>
+    </as>
+    <x>B.</x>
+</p>

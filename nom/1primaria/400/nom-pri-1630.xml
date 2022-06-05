@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Juan, profesor del 5° grado de primaria, inicia su sesión 
+colocando el título: "Operaciones de suma y resta con fracciones homogéneas y heterogéneas", escribe una fracción, explica las partes de la fracción, plantea una operación de fracciones heterogéneas, y enseña cómo se halla el MCM para resolver la operación. Deja como tarea que los alumnos copien los ejercicios y que inventen 5 ejercicios similares.
+</q0>
+    <q>De acuerdo a lo descrito, ¿cuál es la secuencia didáctica más conveniente para la construcción del aprendizaje?</q>
+    <as r="R" correcta="1">
+        <a>Recuperación de los saberes previos, las actividades de procesamiento de la información, transferencia de lo aprendido y la metacognición.</a>
+	<a>Recuperación de los saberes previos, generación del conflicto cognitivo, construcción de los aprendizajes, aplicación de lo aprendido, evaluación y metacognición.</a>
+        <a>Recuperación de los saberes previos, la motivación, generación del conflicto cognitivo, construcción del aprendizaje y actividades de evaluación.</a>
+        <a>Recuperación de los saberes previos, activación del conflicto cognitivo, aplicación de lo aprendido, evaluación y metacognición.</a>
+    </as>
+    <x>B.</x>
+</p>

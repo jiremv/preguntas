@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Los estudiantes de segundo grado se encuentran leyendo textos poéticos en diversos formatos.
+En este contexto, el docente les ha propuesto la lectura del siguiente caligrama.</q>
+   <g>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1251-p.png</g>
+	<q2>Algunos estudiantes le comentan al docente que no saben cómo empezar a leer el texto.
+Por ello, él busca ayudarlos con la lectura de este caligrama. ¿Cuál de las siguientes acciones
+pedagógicas es más adecuada para lograr este propósito?</q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>Presentarles un listado con las principales características de un caligrama. Luego, pedirles
+que encuentren algunas de estas características en el texto presentado para que puedan
+leerlo sin dificultad.
+</a>
+		<a>Indicarles que lean el caligrama desde donde creen que se debería empezar. Luego, leer
+en voz alta desde 'Y yo?' siguiendo la forma de la manzana para que comparen este tipo
+de lectura con la de ellos.</a>
+		<a>Mencionarles que este es un texto diferente a los que han leído antes. Luego, proponer
+que transcriban el caligrama de otra forma empezando por la expresión 'Y yo?' para que
+les sea más sencillo leerlo.</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

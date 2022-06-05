@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+<q>Inés una niña conversadora, ingresa al aula y se pone a dibujar lo que le sucedió al llegar a la escuela. 
+Luego de dibujar, realiza grafismos debajo de su dibujo y llena toda la hoja. Su profesora observa lo sucedido y muy 
+contenta felicita a la niña ya que se dio cuenta que la niña está destacando en el desarrollo de:
+</q>
+    <as r="R" correcta="1">
+        <a>La expresión y comprensión oral.</a>
+        <a>La producción de textos.</a>
+        <a>La comprensión de textos.</a>
+        <a>La expresión y apreciación artística.</a>
+    </as>
+    <x>B.</x>
+</p>

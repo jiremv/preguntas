@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4111-p.png
+	</g0>
+	<q>En este texto, el autor se opone a la idea de que la libre competencia por sí sola puede
+mejorar la educación. ¿Cuál es el argumento principal del autor para defender su postura?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Las decisiones ante la problemática del servicio educativo deben estar basadas en
+reflexiones sesudas y no en actos de fe.</a>
+		<a>Existen fuertes diferencias entre el servicio educativo y el servicio de comida con relación
+a la disponibilidad y complejidad de la información sobre el servicio.</a>
+		<a>Las propuestas de mejora del servicio educativo que se realizan desde la perspectiva de
+la libre competencia ignoran las importantes particularidades que este servicio tiene.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

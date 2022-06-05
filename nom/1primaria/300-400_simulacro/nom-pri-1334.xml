@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La cantidad de estudiantes matriculados en una IE ha ido disminuyendo gradualmente en los últimos cinco años. Este
+      decrecimiento es más notorio en el primer y último grado. La nueva directora de la IE investiga las causas de este
+      problema y constata que una de ellas es la disminución de la calidad de la enseñanza que se brinda en la IE.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes acciones es más pertinente que realice la directora para afrontar el problema de
+      disminución de estudiantes matriculados?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Realizar reuniones de reflexión con los profesores a efectos de analizar la práctica pedagógica en la IE y
+       emprender acciones de mejora.</a>
+    <a>Identificar a los profesores que han tenido a cargo el primer y último grado en los últimos cinco años y
+       asignarles grados intermedios.</a>
+    <a>Desarrollar una mayor difusión en los medios de comunicación sobre las vacantes disponibles en la IE.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

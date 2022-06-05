@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Estoy a cargo del aula de 5 años, tengo 15 niños. Todos son muy inteligentes e inquietos, tienen diversos 
+    talentos y habilidades, son participativos y les encanta jugar la ronda. Durante los recreos noté que estaban consumiendo
+    muchas golosinas y que algunos traían en sus loncheras alimentos chatarras. Eso me preocupó y me hizo pensar que sus
+    hábitos alimenticios no eran los más adecuados, pues, representaban un riesgo para su salud. A partir de esta situación,
+    me pregunté: ¿qué tendrían que hacer mis estudiantes para desarrollar el proyecto y qué podrían aprender?
+Señale cuál seria la secuencia lógica de las preguntas que ayudarían en la planificación del proyecto:</q>
+    <as r="R" correcta="3">
+        <a>¿Qué?, ¿para qué?, ¿cuándo?, ¿dónde?, ¿con quiénes?, y ¿con qué?</a>
+        <a>¿Qué necesitaremos?, ¿qué aprenderemos? Y ¿cómo lo desarrollaremos?</a>
+        <a>¿Qué haremos?, ¿quién nos ayudará? y ¿cuánto tiempo utilizaremos?</a>
+        <a>¿Qué haremos?, ¿cómo lo haremos? Y ¿para qué lo haremos?</a>
+    </as>
+    <x>D.</x>
+</p>

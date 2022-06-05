@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Ivonne es profesora del aula de 5 años y desea realizar sesiones de aprendizaje para ejercitar la madurez
+    intelectual, el pensamiento lógico y la concentración de sus estudiantes. Ella cuenta en el aula con los sectores 
+    implementados de materiales, según el contexto y la edad de los niños, pero todavía necesita ayuda para elegir 
+    correctamente el material en sus sesiones de aprendizaje. ¿Qué materiales ayudarán a Ivonne a mejorar su sesión de 
+    aprendizaje?
+</q>
+    <as r="R" correcta="3">
+        <a>Los bloques de plástico, bloques de madera, envases para llenar, latas, conos, cajas, cubos de colores.</a>
+        <a>Libros, revistas, hojas de papel, cuentos de diferentes tamaños, plumones, lápices, papeles y crayolas.</a>
+        <a>Tienda, títeres, ropa, máscaras, muñecas, sombreros, juegos de sedación y clasificación.</a>
+        <a>Los encajes, bíngos, dominós, loterías, juegos de números, abacos, juegos de sedación y clasificación.</a>
+    </as>
+    <x>D.</x>
+</p>

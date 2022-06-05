@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Dora, profesora de aula del 5° grado en la Institución Educativa N° 36526, observa que un grupo de
+                estudiantes participan activamente en el proceso educativo, destacando entre sus apreciaciones que sus
+                estudiantes se integran a organizaciones estudiantiles como la Brigada Escolar de Defensa Civil y son
+                parte del Municipio Escolar.</q0>
+    <q>Para Dora, esta forma de participación de sus estudiantes denota:</q>
+    <as r="R" correcta="1">
+        <a>Construcción de la personalidad y participación democrática.</a>
+        <a>Construcción de la identidad y la convivencia democrática.</a>
+        <a>Definición de la identidad institucional de manera democrática.</a>
+        <a>Definición de la personalidad y convivencia social.</a>
+    </as>
+    <x>B.</x>
+</p>

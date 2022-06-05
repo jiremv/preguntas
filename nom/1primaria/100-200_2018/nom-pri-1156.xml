@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1155-p.png
+	</g0>
+	<q>Un estudiante ha decidido escribir sobre las ballenas. Por ello, está buscando información en
+una enciclopedia ilustrada. El docente lo acompaña a explorar el índice de dicha enciclopedia
+y le pide que busque la frase ‘la ballena’. Entonces, el estudiante señala ‘la gallina’ y le dice:
+“La encontré. Aquí dice ‘la ballena’, profesor”.
+	</q>
+	<q2>El docente tiene como propósito ayudar al estudiante a avanzar en su apropiación del sistema
+de escritura. ¿Cuál es la acción pedagógica más adecuada para ello?	
+	</q2>
+	<as r="R" correcta="2">
+		<a>“Aquí dice ‘la gallina’ (señalando la frase que eligió el estudiante). Te sugiero que vuelvas
+a buscar, pero esta vez hazlo más despacio. ¿Te parece?”.</a>
+		<a>“¿Aquí dice ‘la ballena’ (señalando ´la gallina´)? ¿Estás seguro? Mejor, primero busca el
+nombre de otros animales. ¿Hay alguno que puedas reconocer?”.</a>
+		<a>“¿Aquí dice ‘la ballena’? Aquí dice ‘la’ (señala ‘la’). Y acá, ¿qué dice (señalando ‘gallina’)?
+Miremos dentro del libro el título y la imagen que acompañan a lo que acabas de leer”.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

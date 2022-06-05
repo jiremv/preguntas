@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Elena del 4° grado de primaria a tomado una evaluación a sus estudiantes en el área de matemática.
+       Los resultados demuestran que sólo un 30% de los estudiantes han logrado alcanzar el nivel de logro previsto y un
+       70% se ubica por debajo del nivel. De acuerdo a la situación descrita, ¿qué acción es la más conveniente para
+       mejorar los aprendizajes de los estudiantes?</q>
+    <as r="R" correcta="0">
+        <a>Identificar las capacidades aun no logradas por sus estudiantes, analizando la información obtenida y diseñar
+           diversas estrategias para elevar el nivel de aprendizaje.</a>
+        <a>Reflexionar sobre los resultados y las estrategias de enseñanza-aprendizaje que se han seleccionado en los
+           procesos de planificación y ejecución curricular.</a>
+        <a>Realizar una estadística con los datos obtenidos en la evaluación y comunicar a los padres de familia.</a>
+        <a>Elaborar una relación de dificultades encontradas en cada alumno y colocar en la libreta de notas.</a>
+    </as>
+    <x>A.</x>
+</p>

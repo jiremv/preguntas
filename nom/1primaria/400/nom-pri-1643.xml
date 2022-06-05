@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>El profesor Arturo que trabaja en una escuela rural muy alejada de
+              la provincia de Lima, se siente muy optimista porque tiene una
+              meta muy importante en su vida profesional: "Lograr que sus niños
+              y niñas aprendan", pero la realidad de su aula no es la más
+              favorable, pues tiene niños y niñas con un buen nivel de
+              rendimiento y otros con diferentes problemas de aprendizaje, él
+              tiene en mente superar todas las dificultades, pues sabe que su
+              labor pedagógica debe estar centrada específicamente en los
+              aprendizajes.</q0>
+  <q>El compromiso del profesor está en función de:</q>
+  <as r="R" correcta="3">
+    <a>Facilitar el protagonismo de los estudiantes para que éste pueda
+            jugar un papel diferente en su quehacer diario.</a>
+    <a>Diseñar creativa e intencionalmente actividades y sesiones
+            generadoras de muchos conocimientos.</a>
+    <a>Presentar contenidos que sean culturalmente pertinentes a la
+            realidad de los niños y niñas.</a>
+    <a>Asumir el rol de mediador de la construcción de los aprendizajes
+            ofreciendo oportunidades y espacios para desarrollar capacidades.</a>
+  </as>
+  <x>D.</x>
+</p>

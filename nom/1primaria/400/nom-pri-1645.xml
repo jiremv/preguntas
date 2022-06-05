@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Alejandra ha sido reubicada recientemente a una IE que poco
+             conoce, y se organiza porque tiene que realizar su planificación.
+             Como toda maestra responsable Alejandra sabe que tiene que leer
+             sobre el lugar donde está la IE y conocer a los que serán sus
+             estudiantes, pues está segura que el buen dominio de tres aspectos
+             esenciales le permitirá una planificación pertinente. ¿Cuáles son
+             estos tres aspectos?</q>
+  <as r="R" correcta="0">
+    <a>Los estudiantes, los aprendizajes y la pedagógica</a>
+    <a>Los estudiantes, los aprendizajes y las teorías del desarrollo</a>
+    <a>Los estudiantes, el contexto y la pedagógica</a>
+    <a>Los estudiantes, Los materiales educativos y la pedagogía.</a>
+  </as>
+  <x>A.</x>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?><!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>El equipo de docentes del tercer grado de primaria está elaborando
+              una unidad de aprendizaje.</q0>
+  <q>Cuál de las siguientes alternativas contiene una secuencia adecuada
+             de acciones para planificar dicha unidad desde un enfoque por
+             competencias?</q>
+  <as r="R" correcta="1">
+    <a>Identificar una situación significativa y organizar las sesiones en
+            base a distintas competencias, capacidades y contenidos temáticos,
+            plantear como situación final una serie de situaciones que evalúen
+            cada capacidad.</a>
+    <a>Identificar una situación significativa y organizar las sesiones en
+            base a distintas competencias, capacidades y contenidos temáticos;
+            plantear como actividad final un producto que requiere poner en
+            juego las competencias trabajadas.</a>
+    <a>Identificar una situación significativa y organizar las sesiones en
+            base a distintas competencias y capacidades, sin tomar en cuenta los
+            contenidos temáticos, plantear como actividad final una serie de
+            situaciones que evalúen cada capacidad.</a>
+    <a>Identificar una situación significativa y organizar las sesiones en
+            base a distintas competencias y capacidades; sin tomar en cuenta los
+            contenidos temáticos; plantear como actividad final un producto que
+            requiere poner en juego las competencias trabajadas.</a>
+  </as>
+  <x>B.</x>
+</p>

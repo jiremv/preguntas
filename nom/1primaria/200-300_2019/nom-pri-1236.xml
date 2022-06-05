@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de una I.E. de Arequipa presentan dificultades para resolver problemas aditivos de compra y
+        venta, a pesar que la maestra explica los problemas en la pizarra con dibujos, sus estudiantes no logran
+        solucionarlos adecuadamente, no ponen interés, no plantean estrategias y se equivocan continuamente.</q0>
+    <q>¿Qué actividad es la más pertinente para ayudar a los estudiantes a resolver los problemas que se proponen en el
+       aula?</q>
+    <as r="R" correcta="3">
+        <a>Llevarlos de visita al mercado para que interactúen con los comerciantes y apliquen estrategias.</a>
+        <a>Aplicar fichas de trabajo que cuenten con problemas aditivos y luego desarrollarlos en la pizarra.</a>
+        <a>Trabajar en grupos y explicar en los papelógrafos las fases para resolver el problema.</a>
+        <a>Jugar a la "tiendita" en grupos utilizando billetes y monedas; luego, aplicar estrategias para resolver
+           situaciones cotidianas.</a>
+    </as>
+    <x>D.</x>
+</p>

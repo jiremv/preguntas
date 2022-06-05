@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>/../../preguntas/nom/1primaria/200-300_2019/nom-pri-1265-p1.png</g0>
+    <q>¿Qué proceso de la nutrición de las plantas está involucrado directamente en la indagación que propone Marta?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Transpiración</a>
+        <a>Fotosíntesis</a>
+        <a>Transporte</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Pilar, a cargo del 3° grado, observa durante el recreo que los estudiantes no hacen caso de
+                las recomendaciones de tener cuidado al subir y bajar las escaleras de la escuela, a pesar de que el día
+                anterior hubo un accidente. Frente a esta situación, la docente planifica trabajar la capacidad:
+                Identifica y evita situaciones que puedan causarle daño en la vida cotidiana.</q0>
+    <g0></g0>
+    <q>Ante la situación descrita, ¿cuál de los procesos debe priorizar la profesora para desarrollar dicha
+               capacidad?</q>
+    <as r="R" correcta="3">
+        <a>Indagación de los accidentes más frecuentes de la escuela.</a>
+        <a>Interpretación de las causas de los accidentes ocurridos en la escuela.</a>
+        <a>Observación de videos sobre los accidentes más frecuentes en las escuelas.</a>
+        <a>Análisis de las situaciones y lugares peligrosos de la escuela.</a>
+    </as>
+    <x>D.</x>
+</p>

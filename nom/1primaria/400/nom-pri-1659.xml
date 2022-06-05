@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+<q>El profesor David ejecuta una sesión de aprendizaje y considera la siguiente secuencia: Observación de una planta medicinal "El llantén", descripción de lo observado, búsqueda de la información relacionada a las propiedades de la planta haciendo uso de textos de la biblioteca de aula, utilización de fichas para las ideas principales, elaboración de un mapa mental y exposición. 
+El profesor tiene como principal propósito de la sesión de aprendizaje, lo siguiente:
+</q>
+<as r="R" correcta="2">
+<a>Promover capacidades para la descripción de una planta medicinal utilizando fichas textuales. 
+</a><a>Promover capacidades para la búsqueda de información y para elaborar un organizador visual. 
+</a><a>Desarrollar capacidades para identificar las propiedades de la planta. 
+</a><a>Desarrollar capacidades para la búsqueda de información utilizando textos de la biblioteca.</a>
+</as>
+<x>C.</x>
+</p>

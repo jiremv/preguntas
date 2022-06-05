@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los profesores del quinto grado de primaria han planificado una jornada pedagógica para debatir y
+                reflexionar sobre el bajo rendimiento de sus estudiantes en la comprensión de textos. Producto de esta
+                jornada, se reconoció como principal dificultad que ios estudiantes no identifican la información en los
+                textos leídos.</q0>
+    <g0></g0>
+    <q>De acuerdo a la situación descrita, ¿qué actividades deben desarrollar los docentes con sus estudiantes?</q>
+    <as r="R" correcta="1">
+        <a>Establecer relaciones entre la información del texto y las preguntas literales e inferenciales
+                formuladas.</a>
+        <a>Localizar la información en diversos tipos de textos, a través del sumillado y el subrayado.</a>
+        <a>Deducir el contenido de los textos ubicando en ellos la información relevante de acuerdo al propósito
+                lector.</a>
+        <a>Determinar la estructura de los diversos tipos de textos y establecer relaciones entre la información
+                implícita.</a>
+    </as>
+    <x>B.</x>
+</p>

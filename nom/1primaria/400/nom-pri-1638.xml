@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Roger revisa las pruebas escritas de sus alumnos. Al terminar, entrega a cada uno de ellos.
+                Milber observa su prueba y lee el comentario escrito por su profesor.</q0>
+    <q>Esta acción que realiza el profesor es un tipo de:</q>
+    <as r="R" correcta="0">
+        <a>Retroalimentación.</a>
+        <a>Corrección de errores.</a>
+        <a>Emisión de un juicio de valor.</a>
+        <a>Toma de decisiones oportunas.</a>
+    </as>
+    <x>A.</x>
+</p>

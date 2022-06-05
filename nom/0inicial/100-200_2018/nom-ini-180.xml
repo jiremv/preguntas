@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Después de visitar la tienda de la localidad, los niños y la docente del aula de cinco años deciden organizar
+        una tienda en el aula. Para ello, los niños recolectan botellas, empaques y envolturas de distintos productos.
+        Mientras los niños ordenan la tienda, la docente recorre el aula y observa que Samuel está sujetando una
+        envoltura y mirándola fijamente.</q0>
+    <g0></g0>
+    <q>La docente tiene la intención de aprovechar esa situación para favorecer que Samuel se aproxime a la lectura.
+       ¿Qué acción es pertinente para dicho propósito?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Preguntar a Samuel qué dirá en la envoltura y por qué piensa que eso es lo que dice en esta.</a>
+        <a>Proponer a Samuel que lea las vocales que encuentra en la envoltura señalándolas, y que lo haga de izquierda
+           a derecha.</a>
+        <a>Decir a Samuel que, como lo ve interesado, le leerá lo que dice en la envoltura para que él repita las
+           palabras después de ella.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

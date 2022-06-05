@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora María, para enseñar la noción del 0 al 9, utilizó chapas y piedras recogidas en el paseo al 
+    río. En este caso, la docente utilizó el material:
+</q>
+    <as r="R" correcta="2">
+        <a>No Estructurado</a>
+        <a>Estructurado por la profesora</a>
+        <a>Del Entorno y/o medio</a>
+        <a>Recogido con fines de enseñar matemática</a>
+    </as>
+    <x>C.</x>
+</p>

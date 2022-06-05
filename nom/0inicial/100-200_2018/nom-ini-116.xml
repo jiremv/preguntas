@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4116-p.png</g0>
+    <q>Entre los siguientes hechos presentados en el texto, ¿cuál ocurrió primero?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>El Dr. Mark Hegsted llegó a convertirse en el director de nutrición del Departamento de Agricultura de los
+           Estados Unidos.</a>
+        <a>John Hickson y sus colegas discutieron un plan con el objetivo de redireccionar la opinión pública sobre los
+           efectos que genera el azúcar en la salud.</a>
+        <a>La prensa informó que algunas empresas financiaban estudios que aseguraban que los niños que consumían dulces
+           tendían a pesar menos que aquellos que no lo hacían.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

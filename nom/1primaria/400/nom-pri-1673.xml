@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>El docente identifica dificultades en los niños del III Ciclo, para la resolución de situaciones
+               problemáticas, el mediador facilita el proceso de enseñanza-aprendizaje .............</q>
+    <as r="R" correcta="2">
+        <a>Haciendo observaciones, críticas y llamadas de atención.</a>
+        <a>Induciendo de manera abstracta al proceso de enseñanza-aprendizaje.</a>
+        <a>Cuando matematiza y representa con materiales concretos en el proceso de enseñanza-aprendizaje.</a>
+        <a>Cuando no utiliza las estrategias metodológicas en el proceso de enseñanza-aprendizaje.</a>
+    </as>
+    <x>C.</x>
+</p>

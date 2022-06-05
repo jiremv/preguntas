@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>"¡Tenemos que afianzar el tema de probabilidades!"-Dice Ciro-uno de los 4 docentes de Matemática del
+                5° grado de la I.E. polidocente N° 18009. "¡Cierto, propongamos diversas situaciones problema!" Dijeron
+                todos y expresaron sus propuestas.</q0>
+    <g0></g0>
+    <q>¿Cuál de estas propuestas es la más adecuada?</q>
+    <as r="R" correcta="2">
+        <a>Recaudar dinero para la excursión de la sección.</a>
+        <a>Organizar un stand para el "Kiosko Escolar".</a>
+        <a>Organizar y ejecutar un campeonato de ajedrez donde jueguen todos contra todos.</a>
+        <a>Diseñar y construir el farol de la sección para el concurso de las fiestas de aniversario de la I.E.</a>
+    </as>
+    <x>C.</x>
+</p>

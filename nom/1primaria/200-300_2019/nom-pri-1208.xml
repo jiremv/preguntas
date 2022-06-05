@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En una escuelita rural del distrito de Huancaya trabaja la maestra Domitila Guerra. A su cargo tiene niños y
+       niñas del 4° grado de primaria. Un día había programado desarrollar aprendizajes referidos al estudio del ciclo
+       del agua. Al averiguar los saberes previos de los niños y niñas decían que el agua tiene su origen en las nubes,
+       pues allí se llenaban los ríos y las aguas terminaban en el mar. Frente a esta concepción de los niños y niñas,
+       ¿qué debe hacer el profesor para relacionar los saberes previos con los nuevos saberes?</q>
+    <as r="R" correcta="2">
+        <a>Dejar que los niños y niñas mantengan sus ideas hasta que estén en secundaria.</a>
+        <a>Realizar prácticas de laboratorio en relación al tema para explicar su origen.</a>
+        <a>Realizar experimentos que evidencian el ciclo del agua a través de medios físicos.</a>
+        <a>Demostrar la verdadera realidad y a través de la indagación de los libros de C.A del Estado.</a>
+    </as>
+    <x>C.</x>
+</p>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de 3° grado trabajan el proyecto "Cuidemos el agua". Luego de muchas propuestas de
+                actividades, acordaron elaborar un afiche, con la finalidad de motivar la toma de conciencia sobre el
+                cuidado y conservación del agua. Para la elaboración del afiche la docente sugirió que, en equipos
+                determinaran el tema, los posibles destinatarios, el estilo, la estructura interna del texto, etc.</q0>
+    <g0></g0>
+    <q>¿Cuáles de las siguientes actividades corresponden al proceso de producción total del afiche?</q>
+    <as r="R" correcta="1">
+        <a>Evaluación de la coherencia y etilo del texto.</a>
+        <a>Escritura preliminar, revisión y publicación.</a>
+        <a>Revisión del estilo y del aspecto formal del texto.</a>
+        <a>Revisión de la ortografía, cohesión y coherencia.</a>
+    </as>
+    <x>B.</x>
+</p>

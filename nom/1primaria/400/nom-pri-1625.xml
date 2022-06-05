@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Luis, en la clase de matemática, guía, explora y respalda las iniciativas de sus
+                estudiantes, sin dar la clase de manera frontal tipo conferencia,</q0>
+    <q>esto evidencia...</q>
+    <as r="R" correcta="3">
+        <a>Dominio de saberes diarios.</a>
+        <a>Adecuado desempeño docente.</a>
+        <a>Dominio en la resolución de situaciones problemáticas.</a>
+        <a>Experiencia como docente.</a>
+    </as>
+    <x>D.</x>
+</p>

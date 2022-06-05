@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Sarita es una niña de segundo grado de primaria. Es poco participativa, cuando se le hace preguntas
+               responde con la voz muy baja y al opinar frente alguna situación se aprecia cierta desorganización en sus
+               ideas. Ante esta situación descrita, ¿cuál de las actividades deberá trabajar la docente para desarrollar
+               la capacidad de expresión oral de Sarita?</q>
+    <as r="R" correcta="2">
+        <a>Participar en diversos discursos orales en clase, utilizando expresiones formales y coloquiales.</a>
+        <a>Presentar sus ideas por escrito y revisar la coherencia de ellas antes de brindar una opinión.</a>
+        <a>Efectuar conversaciones, escuchar la escucha activa y tener presente las características de la voz.</a>
+        <a>Exponer diversos temas en clase teniendo en cuenta la coherencia entre el tema y las ideas, siguiendo
+                una secuencia lógica.</a>
+    </as>
+    <x>C.</x>
+</p>

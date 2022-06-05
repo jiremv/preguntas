@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Zoraida enseña en una I.E ubicada a 5 kilómetros del distrito donde vive. Normalmente va a la escuela a
+               pie y algunas veces en microbús. Un dia se quedó dormida y enfrenta un problema; ¿cómo llegar a tiempo a
+               la I.E? Ella evalúa esta situación para buscar una solución: "Son las 7:30 horas y debo entrar a la
+               escuela a las 8:00 horas" "Si voy caminando llegaré tarde a la escuela" "Si voy en microbús, llegaré a
+               tiempo a la escuela" Zoraida se da cuenta que asi como ella, los estudiantes también enfrentan
+               diariamente situaciones problemáticas. A partir de la situación planteada, ¿cuál de los enunciados,
+               permite del desarrollo de capacidades matemáticas en los estudiantes?</q>
+    <as r="R" correcta="3">
+        <a>Que los estudiantes que llegan temprano a clases no tienen problemas.</a>
+        <a>Que los estudiantes que aprenden matemáticas son buenos.</a>
+        <a>Que la profesora Zoraida debe entrar a la escuela antes de las 8:00 hs.</a>
+        <a>Que los estudiantes aprenden a matematizar a partir de situaciones reales.</a>
+    </as>
+    <x>D.</x>
+</p>

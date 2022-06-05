@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Julio es un docente que tiene planificado desarrollar una sesión de aprendizaje basada en la resolución
+                de problemas aditivos de expresión verbal, para tal caso utilizará material que facilite a los
+                estudiantes la construcción de sus aprendizajes significativos.</q0>
+    <g0></g0>
+    <q>¿Qué tipo de material deberán utilizar los estudiantes para la resolución de problemas matemáticos?</q>
+    <as r="R" correcta="0">
+        <a>Los estudiantes utilizarán material estructurado y no estructurado para la resolución de problemas.</a>
+        <a>Los estudiantes utilizarán material base diez, para la resolución de problemas,</a>
+        <a>Los estudiantes utilizarán los textos y cuadernos que proporcional el Ministerio de Educación.</a>
+        <a>Los estudiantes construirán aprendizajes significativos utilizando material simbólico.</a>
+    </as>
+    <x>A.</x>
+</p>

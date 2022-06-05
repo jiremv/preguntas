@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La maestra Julia está interesada en promover el desarrollo del pensamiento científico de sus niños y niñas,
+    para ello pretende utilizar los materiales entregados por el MED. Tomando en cuenta que debe promover el proceso de 
+    indagación, ¿qué secuencia debe seguir la profesora?
+</q>
+    <as r="R" correcta="2">
+        <a>Formulación de hipótesis, experimentación, observación, formulación de conclusiones y verbalización.</a>
+        <a>Observación, experimentación, formulación de hipótesis, verbalización y formulación de conclusiones.</a>
+        <a>Observación, formulación de hipótesis, experimentación, verbalización y formulación de conclusiones.</a>
+        <a>Formulación de hipótesis, observación, verbalización y formulación de conclusiones.</a>
+    </as>
+    <x>C.</x>
+</p>

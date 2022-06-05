@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En un cuadrado de 10 cm de lado, cada vértice está representado por las letras J, K, L y M, en ese orden y de
+        forma consecutiva.</q0>
+    <g0></g0>
+    <q>Si un punto móvil inicia su recorrido en el vértice J, luego se dirige al vértice K, luego a L, después a M y
+       continúa hacia J, y vuelve a repetir sucesivamente el mismo trayecto, ¿en qué vértice se encontrará el punto
+       móvil cuando recorra 370 cm?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>J</a>
+        <a>K</a>
+        <a>L</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

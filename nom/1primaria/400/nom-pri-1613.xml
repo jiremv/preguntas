@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Carmen es profesora del 3° grado de primaria. Ella quiere desarrollar la capacidad en el dominio de
+                número y operaciones: Matematiza situaciones que involucran cantidades y magnitudes en diversos
+                contextos.</q0>
+    <g0></g0>
+    <q>¿Cuál sería la situación problemática más pertinente para desarrollar la capacidad matematiza?</q>
+    <as r="R" correcta="0">
+        <a>La visita a un zoológico, luego los alumnos registran los datos numéricos en una ficha y responden
+                preguntas.</a>
+        <a>El reparto de la leche y los panes del desayuno escolar y representan la acción con el material de base
+                diez.</a>
+        <a>Reparto de una pizza entre los estudiantes y usan expresiones simbólicas, técnicas y formales.</a>
+        <a>Jugar a la tienda escolar, realizan simulaciones con material concreto para resolver el problema.</a>
+    </as>
+    <x>A.</x>
+</p>

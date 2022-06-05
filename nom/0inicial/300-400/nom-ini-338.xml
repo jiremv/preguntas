@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Los niños y niñas desde el nivel inicial adquieren prácticas para el hábito a la lectura; para ello, la 
+    docente considera ambientar el sector de la biblioteca y letrar el aula. La mayoría de los niños y niñas no se interesan 
+    por la biblioteca, se pelean y a veces rompen los libros y no están logrando el propósito.
+¿Cuál de las estrategias consideras pertinente para lograr que los niños y niñas se Interesen y adquieran prácticas para 
+el hábito a la lectura?
+</q>
+    <as r="R" correcta="1">
+        <a>Reorganizar el sector de la biblioteca a través de un proyecto e involucrar a los niños y niñas en su planificación, evaluación y ejecución.</a>
+        <a>Plantear un proyecto sobre la organización y funcionamiento de la biblioteca así como letrar el aula con las producciones de los niños.</a>
+        <a>Pedir opinión a ios niños y niñas para reubicar la biblioteca y letrar el aula.</a>
+        <a>Propiciar la lectura diaria de los carteles ubicados en el aula para que se Interesen en la lectura.</a>
+    </as>
+    <x>B.</x>
+</p>

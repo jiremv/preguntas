@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La profesora Anita del 6° grado, ha planificado la actividad "Escribimos un texto informativo con gráficos",
+        luego de la cual plantea a sus alumnos la producción de un texto informativo sobre algún tema investigado por
+        ellos, incluyendo tablas y gráficos. Para ello, les orientó realizar previamente las siguientes actividades:
+        Escoger ideas según las características del texto, organiza el texto y buscar recursos lingüísticos y las
+        imágenes.</q0>
+    <g0></g0>
+    <q>Anita obvió una actividad, ¿Qué actividad previa obvió la profesora?</q>
+    <as r="R" correcta="0">
+        <a>Definir la situación comunicativa.</a>
+        <a>Definir la revisión y reescritura.</a>
+        <a>Definir la edición del texto.</a>
+        <a>Definir la cohesión y la coherencia.</a>
+    </as>
+    <x>A.</x>
+</p>

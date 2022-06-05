@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Desde hace un mes, Percy, estudiante de sexto grado, comparte la mesa de trabajo con
+Alejandra, quien mueve las piernas cuando intenta concentrarse. La docente ha notado la
+incomodidad de Percy y le ha preguntado si algo le molesta. Sin embargo, él ha contestado
+que no. Durante el último trabajo del mes, Percy ha increpado a Alejandra, levantando la
+voz: “¡Es imposible concentrarse contigo cerca! ¡Deja de moverte! ¡Parece que tienes un
+problema!”.
+	</q0>
+	<g0>
+	</g0>
+	<q>Además de acompañar a los estudiantes a resolver la situación de conflicto, la docente
+considera necesario que desarrollen habilidades socioemocionales. Según lo manifestado
+por Percy, ¿cuál de los siguientes propósitos es pertinente que priorice la docente en el caso
+de este estudiante?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Promover que Percy aprenda a reconocer las características y necesidades de sus
+compañeros.</a>
+		<a>Promover que Percy aprenda a manifestar empatía ante las emociones de sus
+compañeros.</a>
+		<a>Promover que Percy aprenda a comunicar sus necesidades de forma asertiva a sus
+compañeros.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

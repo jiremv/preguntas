@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q></q>
+    <grafico>./../preguntas/nom/1primaria/700/nom-pri-1648-p.png</grafico>
+    <as r="R" correcta="3">
+        <a>La actividad realizada es coherente con el enfoque porque permite participar a los estudiantes iniciando la operación que se debe aplicar.</a>
+        <a>La actividad realizada es coherente con el enfoque porque permite a los estudiantes ejercitarse en la resolución de problemas.</a>
+        <a>La actividad realizada NO es coherente porque primero el docente debe explicar la resolución de problemas tipo.</a>
+        <a>La actividad realizada NO es coherente porque el docente debió partir de una situación problemática siguiendo el proceso natural del aprendizaje de la matemática.</a>
+    </as>
+    <x>D.</x>
+</p>

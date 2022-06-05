@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente José Luis, tutor del aula de 6° grado de primaria, sabe que durante el mes de noviembre, el
+                distrito a donde pertenece la I.E "Rosa de América", estará de aniversario. Para esta fecha, muchos de
+                los nacidos aquí, retornan a su pueblo con sus familias a pasar estas fiestas. En esta fecha se realizan
+                ferias gastronómicas donde se presentan diversas comidas típicas y criollas. El docente ha propuesto que
+                sus estudiantes visiten la feria e identifiquen los platos típicos elaborados con productos de la
+                localidad y mayor valor nutritivo.</q0>
+    <g0></g0>
+    <q>¿Qué capacidad se estará desarrollando con esta actividad?</q>
+    <as r="R" correcta="3">
+        <a>Describe el recorrido de los alimentos y del aire en los seres humanos.</a>
+        <a>Clasifica los alimentos en grupos, según necesidades: para crecer, energéticos ricos en vitaminas, para
+                fortalecer huesos y músculos.</a>
+        <a>Investiga las condiciones de higiene que deben reunir los alimentos aptos para el consumo.</a>
+        <a>Identifica los principales productos alimenticios que produce su localidad y reconoce su valor nutritivo.</a>
+    </as>
+    <x>D.</x>
+</p>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>El aula de la profesora Teresa se encuentra implementada adecuadamente con los materiales necesarios para 
+    los diversos sectores y dentro de su planificación para niños de 5 años, está desarrollar una sesión de aprendizaje 
+    referente a "Jugamos con la balanza". Esto permitirá a que los niños identifiquen objetos pesados y livianos.
+¿Cuál de las alternativas corresponde al uso pertinente de materiales?
+</q>
+    <as r="R" correcta="1">
+        <a>Teresa sólo piensa llevarlos a una tienda porque considera que no es importante los materiales.</a>
+        <a>Teresa organiza los materiales como: balanza, cucharas, medidoras, piedras, almohaditas, kit de cocina, frutas, 
+saquitos de tierra y arena.</a>
+        <a>Teresa incluye en su sesión de aprendizaje como material la balanza, como una papaya y una bolsa de algodón.</a>
+        <a>Teresa considera el uso de una lámina porque trabaja en una zona rural y tiene que volver a la ciudad.</a>
+    </as>
+    <x>B.</x>
+</p>

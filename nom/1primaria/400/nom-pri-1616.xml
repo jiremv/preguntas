@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la clase de Ciencia y Ambiente, la profesora Melisa, a cargo del 4o grado de primaria, tiene previsto
+                desarrollar en sus estudiantes la siguiente capacidad: Identifica propiedades de los suelos que permiten
+                sus diversas aplicaciones en la agricultura y la industria. Para lograr su propósito la docente realiza
+                una serie de actividades.</q0>
+    <g0></g0>
+    <q>¿En cuál de los siguientes casos la docente cumple el rol de mediador y los estudiantes un rol activo en
+               el proceso de construcción de sus aprendizajes?</q>
+    <as r="R" correcta="1">
+        <a>Lleva al aula muestrarios de diversos tipos de suelo, los estudiantes forman grupos de trabajo observan
+                las características de cada tipo de suelo y en un papelote anotan sus conclusiones y las exponen.</a>
+        <a>Planifica la salida al campo para observar los diversos tipos de suelo y elabora un cuestionario para
+                que los estudiantes anoten la información recopilada con la guía de la docente para luego ser expuesto
+                en el aula.</a>
+        <a>Reparte los libros del Ministerio a los alumnos y leen el texto: los tipos de suelo y sus aplicaciones
+                en la agricultura y la industria, y luego escribe en la pizarra un resumen sobre el tema y deja
+                preguntas de refuerzo para que investiguen.</a>
+        <a>Elabora una ficha de lectura sobre los diversos tipos de suelo y lleva láminas sobre las aplicaciones en
+                la agricultura y la industria, explica sobre el tema y luego realiza preguntas sobre el tema. Los
+                estudiantes anotan las conclusiones en el cuaderno.</a>
+    </as>
+    <x>B.</x>
+</p>

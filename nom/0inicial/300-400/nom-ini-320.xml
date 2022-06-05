@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Los niños y niñas de 5 años del aula "Amor" se llaman por Apodos y tienen actitudes de discriminación por
+    parte de algunas niñas hacia otras. Esta situación ha generado que existan conflictos en el aula y en algunoscasos 
+    agresiones. ¿Qué debe hacer la docente para revertir esta situación?</q>
+    <as r="R" correcta="2">
+        <a>Una asamblea con los padres y madres de familia de los niños y niñas que han provocado las agresiones 
+        para corregir las actitudes de sus hijos e hijas.</a>
+        <a>Una sesión de tutoría a partir de un cuento, para luego realizar las preguntas y reflexionar sobre lo 
+        leído, dramatizar y dibujar lo que más les gustó.</a>
+        <a>Una asamblea con los niños y niñas sobre el problema, recogiendo sus experiencias, intereses, malestares
+        y alternativas de solución.</a>
+        <a>Conversar con todos los niños y niñas para tomar en consenso sanciones que se debe dar a los que son
+        agresivos y usan apodos.</a>
+    </as>
+    <x>C.</x>
+</p>

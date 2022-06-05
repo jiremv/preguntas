@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Un docente ha pedido a los estudiantes que lleven a la próxima sesión de aprendizaje libros
+publicados hace mucho tiempo y libros publicados recientemente para desarrollar la siguiente
+actividad:
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1163-p.png
+	</g0>
+	<q>¿A cuál de los siguientes aprendizajes favorece la actividad descrita?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>A la organización de una secuencia cronológica.</a>
+		<a>A la identificación de diferentes unidades temporales.</a>
+		<a>A la clasificación de hechos de acuerdo a una periodización.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

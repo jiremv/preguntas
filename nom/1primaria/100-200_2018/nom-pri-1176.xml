@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/100-200_2018/nom-pri-1176-p.png
+	</g0>
+	<q>La docente nota que algunos estudiantes de este grupo tienen dificultades para comenzar
+con la construcción del gráfico de barras.
+	</q>
+	<q2>¿Cuál de las siguientes acciones pedagógicas es pertinente para orientar a estos estudiantes
+a superar su dificultad?	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Entregar periódicos o revistas para que identifiquen gráficos de barras. Luego, preguntar:
+“¿De qué tratan dichos gráficos? ¿Qué forma tienen las barras? ¿Cuántas variables se
+relacionan?”. Finalmente, pedir que vuelvan a revisar la tabla e identifiquen la cantidad
+de horas que duerme cada animal.</a>
+		<a>Entregar un gráfico de barras con los valores de la escala vertical, pero sin que aparezcan
+los nombres de los animales. Luego, pedir a los estudiantes que escriban los nombres de
+los animales según la cantidad de horas expresada en cada barra. Finalmente, solicitar
+que escriban un título para el gráfico.</a>
+		<a>Entregar gráficos de barras verticales para que los analicen y señalen qué tienen en
+común. Luego, solicitar que indiquen si el nombre de cada animal o si la cantidad de
+horas que duerme cada uno debe ir en el eje horizontal. Finalmente, pedir que grafiquen
+las barras que representan la cantidad de horas que duerme cada animal.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

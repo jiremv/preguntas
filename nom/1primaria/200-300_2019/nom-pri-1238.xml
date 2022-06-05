@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Felipe de la I.E. "Neptalí Valderrama Ampuero" tiene a su cargo la sección del sexto grado. En el
+        marco de su programación curricular desarrolla contenidos sobre la importancia del agua en sus diferentes
+        estados, para esto ha propuesto que sus estudiantes diseñen un experimento para demostrar la importancia del
+        agua como elemento para el desarrollo de la vida. Al momento de iniciar la sesión de aprendizaje, repentinamente
+        cae una fuerte granizada.</q0>
+    <q>¿Qué debe hacer Felipe y sus estudiantes ante este fenómeno?</q>
+    <as r="R" correcta="2">
+        <a>Comentan sobre el fenómeno meteorológico, luego sigue con el experimento.</a>
+        <a>Continúan con el experimento, salen y aprecian el fenómeno meteorológico y finalmente lo comentan en el aula.</a>
+        <a>Observan, interactúan, comentan sobre el fenómeno meteorológico y continúan con el experimento.</a>
+        <a>Observan el fenómeno meteorológico, para luego proseguir con el experimento.</a>
+    </as>
+    <x>C.</x>
+</p>

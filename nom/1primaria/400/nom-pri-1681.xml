@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Juanita es una niña que ayuda en el puesto de jugos a su madre, tras llegar al aula plantea la siguiente
+                situación problemática: "El día lunes compré algunas docenas de papayas, el martes tres docenas más. Sí
+                en total he comprado siete docenas, ¿cuántas papayas compré el día martes?"</q0>
+    <g0></g0>
+    <q>Ante esta iniciativa, la docente decide programarlo en la siguiente sesión de aprendizaje, con el
+               propósito de:</q>
+    <as r="R" correcta="3">
+        <a>Identificar la multiplicación y propiedades de los números naturales,</a>
+        <a>Identificar la adición y propiedades de los números naturales.</a>
+        <a>Resolver problemas identificando datos, operación y respuesta.</a>
+        <a>Desarrollar procesos cognitivos haciendo uso de las operaciones matemáticas.</a>
+    </as>
+    <x>D.</x>
+</p>

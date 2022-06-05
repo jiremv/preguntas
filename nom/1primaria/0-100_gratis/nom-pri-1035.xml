@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1184-p.png
+	</g0>
+	<q>Otra pareja de estudiantes propone lo siguiente:
+	</q>
+	<g>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1185	-p.png
+	</g>
+	<q2>En la propuesta de los estudiantes, ¿cuál es la variable dependiente?	
+	</q2>
+	<as r="R" correcta="0">
+		<a>La calidad del sonido.</a>
+		<a>La longitud del pabilo.</a>
+		<a>El que el pabilo esté o no esté tenso.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

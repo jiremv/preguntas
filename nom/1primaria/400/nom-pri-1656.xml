@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Martha presenta a sus estudiantes un anuncio del diario "La República" en donde aparece un gran grupo de
+                personas. Ella p: ¿Pueden hacer una estimación de cuántas personas hay sin contar? ¿Podríamos
+                saber cuántas personas hay en total? ¿Las podemos representar?</q0>
+    <g0></g0>
+    <q>Ante esta situación, ¿qué capacidad quiere desarrollar Martha en sus estudiantes?</q>
+    <as r="R" correcta="0">
+        <a>Representa cantidades, en forma concreta, gráfica y simbólica, a partir de la información encontrada.</a>
+        <a>Expresa decimales en forma gráfica y simbólica, a partir de la información encontrada en medios escritos.</a>
+        <a>Explora y describe en situaciones de diversos contextos, las nociones de números naturales a partir de
+                la información encontrada en medios escritos.</a>
+        <a>Busca números en la prensa escrita y explica su función.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La subdirectora de una IE, luego de realizar el monitoreo de diagnóstico, concluye que ninguno de los profesores
+      de la IE logra promover efectivamente el razonamiento, el pensamiento crítico o la creatividad en sus estudiantes.</q0>
+  <g0>¿Cuál de las siguientes actividades es la menos pertinente para atender la necesidad identificada en los
+      profesores de esta IE?</g0>
+  <q></q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Una jornada pedagógica.</a>
+    <a>Un taller de actualización.</a>
+    <a>Un grupo de interaprendizaje.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

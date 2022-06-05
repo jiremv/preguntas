@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente responsable de un aula ha sistematizado los resultados de la evaluación de segundo grado "B".
+                A partir de estos resultados realiza las siguientes actividades: entrega las calificaciones a sus
+                estudiantes y a los padres de familia, les explica de manera individual en qué aspectos deben mejorar,
+                replantea algunas estrategias y métodos en su proceso de enseñanza y entrega una carta de reconocimiento
+                a los que obtuvieron las notas más altas.</q0>
+    <g0></g0>
+    <q>Los estudiantes toman conciencia y, al final del año escolar, la mayoría de ellos mejoró
+               significativamente sus resultados. ¿Qué funciones y finalidades de la evaluación se evidencian en las
+               acciones del docente?</q>
+    <as r="R" correcta="0">
+        <a>Pedagógica y social, formativa e informativa.</a>
+        <a>Sumativa y formativa, social e Informativa.</a>
+        <a>Sistemática e informativa, participativa y social.</a>
+    </as>
+    <x>A.</x>
+</p>

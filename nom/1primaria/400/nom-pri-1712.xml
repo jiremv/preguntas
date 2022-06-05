@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Alberto es un niño de cuarto grado de primaria que muestra bajo rendimiento en la comprensión de textos.
+               A pesar de tener una lectura fluida, frecuentemente falla al ubicar la respuesta correcta de las
+               alternativas propuestas; en clase es participativo, pero es muy presuroso al dar las respuestas y un poco
+               desordenado en sus ideas. Ante esta situación, el docente planifica reforzar en él, la organización de la
+               información del texto leído. ¿Cuál de las alternativas contiene las estrategias pertinentes para trabajar
+               con Alberto?</q>
+    <as r="R" correcta="3">
+        <a>Reconocimiento de la estructura y los diversos tipos de textos, para organizar la Información del texto.</a>
+        <a>Elaboración de organizadores gráficos como los esquemas, los mapas mentales y semánticos de los textos.</a>
+        <a>Localización de las ideas principales y secundarias en los textos a través de preguntas y reorganización
+                de la información.</a>
+        <a>Parafraseo, representación de lo leído y elaboración de organizadores gráficos de los textos.</a>
+    </as>
+    <x>D.</x>
+</p>

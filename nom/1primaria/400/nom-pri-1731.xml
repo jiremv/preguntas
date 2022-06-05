@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Pedro es profesor del 6° "A" de la I.E. N° 37001, quien de acuerdo a lo planificado en el área de
+                comunicación conduce a sus niños y niñas al aula de innovación a observar un video zoográfico, para lo
+                cual portan hojas de aplicación que contienen preguntas, las cuales deben ser socializadas al retorno al
+                aula.</q0>
+    <q>Según esta situación, qué quiere lograr el profesor:</q>
+    <as r="R" correcta="2">
+        <a>El conocimiento del hábitat de los animales observados.</a>
+        <a>Identificar los animales de la costa, sierra y selva.</a>
+        <a>Desarrollar la estructura del texto descriptivo.</a>
+        <a>Hacer uso de las tecnologías de información y comunicación.</a>
+    </as>
+    <x>C.</x>
+</p>

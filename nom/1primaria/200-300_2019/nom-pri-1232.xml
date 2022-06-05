@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Héctor, es un docente de la I.E. "Santa Lucia" de Chilina, él ha enseñado a sus estudiantes a organizar
+        información sobre ei lenguaje periodístico y científico. Para seguir, con la secuencia didáctica de ia sesión de
+        aprendizaje pide a sus estudiantes que elaboren un cuadro comparativo, para precisar las diferencias entre
+        textos periodísticos y científicos.</q0>
+    <q>¿A qué actividad demostrativa le corresponde cumplir con esta acción estratégica?</q>
+    <as r="R" correcta="0">
+        <a>A la actividad de aplicación repetida del conocimiento adquirido para afianzarlo y manejarlo con soltura.</a>
+        <a>A la actividad de aplicación y utilización del nuevo aprendizaje en situaciones cotidianas en contextos
+           distintos.</a>
+        <a>A la actividad centrada en el desarrollo de procesos cognltivos y operaciones mentales.</a>
+        <a>A ia actividad de ordenamiento y clasificación de datos e información estructurada.</a>
+    </as>
+    <x>A.</x>
+</p>

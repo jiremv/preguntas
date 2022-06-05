@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Manuel narra el cuento "El toro Potocchi" siempre respetando la estructura del texto narrativo; donde
+                incide que el toro se queda sin cuernos, entonces el maestro plantea interrogantes.</q0>
+    <q>¿En qué parte del texto narrativo ha incidido Manuel?</q>
+    <as r="R" correcta="2">
+        <a>En el inicio.</a>
+        <a>En el nudo.</a>
+        <a>En el desenlace.</a>
+        <a>En las tres partes.</a>
+    </as>
+    <x>C.</x>
+</p>

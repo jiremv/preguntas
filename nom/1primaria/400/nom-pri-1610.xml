@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Este año, al aula de sexto grado se han integrado dos niños que han llegado de la selva y tres que
+                vienen de la sierra central. El profesor Elmer en clase de comunicación, coloca a los niños nuevos en
+                diferentes grupos y les propone el tema "Costumbres y celebraciones de las diferentes regiones del Perú"
+                y les pide que conversen.</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito de esta sesión de aprendizaje?</q>
+    <as r="R" correcta="2">
+        <a>La aceptación de los niños nuevos por parte del resto de sus compañeros y compañeras.</a>
+        <a>Averiguar de manera indirecta qué creencias y supersticiones traen los nuevos niños al aula.</a>
+        <a>Favorecer el conocimiento intercultural de las costumbres y celebraciones de los niños del aula.</a>
+        <a>Hacer sentir bien a los niños recién incorporados dejando que cuenten lo que quieran del lugar de donde
+                vienen.</a>
+    </as>
+    <x>C.</x>
+</p>

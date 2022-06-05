@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Carlos, a cargo del 6° grado de primaria, planifica trabajar con sus estudiantes la
+                siguiente capacidad: Identifica a la SUNAT como institución del gobierno nacional, y explica las
+                funcione que cumple en el desarrollo social y económico del país. Para ello realiza una serie de
+                actividades.</q0>
+    <g0></g0>
+    <q>¿En cuál de los siguientes casos el docente cumple el rol de mediador y el estudiante un rol activo en el
+               proceso de construcción del aprendizaje?</q>
+    <as r="R" correcta="3">
+        <a>El profesor planifica que sus estudiantes por grupos vayan a investigar a la SUNAT sobre sus funciones y
+                luego realizan una exposición sobre sus hallazgos con ayuda de los materiales obtenidos en la SUNAT.</a>
+        <a>El profesor y los estudiantes van al aula de innovación e investigan en Internet sobre las funciones de
+                la SUNAT. Luego en el aula de clase los estudiantes exponen las conclusiones de sus investigaciones y la
+                maestra consolida la información.</a>
+        <a>El profesor lleva al aula un video apropiado y explica las funciones de la SUNAT con ayuda de papelotes
+                con letras grandes y dibujos llamativos.</a>
+        <a>El profesor selecciona un texto informativo sobre las funciones de la SUNAT. Luego forma grupos de
+                trabajo y los estudiantes analizan, elaboran un organizador sobre el tema con el asesoramiento del
+                docente y exponen sus conclusiones.</a>
+    </as>
+    <x>D.</x>
+</p>

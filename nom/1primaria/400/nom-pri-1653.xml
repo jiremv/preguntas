@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El maestro Luis de la I.E. "Colegio Moderno" del 2° grado, desarrolla la actividad "Visitando la
+                tlendita de Don Pepe" con el propósito que sus estudiantes resuelvan problemas aditivos de cambio y
+                frente a esta situación se propone evaluar.</q0>
+    <g0></g0>
+    <q>¿Qué debe entender por evaluación, el maestro Luis, a partir del enfoque por competencias?</q>
+    <as r="R" correcta="2">
+        <a>Es una herramienta pedagógica que forma parte Intrínseca de los procesos de enseñanza y aprendizaje.</a>
+        <a>Permite valorar los procesos y los resultados alcanzados por los estudiantes en términos de aprendizaje.</a>
+        <a>Es un proceso de reflexión y análisis sobre el avance y logro de los aprendizajes de ios estudiantes.</a>
+        <a>Aportar Información cuyo uso es relevante para saber qué y cómo mejorar los aprendizajes.</a>
+    </as>
+    <x>C.</x>
+</p>

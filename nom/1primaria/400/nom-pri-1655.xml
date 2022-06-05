@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Terry es docente del 4° grado, trabaja en una Institución Educativa de la provincia de Oyón, donde
+                existen cantidades de extensiones de terrenos de cultivo, entre ellos, uno está libre, el mismo que la
+                comunidad hizo entrega a la I.E. para que lo utilicen en lo que fuera necesario, el director decide
+                cultivarlo, y divide el terreno entre las aulas; al 4° grado le tocó la sexta parte. El docente con sus
+                estudiantes visita el terreno de cultivo e identifica el área que les corresponde. Después de la visita
+                el docente plantea situaciones problemáticas relacionadas a las fracciones.</q0>
+    <g0></g0>
+    <q>A partir del enfoque centrado en la resolución de problemas, es importante que el profesor Terry
+               considere:</q>
+    <as r="R" correcta="1">
+        <a>Iniciar con las preguntas para introducir el tema: ¿Cuántas aulas existen en la I.E.? ¿Cuánto mide el
+                terreno? ¿Cuánto le toca a cada aula? Para que los niños y niñas felices respondan verificando IN SITU.</a>
+        <a>Comprender el problema, diseñar y adaptar una estrategia, ejecutar la estrategia y reflexionar sobre el
+                proceso.</a>
+        <a>Desarrollar la clase, sólo utilizando el texto distribuido por el MINEDU.</a>
+        <a>Entregar una ficha de clase conteniendo problemas sobre fracciones, desarrollar ejemplos, y pedirles que
+                desarrollen los problemas planteados.</a>
+    </as>
+    <x>B.</x>
+</p>

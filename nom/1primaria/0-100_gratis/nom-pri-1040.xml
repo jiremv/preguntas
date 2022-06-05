@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1187-p.png
+	</g0>
+	<q>Un estudiante realiza el siguiente comentario:
+	</q>
+	<g>./../../preguntas/nom/1primaria/0-100_gratis/nom-pri-1190-p.png
+	</g>
+	<q2>¿Cuál de las siguientes acciones es pertinente que realice el docente para retroalimentar al
+estudiante respecto del error en su comentario?	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Proponerle que repita la experiencia colocando una esfera pequeña de acero en el
+interior del envase.</a>
+		<a>Proponerle que vuelva a realizar la experiencia utilizando envases del mismo material,
+pero de mayor volumen.</a>
+		<a>Preguntarle cómo puede relacionar su comentario con el hecho de que hay barcos muy
+grandes que pueden flotar en el agua.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

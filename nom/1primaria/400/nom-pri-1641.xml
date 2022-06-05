@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Juiio Quispe Borda. De la I.E N° 20173, decide que sus niños y niñas del 4° grado conozcan
+                las diferentes actividades que se realizan en la fiesta patronal "Santa Rosa de Lima" del anexo de
+                Chavín y para ello sostiene que, como docente le corresponde el rol de mediador.</q0>
+    <g0></g0>
+    <q>¿Cuál es la acción que evidencia mejor el rol de mediador?</q>
+    <as r="R" correcta="2">
+        <a>Registrar en sus cuadernos las diferentes actividades que se desarrolla para identificar la fiesta
+                patronal.</a>
+        <a>Mencionar en clase los personajes que son protagonistas principales de la fiesta patronal.</a>
+        <a>Establecer acuerdos y responsabilidades con los estudiantes para realizar un trabajo de campo sobre la
+                fiesta patronal "Santa Rosa de Lima".</a>
+        <a>Acordar con los estudiantes sobre el tema para una sesión de aprendizaje.</a>
+    </as>
+    <x>C.</x>
+</p>

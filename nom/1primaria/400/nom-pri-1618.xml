@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Rosa, docente de cuarto grado, ha desarrollado una lectura participativa de una fábula.</q0>
+    <g0></g0>
+    <q>Para reforzar la comprensión de la moraleja que contiene la fábula, deberá pedirles a los estudiantes:</q>
+    <as r="R" correcta="2">
+        <a>Aprendan de memoria la fábula.</a>
+        <a>Copien los dibujos de los personajes de la fábula.</a>
+        <a>Realicen una dramatización sobre la fábula.</a>
+        <a>Escriban la fábula en su cuaderno.</a>
+    </as>
+    <x>C.</x>
+</p>

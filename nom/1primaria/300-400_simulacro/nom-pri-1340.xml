@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>José ha sido recientemente designado como directivo de su IE. Esta es de nivel primaria, con un solo turno y
+      cuenta solo con ocho secciones, por lo que él debe tener aula a cargo.</q0>
+  <g0>¿Cuál de las siguientes estrategias debe realizar José para mejorar la práctica pedagógica en el aula de los
+      profesores de su IE?</g0>
+  <q></q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Realizar visitas de observación de aula a los profesores.</a>
+    <a>Implementar grupos de interaprendizaje con los profesores.</a>
+    <a>Monitorear constantemente la asistencia y puntualidad de los profesores.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

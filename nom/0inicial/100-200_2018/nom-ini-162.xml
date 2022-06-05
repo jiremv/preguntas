@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Micaela, de dos meses, ha descubierto sus manos en su campo visual. Para favorecer que la niña continúe
+       explorando sus manos, ¿cuál de las siguientes acciones es pertinente?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Recostarla sobre su espalda y dejar sus manos libres.</a>
+        <a>Colocarla boca abajo y ubicar sus manos a la altura de sus ojos.</a>
+        <a>Cargarla con un brazo y, con el otro brazo, acercar las manos de la niña a su rostro.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>A inicios del año escolar, los docentes de la I.E. "Miguel Grau" se reúnen para poder realizar la planificación
+        anual de los grados asignados. Pero no se ponen de acuerdo en cómo iniciar el trabajo para que la planificación
+        responda al enfoque por competencias y lograr los aprendizajes previstos en los documentos curriculares.</q0>
+    <q>De acuerdo al Currículo Nacional, ¿Qué es los primero que deben tener en cuenta?</q>
+    <as r="R" correcta="0">
+        <a>Las competencias y los enfoques transversales.</a>
+        <a>Los contenidos y estrategias metodológicas.</a>
+        <a>Las competencias y las capacidades.</a>
+        <a>Las competencias y aprendizajes fundamentales.</a>
+    </as>
+    <x>A. Las competencias se constituyen como los aprendizajes a lograr, y para esto nos va a ayudar los enfoques
+       transversales que se traducen en actitudes.</x>
+    <v>https://www.youtube.com/embed/tc9JzjqM2cc?start=20</v>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La profesora Amella docente de inicial de 4 años está proponiendo en la programación de unidad experiencias 
+    afectivas, sociales, culturales y de convivencia que contribuyan a su desarrollo integral, sin embargo el docente 
+    Julio Vegas sostiene que estas actividades se deben desarrollar en ciclos posteriores, frente a esto la docente deberá:
+    </q>
+    <as r="R" correcta="0">
+        <a>Seguir con su propuesta porque en este ciclo si es recomendable experiencias afectivas, sociales, culturales y de 
+convivencia.</a>
+        <a>No debe seguir con la propuesta porque, el desarrollo de la convivencia social se hace en ciclos más avanzados donde
+tenga conciencia de ciudadanía.</a>
+        <a>Sí porque es un objetivo primordial de la escuela formar buenos ciudadanos.</a>
+        <a>No porque un niño de esta edad no puede desarrollar todas estas experiencias por ser que todavía no se desarrolla su 
+pensamiento abstracto.</a>
+    </as>
+    <x>A.</x>
+</p>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Fernando debe organizar con sus estudiantes el comité de aula para elaborar el plan de trabajo. Sin embargo,
+        ellos se muestran indiferentes y no desean participar por la experiencia negativa del año anterior. Este hecho
+        le ha preocupado y, por eso, ha decidido desarrollar estrategias que le permitan revertir esta situación.</q0>
+    <q>¿Cuál de las siguientes estrategias permitiría lograr una mayor participación democrática de sus estudiantes?</q>
+    <as r="R" correcta="0">
+        <a>Realizar dinámicas para la recuperación de la confianza y para participar en grupos colaborativos.</a>
+        <a>Planificar diversas competencias a fin de que puedan mostrar sus mejores habilidades y destrezas.</a>
+        <a>Distribuir diversas responsabilidades y tareas difíciles a los alumnos más conflictivos.</a>
+        <a>Registrar situaciones de resolución de conflictos a través de un diario o anecdotario.</a>
+    </as>
+    <x>A.</x>
+</p>

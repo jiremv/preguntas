@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La docente ha planteado la siguiente situación de aprendizaje: 
+    "Rescatemos los juegos tradicionales de nuestra comunidad".
+    Ella ha observado que en la actualidad los niños se dedican principalmente a sus vjuegos o a permanecer largas 
+    horas entretenidos con las computadoras, dejando de lado a los juegos de antaño. Ante esta situación, la maestra se 
+    propone rescatar los juegos tradicionales y planifica con sus niños qué tipos de juegos quieren aprender, para qué 
+    van a aprender y determinan qué materiales utilizarán.
+¿Qué tipo de unidad didáctica cree usted que debe desarrollar la maestra?
+</q>
+    <as r="R" correcta="1">
+        <a>Unidades de aprendizaje.</a>
+        <a>Proyectos de aprendizaje.</a>
+        <a>Módulos de aprendizaje.</a>
+        <a>Talleres de aprendizaje.</a>
+    </as>
+    <x>B.</x>
+</p>

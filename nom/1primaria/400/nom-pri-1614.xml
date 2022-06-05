@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El profesor Julio, a cargo del 6° grado de primaria, pretende desarrollar la capacidad: Propone medidas
+                preventivas para contrarrestar los efectos de la contaminación ambiental. Para ello realiza con sus
+                estudiantes un recorrido por el río de su localidad, observan la contaminación del agua y realizan
+                investigaciones sobre el tema.</q0>
+    <g0></g0>
+    <q>Ante la situación descrita, ¿cuál de los procesos de la investigación científica es más pertinente para
+               trabajar dicha capacidad?</q>
+    <as r="R" correcta="1">
+        <a>Documentarse con información al respecto proveniente de libros de texto u otros medios.</a>
+        <a>Planear y llevar a cabo pequeñas investigaciones y experimentos sencillos sobre evidencias objetivas de
+                la contaminación del río.</a>
+        <a>Utilizar los datos obtenidos para construir explicaciones basadas en las evidencias observadas en el
+                recorrido del río de su localidad.</a>
+        <a>Registrar cuidadosa y sistemáticamente los datos que se obtienen en la observación realizada al río.</a>
+    </as>
+    <x>B.</x>
+</p>
