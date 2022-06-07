@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Un año bisiesto es aquel que tiene 366 días, es decir, un día más que un año común.
+	</q0>
+	<g0>
+	</g0>
+	<q>Además, se sabe que:
+	</q>
+	<g>./../../preguntas/nom/4cta/200/nom-cta-4135-p.png
+	</g>        
+	<q2>De lo anterior, se puede inferir lo siguiente:
+	</q2>
+	<as r="R" correcta="2">
+		<a>Si un año es múltiplo de cuatro, ese año será bisiesto.</a>
+		<a>Si un año es un número par, ese año será bisiesto.</a>
+		<a>Si un año es bisiesto, ese año será un número par.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

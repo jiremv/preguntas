@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuántas ligaduras de prolongación se observan en el siguiente pasaje?</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3177-p.png</g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>3</a>
+        <a>8</a>
+        <a>11</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

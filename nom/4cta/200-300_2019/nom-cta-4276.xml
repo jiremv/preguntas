@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4276-p.png</g0>
+    <q>¿Cuál de las siguientes preguntas es pertinente que la docente realice para retroalimentar al equipo de
+       estudiantes sobre su propuesta?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>¿Qué volumen de solución van a emplear para cada muestra?</a>
+        <a>¿Qué creen que sucedería si en lugar de sal usáramos azúcar?</a>
+        <a>¿Qué criterios han empleado para elegir las concentraciones de sal?</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>En la siguiente sesión, la docente les dice a los estudiantes que hacer improvisación teatral es,
+       fundamentalmente, contar historias, y que todas las historias pueden ser resumidas en las siguientes seis frases:
+       "Había una vez...", "Y todos los días...", "Hasta que un día...", "Y a causa de ello...", "Hasta que,
+       finalmente...? y "Y desde ese día...". Para ofrecer un ejemplo, les cuenta el relato de la caperucita roja de la
+       siguiente forma:</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3186-p.png</g>
+    <q2>Tomando en cuenta el propósito de la unidad descrita, ¿cuál de las siguientes actividades es pertinente realizar
+        a continuación?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Organizar a los estudiantes en grupos y solicitar a cada grupo que escriba una historia inventada por ellos
+           usando las seis frases propuestas por la docente. Luego, hacer que los grupos de estudiantes intercambien sus
+           historias y hagan sugerencias sobre cómo mejorar las historias de sus compañeros. Finalmente, escoger la
+           historia que más le haya gustado a todos los estudiantes y usarla como base para que cada grupo improvise una
+           escena frente a sus demás compañeros.</a>
+        <a>Solicitar a los estudiantes que se organicen en grupos y escriban colectivamente una narración de la historia
+           del patito feo, de forma similar a la narración del cuento de la caperucita roja hecha por la docente. Luego,
+           pedir a los estudiantes que agreguen otras frases de su propia invención para enriquecer la historia.
+           Después, pedirles a los grupos que improvisen escenas teatrales breves utilizando una combinación de las
+           frases propuestas por la docente al inicio de la actividad y las que ellos mismos crearon.</a>
+        <a>Pedir a los estudiantes que formen un círculo y que uno empiece a contar una historia inventada usando las
+           frases. El estudiante dirá "había una vez? y completará el resto de la frase, y su compañero de la derecha
+           dirá el inicio de la segunda frase y la completará, y así hasta que el sexto estudiante finalice la historia.
+           Luego, el siguiente estudiante iniciará una nueva historia, hasta que todos hayan participado. De ser
+           necesario, la docente comentará las necesidades dramáticas dentro de cada historia y dará orientaciones a los
+           estudiantes para la improvisación.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

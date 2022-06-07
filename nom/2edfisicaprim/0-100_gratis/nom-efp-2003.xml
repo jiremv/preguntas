@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>¿De qué trata el principio de continuidad en la Educación Física?</q>
+    <as r="R" correcta="2">
+        <a>Continuar siempre con los mismos ejercicios.</a>
+        <a>Satisfacer las necesidades de movimiento y capacidades físicas.</a>
+        <a>Realizar los ejercicios con una frecuencia correcta.</a>
+        <a>Entrenar continuamente..</a>
+    </as>
+    <x>C.</x>
+</p>

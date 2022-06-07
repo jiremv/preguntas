@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4155-p.png
+	</g0>
+	<q>La docente pregunta a los estudiantes cuál de las sustancias podrá comprimirse con mayor
+facilidad. ¿Cuál de las siguientes estudiantes responde correctamente a la pregunta de la
+docente?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Norma: "Pienso que es más fácil comprimir la sustancia de la figura tres porque hay más
+espacio entre las partículas".</a>
+		<a>Claudia: "Yo creo que la sustancia de la figura dos porque hay más espacio sin partículas
+en el recipiente".</a>
+		<a>Roxana: "La más fácil de comprimir es la sustancia de la figura uno porque ocupa más
+espacio".</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

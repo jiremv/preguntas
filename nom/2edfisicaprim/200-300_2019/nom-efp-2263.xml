@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Cuando los estudiantes golpean el suelo saltando con ambos pies al ritmo de la percusión,</q0>
+  <g0></g0>
+  <q>¿qué aspecto de la ejecución están tomando en cuenta principalmente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>El nivel de ejecución.</a>
+    <a>El tiempo de ejecución.</a>
+    <a>El espacio de ejecución.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

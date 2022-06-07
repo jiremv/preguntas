@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>El Pentagrama está compuesto de:</q>
+  <as r="R" correcta="2">
+    <a>5 líneas, 3 espacios equidistantes y líneas paralelas.</a>
+    <a>6 cuerdas y 5 espacios.</a>
+    <a>5 líneas y cuatro espacios, las lineas son horizontales paralelas y equidistantes.</a>
+    <a>7 líneas correspondientes a la 7 notas musicales: DO, RE, MI ,FA, SOL, LA, SI.</a>
+  </as>
+  <x>C.</x>
+</p>

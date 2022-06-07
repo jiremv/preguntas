@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un grupo de estudiantes propone al docente de Arte y Cultura que les enseñe a usar un software que puedan
+        utilizar en el aula de Innovación Pedagógica o en un teléfono celular para crear canciones con instrumentos
+        musicales virtuales y grabando su propia voz. El docente ve en ello una buena oportunidad para desarrollar la
+        competencia de creación artística en los estudiantes, así que decide buscar lo requerido.</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes programas es adecuado para atender el pedido de los estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Software de notación musical.</a>
+        <a>Entorno de programación musical.</a>
+        <a>Estación de trabajo de audio digital.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

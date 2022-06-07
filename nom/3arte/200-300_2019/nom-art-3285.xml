@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Úrsula, una de las estudiantes de la clase, comenta: "El vestido se ve muy bonito, pero para hacerlo tan bien
+       seguramente se necesita de un profesional en la confección de vestuario, y en la clase nunca vamos a poder hacer
+       algo así".La docente considera que la opinión de la estudiante puede resultar desmotivadora para algunos de sus
+       compañeros y por eso decide intervenir ¿Cuál de las siguientes alternativas es la intervención más pertinente?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>"Tienes razón, Úrsula, pero qué es más importante: ¿qué el vestido quede perfecto o que sea hecho con el
+           corazón?".</a>
+        <a>"Úrsula, ¿será tan complicado hacer un vestido como este? A ver, pensemos, ¿qué tendríamos que hacer para
+           lograr elaborar un vestido así de bonito?".</a>
+        <a>"Úrsula, tu opinión es muy valiosa, pero debes tener más cuidado con hacer comentarios negativos. ¿No crees
+           que tu comentario podría desanimar a algunos de tus compañeros?".</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

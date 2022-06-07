@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>En educación física, la velocidad de reacción</q>
+    <as r="R" correcta="1">
+        <a>También es conocida como aciclica.</a>
+        <a>Depende de la respuesta a un estimulo.</a>
+        <a>La posición del cuerpo no influye en esta velocidad.</a>
+        <a>Es la que se prolonga por mas tiempo.</a>
+    </as>
+    <x>B.</x>
+</p>

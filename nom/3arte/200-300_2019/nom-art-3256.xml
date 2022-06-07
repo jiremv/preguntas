@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>A partir de lo descrito, se puede inferir que el propósito del proyecto La última Reyna de Elizabeth Lino Cornejo
+       es:</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Llamar la atención, por medio de la ironía, sobre cómo la contaminación ambiental se ha convertido en algo
+           cotidiano e, inclusive, característico de Cerro de Pasco.</a>
+        <a>Llamar la atención sobre la belleza de la mujer de Cerro de Pasco, que es más grande que la contaminación
+           ambiental de la región o que cualquier otra adversidad.</a>
+        <a>Resaltar la belleza paisajística de Cerro de Pasco que se conserva a pesar de la contaminación causada por la
+           minería y así incentivar el turismo en la zona.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

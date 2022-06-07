@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes gráficos representa correctamente los cambios de temperatura que experimenta el agua en
+       estado sólido desde -5 °C hasta que alcanza la temperatura del ambiente (20°C), a 1 atm de presión?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-a.png</a>
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-b.png</a>
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-c.png</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

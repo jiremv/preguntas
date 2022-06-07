@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Alicia, Bianca, Charo, Dafne y Elena se sientan alrededor de una mesa circular con seis asientos
+distribuidos simétricamente.
+	</q0>
+	<g0>
+	</g0>
+	<q>Se observa que:
+	</q>
+        <g>./../../preguntas/nom/4cta/200/nom-cta-4137-p.png</g>
+	<q2>Entonces, se puede afirmar que necesariamente el asiento vacío se encuentra	
+	</q2>
+	<as r="R" correcta="2">
+		<a>junto a Alicia.</a>
+		<a>junto a Dafne.</a>
+		<a>junto a Bianca.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

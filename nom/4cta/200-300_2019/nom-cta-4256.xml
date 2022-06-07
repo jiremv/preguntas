@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4254-p.png</g0>
+    <q>Los estudiantes han identificado que una limitación de su indagación es la determinación del momento en el que
+       termina la reacción. ¿Cuál de las siguientes propuestas permitirá medir con mayor precisión el fin de la reacción?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Realizar la reacción en botellas pequeñas y colocar globos en los picos de las botellas inmediatamente
+           después de agregar la pastilla de antiácido.</a>
+        <a>Realizar la reacción en botellas pequeñas y colocar globos en los picos de las botellas inmediatamente
+           después de agregar la pastilla de antiácido.</a>
+        <a>Escuchar la efervescencia del gas producido inmediatamente después de agregar la pastilla de antiácido.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

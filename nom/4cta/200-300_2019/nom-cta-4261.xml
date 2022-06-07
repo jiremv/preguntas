@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4260-p.png</g0>
+    <q>La masa que se muestra en la tabla periódica para el litio corresponde al promedio de las masas de los isótopos
+       de este elemento, considerando la abundancia natural de cada isótopo. El litio tiene dos isótopos naturales, Li-6
+       y Li-7. El más pesado es el más abundante (92,41 %).</q>
+    <g></g>
+    <q2>¿En cuál de las siguientes alternativas se emplea correctamente el concepto de abundancia isotópica para el caso
+        del litio?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>En 100 g de litio, hay 92,41 g de Li-7.</a>
+        <a>En 10 000 átomos de litio, hay 9241 átomos de Li-7.</a>
+        <a>En un mol de átomos de litio, hay 0,5 moles de Li-6 y 0,5 moles de Li-7.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

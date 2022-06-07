@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4164-p.png
+	</g0>
+	<q>¿Cuál de las siguientes alternativas es el error que se evidencia en las respuestas de la
+estudiante?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Creer que, tanto en la mitosis como en la meiosis, los cromosomas de las células hijas
+tienen igual material genético que la célula de origen.</a>
+		<a>Creer que el número final de cromosomas en cada célula hija depende del tipo de división
+celular.</a>
+		<a>Creer que la mitosis y la meiosis ocurren en diferentes tipos de células.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

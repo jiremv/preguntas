@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>Un docente se encuentra trabajando una sesión de aprendizaje sobre los estados de
+agregación de la materia. ¿Cuál de las siguientes actividades sería más pertinente que
+plantee el docente para activar los saberes previos de los estudiantes?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Pedirles que identifiquen en el aula materiales que se encuentran en estado sólido,
+líquido y gaseoso. Luego, preguntarles qué criterios emplearon para clasificarlos.</a>
+		<a>Presentarles un video sobre los estados de agregación de la materia. Luego, anotar en la
+pizarra las ideas principales y hacer un resumen en base a dichas ideas.</a>
+		<a>Presentarles tarjetas desordenadas con los títulos de los estados de agregación de la
+materia e imágenes de cada uno de estos estados. Luego, pedirles que unan correctamente
+las tarjetas y las peguen en la pizarra.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

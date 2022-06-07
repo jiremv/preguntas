@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Durante el trabajo de una unidad didáctica sobre el movimiento de los cuerpos, un docente realizó la siguiente
+        actividad:</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4287-p1.png</g0>
+    <q>Un equipo de estudiantes presenta la siguiente respuesta a la pregunta planteada por el docente:</q>
+    <g>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4287-p2.png</g>
+    <q2>El docente propuso a los integrantes del equipo que representaran en un dibujo cómo someter a prueba su
+        hipótesis.¿Cuál de las siguientes propuestas permite someter a prueba la hipótesis del equipo?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4287-p-a.png</a>
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4287-p-b.png</a>
+        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4287-p-c.png</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

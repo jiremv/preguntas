@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Qué tipo de melodías se puede tocar con un siku que tiene las notas re, mi, fa#, sol, la, si, do, re, mi, fa#,
+       sol y la?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Melodías que usan la escala de fa sostenido mayor.</a>
+        <a>Melodías que usan la escala de re menor natural.</a>
+        <a>Melodías que usan la escala de sol mayor</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

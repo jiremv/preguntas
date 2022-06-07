@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de recoger los saberes previos, el docente observa que no todos los estudiantes están motivados para
+        cantar frente a sus compañeros: a algunos les da un poco de vergÃ¼enza y otros dicen que no les provoca.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes estrategias es más adecuada para que los estudiantes se motiven a cantar?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Contar a los estudiantes experiencias de cantantes famosos que tuvieron inicios muy adversos y que lograron
+           enfrentar todo tipo de dificultades para revertir su suerte y alcanzar el éxito. Explicar a los estudiantes
+           que ese podría ser el caso de cualquiera de ellos, si se esfuerzan por superar la vergÃ¼enza y ponen toda su
+           atención y ganas de aprender.</a>
+        <a>Explicar a los estudiantes los objetivos del proyecto y los beneficios que conseguirán al desarrollarlo.
+           Discutir con ellos el carácter universal de la música y la importancia que tiene para desarrollar la
+           identidad de cada persona y de toda su comunidad. Anotar las conclusiones de la clase en la pizarra y entre
+           todos escribir una frase motivadora que recitarán todos juntos al iniciar cada sesión de canto.</a>
+        <a>Pedir a los estudiantes que apunten los títulos de sus canciones favoritas en trozos de papel. Luego, dividir
+           a la clase en equipos y jugar "charadas": en cada turno, un miembro de uno de los equipos sacará un papel al
+           azar y deberá representar el título de la canción a sus compañeros solo con gestos. Para ganar el punto,
+           luego de adivinar el título, los miembros del equipo deberán cantar una parte de la canción.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

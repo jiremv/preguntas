@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/200/nom-cta-4116-p.png
+	</g0>
+	<q>¿Cuál de las siguientes afirmaciones se puede concluir a partir de la información del texto?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Mark Hegsted fue nombrado en un alto cargo del gobierno estadounidense a pesar de
+que se sabía que estaba involucrado en un caso de tráfico de influencias.</a>
+		<a>La investigación de JAMA muestra que los azúcares generan un mayor riesgo de ocasionar
+enfermedades del corazón que las grasas saturadas.</a>
+		<a>Los estudios financiados por la Asociación Azucarera fueron publicados en una revista
+prestigiosa para influenciar a la opinión pública.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

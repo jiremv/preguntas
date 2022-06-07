@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Luego de observar el video del ballet Cascanueces, la docente solicita a los estudiantes que escojan a uno de los
+       personajes y hagan un análisis de sus movimientos a lo largo de una escena. Tres estudiantes exponen sus
+       apreciaciones:</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3168-p.png</g>
+    <q2>¿Cuál de los comentarios NO evidencia un análisis exclusivamente formal de los movimientos del personaje?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>El de Paula.</a>
+        <a>El de Pedro.</a>
+        <a>El de Beatriz.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

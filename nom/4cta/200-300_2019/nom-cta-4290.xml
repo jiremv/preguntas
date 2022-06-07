@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Una docente ha notado que muchos de sus estudiantes muestran interés en formar parte del equipo de vóley del
+        colegio y decide aprovechar esta situación para trabajar una unidad didáctica sobre la identificación de las
+        fuerzas que actúan en el movimiento de los cuerpos.</q0>
+    <g0></g0>
+    <q>La docente también plantea la siguiente situación a los estudiantes:</q>
+    <g>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4290-p.png</g>
+    <q2>¿Cuál de los siguientes estudiantes responde correctamente a la pregunta planteada por la docente?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Carol: "La esfera metálica llega al piso en menor tiempo porque tiene mayor masa".</a>
+        <a>Pedro: "La pelota de vóley llega al piso en menor tiempo porque tiene menor masa".</a>
+        <a>Paul: "Llegan al piso al mismo tiempo porque están afectadas solo por la fuerza de la gravedad".</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

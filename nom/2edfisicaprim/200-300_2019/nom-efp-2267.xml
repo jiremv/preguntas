@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Luego de realizar diversas actividades relacionadas con la respiración, una estudiante comenta: "No sabía que hay
+      varios tipos de respiración. ¡Ahora me doy cuenta de que mi respiración es incompleta! Me ha parecido muy
+      interesante, pero aún me quedan algunas dudas sobre el tema, así que seguiré investigando?.</q0>
+  <g0></g0>
+  <q>¿Cuál es el proceso cognitivo que se evidencia principalmente en el comentario de la estudiante?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Conflicto cognitivo.</a>
+    <a>Metacognición.</a>
+    <a>Transferencia.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

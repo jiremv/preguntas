@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Luego de haber realizado varios ejercicios preparatorios, los estudiantes están listos para improvisar escenas
+       teatrales más complejas. Si bien la improvisación teatral conlleva una serie de libertades, es conveniente seguir
+       algunas reglas para que el ejercicio fluya apropiadamente y no se produzcan complicaciones, como que la acción
+       sea demasiado lenta o el argumento termine siendo confuso. ¿Cuál de las siguientes orientaciones es la más
+       adecuada para que las improvisaciones de los estudiantes fluyan?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>"Cuando se improvisa se proponen ideas a los otros participantes por medio de preguntas, oraciones o
+           acciones. Al recibir una idea, no la rechacen. Negar una idea obliga a sus compañeros a hacer todo el
+           trabajo, haciendo que la improvisación no fluya. Cuando reciban una idea, acéptenla y agreguen más contenido
+           o alguna pregunta relacionada. Busquen que cada interacción con sus compañeros aporte al esfuerzo conjunto de
+           improvisar una historia".</a>
+        <a>"La primera intervención en el ejercicio define el tema sobre el cual se va a improvisar. No abandonen ese
+           tema ni digan nada que pueda resultar sorprendente para sus compañeros de improvisación. Conserven una única
+           línea de pensamiento desde el inicio del ejercicio y, antes de decir algo, piensen si es que va a contribuir
+           a la fluidez de la escena o si es mejor dejar que otro compañero intervenga".</a>
+        <a>"Sean completamente espontáneos al improvisar, dejen que sus ideas fluyan libremente y no se cohíban de decir
+           nada. Si tienen dudas, digan lo primero que venga a sus mentes sin pensarlo mucho. Confíen en sus instintos y
+           verán que conocen mucho más de la improvisación teatral de lo que creen. Si cometen un error, intenten
+           disimularlo confiando en que el público no lo notará".</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

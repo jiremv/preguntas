@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Una de las estudiantes pregunta a la docente: "Entonces, ¿en qué se diferencia principalmente el ballet clásico
+       de la danza contemporánea?". El docente traslada la pregunta a la clase y tres estudiantes responden:</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3173-p.png</g>
+    <q2>¿Cuál de las respuestas es correcta?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La de Fabio.</a>
+        <a>La de Diego.</a>
+        <a>La de Teresa.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

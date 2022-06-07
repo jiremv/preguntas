@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice lo siguiente sobre la adaptación teatral: "La
+        adaptación, a diferencia de la actualización, goza de una gran libertad; no vacila en modificar el sentido de la
+        obra original (...) Todas las maniobras textuales imaginables están permitidas: rupturas, reorganización del
+        relato, reducción del número de personajes, concentración dramática en ciertos momentos intensos, incorporación
+        de textos exteriores, montaje y collage de elementos externos, modificación de la conclusión, etc. (...) Adaptar
+        es re-escribir enteramente el texto considerado como simple material". Un docente tiene como propósito que sus
+        estudiantes exploren las posibilidades de la adaptación teatral tomando como punto de partida obras ya
+        existentes. Para ello les propone que hagan una adaptación de La Odisea de Homero. Antes de escribir sus
+        guiones, los estudiantes redactan una breve sinopsis.</q0>
+    <g0></g0>
+    <q>Tres estudiantes entregan las siguientes sinopsis:</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3183-p.png</g>
+    <q2>¿Cuál de las sinopsis hace menor exploración de las posibilidades que ofrece la adaptación teatral?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La sinopsis elaborada por Rafael.</a>
+        <a>La sinopsis elaborada por Camilo.</a>
+        <a>La sinopsis elaborada por Paulina.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

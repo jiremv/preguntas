@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda las pregunta</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4251-p.png</g0>
+    <q>¿Cuál de las siguientes hipótesis es coherente con el plan de indagación propuesto por los estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Si se coloca más mantequilla en las cucharas, esta demorará más en derretirse porque necesitará absorber más
+           calor.</a>
+        <a>Si se incrementa la temperatura del agua, la mantequilla en las cucharas se derretirá en menos tiempo porque
+           recibirá más calor.</a>
+        <a>La mantequilla en la cuchara de metal se derretirá en menos tiempo que en las otras cucharas porque el metal
+           transmite mejor el calor.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de definir lo que van a realizar como proyecto,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes acciones es la más adecuada para continuar con su ejecución?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Designar roles y nombrar a los estudiantes que los ejecutarán.</a>
+        <a>Hacer un listado de los materiales que se necesitarán para realizar el proyecto.</a>
+        <a>Elaborar una lista de las actividades a realizar en el proyecto y los tiempos que requieren.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

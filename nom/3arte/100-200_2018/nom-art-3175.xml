@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un docente desea que sus estudiantes experimenten la creación musical con objetos cotidianos. Para ello, lleva a
+       la clase de Arte un conjunto de baldes de diversos tamaños. ¿Cuál de las siguientes actividades es la más
+       apropiada para que los estudiantes puedan apreciar la diversidad de sonidos que se puede producir con el conjunto
+       de baldes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Distribuir los baldes entre los estudiantes e invitarlos a explorar su sonido por medio de preguntas: "¿Cómo
+           es el sonido que se produce cuando golpean la base del balde? ¿Es el mismo que se produce cuando se golpean
+           las paredes? Y si golpean el balde con un lapicero, ¿suena igual que cuando lo golpean con las manos? ¿Cómo
+           influye el tamaño del balde en el sonido?"; luego pedirles que comenten sus hallazgos entre todos.</a>
+        <a>Hacer una demostración práctica a los estudiantes de la gran cantidad de timbres de sonido distintos que se
+           puede producir con los baldes; primero mostrar las diferencias de sonido que producen baldes de distintos
+           tamaños, materiales y formas; luego ir agregando más matices, como las diferencias de sonido producidas por
+           la manera en que el balde se percute, el lugar específico del balde que se golpea y el objeto con el que se
+           hace, para que noten las posibilidades sonoras.</a>
+        <a>Reproducir para la clase el video de un percusionista virtuoso que hace música compleja tocando con una
+           batería de baldes. Luego del video, hacer preguntas a los estudiantes: "¿Qué es lo particular que observan en
+           este video? ¿Por qué creen que está tocando con baldes y no con una batería convencional? ¿En qué se
+           diferencia el sonido de los baldes del sonido de una batería convencional?", y luego proponerles armar una
+           batería similar con los baldes que ha traído el docente al aula e intentar tocar música con ella.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

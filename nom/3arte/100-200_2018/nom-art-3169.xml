@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Luego de observar el video del ballet y analizar los movimientos de uno de sus personajes, Héctor comenta lo
+       siguiente: "Yo creo que al bailarín que hace el papel de Drosselmeyer le gusta que la gente lo vea y ser el
+       centro de atención, y por eso todo el tiempo está erguido, como si fuera muy orgulloso".</q>
+    <g></g>
+    <q2>Después de agradecerle por su intervención, ¿cuál de las siguientes alternativas es la retroalimentación más
+        apropiada para favorecer que el estudiante reflexione sobre su apreciación?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"Hay que tener cuidado de no confundir al actor con el personaje que representa, Héctor. En este caso, no es
+           el actor quien es orgulloso sino su personaje".</a>
+        <a>"¿Quién es el orgulloso, Héctor? ¿El bailarín o el personaje que representa? ¿Puede haber algún motivo en la
+           obra para que el bailarín se mueva como lo has descrito?".</a>
+        <a>"Has hecho una observación muy interesante, Héctor, pero estás equivocado. Cuando volvamos a ver el video,
+           observa bien los movimientos del bailarín para que puedas hacer una mejor apreciación".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

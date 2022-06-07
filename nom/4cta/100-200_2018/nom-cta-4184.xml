@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4183-p1.png
+	</g0>
+	<q>Para las condiciones dadas, ¿de cuál de las siguientes sustancias depende la cantidad máxima
+de producto que puede formarse en la reacción?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>Y</a>
+		<a>X</a>
+		<a>XY2</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

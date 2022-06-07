@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Previamente a la creación de la coreografía,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes estrategias es la más pertinente para explorar los saberes previos de los estudiantes
+       sobre la danza urbana?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Poner canciones de música urbana, solicitar a todos los estudiantes que caminen por el espacio y que dancen
+           libremente para poder observar sus conocimientos y habilidades en este tipo de danza.</a>
+        <a>Hacer una demostración rápida delante de los estudiantes para que aprecien los movimientos básicos de la
+           danza urbana y luego pedirles que hagan una secuencia de movimientos sencilla basada en lo observado.</a>
+        <a>Preguntar a los estudiantes si antes han ejecutado coreografías de danza urbana y cómo les fue al
+           realizarlas, para así conocer si saben bailar este tipo de danza.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

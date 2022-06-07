@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>Los factores que influyen en la flexibilidad son:</q>
+    <as r="R" correcta="1">
+        <a>La herencia genética.</a>
+        <a>La edad.</a>
+        <a>La luz solar del día</a>
+        <a>Los alimentos</a>
+    </as>
+    <x>B. La flexibilidad se pierde con la edad.</x>
+</p>

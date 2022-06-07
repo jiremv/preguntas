@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Torres Villar desarrolla su obra a través de una técnica de grabado que consiste en la reproducción de una imagen
+       a partir de una matriz en una plancha de madera. ¿Cuál es el nombre de la técnica de grabado utilizada por Torres
+       Villar?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Xilografía.</a>
+        <a>Litografía.</a>
+        <a>Serigrafía.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

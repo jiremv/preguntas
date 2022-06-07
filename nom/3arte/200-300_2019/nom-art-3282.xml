@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El Diccionario Akal de Teatro (1988) dice lo siguiente sobre el término 'decorado verbal': "Dícese de la
+        descripción que realiza uno de los personajes de la obra teatral sobre el decorado y la ambientación de una
+        escena. El recurso del decorado verbal puede servir para suplir, en parte o en todo, la escenografía, así como
+        para ayudar a la labor de dirección".</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes parlamentos evidencia la presencia de decorado verbal?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"En ese momento me encontraba pasmado, rodeado de individuos que me miraban con asombro, como si fuera yo un
+           ente extraño fuera de lugar. Era muy tarde, hacía mucho frío y un olor hediondo saturaba el ambiente".</a>
+        <a>"Las estrellas que verás desde la superficie lunar no son las mismas que vemos en la tierra. Su brillo será
+           mayor, pero helado, y su vista, antes de ser motivo de alegría, parecerá un anticipo de la muerte".</a>
+        <a>"Me sorprende la diversidad de cuadros que cuelgan en las paredes de esta habitación. Mis ojos saltan de un
+           Szyszlo a un Chávez o a un Llona. Sus colores vivos y formas sinuosas estimulan mis retinas, y me pregunto
+           cuánto se ha invertido para reunir esta colección formidable".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

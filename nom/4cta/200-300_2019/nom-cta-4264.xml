@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Durante el inicio de una sesión de aprendizaje sobre las propiedades magnéticas de los materiales, una docente
+        ha notado que varios estudiantes creen que todos los metales son atraídos por imanes comunes. Por ello, decidió
+        realizar la siguiente actividad con los estudiantes:</q0>
+    <g0></g0>
+    <q>¿Cuál fue el propósito principal de la docente al realizar esta actividad con los estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>La generación de conflicto cognitivo en los estudiantes.</a>
+        <a>Que los estudiantes formulen preguntas de indagación.</a>
+        <a>La activación de los saberes previos de los estudiantes.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

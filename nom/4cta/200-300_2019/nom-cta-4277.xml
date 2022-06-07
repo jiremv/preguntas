@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda</q0>
+    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4276-p.png</g0>
+    <q>Luego de que los estudiantes han realizado las modificaciones pertinentes en su propuesta de indagación, la
+       llevan a cabo y dibujan sus observaciones. A continuación, se presentan dos dibujos realizados por los
+       estudiantes:</q>
+    <g>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4277-p.png</g>
+    <q2>De acuerdo con los dibujos, ¿qué clase de tonicidad presenta la solución 2?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Isotónica</a>
+        <a>Hipotónica</a>
+        <a>Hipertónica</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

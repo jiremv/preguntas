@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4155-p.png
+	</g0>
+	<q>El dióxido de nitrógeno (NO2) tiene un punto de fusión de – 11,2°C y un punto de ebullición
+de 21,2°C, a 1 atm.
+	</q>
+	<q2>¿Cuál de las figuras representa las moléculas de NO2 a – 5°C?	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Figura 1</a>
+		<a>Figura 2</a>
+		<a>Figura 3</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

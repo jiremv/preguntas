@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de realizar el calentamiento vocal, el docente necesita conocer de manera general cuál es el rango de
+        notas que pueden cantar los estudiantes para agruparlos según su registro vocal. Sin embargo, algunos
+        estudiantes aún se sienten inseguros para cantar. En la situación descrita,</q0>
+    <g0></g0>
+    <q>¿cuál de los siguientes métodos es más apropiado para encontrar el rango vocal aproximado de los estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Tocar una nota en un piano o guitarra y pedir individualmente a cada estudiante que la cante cuando se sienta
+           listo, y luego descender progresivamente por semitonos solicitando a cada estudiante que reproduzca las notas
+           que el docente toca en el piano o guitarra, hasta llegar a la nota más grave que cada estudiante pueda cantar
+           sin forzar excesivamente su voz. Repetir el mismo procedimiento con cada estudiante para las notas agudas.</a>
+        <a>Enseñar a los estudiantes una canción sencilla, dividirlos en grupos y pedirle a cada grupo que la cante
+           mientras el docente les da notas de referencia con un xilófono o una flauta. Luego, ir cambiando el tono de
+           la canción progresivamente para identificar qué estudiantes pueden cantar las notas más agudas o las más
+           graves, mientras se elabora una lista de los estudiantes con registros de voz similares.</a>
+        <a>Mostrar a los estudiantes un diagrama con la clasificación de los registros vocales (soprano, mezzosoprano,
+           contralto, tenor, barítono y bajo) indicando los rasgos que corresponden a cada voz. Luego, entregar a los
+           estudiantes agrupados en parejas un instrumento musical como una flauta o un xilófono para que ellos mismos
+           encuentren sus propios registros usando la información del diagrama.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

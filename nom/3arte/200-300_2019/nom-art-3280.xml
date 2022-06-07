@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente ha propuesto varias canciones a los estudiantes y, luego de discutirlo, han seleccionado algunas y
+        las han aprendido. El docente nota que los estudiantes disfrutan en particular al cantar una de las canciones
+        seleccionadas, y ve en ello una oportunidad para realizar con la clase una actividad de análisis que permita que
+        los estudiantes exploren la relación entre el contenido de las letras y algunas de las características musicales
+        de la canción en cuestión.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes actividades es más apropiada para hacer el análisis de la canción?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Hacer un plenario en el que los estudiantes analicen el contenido de la letra de la canción, identificando
+           secciones con contenidos contrastantes. Analizar luego las diferencias entre la extensión de los versos en
+           las estrofas y la de los coros. Identificar luego el mensaje central de la canción y los principales
+           elementos con los que se expresa en la letra.</a>
+        <a>Solicitar a los estudiantes que canten la melodía de la canción sin pronunciar la letra, y que comparen las
+           emociones que evocan las distintas partes de la melodía. Luego dividir la canción en secciones y pedir a los
+           estudiantes que enumeren características musicales de cada sección. Finalmente preguntarles cuál creen que es
+           la relación entre las emociones provocadas por la música de las distintas partes de la canción y el contenido
+           de la letra.</a>
+        <a>Pedir a los estudiantes que identifiquen las diversas secciones dentro de la canción y su función, así como
+           la estructura de los versos y los tipos de rima que son usados. Preguntar cuáles son los rasgos musicales
+           característicos de la canción, como el género musical, los instrumentos musicales utilizados, la presencia o
+           no de solos instrumentales, etc., y luego pedirles a los estudiantes que relacionen los rasgos identificados
+           con la información recogida sobre los versos.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

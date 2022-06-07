@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Qué acción deben realizar los estudiantes para lograr seguir las consignas a partir del sonido escuchado?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Ordenar las acciones en el espacio y en el tiempo.</a>
+    <a>Ajustar el propio movimiento ante una demanda.</a>
+    <a>Coordinar los movimientos en acciones motrices.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

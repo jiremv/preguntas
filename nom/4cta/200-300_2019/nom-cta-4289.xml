@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Una docente ha notado que muchos de sus estudiantes muestran interés en formar parte del equipo de vóley del
+        colegio y decide aprovechar esta situación para trabajar una unidad didáctica sobre la identificación de las
+        fuerzas que actúan en el movimiento de los cuerpos.</q0>
+    <g0></g0>
+    <q>Otra de las actividades planteadas por la docente consistió en mostrar a los estudiantes una pelota de vóley que
+       se encuentra en reposo sobre una superficie plana horizontal y solicitarles que describan las fuerzas que actúan
+       en la pelota.</q>
+    <g>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4289-p.png</g>
+    <q2>¿Cuál de las siguientes intervenciones de los estudiantes sobre las fuerzas que actúan en la pelota de vóley es
+        correcta?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Luis: "Como la pelota está quieta, además de la fuerza normal y el peso, actúa una fuerza de fricción
+           estática sobre ella".</a>
+        <a>Carla: "La fuerza normal y el peso son las únicas fuerzas que actúan en la pelota, y como estas fuerzas
+           siempre se oponen, sus módulos son iguales".</a>
+        <a>Ana: "En la pelota actúan la fuerza normal y el peso y, aunque en este caso se oponen, no son un par de
+           fuerzas de acción y reacción".</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

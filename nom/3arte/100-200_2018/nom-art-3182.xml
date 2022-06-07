@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice sobre el teatro documental: "Este tipo de
+        teatro tiene como propósito utilizar en su texto únicamente fuentes auténticas que se seleccionan y se 'montan'
+        en función de la tesis sociopolítica de la obra". Es decir, se trata de obras teatrales en las que el guion está
+        compuesto por textos extraídos de documentos oficiales, testimonios, artículos periodísticos, etc.</q0>
+    <g0></g0>
+    <q>Un docente de Arte muestra a los estudiantes un video de una escena de teatro documental y luego les muestra las
+       fuentes de donde se extrajo el texto del guion, reflexionando junto con ellos sobre cuál es el punto de vista que
+       el autor quiere resaltar al respecto de los hechos contados en la obra. Uno de sus estudiantes levanta la mano y
+       dice: "Pero no entiendo, profesor, lo que usted nos muestra no puede ser una obra de teatro, porque una obra
+       teatral siempre es un trabajo de ficción, y en este caso no hay ficción. No puede ser".</q>
+    <g></g>
+    <q2>¿Qué proceso cognitivo evidencia principalmente lo dicho por el estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Metacognición.</a>
+        <a>Conflicto cognitivo.</a>
+        <a>Transferencia del aprendizaje.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

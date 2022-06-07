@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Durante una sesión de aprendizaje, el docente pregunta a los estudiantes qué danzas les gustaría aprender, a lo
+       que Fernanda levantando la mano responde: "Profesor, yo quiero aprender negroide, porque a mí me gusta mucho la
+       canción "Saca las manos" que canta Eva Ayllón y me encantan esas faldas largas que usan las chicas, esas que
+       llegan casi hasta los tobillos. Por favor, profesor, enséñenos a bailar eso".</q>
+    <g></g>
+    <q2>Después de agradecerle por su participación, ¿en qué aspecto debe centrarse la retroalimentación a Fernanda?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>En que Eva Ayllón no es la intérprete de la canción "Saca las manos".</a>
+        <a>En que el verdadero nombre de la danza no es "negroide" sino "festejo".</a>
+        <a>En que la danza no se baila con faldas largas, sino solamente con faldas muy cortas.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

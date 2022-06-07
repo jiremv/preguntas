@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4165-p.png
+	</g0>
+	<q>¿A qué se deben los cambios de color observados en los ensayos?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="0">
+		<a>A la ruptura de enlaces glucosídicos.</a>
+		<a>A la ruptura de enlaces peptídicos.</a>
+		<a>A la fermentación de carbohidratos.</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>En una IE se va a realizar una campaña para concientizar a la comunidad educativa sobre el trabajo infantil en el
+       Perú. Por ello, los estudiantes de quinto grado proponen a su profesor de Arte crear una coreografía sobre esta
+       problemática, aprovechando que han estado realizando ejercicios de preparación corporal y técnica en danza.</q>
+    <g></g>
+    <q2>¿Cuál de las siguientes actividades es la menos pertinente para que el docente guíe a sus estudiantes al inicio
+        de la creación artística?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Plantear a los estudiantes investigar algunos casos sobre el trabajo infantil que les sirvan de inspiración
+           al momento de crear su coreografía.</a>
+        <a>Proponer a los estudiantes varias secuencias de pasos que transmitan el mensaje que se quiere dar sobre el
+           tema para que ellos las reproduzcan y perfeccionen.</a>
+        <a>Generar un espacio en el que los estudiantes exploren diversos movimientos relacionándolos con el mensaje que
+           se quiere dar por medio de la danza.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

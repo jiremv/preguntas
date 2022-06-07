@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/3arte/100-200_2018/nom-art-3185-p.png</g0>
+    <q>Luego de iniciar la unidad recogiendo los saberes previos de los estudiantes sobre la improvisación teatral,
+       ¿cuál de las siguientes actividades es la más apropiada?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Separar a la clase en grupos y entregarles consignas sencillas como "una señora quiere saber quién se comió a
+           su gato", y pedir a cada grupo que improvise frente a la clase una escena breve tomando las consignas como
+           punto de partida. Luego, fomentar una lluvia de ideas para recoger los principales aciertos y dificultades
+           que experimentaron al realizar el ejercicio y reflexionar sobre cómo mejorar sus futuras improvisaciones.</a>
+        <a>Dibujar en la pizarra un cuadro con una clasificación de los principales géneros teatrales. Luego, dividir a
+           la clase en grupos y solicitar a los estudiantes que escojan uno de los géneros mostrados en la pizarra y que
+           escriban el guion de una escena que corresponda al género escogido. Seguidamente, hacer una improvisación
+           teatral usando la escena escrita como referente para la improvisación.</a>
+        <a>Mostrar el video de una escena de improvisación teatral y luego realizar con los estudiantes un análisis
+           dramatúrgico de la estructura de la improvisación. Luego, hacer un cuadro comparativo de los personajes
+           mostrados en la improvisación y sus motivaciones, y relacionar dichas motivaciones con el conflicto o
+           conflictos presentes en la escena.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

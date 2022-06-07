@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4158-p.png
+	</g0>
+	<q>Un estudiante realiza el siguiente comentario:
+	</q>
+	<g>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4160-p.png
+	</g>
+	<q2>¿Cuál de las siguientes preguntas es pertinente que realice la docente para hacer reflexionar
+al estudiante sobre el error que se evidencia en su comentario?	
+	</q2>
+	<as r="R" correcta="0">
+		<a>¿Por qué hay lactato en la sangre de la persona antes de iniciar la actividad física?</a>
+		<a>¿El lactato se produce solo en las personas o también en otros seres vivos?</a>
+		<a>¿En todas las actividades de gran esfuerzo físico se produce lactato?</a>
+	</as>	
+	<x>A.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

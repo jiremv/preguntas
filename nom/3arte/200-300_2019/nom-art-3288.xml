@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿qué retroalimentación es más pertinente para ayudarlo a comprender el razonamiento del autor citado?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>"Para Patrice Pavis, qué será más importante: ¿La exactitud histórica o la solidez del guion? Según lo que
+           hemos leído en su texto, ¿permite Pavis cualquier variación o indica que hay algunas libertades que no es
+           posible tomar? ¿Qué diferencia hay entre las cosas que permite cambiar y las que no?".</a>
+        <a>"¿Has considerado los intereses de Patrice Pavis y el contexto en el que escribió lo que hemos leído?
+           ¿Consideras que es importante para todos los artistas la exactitud y la rigurosidad en materias académicas?
+           ¿Crees que un artista debe tener libertad para poder expresar sus ideas sin ataduras o debe siempre pegarse a
+           la historia?".</a>
+        <a>"¿Sabías que Patrice Pavis es un estudioso del teatro muy conocido y que ha sido profesor en varias
+           universidades europeas de prestigio? Además de su diccionario, ha escrito muchos libros que analizan diversos
+           aspectos del teatro y que son utilizados por estudiantes y profesionales de todo el mundo. Por eso, es
+           conveniente que reflexiones sobre tu posición".</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

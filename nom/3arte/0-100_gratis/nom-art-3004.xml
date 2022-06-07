@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿La música es?</q>
+  <as r="R" correcta="0">
+    <a>Es la ciencia y arte de combinar correctamente los sonidos musicales.</a>
+    <a>Es la ciencia que se rige por los ritmos propios de cada país.</a>
+    <a>Es el medio donde expresamos nuestros sentimientos a través de expresiones dinámicas.</a>
+  </as>
+  <x>A.</x>
+</p>

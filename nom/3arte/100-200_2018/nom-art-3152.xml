@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Cuando se dibuja un retrato, ¿cuál de las siguientes acciones NO se recomienda para lograr la proporción y la
+       simetría del rostro?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Verificar la equidistancia de las partes del rostro respecto a un eje.</a>
+        <a>Relacionar las partes del rostro con la totalidad del mismo.</a>
+        <a>Definir los detalles del rostro.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

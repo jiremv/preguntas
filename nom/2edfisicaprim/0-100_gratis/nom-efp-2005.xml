@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>La flexibilidad depende de:</q>
+    <as r="R" correcta="1">
+        <a>Movilidad articular, elasticidad muscular y herencia genética.</a>
+        <a>Movilidad articular y elasticidad muscular.</a>
+        <a>Movilidad articular y herencia genética.</a>
+        <a>Movilidad muscular y elasticidad muscular.</a>
+    </as>
+    <x>B.</x>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Después de mostrarles la acuarela de Pancho Fierro a los estudiantes, el docente de Arte y Cultura les enseña
+        otra imagen de la misma danza, pero ejecutada en la época actual, para que las comparen y así conozcan la
+        evolución de la danza en el tiempo.</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes grupos de preguntas es el más adecuado para iniciar el análisis de las imágenes con los
+       estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>¿Qué les llama más la atención de la imagen actual de la danza? ¿Qué semejanzas y diferencias encuentran en
+           el vestuario de ambas imágenes? ¿Y entre las máscaras utilizadas antiguamente y las actuales? ¿Qué
+           instrumentos musicales observan en cada imagen?</a>
+        <a>¿Qué género de danza se visualiza en las imágenes? ¿Cómo es la postura corporal de los bailarines en cada
+           imagen? ¿Cuál es el contexto histórico de la primera imagen? ¿Cuál es el contexto histórico de la segunda
+           imagen? ¿Qué valor cultural tiene esta danza?</a>
+        <a>¿Habían escuchado hablar de esta danza? ¿Han visto bailar esta danza antes? ¿Por qué el vestuario actual es
+           diferente? ¿Los personajes siguen llevando máscara en la actualidad? ¿Conocen el mensaje de la danza?</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

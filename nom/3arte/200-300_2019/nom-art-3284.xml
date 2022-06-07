@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito principal de esta actividad?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Que los estudiantes se ayuden entre sí a perfeccionar sus movimientos de manera que puedan realizar una
+           representación más fidedigna de los personajes.</a>
+        <a>Que los estudiantes desarrollen su conciencia corporal, su capacidad de observación y atención, y la
+           confianza en sí mismos y en los demás.</a>
+        <a>Que los estudiantes aprendan a reconocer y comunicar sus emociones de manera que se fortalezcan las
+           relaciones afectivas en el grupo.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

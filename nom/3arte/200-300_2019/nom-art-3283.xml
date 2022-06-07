@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Qué modificación es necesario hacer en la sinopsis para que se ajuste a lo descrito en el texto citado?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Los personajes en conflicto no se encuentran en igualdad de condiciones; es necesario que las motivaciones de
+           Yonhy sean legítimas.</a>
+        <a>La trama no contiene un conflicto: es necesario hacer que Sofía y Víctor tengan intereses opuestos para poder
+           introducir un elemento trágico.</a>
+        <a>La sinopsis no incluye información sobre las motivaciones de Sofía, lo que es necesario para juzgar la
+           moralidad de sus aspiraciones y su oposición con los otros personajes.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

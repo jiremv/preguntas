@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la exposición, al lado de la pieza, se ubica un texto que describe la obra. A continuación se presentan
+        algunas frases extraídas de ese texto.</q0>
+    <g0></g0>
+    <q>¿Cuál de las frases evidencia una reflexión contemporánea sobre la pieza de Nadín Ospina?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>"El artista pone en tensión dos culturas distintas, la tradicional y la globalizada, mostrando una compleja
+           forma híbrida".</a>
+        <a>"Haciendo uso de la técnica de escultura en piedra, el artista logra proporciones armoniosas entre las
+           distintas partes de la obra"</a>
+        <a>"En la exposición, el artista hace uso de la iluminación sobre su obra para resaltar los contornos y
+           potenciar su carácter expresivo".</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

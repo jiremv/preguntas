@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes alternativas es una anacronía en una puesta teatral?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>En la primera escena, se muestra la ceremonia de declaración de independencia del Perú. En la escena
+           siguiente se muestran las primeras coordinaciones para la lucha por la independencia del Perú. En la última
+           escena se muestra a Antonio José de Sucre reflexionando sobre el futuro del Perú luego de la batalla de
+           Ayacucho.</a>
+        <a>En la primera escena, se muestra a Edwin discutiendo acaloradamente en la banca de una plaza con Yesenia, su
+           enamorada. La siguiente escena muestra a Yesenia y a Edwin rompiendo su relación y a Yesenia marchándose de
+           la plaza. La última escena muestra a Edwin sentado solo en la banca.</a>
+        <a>En la primera escena, se muestra a Mauricio buscando desesperadamente a su perro en una chacra durante la
+           noche. En la segunda escena, se observa a Mauricio encontrarse con la Muerte en la oscuridad. En la última
+           escena, la Muerte ayuda a Mauricio a encontrar a su perro en la chacra.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

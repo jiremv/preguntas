@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Después de seleccionar la música del agrado de los estudiantes, empezarán a crear la coreografía.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes alternativas es la más adecuada para que el docente facilite a los estudiantes el proceso
+       de creación de la coreografía?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Mostrar diversos videos de concursos de coreografías de hip hop para que los estudiantes observen las típicas
+           secuencias de movimientos utilizadas en este género musical, para que luego escojan las que más les gusten,
+           las integren y las reproduzcan hasta que a todos les salga a la perfección.</a>
+        <a>Mostrar diversos videos de concursos de coreografías de hip hop para que los estudiantes observen las típicas
+           secuencias de movimientos utilizadas en este género musical, para que luego escojan las que más les gusten,
+           las integren y las reproduzcan hasta que a todos les salga a la perfección.</a>
+        <a>Demostrar frente a los estudiantes diversas secuencias cortas de movimientos y pedirles que las imiten lo
+           mejor que puedan; repetir las secuencias varias veces hasta que todos las hayan aprendido y luego pedirles
+           que junten todas las secuencias en una sola de manera coherente y que la practiquen hasta dominarla.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

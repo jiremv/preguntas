@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Gustav Freytag (Polonia, 1816-1895) propuso que las obras dramáticas comparten una estructura que se divide en
+       cinco partes: exposición, acción creciente, clímax, acción decreciente y resolución. Un docente de Arte muestra a
+       sus estudiantes el esquema propuesto por Freytag y discute con ellos un ejemplo de cómo dicha estructura se
+       aplica en el cuento Pinocho. Luego de que los estudiantes han comprendido la estructura, el docente distribuye
+       otros cuentos infantiles a la clase y cada estudiante identifica las cinco partes del esquema propuesto por
+       Freytag en uno de los cuentos.</q>
+    <g></g>
+    <q2>¿Qué proceso pedagógico busca promover el docente en los estudiantes en la última parte de la actividad?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Metacognición sobre el proceso de aprendizaje.</a>
+        <a>Transferencia del aprendizaje.</a>
+        <a>Cambio conceptual.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

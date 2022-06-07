@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de analizar el video del ballet Cascanueces y discutir sobre él, la docente muestra otro video a los
+        estudiantes. En esta ocasión, selecciona una coreografía de la renombrada bailarina y coreógrafa contemporánea,
+        Pina Bausch (Alemania, 1940-2009), para que los estudiantes aprecien cómo se aplica en otros géneros de danza lo
+        que han aprendido a partir de Cascanueces. La docente les cuenta a los estudiantes que Pina Bausch seguía un
+        proceso muy específico para crear sus coreografías, pues recurría a improvisaciones y a la memoria de las
+        experiencias de los propios bailarines para crear las escenas, y les comenta que, por esa y otras razones, sus
+        coreografías son innovadoras y poco convencionales.</q0>
+    <g0></g0>
+    <q>Luego de ver el video, Javier, uno de los estudiantes, comenta lo siguiente: "La coreografía de Pina Bausch no
+       tiene la misma calidad que la de Cascanueces, porque los movimientos de los bailarines no son igual de bonitos y
+       no me gustan".</q>
+    <g></g>
+    <q2>Después de agradecerle por su participación, ¿en qué debe centrarse la retroalimentación a Javier?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>En que no es apropiado valorar la calidad de una coreografía sobre la base de los gustos personales.</a>
+        <a>En que no es legítimo cuestionar la calidad del trabajo de una artista reconocida internacionalmente.</a>
+        <a>En que el método de trabajo de Pina Bausch es poco convencional y por ello no es posible comparar su trabajo
+           con el ballet Cascanueces.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes alternativas es la recomendación más pertinente?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Hacer que el candidato que gane las elecciones de 1939 sea Augusto B. Leguía y no Manuel Prado Ugarteche; de
+           esa forma, el protagonista se enfrentaría a un mismo enemigo en dos oportunidades.</a>
+        <a>Hacer que la renuncia del protagonista al puesto diplomático no sea por motivos políticos sino por motivos
+           familiares para evitar que se pueda interpretar que Rafael Belaúnde fue desleal con Benavides.</a>
+        <a>Hacer que el nacimiento de Fernando Belaúnde ocurra el mismo año en que Rafael Belaúnde es encarcelado, así
+           su encarcelamiento implicaría no solo perder su libertad sino también tener que separarse de su hijo recién
+           nacido.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

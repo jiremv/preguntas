@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿Cuál de estas pinturas no fue pintada por Leonardo da Vinci?</q>
+  <as r="R" correcta="1">
+    <a>La Adoración de los Reyes Magos.</a>
+    <a>La Maja Desnuda.</a>
+    <a>La Última Cena.</a>
+    <a>La Virgen de las Rocas.</a>
+    <a>La Mona Lisa.</a>
+  </as>
+  <x>B.</x>
+</p>

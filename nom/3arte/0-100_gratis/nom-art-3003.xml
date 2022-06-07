@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿La danza es?</q>
+  <as r="R" correcta="1">
+    <a>Forma de arte de la música.</a>
+    <a>Es donde se utiliza el movimiento del cuerpo.</a>
+    <a>Es una forma de comunicación de la música.</a>
+    <a>La armonía con el medio ambiente.</a>
+  </as>
+  <x>B.</x>
+</p>
+

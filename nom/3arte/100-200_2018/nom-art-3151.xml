@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/3arte/100-200_2018/nom-art-3151-p.png</g0>
+    <q>En la clase de Arte, los estudiantes han elaborado diversas piezas de arcilla, como platos, tazas y floreros.
+       Luego de "quemarlas" en el horno, van a pintarlas con esmaltes para cerámica y luego volverán a hornearlas para
+       lograr el acabado final. Luego de decidir el diseño y los colores que utilizarán, el docente les sugiere a los
+       estudiantes que tracen con un lápiz los diseños en la superficie de las piezas y que luego apliquen varias capas
+       delgadas de pintura.</q>
+    <g></g>
+    <q2>¿Por qué es recomendable aplicar varias capas delgadas de pintura?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Porque permite que cada capa se seque bien antes de seguir aplicando más pintura de manera que esta no se
+           cuartee o se desprenda.</a>
+        <a>Porque permite superponer capas de distintos colores para conseguir colores nuevos aprovechando la
+           transparencia del material.</a>
+        <a>Porque permite tener un mayor control de la aplicación del esmalte sobre el diseño y así no salirse de las
+           líneas trazadas.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

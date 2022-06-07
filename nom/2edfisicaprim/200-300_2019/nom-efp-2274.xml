@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál es la principal característica del enfoque descrito anteriormente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Sigue el camino de la exploración y el descubrimiento.</a>
+    <a>Se centra en encauzar el interés de los estudiantes por jugar.</a>
+    <a>El aprendizaje del gesto técnico se hace fuera del contexto de juego.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

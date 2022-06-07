@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes están practicando una coreografía de danza y el docente observa que, a pesar de esforzarse, uno
+        de los estudiantes aún no logra tener fluidez en los movimientos que realiza con las piernas. El docente decide
+        brindarle retroalimentación utilizando la "técnica del sándwich", la cual consiste en primero darle un mensaje
+        positivo, luego mencionarle el aspecto que debe mejorar y finalmente darle otro mensaje positivo o ejemplo.</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes comentarios es la retroalimentación más adecuada teniendo en cuenta la "técnica del
+       sándwich"? 66</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"Me gusta mucho como bailas, tienes talento para el arte y te felicito por ello, pero no te esfuerzas lo
+           suficiente porque aún hay mucha rigidez cuando realizas movimientos con tus piernas; por eso, mira mi
+           ejemplo, te demostraré algunos movimientos que tienen más fluidez, ojalá que con ello aprendas y mejores".</a>
+        <a>"He observado que te esfuerzas mucho y felicito tu entusiasmo y dedicación; también he observado que tus
+           piernas aún tienen rigidez en algunos movimientos, pero si, por ejemplo, relajas los músculos de las piernas
+           flexionando ligeramente las rodillas, tus movimientos tendrán más fluidez; inténtalo y lo conseguirás".</a>
+        <a>"¿Te has dado cuenta de cuánto has progresado bailando? Estoy asombrado por todo lo que has logrado, casi lo
+           haces perfectamente si no fuera porque los movimientos de tus piernas no tienen suficiente fluidez, lo que le
+           resta calidad a la coreografía; pero no te preocupes, mira el ejemplo de tus compañeros, ellos sí tienen
+           mucha fluidez en sus piernas".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

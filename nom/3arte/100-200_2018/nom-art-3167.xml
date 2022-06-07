@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>El ballet Cascanueces está basado en la novela El cascanueces y el rey de los ratones, escrita en 1816 por Ernst
+       Theodor Amadeus Hoffmann (Prusia, 1776 -1822). La docente ha conseguido en internet una versión resumida de la
+       novela mencionada y, tomando en cuenta que la novela y el ballet comparten el mismo argumento, la docente planea
+       utilizar el resumen en su clase.</q>
+    <g></g>
+    <q2>Tomando en cuenta los propósitos de la unidad didáctica descrita, ¿cuál de las siguientes alternativas es la más
+        pertinente realizar como primera actividad de análisis de Cascanueces utilizando el material mencionado?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Pedir a los estudiantes que hagan una relación de todas las coincidencias que hay entre la novela y el
+           ballet, poniendo especial atención a las pequeñas diferencias que puedan identificar y su efecto en la
+           narración de la historia.</a>
+        <a>Solicitar a los estudiantes que identifiquen en el resumen los principales personajes y sus objetivos, así
+           como la trama y las principales acciones, para luego contrastar esa información con los movimientos que
+           realizan los bailarines en el video del ballet.</a>
+        <a>Encargar a los estudiantes que lean el resumen e imaginen que ellos son los coreógrafos del ballet
+           Cascanueces y que escriban una lista detallada de las instrucciones que ellos darían a los bailarines para
+           transmitir adecuadamente el contenido de la historia por medio de la danza</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

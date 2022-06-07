@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un docente de Arte está trabajando con sus estudiantes la escritura de guiones teatrales. El docente divide a la
+       clase en grupos y les pide que inventen una historia que les gustaría convertir en guion teatral. Luego les va
+       haciendo las siguientes preguntas para que los estudiantes las discutan entre ellos: "¿Quién es el personaje
+       principal de su historia? ¿Cuál es su situación al principio de la historia? ¿Cuáles son sus problemas? ¿Qué es
+       lo que quiere conseguir? ¿Qué sucede a lo largo de la historia? ¿Qué retos deberá enfrentar el personaje
+       principal? ¿Cuáles serán sus decisiones? ¿Cómo habrá cambiado el personaje principal al final de la historia?".</q>
+    <g></g>
+    <q2>¿Cuál es el propósito de las preguntas hechas por el docente?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Favorecer la metacognición sobre el proceso de aprendizaje a partir de la reflexión sobre la historia creada.</a>
+        <a>Realizar un proceso de transferencia de información a los estudiantes para que mejoren su historia.</a>
+        <a>Proporcionar andamiaje para identificar la estructura dramática de la historia escogida.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

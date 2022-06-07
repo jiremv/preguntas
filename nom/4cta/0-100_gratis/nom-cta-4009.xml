@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/0-100_gratis/nom-cta-4158-p.png
+	</g0>
+	<q>Según los gráficos presentados, ¿qué evidencia sustenta que ha ocurrido respiración
+anaeróbica durante la carrera de 100 m planos?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>El que la glucosa no se haya consumido por completo al finalizar la carrera.</a>
+		<a>La disminución de la concentración de glucosa al finalizar la carrera.</a>
+		<a>El aumento de la concentración de lactato al finalizar la carrera.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

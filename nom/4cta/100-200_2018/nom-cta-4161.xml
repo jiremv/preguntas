@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4161-p.png
+	</g0>
+	<q>¿Cuál de las siguientes alternativas describe una relación correcta entre un antígeno y un
+anticuerpo?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>Un antígeno es una proteína del sistema inmune que permite destruir anticuerpos.</a>
+		<a>Un antígeno es una molécula capaz de inducir la producción de un anticuerpo.</a>
+		<a>Un antígeno es un agente patógeno que es neutralizado por anticuerpos.</a>
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

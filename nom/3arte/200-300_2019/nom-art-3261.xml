@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>¿Qué danza está representada en la acuarela?
+</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>Hatajo de negritos.</a>
+		<a>Son de los diablos. </a>
+		<a>Zapateo criollo.
+</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

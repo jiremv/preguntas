@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>El renombrado compositor y productor musical Brian Eno (Inglaterra, 1948) dijo lo siguiente sobre los
+       secuenciadores digitales y la democratización de la producción musical: "El gran beneficio de los secuenciadores
+       computarizados es que eliminan el problema de la habilidad y lo reemplazan por el problema del discernimiento".</q>
+    <g></g>
+    <q2>¿Cuál de las siguientes afirmaciones es la idea principal de lo expresado por Brian Eno?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Los secuenciadores digitales introducen interfaces de usuario más amigables que eliminan la necesidad de
+           dominar software complejo y liberan el tiempo del usuario para dedicarlo al desarrollo y acabado de sus
+           productos musicales.</a>
+        <a>Los secuenciadores digitales permiten que una persona aborde la composición de obras de todo nivel de
+           complejidad, siendo más importantes su imaginación y su inventiva que su capacidad para tocar instrumentos
+           musicales.</a>
+        <a>Los secuenciadores digitales introducen una multiplicidad de herramientas y opciones para la producción
+           musical digital, por lo cual es muy importante que las personas usen su criterio y experiencia para
+           distinguir qué herramientas usar y cuáles dejar de lado en un momento determinado.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

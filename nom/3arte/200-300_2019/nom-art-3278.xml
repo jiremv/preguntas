@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente desarrolla con la clase una serie de ejercicios de calentamiento vocal. Durante los ejercicios, uno
+        de los estudiantes le dice al docente: "Profesor, no me salen bien las notas más agudas. Siento que sí puedo
+        llegar a la nota, pero al poco rato me duele la garganta".</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes alternativas es más pertinente para ayudar al estudiante a superar su dificultad?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Explicar cómo bajar una octava a todas las notas que no pueda cantar.</a>
+        <a>Indicarle que aspire mayor cantidad de aire justo antes de cantar cada nota aguda.</a>
+        <a>Enseñarle cómo relajar el cuerpo y a usar el diafragma para dar soporte a las notas.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

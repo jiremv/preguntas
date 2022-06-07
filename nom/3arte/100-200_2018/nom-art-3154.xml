@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Luego de escoger una imagen apropiada, ¿cuál es el conjunto de preguntas más pertinente para iniciar el diálogo
+       con los estudiantes y facilitar el aprendizaje del concepto de escorzo?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"¿Conocen el nombre que se le da al tipo de perspectiva que se ha usado en esta imagen? ¿Cuál es? ¿Cuáles son
+           sus características principales?".</a>
+        <a>"¿Qué sensación visual les produce esta imagen? ¿A qué creen que se debe? ¿Por qué habrá usado el artista
+           este recurso?".</a>
+        <a>"¿Han oído la palabra "escorzo? alguna vez? ¿Saben qué significa? ¿Pueden identificar su uso en esta imagen?".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

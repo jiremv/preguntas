@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un docente divide a los estudiantes en grupos y les entrega una serie de artículos relacionados con la creación
+       de personajes dramatúrgicos. Luego les solicita que los lean, discutan y reflexionen en grupo sobre su contenido,
+       y que presenten un informe sobre las ideas principales al resto de la clase.</q>
+    <g></g>
+    <q2>¿Qué proceso están realizando principalmente los estudiantes en la actividad descrita?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Aplicación de lo aprendido.</a>
+        <a>Reflexión sobre el aprendizaje.</a>
+        <a>Procesamiento de información.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Luego de diversas actividades relacionadas con el video de "Re/Trato", un estudiante pregunta: "Profesora,
+       entonces, en este caso, ¿la obra de arte es el dibujo o el video?". La docente traslada la pregunta a la clase y
+       tres estudiantes manifiestan su opinión sobre el tema:</q>
+    <g>./../../preguntas/nom/3arte/100-200_2018/nom-art-3159-p.png</g>
+    <q2>¿Cuál de las respuestas evidencia una interpretación contemporánea del arte?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La de Rosa.</a>
+        <a>La de Karina.</a>
+        <a>La de Úrsula.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

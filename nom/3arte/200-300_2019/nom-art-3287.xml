@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes actividades es la aplicación más pertinente del Teatro imagen en una sesión del área de
+       Arte y Cultura?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Los estudiantes forman grupos de cuatro personas. Cada grupo recibe una tarjeta distinta con una palabra
+           escrita que deberá ser representada por todos los integrantes del grupo usando solo sus cuerpos. El docente
+           toma fotografías de cada una de las representaciones y luego las muestra a la clase, invitando a los
+           estudiantes a adivinar la palabra que estaba escrita en la tarjeta. El docente recoge las discrepancias que
+           hubiera en la clase y facilita que los estudiantes las discutan. Finalmente, el docente promueve una
+           reflexión sobre por qué motivos no todos interpretan de la misma forma la misma palabra.</a>
+        <a>El docente escoge a un grupo de estudiantes y les indica que, usando solo sus cuerpos, representen el
+           significado de una palabra. El docente hace las correcciones necesarias a la escultura creada por los
+           estudiantes y escribe algunos adjetivos en la pizarra; luego pregunta a la clase cuál de los adjetivos
+           describe mejor la escultura creada por los estudiantes. Los estudiantes dan diversas respuestas y el docente
+           les dice que la apreciación de la escultura está sujeta a la subjetividad de cada persona, haciendo un
+           paralelo con la expresión "todo depende del cristal con que se mira".</a>
+        <a>El docente pregunta a los estudiantes si han escuchado hablar sobre el Teatro imagen. Luego de apuntar las
+           respuestas de los estudiantes en la pizarra, el docente realiza una explicación sobre lo que es el Teatro
+           imagen recogiendo la información aportada por los estudiantes. Luego, el docente muestra a los estudiantes
+           imágenes de personas representando diversas palabras y les pregunta de cuántas formas diferentes es posible
+           interpretar cada una de las palabras y por qué creen que es posible tanta diversidad de interpretaciones.
+           Finalmente, el docente anota las conclusiones de los estudiantes en la pizarra.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

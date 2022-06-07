@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los colores complementarios se encuentran en una posición opuesta dentro del círculo cromático. Se obtienen, por
+        ejemplo, mediante la contraposición de un color primario con un color secundario formado por los otros dos
+        primarios.</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes pares de colores son complementarios?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Azul y anaranjado.</a>
+        <a>Negro y blanco.</a>
+        <a>Rojo y violeta.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

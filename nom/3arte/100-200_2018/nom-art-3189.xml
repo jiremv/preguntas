@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), define "actualización? de la siguiente forma:
+       "Operación que consiste en adaptar un texto antiguo al tiempo presente, teniendo en cuenta las circunstancias
+       contemporáneas, el gusto de un público nuevo y las modificaciones de la historia que la evolución de la sociedad
+       hace necesarias. La actualización no altera la fábula central, preserva la naturaleza de las relaciones entre los
+       personajes. Solo se modifican la atribución temporal y eventualmente el marco de la acción?.</q>
+    <g></g>
+    <q2>Un docente propone a su clase hacer una actualización de Romeo y Julieta. ¿Cuál de las siguientes alternativas
+        es la más adecuada para hacer una actualización de la obra?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Convertir a los clanes opuestos de la obra (Capuletos y Montescos) en partidos políticos con una gran
+           enemistad.</a>
+        <a>Convertir a la pareja de protagonistas adolescentes (Romeo y Julieta) en una pareja de adultos independientes.</a>
+        <a>Convertir a Romeo en un cantante juvenil muy popular en internet y a Julieta en su admiradora.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

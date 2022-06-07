@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Al iniciar el proyecto, el docente desea activar y recoger los saberes previos de los estudiantes sobre técnicas
+        de canto.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes actividades es más apropiada para dicho fin?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Solicitar a un voluntario cantar una canción frente a la clase y preguntar a los estudiantes: "¿Qué podría
+           hacer su compañero para cantar mejor?", e ir recogiendo las sugerencias de la clase en una lista en la
+           pizarra.</a>
+        <a>Preguntar a los estudiantes si les gusta cantar, si lo suelen hacer, y cuáles son sus artistas favoritos;
+           luego, preguntarles qué aspectos creen que es necesario tomar en cuenta para poder cantar bien, mientras se
+           toma nota de las ideas en la pizarra.</a>
+        <a>Preguntar a los estudiantes si han oído antes sobre el uso del diafragma en el canto y cuál es su
+           importancia. Hacer preguntas similares sobre la importancia del control de la respiración y el uso de los
+           resonadores vocales, e ir tomando nota de las ideas principales.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

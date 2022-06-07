@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de presentar el video de "Re/Trato? y conversar con los estudiantes sobre lo observado, la docente les
+        pregunta: "¿Por qué creen que el artista aborda en su obra la violencia en su país? ¿Creen que desde el arte se
+        deben tratar estos temas? ¿La obra acaso podrá aportar a la solución del problema? ¿Puede el arte ayudar a
+        proteger y conservar la memoria de un pueblo? ¿Por qué?".</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito principal de realizar estas preguntas?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Que los estudiantes desarrollen una postura crítica sobre la función de los artistas y del arte en la
+           reflexión sobre problemáticas sociales actuales.</a>
+        <a>Que los estudiantes reflexionen sobre las limitaciones que tiene el arte para hacer aportes a la solución de
+           problemas sociales.</a>
+        <a>Que los estudiantes comparen la problemática de la violencia social que afecta a las sociedades
+           latinoamericanas.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

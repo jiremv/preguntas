@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>La docente tiene el propósito de que sus estudiantes comprendan que la iluminación en una obra de teatro no solo
+       tiene una función práctica (permitir que se observen las acciones que están transcurriendo), sino que también
+       tiene una función simbólica, pues permite crear la atmósfera en la que se desarrolla la acción dramática. Para
+       eso, la docente trae al aula el video de una obra de teatro y se dispone a proyectar el primer acto a los
+       estudiantes. ¿Cuál de las siguientes actividades es la más adecuada para que los estudiantes comprendan la
+       función de la iluminación en el teatro?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Solicitar a los estudiantes que observen los cambios de iluminación en las escenas del primer acto,
+           explicándoles que, en los momentos alegres, la luz se vuelve más brillante y colorida, y que, en los momentos
+           sombríos o tristes, se vuelve menos brillante y se utilizan colores más fríos para reforzar la atmósfera de
+           la escena.</a>
+        <a>Proponer a los estudiantes que identifiquen los momentos alegres, tristes o misteriosos del primer acto y que
+           observen los cambios de color e intensidad en la iluminación, y que luego describan dichos cambios y las
+           sensaciones que les producen relacionándolos con lo que está sucediendo con los personajes en la escena.</a>
+        <a>Pedir a los estudiantes que hagan una relación de todos los cambios de iluminación que se registran en el
+           acto, anotando en cada caso cuánto tiempo ha durado cada cambio de iluminación, y luego pedirles que ordenen
+           sus hallazgos en una tabla en la que se aprecie la secuencia de cambios y sus características.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

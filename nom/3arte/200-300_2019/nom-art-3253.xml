@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de la clase de Arte y Cultura están participando en un proyecto en el que van a realizar una
+        serie de retratos fotográficos utilizando un teléfono celular. El docente quiere proponer una actividad para que
+        los estudiantes conozcan y comprendan los efectos que se pueden lograr en una fotografía por medio de la
+        iluminación.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes actividades es la más pertinente para su propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Analizar con los estudiantes una diversidad de fotos extraídas de internet en las cuales se hayan usado
+           múltiples técnicas de iluminación en situaciones diversas.</a>
+        <a>Proponerles explorar el uso de la luz haciendo retratos en una habitación oscura usando una única fuente de
+           iluminación y ubicándola en diversas posiciones y ángulos.</a>
+        <a>Proponerles explorar el uso de la luz haciendo retratos en una habitación oscura usando una única fuente de
+           iluminación y ubicándola en diversas posiciones y ángulos.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/3arte/100-200_2018/nom-art-3166-p.png</g0>
+    <q>Al iniciar la unidad, antes de ver el video, la docente desea activar los saberes previos de los estudiantes
+       sobre las posibilidades narrativas de la danza. ¿Cuál de los siguientes grupos de preguntas es más apropiado para
+       dicho fin?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"¿Creen ustedes que la danza puede ser un lenguaje? ¿Los bailarines comunican acciones y emociones por medio
+           de sus movimientos? ¿El público puede llegar a entender lo que quieren comunicar?".</a>
+        <a>"¿Se acuerdan de la función de ballet que vieron? ¿Les gustó? ¿En qué se parecen el ballet y el teatro? ¿En
+           qué se diferencian? ¿Qué medios se usan en el ballet para contar la historia?".</a>
+        <a>"¿Alguien conoce alguna película u obra de teatro en la cual los personajes canten y bailen? ¿Les gusta
+           cuando esto sucede? ¿Cómo se sienten en ese momento?".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>
