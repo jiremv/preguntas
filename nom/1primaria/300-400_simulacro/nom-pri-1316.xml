@@ -2,9 +2,9 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
   <q0></q0>
-  <g0>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1316-p1.png</g0>
+  <g0>1316-p1.png</g0>
   <q>En el primer párrafo del texto, se menciona lo siguiente:</q>
-  <g>./../../preguntas/nom/1primaria/200-300_simulacro/nom-pri-1316-p2.png</g>
+  <g>1316-p2.png</g>
   <q2></q2>
   <g2></g2>
   <as r="R" correcta="2">
@@ -19,5 +19,5 @@
   <i></i>
   <x2></x2>
   <i2></i2>
-  <v></v>
+  <v1></v1>
 </p>
