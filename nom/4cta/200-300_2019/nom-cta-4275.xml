@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Un equipo de estudiantes elaboró el siguiente reporte luego de realizar una indagación:</q0>
-    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4275-p.png</g0>
+    <g0>4275-p.png</g0>
     <q>En este reporte, el docente nota logros y algunos errores en la descripción de la indagación. Por ello, luego de
        reconocer los logros evidenciados por las estudiantes, va a retroalimentar al equipo sobre sus errores a través
        de comentarios escritos.</q>
@@ -24,5 +24,5 @@
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

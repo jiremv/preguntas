@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>A partir de las siguientes premisas:</q0>
-    <g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4139-p.png</g0>
+    <g0>139-p.png</g0>
     <q>¿Cuál de los siguientes razonamientos es correcto?</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -14,5 +14,5 @@
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

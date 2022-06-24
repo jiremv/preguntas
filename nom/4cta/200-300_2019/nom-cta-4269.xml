@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Lea la siguiente situación y responda</q0>
-    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4268-p.png</g0>
+    <g0>4268-p.png</g0>
     <q>Si comparamos la cantidad de átomos en un mol de C-12, un mol de C-14 y un mol de N-14, ¿cuál de las siguientes
        afirmaciones es correcta?</q>
     <g></g>
@@ -17,5 +17,5 @@
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

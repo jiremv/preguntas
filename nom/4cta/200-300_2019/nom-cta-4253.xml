@@ -9,13 +9,13 @@
     <q2></q2>
     <g2></g2>
     <as r="R" correcta="2">
-        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-a.png</a>
-        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-b.png</a>
-        <a>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4253-p-c.png</a>
+        <a>4253-p-a.png</a>
+        <a>4253-p-b.png</a>
+        <a>4253-p-c.png</a>
     </as>
     <x>C</x>
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

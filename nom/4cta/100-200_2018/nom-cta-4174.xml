@@ -3,7 +3,7 @@
 <p>
 	<q0>
 	</q0>
-	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4174-p.png
+	<g0>4174-p.png
 	</g0>
 	<q>Un agente oxidante cambia de número de oxidación por ganancia de electrones. ¿Cuál de las
 siguientes alternativas corresponde al agente oxidante de la reacción?
@@ -11,14 +11,14 @@ siguientes alternativas corresponde al agente oxidante de la reacción?
 	<q2>	
 	</q2>
 	<as r="R" correcta="1">
-		<a>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4174-p-a.png</a>
-		<a>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4174-p-b.png</a>
-		<a>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4174-p-c.png</a>
+		<a>4174-p-a.png</a>
+		<a>4174-p-b.png</a>
+		<a>4174-p-c.png</a>
 	</as>	
 	<x>B.</x>
 	<i></i>
 	<x2>
 	</x2>
 	<i2></i2>
-	<v></v>
+	<v1></v1>
 </p>

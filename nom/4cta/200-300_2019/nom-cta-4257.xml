@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Lea la siguiente situación y responda</q0>
-    <g0>./../../preguntas/nom/4cta/200-300_2019/nom-cta-4254-p.png</g0>
+    <g0>4254-p.png</g0>
     <q>El docente ha identificado aspectos que los estudiantes aún deben mejorar en su plan de indagación. ¿Qué grupo de
        preguntas es pertinente que plantee el docente para retroalimentar a los estudiantes sobre estos aspectos?</q>
     <g></g>
@@ -20,5 +20,5 @@
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

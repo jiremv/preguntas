@@ -17,7 +17,7 @@
        seguido por un aumento progresivo de la velocidad, hasta lograr mantener el ritmo sin agotamiento, y, finalmente,
        un trote suave para volver al estado inicial.</a>
   </as>
-  <x>A</x>
+  <x>A</x> <v1></v1>
   <i></i>
   <x2></x2>
   <i2></i2>
