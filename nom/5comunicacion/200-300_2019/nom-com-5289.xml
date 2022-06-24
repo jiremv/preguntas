@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5289-p.png</g0>
+  <q>Mientras el docente monitorea la preparación de los grupos para el debate, algunos estudiantes, integrantes de un
+     mismo equipo, le piden ayuda para planificar el texto oral con el que iniciarán su participación. ¿Cuál de las
+     siguientes acciones pedagógicas es más adecuada para ayudar a dichos estudiantes?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Proponerles buscar fuentes de información confiables que incluyan cifras y porcentajes sobre los hábitos de los
+       adolescentes influenciados por la televisión. Luego, mostrar cómo pueden emplear dichos datos en la presentación
+       de sus argumentos.</a>
+    <a>Ayudarlos a llegar a un acuerdo sobre la postura que asumirán. Luego, orientarlos en la selección de fuentes
+       sobre la influencia de la televisión en los adolescentes y revisarlas con ellos para elegir las ideas que los
+       ayuden a sostener dicha postura.</a>
+    <a>Sugerirles que, en el debate, adopten la opinión que comparte la mayoría sobre la influencia de la televisión en
+       los adolescentes. Luego, darles algunos argumentos para defenderla y pedir que practiquen antes de intervenir en
+       el debate.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

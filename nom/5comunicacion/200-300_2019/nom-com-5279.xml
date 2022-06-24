@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5279-p1.png</g0>
+  <q>Este es uno de los poemas que la docente leerá con los estudiantes:</q>
+  <g>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5279-p2.png</g>
+  <q2>La docente busca que los estudiantes construyan interpretaciones sobre este poema de manera conjunta. ¿Cuál de las
+      siguientes acciones es más adecuada para ello?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Darles el poema sin el título para que propongan otros títulos en función del contenido del texto. Luego,
+       dialogar con ellos sobre el porqué de sus propuestas.</a>
+    <a>Preguntarles cuál es la figura retórica que se destaca en el poema. Luego, pedirles que comenten en parejas en
+       qué verso se encuentra.</a>
+    <a>Explicarles lo que simbolizan el gusano, el pájaro y el hombre en el poema. Luego, realizar preguntas para
+       verificar si han comprendido.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

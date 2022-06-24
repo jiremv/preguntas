@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Durante el proceso de búsqueda de información para sus ensayos, un grupo de estudiantes comentó al docente que
+       encontraron una página web que les parece útil, pero no saben si es confiable. En este contexto, el docente busca
+       brindar a los estudiantes criterios que los ayuden a determinar si la página web es confiable.</q>
+    <g></g>
+    <q2>¿Cuál de los siguientes criterios NO es adecuado para determinar la confiabilidad de una página web?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Fijarse en la cantidad de seguidores que tiene la página web.</a>
+        <a>Tomar en cuenta qué instituciones académicas respaldan la página web.</a>
+        <a>Observar si la página web basa su información en revistas científicas actualizadas.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

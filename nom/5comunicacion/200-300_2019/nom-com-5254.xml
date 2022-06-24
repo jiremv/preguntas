@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La docente nota que a varios estudiantes les resulta difícil interpretar el sentido global del texto. Por esta
+      razón, busca ayudarlos a que puedan interpretarlo.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes acciones pedagógicas es más adecuada para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Releer cada párrafo del texto con los estudiantes, verificando que comprendan la información explícita e
+       implícita que ofrece. Después, volver a leer el texto en su totalidad y explicarles cuál podría ser su sentido
+       global.</a>
+    <a>Solicitar que lean únicamente el último párrafo del texto, asumiendo que la voz que se dirige al lector no es de
+       una taricaya, sino de una persona. Después, pedir que expliquen si el sentido del texto cambia o es el mismo, y
+       por qué.</a>
+    <a>Elaborar un cuestionario con algunas preguntas orientadas a promover la interpretación del texto. Después, ayudar
+       a los estudiantes a hallar las respuestas correctas para que todos cuenten con una interpretación similar sobre
+       la lectura.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

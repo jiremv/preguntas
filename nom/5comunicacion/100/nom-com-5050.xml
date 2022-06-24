@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la incorrecta.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Ella, mi esposa, siempre pensaba que todos la querían.</a>
+        <a>El soñador quería que le prestaran atención.</a>
+        <a>Los representantes dijeron de que iniciarán la auditoría pronto.</a>
+        <a>Los poetas expresan que "el arte por el arte" es la naturaleza del mundo lírico.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

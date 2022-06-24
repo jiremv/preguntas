@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Antes de empezar a escribir su texto, un grupo de estudiantes le ha pedido al docente que revise el avance que se
+      presenta a continuación:</q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5283-p.png</g0>
+  <q>El docente nota que los estudiantes han tenido en cuenta diversos aspectos correspondientes al proceso de
+     planificación de textos. ¿Cuál de estos aspectos se evidencia en el avance presentado por el grupo de estudiantes?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Tomar como base diversas fuentes de información para la escritura de su texto.</a>
+    <a>Seleccionar un registro de lenguaje adecuado en función del destinatario.</a>
+    <a>Utilizar la estructura de un género textual que se ajusta a la situación.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

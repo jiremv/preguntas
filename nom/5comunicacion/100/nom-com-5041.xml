@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la correcta.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Por bituperar sin fundamento, fue retirado de la reunión</a>
+        <a>En la antigüedad, también, había dinosaurios que se movilizaban de forma vípeda.</a>
+        <a>Con esa conducta reveladora, nos dimos cuenta de la verdad.</a>
+        <a>Había una turvulencia en el centro de la ciudad. Por ello, no pude movilizarme rápido.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

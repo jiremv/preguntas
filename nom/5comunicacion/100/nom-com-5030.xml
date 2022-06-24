@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5029-p.png</g0>
+    <q>¿Qué información engloba lo que el texto propone?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Aprendizaje vs. Videojuegos.</a>
+        <a>Los videojuegos y la educación.</a>
+        <a>Los videojuegos como un método de aprendizaje.</a>
+        <a>La tecnología.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

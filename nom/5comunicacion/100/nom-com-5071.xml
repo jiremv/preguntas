@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>1. En esta festividad las familias se reÃºnen y se comen pasteles de luna rellenos. 2. Una de las leyendas más
+       comunes sobre el pastel de luna se debe a Hou Yi. 3. En septiembre se celebra el festival de la Luna o del Medio
+       Otoño. 4. Este pastelillo tiene forma redonda y representa la unión y perfección. 5. Quien, con la finalidad de
+       motivar a una rebelión, incitó al pueblo a consumir estos pasteles, pues les brindarían la fuerza necesaria para
+       sublevarse.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>2, 5, 4, 3, 1</a>
+        <a>2, 5, 3, 1, 4</a>
+        <a>3, 1, 2, 5, 4</a>
+        <a>3, 1, 4, 2, 5</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

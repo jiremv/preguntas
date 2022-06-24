@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5017-p.png</g0>
+    <q>¿A qué se refiere el autor cuando expresa la siguiente idea: El término CULTURA designa, como se dijo arriba, el
+       conjunto total de las prácticas humanas?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>Se basa en definir la idea que la cultura es un trabajo intelectual exclusivo.</a>
+        <a>Toca el punto de establecer que el hombre es susceptible a expresar y realizar actividades que conllevan el
+           concepto de la cultura.</a>
+        <a>Intenta explicar la razón por la cual la cultura se da en contextos ajenos a lo intelectual.</a>
+        <a>Se refiere a limitar el concepto a solo las actividades que realiza el hombre solo en conjunto.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

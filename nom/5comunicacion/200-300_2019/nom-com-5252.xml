@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>En otro momento de la actividad de lectura, la docente busca que los estudiantes deduzcan información implícita.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes preguntas es más apropiada para ello?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>¿Cuál es el hogar natural de las taricayas?</a>
+    <a>¿Para qué las taricayas dejan un espacio libre dentro de sus nidos?</a>
+    <a>¿Por qué las taricayas están consideradas en la categoría "vulnerable"?</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

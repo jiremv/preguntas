@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca el enunciado correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Ojalá satisficieran al enardecido público.</a>
+        <a>Si tan solo producieran más insumos, no tendríamos pocos clientes.</a>
+        <a>El gerente debe prover los gastos de la empresa.</a>
+        <a>Ahora vamos a preveer lo necesario para la empresa.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

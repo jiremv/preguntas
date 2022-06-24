@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la alternativa correcta. ________________es una mujer muy celosa, todos los días me
+       pregunta________________ no la llamo al salir del trabajo.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Porque-por que</a>
+        <a>Porque-porque</a>
+        <a>Porque-por qué</a>
+        <a>Porque-porqué</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

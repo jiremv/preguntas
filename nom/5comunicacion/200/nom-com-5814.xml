@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5811-p.png</g0>
+    <q>Resulta incompatible con el texto señalar que, al leer los apuntes personales de Faraday,</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>se desdibuja la idea de este como la de un mero experimentalista.</a>
+        <a>habría una base para establecer que la ciencia es una actividad teórica.</a>
+        <a>hallamos una clara ilustración del funcionamiento de la ciencia "normal".</a>
+        <a>se erosiona la concepción de la ciencia como resolución de problemas.</a>
+        <a>se cuestiona la perspectiva kuhniana sobre la historia de la ciencia.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2>Es incompatible sostener que al leer las anotaciones personales de Faraday encontramos un evidente
+        funcionamiento de la ciencia "normal". Según Kuhn, las investigaciones experimentales de Faraday serían ejemplo
+        de ciencia normal, que sirve de paradigma para la época. Sin embargo, el autor discrepa con esta postura, pues
+        ha descubierto que Faraday al mismo tiempo reformulaba los conceptos sobre materia y fuerza.</x2>
+    <i2></i2>
+    <v></v>
+</p>

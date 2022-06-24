@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5277-p.png</g0>
+  <q>La docente busca que los estudiantes identifiquen un recurso literario que ayuda a construir interpretaciones sobre
+     el sentido global del poema.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes preguntas es más adecuada para ello?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>En el poema, se presenta un símil en el segundo y tercer verso. ¿Qué pueden tener en común la alegría y tener un
+       hermano?</a>
+    <a>La voz poética del poema es un 'nosotros'. ¿Qué cambia en el sentido del poema si la voz poética le hablara solo
+       a un 'tú'?</a>
+    <a>¿Qué emociones creen que pueden haber inspirado al autor del poema para decir que nos persigue una sombra?</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

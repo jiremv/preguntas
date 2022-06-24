@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un grupo de docentes está compartiendo sus sesiones de aprendizaje centradas en la lectura de textos literarios.
+       A continuación, se presenta la secuencia didáctica de uno de estos docentes:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5169-p.png</g>
+    <q2>¿Por qué la secuencia propuesta por el docente NO está alineada con el enfoque del área de Comunicación?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Porque omite contrastar las ideas de los estudiantes con la definición académica de comedia.</a>
+        <a>Porque falta enmarcar la secuencia en una situación comunicativa relevante para los estudiantes.</a>
+        <a>Porque ofrece pocas oportunidades para que los estudiantes participen de forma colaborativa.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5261-p.png</g0>
+  <q>El docente busca ayudar a este grupo de estudiantes en la selección de fuentes de información confiables para la
+     escritura de sus textos. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Pedirles que averigÃ¼en sobre otras publicaciones que tiene la autora presentada en la página web. Luego,
+       preguntarles si dicha autora pertenece a alguna institución académica y si es especialista en el tema sobre el
+       cual desean escribir.</a>
+    <a>Pedirles que indiquen las razones de por qué eligieron esta página web. Luego, explicar que, si bien se relaciona
+       con el tema que abordarán en sus textos, dicha página no es confiable, debido a la poca cantidad de información
+       que ofrece.</a>
+    <a>Pedirles que mencionen si tomaron en cuenta la fecha de creación de la página que han seleccionado para escribir
+       sus textos. Luego, solicitarles que investiguen si dicha página ha sido compartida masivamente a través de las
+       redes sociales.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

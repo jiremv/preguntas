@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5188-p1.png</g0>
+    <q>El docente pide a los estudiantes que identifiquen expresiones en las que crean que se han empleado figuras
+       retóricas. Uno de los estudiantes seleccionó la siguiente expresión:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5188-p2.png</g>
+    <q2>¿Qué figura retórica se evidencia en la expresión elegida por el estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Símil</a>
+        <a>Antítesis</a>
+        <a>Metáfora</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

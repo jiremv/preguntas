@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Es honroso y honorable que los textos modernos hayan sido influenciados por los textos antiguos;
+       ________________, nadie le debe nada a sus antepasados. Identifica el conector que debe insertarse en la oración.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>incluso</a>
+        <a>por otra parte</a>
+        <a>no obstante</a>
+        <a>en resumen</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

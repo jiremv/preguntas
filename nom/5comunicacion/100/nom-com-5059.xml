@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca el correcto uso del gerundio.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>El motociclista se estrelló contra un poste, siendo trasladado al hospital.</a>
+        <a>Se impuso una ley regulando el nuevo sistema de tránsito vehicular.</a>
+        <a>Estudiando con ahínco y esfuerzo, lograrás tu meta de ingresar a la PUCP.</a>
+        <a>La señorita comentándonos sus problemas nos cargó de duda.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

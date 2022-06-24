@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Cuando viajas en tren, por Europa, no te percatas de la presencia de algunas cosas importantes de la Edad Media.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Tal es el caso de los castillos, los cuales eran grandes recintos.</a>
+        <a>Los castillos estaban formados por: murallas, baluartes y fosas.</a>
+        <a>La mayor cantidad de castillos proliferó durante los siglos XVI y XVII.</a>
+        <a>A diferencia de los castillos, los monasterios eran lugares donde vivían uno o varios monjes.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

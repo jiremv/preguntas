@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>El docente busca que los estudiantes localicen información explícita en el texto. ¿Cuál de las siguientes
+       preguntas es más adecuada para lograr este propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Según el texto, ¿por qué los delfines son considerados animales mágicos?</a>
+        <a>En el texto, ¿por qué a la embarcación se le conoce como "el barco fantasma"?</a>
+        <a>¿Por qué los tripulantes del barco no se arrojaron al agua cuando el barco se hundió?</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

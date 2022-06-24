@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4116-p.png</g0>
+    <q>En el texto, el autor afirma que la industria azucarera continúa ejerciendo hoy en día “su influencia en la
+       ciencia de la nutrición”, y menciona algunos hechos para apoyar esta afirmación. ¿Cuál de los siguientes es uno
+       de estos hechos?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>John Hickson propuso contrarrestar los descubrimientos alarmantes sobre el azúcar con una investigación
+           patrocinada por la industria.</a>
+        <a>Los fabricantes de dulces financiaron estudios que aseguraban que los niños que comían dulces tendían a pesar
+           menos que aquellos que no lo hacían.</a>
+        <a>Un grupo de científicos investigó una teoría según la cual las grasas saturadas generan un mayor riesgo que
+           el azúcar de ocasionar enfermedades del corazón.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

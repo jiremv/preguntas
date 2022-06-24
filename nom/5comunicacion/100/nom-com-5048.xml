@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Indica lo correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Mi hijo va hacer un gran ingeniero.</a>
+        <a>El meteorólogo dijo que este mes iba hacer mucho calor.</a>
+        <a>Estamos seguros de que este examen va ha ser fácil.</a>
+        <a>Ese candidato parece que va a ser un buen congresista.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

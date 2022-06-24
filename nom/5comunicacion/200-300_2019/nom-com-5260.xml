@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Como parte de una actividad de lectura de microrrelatos, los estudiantes están leyendo el siguiente texto:</q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5260-p.png</g0>
+  <q>¿Qué estudiante ha identificado el conflicto principal del cuento?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Andrés</a>
+    <a>Bruno</a>
+    <a>Carla</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

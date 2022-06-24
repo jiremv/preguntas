@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5801-p.png</g0>
+    <q>Respecto del mercado universitario reseñado en el tercer párrafo, se infiere que</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>la demanda continuará estando insatisfecha.</a>
+        <a>la ofertad seguirá superando a la demanda.</a>
+        <a>la rentabilidad estará determinada por la calidad.</a>
+        <a>desaparecerán las universidades más recientes.</a>
+        <a>solo quedarán las universidades más antiguas.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2>Según el texto, en cuanto al mercado universitario hoy en día resulta prioritario la calidad por encima de la
+        cantidad y, por ende, se torna selectivo. A partir de ello, la expresión en inglés "how many customers remain
+        and are able to recommend it to others" (cuántos clientes permanecen y pueden recomendar a otros) se infiere que
+        la preferencia en cuanto a la enseñanza universitaria prioriza la calidad. Mientras más calidad tenga la
+        universidad, será más rentable.</x2>
+    <i2></i2>
+    <v></v>
+</p>

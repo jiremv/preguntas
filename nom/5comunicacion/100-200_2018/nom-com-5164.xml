@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de primer grado están interesados en construir su árbol genealógico. En este contexto, la
+        docente les pide que recopilen información sobre la vida de un familiar para presentarla oralmente en el aula.</q0>
+    <g0></g0>
+    <q>Uno de los estudiantes ha empezado a practicar su presentación delante de la docente:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5164-p.png</g>
+    <q2>La docente busca ayudar al estudiante a mejorar su texto oral. ¿Qué aspecto del texto oral debe priorizar para
+        lograr su propósito?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La utilización de muletillas.</a>
+        <a>El empleo de algunos diminutivos.</a>
+        <a>La presencia de información redundante.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

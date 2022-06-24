@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca el correcto uso de mayúsculas.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>El pueblo Italiano de Verona fue escenario de una popular tragedia.</a>
+        <a>El mes de Febrero es considerado el mes del amor.</a>
+        <a>Manuel se matriculó al curso de Francés II.</a>
+        <a>La Primavera es una de las cuatro estaciones de nuestro planeta.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

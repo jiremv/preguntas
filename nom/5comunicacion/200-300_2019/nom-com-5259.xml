@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Luego de que la docente diera la consigna de reescribir el cuento, uno de los estudiantes le pide que lo ayude a
+      revisar el texto que ha elaborado. Este es un avance del escrito del estudiante:</q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5259-p.png</g0>
+  <q>La docente valora que el estudiante haya reescrito la historia elaborando diálogos. Sin embargo, busca orientarlo
+     en la mejora de su texto, considerando que debe reescribir el cuento en primera persona y desde el punto de vista
+     de uno de los personajes sin cambiar la historia original. Después de verificar que el estudiante ha comprendido la
+     consigna, ¿cuál de las siguientes acciones pedagógicas es más adecuada para lograr su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Pedirle al estudiante que compare el punto de vista del narrador del cuento original y el punto de vista que
+       eligió para su texto. Luego, preguntar por los cambios que podría realizar en una nueva versión, a partir de la
+       comparación realizada.</a>
+    <a>Analizar con el estudiante su escrito. Luego, pedirle que reescriba el texto en primera persona, comentándole que
+       la consigna planteada supone contar la historia desde el punto de vista de un narrador que participa en las
+       acciones.</a>
+    <a>Indicarle al estudiante que el avance del texto que ha presentado es un parafraseo del cuento "La muerte en
+       Samarra". Luego, mencionarle que el tipo de narrador de dicho cuento es el mismo que utilizó en su escrito. a</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

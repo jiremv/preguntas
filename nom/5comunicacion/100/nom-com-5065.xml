@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>A pesar del paso del tiempo, Mario Vargas Llosa, aún conserva su espíritu pendenciero al realizar declaraciones
+       que generan controversia. De acuerdo al contexto, ¿qué término debe reemplazar a la palabra subrayada?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>fanfarrón</a>
+        <a>provocador</a>
+        <a>pacífico</a>
+        <a>petulante</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

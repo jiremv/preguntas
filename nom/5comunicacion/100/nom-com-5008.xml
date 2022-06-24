@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5005-p.png</g0>
+    <q>¿Qué intención persigue el ejemplo final del texto?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Recomendar que debemos saber más acerca de Dalí.</a>
+        <a>Ilustrar con un ejemplo cómo evitar imprecisiones y redundancias.</a>
+        <a>Mostrar el reemplazo de palabras por otras.</a>
+        <a>Ejemplificar el mecanismo de parafraseo de enunciados.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

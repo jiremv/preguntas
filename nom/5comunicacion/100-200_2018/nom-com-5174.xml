@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>La docente busca desarrollar en los estudiantes la capacidad de reflexionar sobre el contenido del texto. ¿Cuál
+       de las siguientes acciones pedagógicas es más adecuada para conseguir su propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Comentarles que en el texto se presentan varias palabras, como 'Morpho menelaus' y 'tours', escritas en
+           cursiva. Luego, pedir que expliquen por qué están escritas así.</a>
+        <a>Pedirles que revisen los datos de la tabla '¡Visítanos!'. Luego, solicitarles que expliquen si la manera en
+           que se distribuyen dichos datos es clara.</a>
+        <a>Preguntarles qué información brinda el recuadro '¿Sabías que...?'. Luego, pedirles que expliquen la función
+           de este recuadro en el texto.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la correcta.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Los alumnos, los más ociosos, como siempre llegaron tarde al examen; pero, según sus amigos, lograron aprobar.</a>
+        <a>Los alumnos, los más ociosos como siempre, llegaron tarde al examen; pero, según sus amigos, lograron aprobar.</a>
+        <a>Los alumnos, los más ociosos, como siempre, llegaron tarde al examen; pero, según sus amigos, lograron
+           aprobar.</a>
+        <a>Los alumnos, los más ociosos, como siempre, llegaron tarde al examen; pero según sus amigos lograron aprobar.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

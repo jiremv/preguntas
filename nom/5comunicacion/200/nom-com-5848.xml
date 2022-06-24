@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>En la lengua española, hay secuencias de que apropiadas, según la gramática normativa. Luego de analizar las
+       siguientes oraciones, determine la opción que contiene una secuencia de que incorrecta.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Estoy convencido de que vamos a vencer.</a>
+        <a>Me enteré de que habías llegado ayer.</a>
+        <a>Confío de que estés diciendo la verdad.</a>
+        <a>Existe la posibilidad de que suspendan las clases.</a>
+        <a>No cabe duda de que en ese lugar se come bien.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

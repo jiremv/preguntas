@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Identifica qué conector está mal empleado en el siguiente texto. Todos los deportistas esperan el título del
+       Balón de Oro cada año; por ello, Messi ha ganado tres seguidos. Una de las razones por las que se le ha
+       entregado el premio es que ha ganado muchas Champions League. Además, la principal arma de Messi es su pierna
+       izquierda. Finalmente, se puede decir que este jugador emana un talento natural de superestrella.</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>por ello</a>
+        <a>por</a>
+        <a>Además</a>
+        <a>Finalmente</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el penúltimo párrafo, se presenta la siguiente cita:</q0>
+    <g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4118-p.png</g0>
+    <q>¿En qué consiste el “interés particular” al que se refiere la cita?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>En procurar que la opinión pública desconozca la relación entre el consumo de azúcar y las enfermedades
+           cardiovasculares.</a>
+        <a>En procurar que el público reflexione sobre las decisiones de los empresarios vinculados a la industria
+           alimentaria.</a>
+        <a>En procurar que el debate sobre los efectos del azúcar y las grasas en la salud siguiera vigente.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

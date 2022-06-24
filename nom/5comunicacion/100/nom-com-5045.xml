@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca lo correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Todos los años, viajamos al Oeste del país por vacaciones.</a>
+        <a>Cada Marzo de los años pares, varios Italianos llegan de visita a mi pueblo natal.</a>
+        <a>No olvidemos que el último Miércoles de este mes, tenemos reencuentro de los exalumnos de ese colegio.</a>
+        <a>José es acuario; por eso, es muy inteligente. Desempeña varias labores: odontólogo, profesor universitario y
+           abogado.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

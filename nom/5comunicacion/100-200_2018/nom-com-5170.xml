@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>A inicios del año escolar, los estudiantes de segundo grado están realizando actividades para conocerse entre
+       ellos. En este contexto, un estudiante ha decidido elaborar un texto oral para presentarse. El estudiante ha
+       comenzado a practicar su texto delante de la docente y tres compañeros:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5170-p.png</g>
+    <q2>La docente le pide al estudiante que haga una pausa, pues busca orientarlo en la mejora de su texto oral. ¿Cuál
+        de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Preguntarle cuál es el tema que quiso desarrollar. Luego, pedir al grupo de compañeros que digan qué es lo
+           que entendieron de la presentación. Sobre esta base, pedir al estudiante que mencione qué aspecto es el que
+           cree que debe mejorar.</a>
+        <a>Recordarle cuál es el propósito de su texto oral. Luego, pedirle que elabore fichas con las ideas que va a
+           presentar para que no se le olviden. Después, decirle que realice nuevamente su presentación usando sus
+           fichas.</a>
+        <a>Mencionarle los aspectos positivos de su texto oral. Luego, señalarle que no cumplió con el propósito inicial
+           de la actividad. A partir de esto, pedirle que se prepare nuevamente para una segunda presentación.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

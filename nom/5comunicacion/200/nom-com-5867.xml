@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea el siguiente texto:</q0>
+    <g0></g0>
+    <q>"La teoría triangular del amor del psicólogo norteamericano Robert Sternberg caracteriza el amor como una
+       relación interpersonal basada en tres componentes: intimidad, pasión y compromiso. Los distintos tipos de amor
+       pueden ser explicados, por ende, como las diferentes combinaciones de estos elementos".</q>
+    <q2>Se puede determinar que el conector resaltado es de índole</q2>
+    <as r="R" correcta="1">
+        <a>casual.</a>
+        <a>ilativa.</a>
+        <a>aditiva.</a>
+        <a>concesiva.</a>
+        <a>adversativa.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

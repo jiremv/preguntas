@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5826-p.png</g0>
+    <q>A partir de los dos estudios sobre el perfil del consumidor peruano, se puede concluir que</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>el consumo electrónico tendrá un incremento muy significativo en los próximos años.</a>
+        <a>la posición tradicionalista, en ambos, todavía representa un porcentaje mayoritario.</a>
+        <a>las tecnologías cumplen un rol relevante en las características que este posee.</a>
+        <a>los estudios conceden gran importancia a la compra de determinados productos.</a>
+        <a>el porcentaje de satisfacción va en aumento debido a la queja en las redes sociales.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2>De los estudios sobre el nuevo perfil del consumidor peruano se concluye que las tecnologías han sido un factor
+        decisivo en las características que este posee El autor explica que el uso de las tecnologías por parte del
+        consumidor ha significado la aparición de nuevas actitudes respecto a una marca o producto. Ahora el consumidor
+        no se mantiene fiel a una marca, se informa mejor sobre un producto y no duda en usar las redes sociales para
+        formular su reclamo ante una empresa.</x2>
+    <i2></i2>
+    <v></v>
+</p>

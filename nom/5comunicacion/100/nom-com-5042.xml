@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la correcta.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Te dije en varias ocasiones, Margarita que primero terminaras tus quehaceres.</a>
+        <a>Porque llegaron tarde, el profesor, no los dejó ingresar al salón.</a>
+        <a>Algunas tardes, visito a mi mejor amiga; otras, a mi novio.</a>
+        <a>Me encontré con Ríchar nuestro tío, en el mercado.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

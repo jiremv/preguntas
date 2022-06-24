@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5826-p.png</g0>
+    <q>El término REVÉS se emplea en el sentido de</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>golpe.</a>
+        <a>contratiempo.</a>
+        <a>preocupación.</a>
+        <a>imprevisto.</a>
+        <a>azar.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

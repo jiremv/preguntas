@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Los sujetos involucrados en un proceso penal son el acusador y el acusado. Este es el que recibe una imputación
+       en su contra y aquel el que la realiza. ¿A quiénes hacen referencia las palabras este y aquel ?</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>este (acusador) - aquel (acusado)</a>
+        <a>este (acusador) - aquel (proceso)</a>
+        <a>este (acusado) - aquel (proceso)</a>
+        <a>este (acusado) - aquel (acusador)</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

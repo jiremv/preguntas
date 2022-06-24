@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La docente nota que el texto de la estudiante presenta errores de ortografía. Sin embargo, en esta oportunidad,
+      priorizará la revisión del error que afecta la comprensión del texto.</q0>
+  <g0></g0>
+  <q>¿Cuál es ese error?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>La utilización de mayúscula en la palabra 'mamá'.</a>
+    <a>La omisión de un signo de exclamación de apertura (¡).</a>
+    <a>La escritura de la frase 'tan poco' para aludir a 'tampoco'.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

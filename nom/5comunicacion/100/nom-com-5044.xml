@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la correcta.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Sino me ayudas, definitivamente, no podré apoyarte.</a>
+        <a>Prefiero quedarme sin ti por que estás acostumbrado a mentir.</a>
+        <a>Hoy solamente trabajaré hasta el medio día.</a>
+        <a>Â¡Conque ganaste una bicicleta, Cristian!</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>A) No obstante no logró su objetivo, se deprimió durante un mes. B) Debido a que la gastronomía peruana ha sido
+       reconocida, el PerÃº ha podido sobrellevar sus problemas internos. C) No voy a la boda de mi amiga ya que se va a
+       molestar conmigo, pues soy su madrina. D) Se esforzó por conquistarla, es decir, no lo intentó ¿Cuál de las
+       siguientes alternativas contiene el conector lógico subrayado adecuadamente empleado?</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>No obstante</a>
+        <a>Debido a que</a>
+        <a>ya que</a>
+        <a>es decir</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

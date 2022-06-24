@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5806-p.png</g0>
+    <q>Si el Gobierno desarrollase una eficaz campaña de difusión sobre métodos anticonceptivos entre las adolescentes
+       en las zonas rurales, entonces sería posible que</q>
+    <q2></q2>
+    <as r="R" correcta="4">
+        <a>ya no hubiera, al fin, embarazos no deseados en todo el territorio nacional.</a>
+        <a>disminuyera el porcentaje de embarazos adolescentes en las zonas urbanas.</a>
+        <a>las mujeres que tienen educación primaria dejarán de quedar embarazadas.</a>
+        <a>los porcentajes de adolescentes embarazadas en ambas zonas sean iguales.</a>
+        <a>se produjera un descenso significativo en la tasa de embarazos adolescentes.</a>
+    </as>
+    <x>E.</x>
+    <i></i>
+    <x2>Si se implementase de parte del Gobierno una eficaz campaña de difusión sobre métodos anticonceptivos entre las
+        adolescentes de las zonas rurales, posiblemente se produciría una disminución importante en el índice de
+        embarazos adolescentes. En el texto, el autor menciona que el incremento de estos embarazos es producto de la
+        casi nula información que las madres recibieron sobre anticoncepción. Por ende, de darse una eficaz campaña que
+        informara adecuadamente sobre este tema a las adolescentes de las zonas rurales, el número de embarazos se
+        reduciría notablemente.</x2>
+    <i2></i2>
+    <v></v>
+</p>

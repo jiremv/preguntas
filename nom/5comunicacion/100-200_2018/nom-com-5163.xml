@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Algunos estudiantes comentan que no entendieron la expresión 'Tuvo que mancornarlo [...]' en el cuento "El macho
+       moro". Por esta razón, el docente busca orientarlos en la comprensión del significado de dicha expresión. ¿Cuál
+       de las siguientes acciones pedagógicas es más adecuada para ello?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Preguntar por la palabra de la expresión que no comprenden y anotarla en la pizarra. Luego, darles algunos
+           sinónimos que pueden utilizar para reemplazarla. Después, reescribir la expresión utilizando uno de los
+           sinónimos.</a>
+        <a>Preguntar si habían escuchado la palabra 'mancornar' anteriormente. Luego, indicar que esta palabra proviene
+           de 'mano' y 'cuerno'. Después, explicar que, en este texto, dicha palabra se refiere a 'atar con una cuerda
+           un cuerno'.</a>
+        <a>Preguntar por el personaje que ejecuta la acción de 'mancornar'. Luego, pedir que den hipótesis sobre lo que
+           podría significar esta palabra. Después, indicar que contrasten sus respuestas con las acepciones que
+           encuentren en un diccionario.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

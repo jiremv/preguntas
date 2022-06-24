@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca lo correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Llegamos temprano a la verbena de nuestra asociación de benefactores del distrito.</a>
+        <a>"Nocibo" e "inocuo" son términos de distinta balencia semántica.</a>
+        <a>Los grupos subversibos serán sancionados por las autoridades gubernamentales.</a>
+        <a>Julieta bebió el brevaje por órdenes de Fray Lorenzo.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

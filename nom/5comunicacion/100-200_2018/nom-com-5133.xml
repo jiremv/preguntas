@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En una ciudad, hay tres tipos de monedas: kina, soti y lets; los cambios monetarios se realizan entre kinas y
+        sotis, y entre sotis y letses.</q0>
+    <g0></g0>
+    <q>Si se sabe que dos kinas equivalen a tres sotis y un soti equivale a tres letses, ¿cuál es el precio en kinas de
+       un artefacto que cuesta 54 letses?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>12 kinas.</a>
+        <a>27 kinas.</a>
+        <a>36 kinas.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

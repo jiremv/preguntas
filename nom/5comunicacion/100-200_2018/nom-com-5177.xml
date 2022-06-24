@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Una de las actividades del proyecto consiste en que los estudiantes apliquen una encuesta a la comunidad
+       educativa y compartan con sus compañeros un resumen de los resultados encontrados. A continuación, se muestra la
+       presentación de uno de los grupos:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5177-p.png</g>
+    <q2>El docente les pide a los estudiantes que hagan una pausa, pues busca orientarlos en la mejora de su texto oral.
+        ¿Cuál de los siguientes aspectos debe priorizar en su retroalimentación?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La presencia de ideas contradictorias y de información redundante.</a>
+        <a>El desvío del propósito comunicativo y la falta de unidad temática.</a>
+        <a>El uso de un lenguaje coloquial y el empleo de muletillas.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q></q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="2">
+		<a>El de Armando.
+</a>
+		<a>El de Berenice.
+</a>
+		<a>El de Cecilia.</a>
+	</as>
+	<x>C</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

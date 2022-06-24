@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la alternativa correcta</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Los pobladores, al final del invierno, formaron una gran revelión para el combate.</a>
+        <a>No cabe duda de que esa esponja absorve muy bien todo el líquido.</a>
+        <a>En la última sentencia, el juez absolbió al reo por falta de pruebas.</a>
+        <a>La exuberante vegetación nos impedía el paso hacia la otra ciudad.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes de segundo grado, organizados en grupos, están elaborando un proyecto para la prevención de
+        desastres ante fenómenos naturales. En este contexto, los estudiantes han invitado al aula a un brigadista del
+        Instituto Nacional de Defensa Civil (Indeci) para entrevistarlo.</q0>
+    <g0></g0>
+    <q>Para ayudarlos a preparar la entrevista, la docente les ha entregado una lista con recomendaciones que deben
+       considerar en su desempeño como entrevistadores. Estas son tres recomendaciones incluidas en dicha lista:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5168-p.png</g>
+    <q2>¿Cuál de las recomendaciones se centra principalmente en el desarrollo de las ideas de la entrevista?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La 1.</a>
+        <a>La 2.</a>
+        <a>La 3.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

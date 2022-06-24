@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Otro de los estudiantes le ha pedido a la docente que revise el siguiente borrador de su texto:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5172-p.png</g>
+    <q2>La docente nota que el texto presenta varios aspectos que se pueden mejorar. ¿Cuál de estos aspectos debe
+        priorizar en una primera revisión del escrito?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>El uso de marcas coloquiales en un escrito formal.</a>
+        <a>La utilización de comas entre sujeto y verbo.</a>
+        <a>La escritura incorrecta de algunas palabras.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

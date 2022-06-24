@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente está revisando los textos narrativos que han escrito los estudiantes. En muchos casos, ella nota que
+      el uso inadecuado de los signos de puntuación dificulta la comprensión de la trama de dichos textos.</q0>
+  <g0></g0>
+  <q></q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Organizar a los estudiantes en parejas para que intercambien sus textos y los lean. Luego, pedir que encierren en
+       un círculo los errores en el uso de los signos de puntuación que encuentren para que el autor del texto los
+       corrija.</a>
+    <a>Solicitar que uno de los estudiantes comparta su texto voluntariamente para analizarlo en la pizarra. Luego,
+       pedir que identifiquen los signos de puntuación y que expliquen cuáles creen que dificultan la comprensión del
+       escrito.</a>
+    <a>Entregar a cada estudiante un texto cuyos signos de puntuación se han omitido deliberadamente. Luego, leer con
+       ellos dicho texto, indicándoles dónde deberían colocarse dichos signos para que el lector comprenda el mensaje.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

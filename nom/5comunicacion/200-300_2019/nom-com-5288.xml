@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>El docente nota que a varios estudiantes les resulta difícil darle sentido a la lectura de textos que ofrecen
+     información diversa sobre un mismo tema. Por esta razón, busca ayudarlos a que, por sí mismos, reconozcan la
+     importancia de leer textos que presentan información variada sobre un tema particular. ¿Cuál de las siguientes
+     acciones pedagógicas es más adecuada para lograr su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Pedir que elijan textos que aborden, desde distintos puntos de vista, un mismo tema que sea de su interés. Luego,
+       empezar con la lectura conjunta de un grupo de estos textos. Después, solicitar que mencionen las similitudes y
+       diferencias entre la información que ofrecen, y preguntar si leer varios textos ayudó a comprender mejor dicho
+       tema.</a>
+    <a>Volver a trabajar con los textos A y B. Luego, releer, en un primer momento, el texto A y hacer preguntas para
+       evaluar que lo hayan comprendido, y realizar el mismo procedimiento con el texto B. Después, comentarles que
+       ahora es más sencillo comprender el contenido de ambos textos, debido a que les son más familiares.</a>
+    <a>Indicar que la lectura de dos o más textos ayuda a profundizar sus conocimientos sobre el tema que aborden dichos
+       textos. Luego, pedirles que mencionen algunas situaciones en las que es necesario recurrir a más de una fuente de
+       información. Después, conversar con ellos sobre las dudas que surjan.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

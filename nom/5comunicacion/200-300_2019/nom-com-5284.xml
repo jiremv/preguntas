@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Durante la escritura del texto, algunos estudiantes le comentan al docente que desean incluir algunas ideas que no
+      estaban en su planificación. Por ello, dichos estudiantes preguntan si deben modificar el plan.</q0>
+  <g0></g0>
+  <q>¿Cuál de los siguientes comentarios es adecuado realizar ante la consulta de los estudiantes?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>"No es necesario que vuelvan a su plan para modificarlo. Pueden incluir las ideas que deseen, pero siempre y
+       cuando aporten al propósito que buscan conseguir".</a>
+    <a>"¿Consideran que es necesario modificar su plan? Tengan en cuenta que, en este momento, nos encontramos en la
+       segunda etapa del proceso de escritura".</a>
+    <a>"Les recomiendo que eviten hacer algún cambio porque su planificación está muy bien. Es mejor que continúen
+       desarrollando las ideas que presentaron".</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>(1) La frenología es una antigua teoría pseudocientífica, sin ninguna validez en la actualidad, que afirma la
+       posible determinación del carácter y la personalidad basándose en la forma del cráneo y facciones.(2) Fue
+       desarrollada alrededor de 1800 por el neuroanatomista Franz Joseph Gall. (3) La frenología difiere de la
+       craneometría. (4) Su mérito radica en su contribución a la ciencia médica con su idea de que el cerebro es el
+       órgano de la mente. (5). También se distingue de la fisionomía. ¿Qué se debe hacer con el enunciado 4?</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Eliminarlo</a>
+        <a>Colocarlo después de 5</a>
+        <a>Anteponerlo a 3</a>
+        <a>Dejarlo como está</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

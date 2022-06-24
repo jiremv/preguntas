@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5255-p.png</g0>
+  <q>La docente le devuelve su escrito a la estudiante con diversas anotaciones. Por un lado, ha destacado que el texto
+     logre el propósito planteado. Por otro lado, ha incluido tres comentarios orientados a mejorar algunos aspectos del
+     texto.</q>
+  <g></g>
+  <q2>¿Cuál de estos comentarios es más adecuado para que la estudiante aclare el contenido de su cuento?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>"En el primer párrafo, ¿quieres decir que los cazadores estaban cerca porque la mamá taricaya estaba preocupada?
+       ¿Qué palabras crees que dan a entender esta idea? Luego, en el segundo párrafo, ¿consideras que el 'ya que' ayuda
+       a comunicar tu idea?".</a>
+    <a>"¿Qué parte de tu escrito acerca de las taricayas le permite saber al lector que la historia ha terminado? ¿Qué
+       idea del tercer párrafo sirve para señalar el final de tu cuento? ¿Consideras que es necesario modificar alguna
+       parte de ese párrafo?".</a>
+    <a>"¿Con qué finalidad has incluido la expresión 'como te digo' en los dos primeros párrafos de tu historia sobre
+       las taricayas? ¿Consideras que es necesario mantener dicha expresión en tu cuento o crees que podrías quitarla?".</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

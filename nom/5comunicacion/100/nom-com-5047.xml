@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca lo correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>En esa casa abandonada, hallé una caja conteniendo cinco libros muy interesantes.</a>
+        <a>Los ladrones escaparon de la casa siendo perseguidos por vecinos y policías.</a>
+        <a>Luchito logró bajar 21 kilos siguiendo un sistema estricto de dietas.</a>
+        <a>Busqué cinco horas mis pendientes, encontrándolos debajo del sofá.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

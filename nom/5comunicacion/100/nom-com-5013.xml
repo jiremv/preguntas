@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5013-p.png</g0>
+    <q>¿Qué no se puede responder según la infografía?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>¿Un 65% de los accidentes son causados por enfermedades cardiovasculares?</a>
+        <a>¿Cuál es la principal causa de muertes?</a>
+        <a>¿Cuánta era la cantidad de muertes en 2002?</a>
+        <a>¿Cuáles son las actividades en donde pueden ocurrir los accidentes?</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

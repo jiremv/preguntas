@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Los estudiantes están preparándose para exponer, ante la comunidad educativa, cómo mejorar el tratamiento de
+       residuos sólidos. Durante la explicación del docente sobre los aspectos que deben considerar en una exposición
+       (como adecuar el texto a la audiencia, usar recursos expresivos, ordenar sus ideas en torno al tema, entre
+       otros), un estudiante interviene diciendo:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5180-p.png</g>
+    <q2>¿Qué prejuicio sobre la exposición oral se evidencia en la intervención del estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Una exposición puede llevarse a cabo sin haber planificado las ideas previamente.</a>
+        <a>Durante una exposición, la memoria sirve para transmitir la información recopilada.</a>
+        <a>En una exposición, los recursos visuales pueden ayudar al público en la comprensión del tema.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

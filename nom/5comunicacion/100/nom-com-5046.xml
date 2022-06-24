@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Señala lo correcto.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>El señor Rodríguez realizó una buena conección eléctrica en el alumbrado público.</a>
+        <a>Nos fue muy difícil atravezar aquella multitud que acompañaba a un féretro.</a>
+        <a>La paciente estuvo todo el tiempo consciente mientras le extirpaban un tumor del cerebro.</a>
+        <a>Sufre de alergia al agua, un transtorno bastante raro: Uno de cada millón de personas lo sufre.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

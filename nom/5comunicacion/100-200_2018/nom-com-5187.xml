@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Otro de los estudiantes le presentó a la docente el siguiente borrador de su texto:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5187-p.png</g>
+    <q2>¿Cuál de los siguientes problemas de coherencia presenta el texto del estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Vacíos de información.</a>
+        <a>Presencia de ideas contradictorias.</a>
+        <a>Repetición innecesaria de algunas ideas.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

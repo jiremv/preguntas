@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Cultura hippie</q0>
+    <g0></g0>
+    <q>1. Los hippies escuchaban rock psicodélico contestatario. 2. Algunos participaron en activismo
+       radical y en el uso de marihuana. 3. Nació en los años 60 en Estados Unidos. 4. Se llama hippie a un movimiento
+       contracultural, libertario y pacifista. 5. Abrazaban la revolución sexual y creían en el amor libre.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>3, 4, 1, 2, 5</a>
+        <a>3, 4, 1, 5, 2</a>
+        <a>4, 3, 1, 2, 5</a>
+        <a>4, 3, 1, 5, 2</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

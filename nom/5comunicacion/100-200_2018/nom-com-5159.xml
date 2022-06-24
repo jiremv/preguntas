@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Los estudiantes de tercer grado van a participar en un panel en el que se abordará el tema de la alimentación
+       balanceada. Al panel han sido invitados los docentes de la IE y los padres de familia. Durante el ensayo con el
+       docente, uno de los estudiantes, que modera el panel, empieza su intervención de la siguiente forma:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5159-p.png</g>
+    <q2>El docente le pide a Álex que haga una pausa para darle una retroalimentación que lo ayude a mejorar, por sí
+        mismo, la adecuación de su texto oral. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr
+        su propósito?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Preguntarle si cree que es adecuado, para el contexto de una exposición, saludar solo a los docentes. Luego,
+           facilitarle algunas formas de saludo que incluyan al resto del auditorio y a los participantes.</a>
+        <a>Señalarle que en su intervención ha utilizado palabras que terminan en diminutivos, como "preguntillas".
+           Luego, comentarle que estas palabras se deben evitar en una exposición.</a>
+        <a>Pedirle que explique en qué contexto se enmarca su texto oral. Luego, preguntarle si el tipo de lenguaje que
+           ha empleado es apropiado para la audiencia a la que se va a dirigir.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

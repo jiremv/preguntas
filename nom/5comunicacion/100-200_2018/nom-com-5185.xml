@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5185-p1.png</g0>
+    <q>En este contexto, una de las estudiantes le ha pedido a la docente que la ayude a revisar la primera versión de
+       su texto. A continuación, se presenta dicha versión:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5185-p2.png</g>
+    <q2>¿Cuál de los siguientes problemas de escritura debe priorizar la docente en su revisión?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La inadecuación del registro a la situación comunicativa.</a>
+        <a>La falta de comas en el primer párrafo.</a>
+        <a>La ausencia de unidad temática.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

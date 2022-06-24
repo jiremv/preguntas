@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Hígado</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>El hígado es la más voluminosa de las vísceras y una de las más importantes por su actividad metabólica.</a>
+        <a>Es un órgano glandular al que se le adjudican funciones muy importantes.</a>
+        <a>La hepatitis A, B y C son enfermedades que afectan al hígado.</a>
+        <a>También es responsable de eliminar de la sangre las sustancias nocivas para el organismo.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

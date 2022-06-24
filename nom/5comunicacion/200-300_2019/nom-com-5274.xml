@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Luego de ensayar su presentación con el docente, Irma, una de las estudiantes candidatas, se encuentra en el aula
+      de segundo grado para exponer sus propuestas y contestar algunas preguntas. A continuación, se presenta la
+      transcripción de la primera propuesta de su exposición:</q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5274-p1.png</g0>
+  <q>Luego de unos minutos, la docente del aula le entrega a Irma tres preguntas escritas por los estudiantes del salón.
+     A continuación, se presentan dichas preguntas:</q>
+  <g></g>
+  <q2>¿Cuál de las preguntas se centra en que Irma continúe desarrollando la propuesta presentada en su texto oral?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>La pregunta 1.</a>
+    <a>La pregunta 2.</a>
+    <a>La pregunta 3.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

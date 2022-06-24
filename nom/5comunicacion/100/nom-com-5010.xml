@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5009-p.png</g0>
+    <q>¿Por qué es innovador el proyecto en mención?</q>
+    <q2></q2>
+    <as r="R" correcta="0">
+        <a>Porque es simple y ecológico.</a>
+        <a>Porque se demoró dos años en realizarlo.</a>
+        <a>Porque utiliza químicos.</a>
+        <a>Porque mereció la atención de Google.</a>
+    </as>
+    <x>A.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5282-p1.png</g0>
+  <q>Los estudiantes no se ponen de acuerdo sobre cómo comenzar a escribir su respuesta a la municipalidad. Por esta
+     razón, le solicitan ayuda al docente. A continuación, se presenta una parte del diálogo que sostuvieron:</q>
+  <g>./../preguntas/nom/5comunicacion/200-300_2019/nom-com-5282-p2.png</g>
+  <q2>De acuerdo con las intervenciones del docente, ¿qué proceso de aprendizaje es el que se promueve principalmente en
+      este diálogo?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>La metacognición sobre el proceso de producción de textos.</a>
+    <a>Un conflicto cognitivo sobre el proceso de producción de textos.</a>
+    <a>La activación de saberes previos sobre el proceso de producción de textos.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

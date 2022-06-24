@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5821-p.png</g0>
+    <q>Se deduce de la lectura del texto que una discusión a profundidad sobre el tema planteado</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>hará más difícil la decisión que tomen los familiares.</a>
+        <a>incidirá negativamente en el número de vidas salvadas.</a>
+        <a>no aumentará necesariamente el número de donantes.</a>
+        <a>cuestionará las creencias religiosas de los donantes.</a>
+        <a>evitará las campañas publicitarias que hacen los Estados.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2>Se deduce de lo leído que una discusión profunda sobre el tema tratado no incrementaría de forma necesaria la
+        cantidad de donantes de órganos. La toma de conciencia sobre la donacion nos pone en posición de salvar otras
+        vidas. Si bien esto depende en parte que el tema se haya meditado a profundidad, al inicio del texto el autor
+        enfatiza en el hecho de que dicha decisión implica diversos factores. Por ello, no se podría asegurar que las
+        discusiones sean suficientes para generar un aumento en el número de donantes.</x2>
+    <i2></i2>
+    <v></v>
+</p>

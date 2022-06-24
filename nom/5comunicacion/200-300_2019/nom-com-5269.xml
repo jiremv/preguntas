@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un grupo de estudiantes de tercer grado va a participar en un concurso de cuentos organizado por la IE. Ellos han
+      decidido participar en la categoría "Cuentos de terror". El docente de Comunicación se encargará de guiarlos en su
+      proceso de escritura.</q0>
+  <g0></g0>
+  <q>Liliana, una de las estudiantes, tiene algunos problemas para iniciar la escritura de su cuento. Por esta razón, el
+     docente busca ayudarla en el proceso de planificación. ¿Cuál de las siguientes acciones pedagógicas es adecuada
+     para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Entregarle un manual de técnicas sencillas de escritura literaria. Luego, mostrarle el pasaje de un cuento de
+       terror en el que se evidencie el uso de una de las técnicas del manual y pedirle que escriba su propio cuento con
+       la técnica de su preferencia.</a>
+    <a>Recomendarle que lea un cuento de terror clásico, e indicarle que identifique el tema y la secuencia narrativa
+       del relato. Luego, pedirle que escriba su cuento a partir de esos elementos, modificando el lugar, la época y los
+       personajes.</a>
+    <a>Preguntarle si tiene alguna anécdota personal o conoce una leyenda en la que pueda basarse. Luego, sugerirle que
+       tome nota de las ideas que le surjan y que use un organizador gráfico para esbozar la trama de su cuento.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

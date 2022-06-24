@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Texto:</q0>
+    <g0>./../../preguntas/nom/5comunicacion/100/nom-com-5034-p.png</g0>
+    <q>Señala la paráfrasis adecuada para el siguiente enunciado: "No acabarán los juegos de guerra. Es algo que,
+       como las películas, siempre va a existir".</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Los juegos de guerra son interminables. Entonces, las películas siempre existirán.</a>
+        <a>Las películas suelen ser eternas, lo mismo ocurre inevitablemente con los juegos.</a>
+        <a>No terminan los juegos de guerra, al igual que las películas, van a existir.</a>
+        <a>Los juegos de guerra no concluyen, así como los filmes, existirán eternamente.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

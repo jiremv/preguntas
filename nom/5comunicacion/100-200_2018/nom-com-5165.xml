@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5165-p1.png</g0>
+    <q>El docente ha pedido sugerencias a algunos colegas sobre las acciones que puede implementar para realizar una
+       evaluación formativa de los estudiantes sobre sus ensayos. A continuación, se presentan las sugerencias de tres
+       docentes:</q>
+    <g>./../../preguntas/nom/5comunicacion/100-200_2018/nom-com-5165-p2.png</g>
+    <q2>¿Qué docente ofrece una sugerencia más alineada con una evaluación formativa de las producciones escritas de los
+        estudiantes?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Alfonso</a>
+        <a>Blanca</a>
+        <a>Cindi</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

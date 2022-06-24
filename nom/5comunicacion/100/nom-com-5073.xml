@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>I. El alcalde de Mollepata en Cusco, Marco Chacón, reclamó la jurisdicción del complejo Choquequirao, donde se ha
+       proyectado la construcción de un teleférico. II. Chacón dijo que antes de pensar en construir un teleférico deben
+       consultarle a él por ser el alcalde. III. Por su parte, el director regional de comercio y turismo, Madison
+       Barreto, se pronunció al respecto. IV. Los turistas también tienen derecho a acceder a todos los lugares que
+       tengan atractivos turísticos. Determina qué enunciado no guarda relación con el resto.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>I</a>
+        <a>II</a>
+        <a>III</a>
+        <a>IV</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

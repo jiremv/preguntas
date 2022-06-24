@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Marca la alternativa con puntuación correcta.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Manuel te dijo que no era suya porque: no coge lo que no le pertenece.</a>
+        <a>Los congresistas son: un grupo de honorables ciudadanos que defienden nuestros derechos.</a>
+        <a>Te diré que todo sea conforme a lo establecido por eso: toma en cuenta todos los consejos e instrucciones.</a>
+        <a>Rubén estudió todo el año con esmero: ingresó en cómputo general.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

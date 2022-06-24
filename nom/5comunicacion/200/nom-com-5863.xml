@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>En la lengua española, la preposición a se puede emplear como marca de objeto directo cuando acompaña a
+       sustantivos de persona. Analice los siguientes enunciados y determine la oración en la que la secuencia a María
+       cumple con la función de objeto directo.</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>Carlos escribe una carta a María.</a>
+        <a>Carlos ama verdaderamente a María.</a>
+        <a>Carlos vive feliz junto a María.</a>
+        <a>Carlos lleva un regalo a María.</a>
+        <a>Carlos compuso un poema a María.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>
