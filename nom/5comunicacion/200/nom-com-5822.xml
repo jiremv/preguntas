@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5821-p.png</g0>
+    <g0>5821-p.png</g0>
     <q>En este contexto, DISIPAR FANTASMAS tiene la acepción de</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -18,5 +18,5 @@
         donación reside habría para el tráfico ilícito de órganos. Este temor debería irse superando al promover
         campañas públicas que informen de la seguridad que existe en este tipo de procedimientos técnicos.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5831-p.png</g0>
+    <g0>5831-p.png</g0>
     <q>El vocablo PRODUCTIVO se emplea en el sentido de</q>
     <q2></q2>
     <as r="R" correcta="2">
@@ -18,5 +18,5 @@
         regiones menos competitivas y, posteriormente, se agrega que el sector agropecuario es el menos productivo del
         país. De allí se infiere que el término PRODUCTIVO asume el significado de COMPETITIVO.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

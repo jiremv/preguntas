@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5841-p.png</g0>
+    <g0>5841-p.png</g0>
     <q>Es incompatible sostener que ambos autores están preocupados en</q>
     <q2></q2>
     <as r="R" correcta="4">
@@ -21,5 +21,5 @@
         ello que este autor discrepe con William Whewell sosteniendo que las proposiciones aludan a una simple
         yuxtaposición o unión de hechos.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

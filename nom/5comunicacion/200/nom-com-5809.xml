@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5806-p.png</g0>
+    <g0>5806-p.png</g0>
     <q>Si el Gobierno desarrollase una eficaz campaña de difusión sobre métodos anticonceptivos entre las adolescentes
        en las zonas rurales, entonces sería posible que</q>
     <q2></q2>
@@ -22,5 +22,5 @@
         informara adecuadamente sobre este tema a las adolescentes de las zonas rurales, el número de embarazos se
         reduciría notablemente.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

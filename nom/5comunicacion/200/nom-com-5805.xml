@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5801-p.png</g0>
+    <g0>5801-p.png</g0>
     <q>Respecto del mercado universitario reseñado en el tercer párrafo, se infiere que</q>
     <q2></q2>
     <as r="R" correcta="2">
@@ -20,5 +20,5 @@
         la preferencia en cuanto a la enseñanza universitaria prioriza la calidad. Mientras más calidad tenga la
         universidad, será más rentable.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

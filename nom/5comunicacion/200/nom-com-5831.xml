@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5831-p.png</g0>
+    <g0>5831-p.png</g0>
     <q>El propósito medular del autor del texto es demostrar que</q>
     <q2></q2>
     <as r="R" correcta="0">
@@ -22,5 +22,5 @@
         notoria diferencia en la infraestructura, problemas sociales que afectan al sector minero y agropecuario, que
         requieren de una pronta solución.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

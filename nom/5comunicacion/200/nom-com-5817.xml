@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5816-p.png</g0>
+    <g0>5816-p.png</g0>
     <q>En el texto, el sentido de INGENUIDAD alude a una falta de</q>
     <q2></q2>
     <as r="R" correcta="4">
@@ -18,5 +18,5 @@
         lo ideológico resulta en la actualidad muy poco inteligente, vale decir, refleja falta de entendimiento de los
         vínculos que tiene la política con la ética.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

@@ -2,10 +2,10 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5806-p.png</g0>
+    <g0>5806-p.png</g0>
     <q>Según los estudios referidos, ¿cuáles de los siguientes enunciados son medidas adecuadas para reducir los
        embarazos adolescentes?</q>
-    <g>./../../preguntas/nom/5comunicacion/200/nom-com-5810-p.png</g>
+    <g>5810-p.png</g>
     <q2></q2>
     <as r="R" correcta="0">
         <a>I y III</a>
@@ -23,5 +23,5 @@
         oportuno; y en el caso del enunciado IV, se descarta puesto que no reduciría, sino incrementaría el embarazo,
         además se superaría el rango de edad (entre los 15 y 19 años).</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5801-p.png</g0>
+    <g0>5801-p.png</g0>
     <q>En el texto, la expresión UNA COSA DE LOCOS implica que</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -17,5 +17,5 @@
     <x2>Según el texto, la expresión UNA COSA DE LOCOS implica que el ingreso a la universidad era muy difícil. Esto es
         debido a que había pocas universidades, pero muchos estudiantes que pugnaban por lograr el ingreso.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

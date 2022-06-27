@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5816-p.png</g0>
+    <g0>5816-p.png</g0>
     <q>¿Cuál es el tema central del texto?</q>
     <q2></q2>
     <as r="R" correcta="0">
@@ -19,5 +19,5 @@
         que no solo se enfatiza en las relaciones de poder, sino también en valores éticos. Incluso se afirma que
         resulta difícil imaginar que los debates políticos puedan ser ajenos en algún momento al uso de juicios éticos.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

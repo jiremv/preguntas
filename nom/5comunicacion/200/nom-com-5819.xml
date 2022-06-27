@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5816-p.png</g0>
+    <g0>5816-p.png</g0>
     <q>La posición sostenida por el filósofo político de nuestro tiempo</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -20,5 +20,5 @@
         idea concuerda y refuerza lo alegado por el autor, pues también para él la ética no puede desligarse de la
         política.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

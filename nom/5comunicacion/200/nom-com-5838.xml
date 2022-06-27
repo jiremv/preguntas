@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5836-p.png</g0>
+    <g0>5836-p.png</g0>
     <q>Determine el enunciado incompatible con el texto.</q>
     <q2></q2>
     <as r="R" correcta="4">
@@ -19,5 +19,5 @@
         epistemológicos de la psicología, ya que dicho científico no se pudo identificar de forma directa con alguna
         escuela filosófica.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

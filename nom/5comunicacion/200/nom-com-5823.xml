@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5821-p.png</g0>
+    <g0>5821-p.png</g0>
     <q>En función de lo expuesto, marque la idea compatible.</q>
     <q2></q2>
     <as r="R" correcta="3">
@@ -20,5 +20,5 @@
         todavía no se han emprendido y, por lo tanto, no han incidido en la decisión de los potenciales donadores de
         órganos.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5841-p.png</g0>
+    <g0>5841-p.png</g0>
     <q>Tanto el texto A como el B giran en torno a la idea</q>
     <q2></q2>
     <as r="R" correcta="4">
@@ -19,5 +19,5 @@
         universal; para Martínez está justificado el uso de este método, siempre y cuando no sea el enfoque del inglés
         Whewell.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

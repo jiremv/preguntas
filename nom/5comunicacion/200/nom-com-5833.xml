@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5831-p.png</g0>
+    <g0>5831-p.png</g0>
     <q>A partir de la lectura del gráfico, determine la alternativa correcta.</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -23,5 +23,5 @@
         (26,84) y Huancavelica (20). Por lo tanto, podemos confirmar que la diferencia entre estas cifras es muy
         significativa.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

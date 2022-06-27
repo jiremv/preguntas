@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5801-p.png</g0>
+    <g0>5801-p.png</g0>
     <q>¿Cuál de los siguientes enunciados resulta incompatible con el texto?</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -18,5 +18,5 @@
         universidades se debe a un marco juridico propicio.Segun el texto, dicho incremento no se dio debido a un factor
         jurídico, sino económico: la liberalización de la educación superior.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>
