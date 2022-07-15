@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5826-p.png</g0>
+    <g0>5826-p.png</g0>
     <q>Del texto se deduce que la infidelidad del nuevo consumidor está asociada</q>
     <q2></q2>
     <as r="R" correcta="3">
@@ -19,5 +19,5 @@
         variedad de marcas a disposición del cliente y al hecho de que existen muchas maneras de informarse de las
         ofertas brindadas por el mercado.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

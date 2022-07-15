@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5806-p.png</g0>
+    <g0>5806-p.png</g0>
     <q>Básicamente, el autor da cuenta</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -19,5 +19,5 @@
         también se esboza las posibles causas de dicho incremento, entre ellos tenemos la falta de información sobre
         métodos anticonceptivos, nivel educativo y uso de métodos anticonceptivos modernos.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

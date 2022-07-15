@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5811-p.png</g0>
+    <g0>5811-p.png</g0>
     <q>De acuerdo con el análisis desarrollado en el texto, Popper considera que las revoluciones científicas podrían
        ser ..............., mientras que Kuhn sostiene que son ...............</q>
     <q2></q2>
@@ -19,5 +19,5 @@
         esporádicas o eventuales. La discrepancia entre ambos epistemólogos es cuán rápido cambia la ciencia. Mientras
         que para Popper la revolución es constante, para Kuhn el cambio es a largo plazo, es decir, ocasional.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

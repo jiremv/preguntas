@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5816-p.png</g0>
+    <g0>5816-p.png</g0>
     <q>Se infiere que las teorías críticas de la sociedad residen en una base de carácter</q>
     <q2></q2>
     <as r="R" correcta="3">
@@ -20,5 +20,5 @@
         sus intereses se enfocaban en las relaciones de poder, en lo ideológico, vale decir, en las ideas que
         predominaban a nivel social.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

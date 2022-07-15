@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5811-p.png</g0>
+    <g0>5811-p.png</g0>
     <q>¿Cuál es el tema central del texto?</q>
     <q2></q2>
     <as r="R" correcta="4">
@@ -19,5 +19,5 @@
         fundamento histórico de la naturaleza de la ciencia que los epistemólogos analizados sostienen. Según el autor,
         la historia de la ciencia no puede ser la única base para comprender la esencia de la ciencia.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

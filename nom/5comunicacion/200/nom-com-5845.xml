@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5841-p.png</g0>
+    <g0>5841-p.png</g0>
     <q>Si un día encontráramos un cisne negro, entonces</q>
     <q2></q2>
     <as r="R" correcta="2">
@@ -19,5 +19,5 @@
         sostuviera que todos los cisnes son blancos quedaría refutada cuando se encuentre un cisne negro. La posibilidad
         de los contraejemplos son los que respaldan la postura del primer autor.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

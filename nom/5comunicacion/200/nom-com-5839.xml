@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5836-p.png</g0>
+    <g0>5836-p.png</g0>
     <q>Lo que interesa destacar de la cita en inglés de Watson es</q>
     <q2></q2>
     <as r="R" correcta="1">
@@ -19,5 +19,5 @@
         engañarse pensando que puede observarla. Ello lleva a un nuevo planteamiento conductista. En consecuencia, se
         puede distinguir dos tipos: el conductismo radical o metafísico y el conductismo metodológico.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

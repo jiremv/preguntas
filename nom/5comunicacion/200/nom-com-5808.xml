@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5806-p.png</g0>
+    <g0>5806-p.png</g0>
     <q>A partir de las curvas expuestas en el cuadro, cabe inferir que el índice de las adolescentes alguna vez
        embarazadas</q>
     <q2></q2>
@@ -20,5 +20,5 @@
         gráfica respecto a la curva del área rural, se puede notar el ligero aumento de 20,3% a 22% en el numero de
         adolescentes algunas vez embarazadas.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Texto:</q0>
-    <g0>./../../preguntas/nom/5comunicacion/200/nom-com-5811-p.png</g0>
+    <g0>5811-p.png</g0>
     <q>Resulta incompatible con el texto señalar que, al leer los apuntes personales de Faraday,</q>
     <q2></q2>
     <as r="R" correcta="2">
@@ -19,5 +19,5 @@
         de ciencia normal, que sirve de paradigma para la época. Sin embargo, el autor discrepa con esta postura, pues
         ha descubierto que Faraday al mismo tiempo reformulaba los conceptos sobre materia y fuerza.</x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>

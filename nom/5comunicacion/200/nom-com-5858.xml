@@ -4,7 +4,7 @@
     <q0></q0>
     <g0></g0>
     <q>Determine el valor de verdad (V ó F) de los siguientes enunciados relativos a la lengua estándar.</q>
-    <g>./../../preguntas/nom/5comunicacion/200/nom-com-5858-p.png</g>
+    <g>5858-p.png</g>
     <q2></q2>
     <as r="R" correcta="4">
         <a>VFF</a>
@@ -17,5 +17,5 @@
     <i></i>
     <x2></x2>
     <i2></i2>
-    <v></v>
+    <v1></v1>
 </p>
