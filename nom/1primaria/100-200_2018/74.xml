@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 	<q0>Un grupo de estudiantes está resolviendo la siguiente situación:</q0>
 	<g0>74-p.png</g0>
 	<q>Varios de los estudiantes afirmaron que Hugo comió más porque 5/6

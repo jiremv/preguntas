@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Julio es un niño de cuarto grado de la I.E. N° 40061 "Estado de Suecia" del distrito de Cerro Colorado,
                 él tiene la capacidad de organizar sus ideas de manera lógica en torno a un tema determinado. Su
                 maestra, conocedora de su habilidad, le ha solicitado que investigue y escriba libremente un texto.</q0>

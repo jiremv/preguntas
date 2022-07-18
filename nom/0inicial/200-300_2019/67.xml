@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los niños del aula de cinco años van a realizar un juego que han llamado "Le pongo la chompa a mi silla". Este
         consiste en buscar una chompa con los ojos vendados, encontrarla y ponérsela a una silla siguiendo indicaciones
         como "avanza", "adelante", "atrás", etc. Para ello los niños forman cinco grupos de cuatro integrantes cada uno.

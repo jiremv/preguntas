@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
     <q>Rebeca, maestra de niños de 5 años, planifica la siguiente capacidad: Identifica los cambios del clima y
     las épocas del año. La estrategia adecuada que Rebeca utiliza es:
 </q>
-    <as r="R" correcta="1">
+    <as> r="R" correcta="1"
         <a>Observa y describe una lámina sobre las estaciones del año.</a>
         <a>Dramatizan con vestimenta apropiada y luego hace uso de la lámina.</a>
         <a>Hace uso del calendario meteorológico del aula.</a>

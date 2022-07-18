@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Fernando debe organizar con sus estudiantes el comité de aula para elaborar el plan de trabajo. Sin
                 embargo, ellos se muestran indiferentes y no desean participar por la experiencia negativa del año
                 anterior. Este hecho le ha preocupado y, por eso, ha decidido desarrollar estrategias que le permitan

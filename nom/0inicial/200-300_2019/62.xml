@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente les pregunta a los niños de cinco años para qué sirven los números. A continuación, se presentan
         algunas respuestas.</q0>
     <g0>./../../preguntas/nom/0inicial/200-300_2019/nom-ini-262-p.png</g0>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luis, maestro de la I.E. N° 40207 "Mariano Melgar" de Hunter, ha ejecutado con sus estudiantes el
                 proyecto denominado "Beneficios de la Chía". El cual ha sido ganador en la FENCYT. Para ello los
                 estudiantes han demostrado interés por adquirir nuevos conocimientos en Ciencia y Tecnología.</q0>

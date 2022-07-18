@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luego de recabar la información necesaria, los estudiantes deciden escribirle una carta al director de la IE
         para solicitarle utilizar el patio en el que presentarán su proyecto. A continuación, se presenta la primera
         versión de la carta:</q0>

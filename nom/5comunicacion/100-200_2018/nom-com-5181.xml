@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes van a elaborar un folleto para invitar a la comunidad educativa a la presentación del proyecto.
         En este marco, un grupo de estudiantes ha elaborado un borrador del texto de invitación que se incluirá en dicho
         folleto:</q0>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El profesor Juan León, de una I.E. de Santa Eulalia, en su hora de clase de Tutoría estaba trabajando:
                 "Participación democrática y buen clima en el aula", mientras cada niño o niña salía al frente y exponía
                 sus ideas libremente, observó que uno de los niños le jaló el cabello a su compañero y éste reaccionó

@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0></g0>
     <q>Roberto, de tres años, puede ponerse los zapatos por sí mismo, pero se los coloca al revés. En esa situación, la
        docente busca continuar favoreciendo la autonomía de Roberto.</q>
-    <g></g>
-    <q2>¿Cuál de las siguientes acciones es pertinente para ese propósito?</q2>
-    <g2></g2>
-    <as r="R" correcta="1">
+    <g</g
+    <q>¿Cuál de las siguientes acciones es pertinente para ese propósito?</q>
+    <g2</g2
+    <as> r="R" correcta="1"
         <a>Decirle a Roberto que él es un niño grande y, por tanto, ya puede ponerse bien los zapatos. Luego, pedirle
            que se los ponga correctamente.</a>
         <a>Pedir a Roberto que camine y preguntarle si puede hacerlo cómodamente cuando usa los zapatos de esa manera.
@@ -18,7 +18,7 @@
     </as>
     <x>B</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

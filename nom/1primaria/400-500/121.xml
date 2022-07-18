@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Sarita es una niña de segundo grado de primaria. Es poco participativa, cuando se le hace preguntas
                responde con la voz muy baja y al opinar frente alguna situación se aprecia cierta desorganización en sus
                ideas. Ante esta situación descrita, ¿cuál de las actividades deberá trabajar la docente para desarrollar

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes han aprendido a tocar el tambor usando partituras de notación rítmica. El docente ya les ha
         enseñado a leer las figuras redondas, blancas y negras.</q0>
     <g0></g0>

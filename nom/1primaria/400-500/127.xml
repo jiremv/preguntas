@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Rosita, profesora de aula de la I.E N° 31301 observa, en su aula, pasadizos, graderías y patio. Hay
                abundantes residuos sólidos después del recreo, para evitar que los estudiantes sigan dejando estos
                residuos, considera dentro de la programación de su unidad didáctica el desarrollo de la clasificación de

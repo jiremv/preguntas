@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luego de presentar el video de "Re/Trato? y conversar con los estudiantes sobre lo observado, la docente les
         pregunta: "¿Por qué creen que el artista aborda en su obra la violencia en su país? ¿Creen que desde el arte se
         deben tratar estos temas? ¿La obra acaso podrá aportar a la solución del problema? ¿Puede el arte ayudar a

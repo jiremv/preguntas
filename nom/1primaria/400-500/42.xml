@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los especialistas de la UGEL 09 de Huaura, realizan la visita a una Institución Educativa pública de la
                 zona urbana y observan que le profesor Segundo, tiene sus unidades y sesiones al día, pero que en los
                 documentos no se evidencia el uso de textos escolares entregados por el MINEDU, pues él manifiesta que

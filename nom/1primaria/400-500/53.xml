@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El maestro Luis de la I.E. "Colegio Moderno" del 2° grado, desarrolla la actividad "Visitando la
                 tlendita de Don Pepe" con el propósito que sus estudiantes resuelvan problemas aditivos de cambio y
                 frente a esta situación se propone evaluar.</q0>

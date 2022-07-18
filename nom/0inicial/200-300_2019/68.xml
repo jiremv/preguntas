@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los niños de cinco años se encuentran jugando libremente en los sectores. Para hacer rodar una bolita, Cristina
         ha construido un camino con trozos de cartón, pedazos de tubos y otros materiales. Sin embargo, la niña se
         muestra contrariada. Cuando la docente le pregunta qué sucede, Cristina le comenta que no entiende por qué la

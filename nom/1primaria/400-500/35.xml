@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La maestra Edith del cuarto grado de la I.E. "El Badén", observa que a sus estudiantes aún les falta
                 fortalecer algunos procesos que, los conlleven a reflexionar sobre algunas actitudes negativas que
                 manifiestan durante el trabajo en equipo.</q0>

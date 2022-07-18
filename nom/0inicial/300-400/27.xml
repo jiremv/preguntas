@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Por el aniversario de la Institución Educativa, con el propósito de iniciar a los niños en la lectura, 
     las maestras organizaron un concurso en el que participaron las aulas de 3, 4 y 5 años.
 Utilizaron la estrategia de observar imágenes, para que ellos pregunten y respondan. Al finalizar la actividad,

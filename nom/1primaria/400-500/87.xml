@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>En una I.E. del nivel primaria el Director observa una sesión de aprendizaje del área de Matemática de
                 segundo grado donde se propone desarrollar la capacidad de resolución de problemas con números y
                 operaciones; para ello, la docente del grado organiza a los estudiantes en grupos asignándoles un juego

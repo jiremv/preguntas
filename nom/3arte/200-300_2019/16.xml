@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes están practicando una coreografía de danza y el docente observa que, a pesar de esforzarse, uno
         de los estudiantes aún no logra tener fluidez en los movimientos que realiza con las piernas. El docente decide
         brindarle retroalimentación utilizando la "técnica del sándwich", la cual consiste en primero darle un mensaje

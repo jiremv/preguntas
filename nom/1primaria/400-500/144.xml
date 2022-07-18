@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los alumnos del 4° grado de educación primaria, utilizando la estrategia de ensayo - error lograron
                 resolver el siguiente problema: En la bodega "Ña Panchita", un queso envuelto en bolsa de plástico y en
                 caja de cartón, cuesta S/. 21.00. el queso sin bolsa de plástico, pero con caja, cuesta S/. 20.00. Sí el

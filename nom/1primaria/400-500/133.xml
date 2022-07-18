@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes de la maestra Rebeca del sexto grado de la I.E. N° 40199 de Socabaya, se encuentran sin
                 motivación y poco predispuestos desde la llegada de la maestra, pues la mayoría piensan que en el aula
                 no existe un trato justo por parte de la docente. Es vertical y poco comunicativa, producto de ello las

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Durante el aniversario del colegio "El Valor de Saber" las profesoras prepararán una vianda con sus
                 niños, por lo que la profesora Silvia de tercer grado trabajará el tema "Las recetas de cocina".</q0>
     <q>¿Qué secuencia didáctica debe seguir la profesora para lograr que sus niños desarrollen un proceso de la

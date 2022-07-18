@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El día de ayer, en la comunidad de Chugur, dos familias cosecharon papas. La familia Rodríguez ha
                 cosechado 50 sacos de papa y la familia Vásquez 67. Los niños de 7 años de edad que han asistido a esta
                 actividad tienen la inquietud de saber cuántos sacos de papas le falta a la familia Rodríguez para tener

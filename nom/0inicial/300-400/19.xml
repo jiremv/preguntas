@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>La profesora Margot como parte de su planificación del área de Matemática pretende que los niños a través
     de situaciones vivenciales, aprendan a realizar agrupaciones de diversos elementos que lo rodean.
 ¿Qué debe planificar de manera específica?</q>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La maestra Teresa está muy contenta porque en el año 2018 ha logrado que todos sus estudiantes
                 desarrollen aprendizajes significativos partiendo de su realidad, construyendo nuevos saberes en
                 diversas situaciones de su vida diaria y en su contexto, pero se ha dado cuenta que presentan

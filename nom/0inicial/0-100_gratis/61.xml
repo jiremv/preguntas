@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>Santiago, de veinticuatro meses, ha empezado a comer sin ayuda. Hoy la docente ha decidido sentarlo junto a dos
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>Santiago, de veinticuatro meses, ha empezado a comer sin ayuda. Hoy la docente ha decidido sentarlo junto a dos
         niños que ya comen solos para que comparta la mesa con ellos. Al inicio, Santiago come sus propios alimentos;
-        pero, luego de unos minutos, coge los alimentos de sus compañeros. Ante esto, ellos lloran.</q0>
+        pero, luego de unos minutos, coge los alimentos de sus compañeros. Ante esto, ellos lloran.</q>0>
     <g0></g0>
     <q>Frente a esta situación de conflicto, ¿qué acción es pertinente que realice la docente?</q>
-    <g></g>
-    <q2></q2>
-    <g2></g2>
-    <as r="R" correcta="0">
+    <g</g
+    <q></q>
+    <g2</g2
+    <as> r="R" correcta="0"
         <a>Explicar a Santiago que sus compañeros están llorando, pues no les gusta que les quiten la comida de sus
            platos.</a>
         <a>Pedir a los niños que le tengan paciencia a Santiago, pues él recién está aprendiendo a comer y poco a poco
@@ -19,7 +19,7 @@
     </as>
     <x>A</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>El profesor Raúl está trabando con los estudiantes del 2° grado de educación primaria la resolución de
                dos problemas matemáticos: Juan tiene 54 vacas y Pedro tiene 36 ¿Cuántas vacas tienen juntos? Si Luis
                tiene 20 casas, 14 de ellas son grandes, ¿cuántas casas pequeñas tiene? El director que hizo el

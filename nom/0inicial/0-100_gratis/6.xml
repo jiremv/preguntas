@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0></g0>
     <q>Los niños del aula de cinco años juegan en el patio de la I.E. Julio y sus amigos están saltando liga en un
        extremo del patio. De pronto, Ana y un grupo de niños corren cerca de Julio y sus compañeros e interfieren en el
        juego de estos. Fastidiado, Julio le dice a Ana que ella y su grupo deben jugar en otro sitio, pues él y sus
        amigos estaban en ese lugar primero. Ana le responde que el patio es de todos. Ante ello, los niños empiezan a
        discutir. La docente, que estuvo observando la situación, se acerca para intervenir.</q>
-    <q2>¿Cuál de las siguientes acciones es pertinente que la docente realice a continuación para promover la resolución
-        del conflicto entre los niños?</q2>
-    <as r="R" correcta="2">
+    <q>¿Cuál de las siguientes acciones es pertinente que la docente realice a continuación para promover la resolución
+        del conflicto entre los niños?</q>
+    <as> r="R" correcta="2"
         <a>Explicar a los niños que todos tienen derecho a jugar en el patio. Luego, asignar a cada grupo un espacio en
            el patio para que jueguen. Finalmente, pedir a ambos grupos que se amisten.</a>
         <a>Decirles que no está bien discutir entre compañeros. Luego, proponerles un nuevo juego en el que puedan
@@ -20,7 +20,7 @@
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

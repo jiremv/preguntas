@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Víctor es un niño PIETBAF. Él tiene un año y medio de edad y cuando llega la hora de su baño diario, 
     la mamá y la promotora preparan lo necesario para su aseo. Antes de sumergirle en la tina, le anticipan para el baño. 
     El niño se siente feliz para estar en el agua.

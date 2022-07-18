@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Observe con atención las siguientes imágenes y responda la pregunta:</q0>
     <g0>./../../preguntas/nom/3arte/100-200_2018/nom-art-3161-p.png</g0>
     <q>¿Qué concepto artístico corresponde a la segunda imagen?</q>

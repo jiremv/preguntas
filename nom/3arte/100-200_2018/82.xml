@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice sobre el teatro documental: "Este tipo de
         teatro tiene como propósito utilizar en su texto únicamente fuentes auténticas que se seleccionan y se 'montan'
         en función de la tesis sociopolítica de la obra". Es decir, se trata de obras teatrales en las que el guion está

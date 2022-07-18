@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Raúl, es un docente del 4° grado, está ejecutando su sesión de aprendizaje que tiene como finalidad
                 desarrollar capacidades para la comprensión de textos, para ello utiliza un afiche de la influenza que
                 la posta médica ha distribuido a todas las escuelas de la zona.</q0>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La profesora Pilar, a cargo del 3° grado, observa durante el recreo que los estudiantes no hacen caso de
                 las recomendaciones de tener cuidado al subir y bajar las escaleras de la escuela, a pesar de que el día
                 anterior hubo un accidente. Frente a esta situación, la docente planifica trabajar la capacidad:

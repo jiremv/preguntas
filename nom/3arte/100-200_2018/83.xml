@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El Diccionario del Teatro, de Patrice Pavis (Francia, 1947), dice lo siguiente sobre la adaptación teatral: "La
         adaptación, a diferencia de la actualización, goza de una gran libertad; no vacila en modificar el sentido de la
         obra original (...) Todas las maniobras textuales imaginables están permitidas: rupturas, reorganización del

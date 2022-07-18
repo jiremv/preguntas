@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Le han encargado diseñar una sesión de aprendizaje sobre el tema: "Los recursos naturales". Conociendo
                los procesos cognitivos y pedagógicos implicados en un aprendizaje significativo. ¿Cuál de las siguientes
                secuencias didácticas resultaría más eficaz para elaborar dicha sesión?</q>

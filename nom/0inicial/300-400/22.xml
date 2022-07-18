@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Los niños aprenden la lengua materna: oyendo viendo, oloservando y repitiendo muchas
 veces De esta forma el niño adquiere la herencia cultural de la sociedad Hacemos
 referencia al enfoque</q>

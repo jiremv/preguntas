@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes de primer grado están interesados en construir su árbol genealógico. En este contexto, la
         docente les pide que recopilen información sobre la vida de un familiar para presentarla oralmente en el aula.</q0>
     <g0></g0>

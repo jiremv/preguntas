@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>Al iniciar la jornada, la docente del aula de tres años dialoga con los niños sobre lo que hicieron el fin de
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>Al iniciar la jornada, la docente del aula de tres años dialoga con los niños sobre lo que hicieron el fin de
         semana. Cuando le toca participar a Jimena, ella dice: "Fui al paque con mi tía". Ante esta situación, ¿qué
-        intervención es pertinente para favorecer la expresión oral de Jimena?</q0>
+        intervención es pertinente para favorecer la expresión oral de Jimena?</q>0>
     <g0></g0>
     <q></q>
-    <g></g>
-    <q2></q2>
-    <g2></g2>
-    <as r="R" correcta="2">
+    <g</g
+    <q></q>
+    <g2</g2
+    <as> r="R" correcta="2"
         <a>"Veo que necesitas la ayuda de tus compañeros, Jimena. Niños, ¿cómo se dice? ¿'Paque' o 'parque'?".</a>
         <a>"Es lindo lo que cuentas, Jimena pero se dice 'parque'; no 'paque'. 'Fui al parque con mi tía'".</a>
         <a>"Así que fuiste al parque con tu tía, Jimena. ¡Qué divertido! ¿Y qué hicieron en el parque?"</a>
     </as>
     <x>C</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

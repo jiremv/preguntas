@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>Kevin y Eduardo, de cinco años, han elaborado bolitas de plastilina de la siguiente manera.</q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>Kevin y Eduardo, de cinco años, han elaborado bolitas de plastilina de la siguiente manera.</q>0>
     <g0>76.png</g0>
     <q>Luego, ambos niños comentan lo siguiente:</q>
-    <g></g>
-    <q2>En la situación presentada, ¿qué principio del conteo evidencian NO haber alcanzado aún los niños?</q2>
-    <g2></g2>
-    <as r="R" correcta="0">
+    <g</g
+    <q>En la situación presentada, ¿qué principio del conteo evidencian NO haber alcanzado aún los niños?</q>
+    <g2</g2
+    <as> r="R" correcta="0"
         <a>De abstracción.</a>
         <a>De orden estable.</a>
         <a>De correspondencia término a término.</a>
     </as>
     <x>A</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

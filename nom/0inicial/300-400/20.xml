@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Los niños y niñas de 5 años del aula "Amor" se llaman por Apodos y tienen actitudes de discriminación por
     parte de algunas niñas hacia otras. Esta situación ha generado que existan conflictos en el aula y en algunoscasos 
     agresiones. ¿Qué debe hacer la docente para revertir esta situación?</q>

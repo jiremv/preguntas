@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0>86.png</g0>
     <q>Considerando los niveles de apropiación del sistema de escritura propuestos por Emilia Ferreiro, ¿en qué nivel se
        encuentra Saida?</q>
-    <g></g>
-    <q2></q2>
-    <g2></g2>
-    <as r="R" correcta="0">
+    <g</g
+    <q></q>
+    <g2</g2
+    <as> r="R" correcta="0"
         <a>Presilábico.</a>
-        <a>Silábico.</a>
-        <a>Silábico alfabético.</a>
+        <as>ilábico.</a>
+        <as>ilábico alfabético.</a>
     </as>
     <x>A</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>En la clase de Ciencia y Ambiente, en el Laboratorio, durante los experimentos de cambios de estado de
                 la materia, Juan y Luis, ocasionaron la caída y ruptura de una probeta; situación que generó una fuerte
                 discusión entre los niños, al punto que se iban a ir a las manos. Al ver esta situación, Jorge, el

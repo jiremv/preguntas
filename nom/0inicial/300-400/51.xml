@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Susana trabaja en una cuna donde atiende a un grupo de niños de 6 a 9 meses. Un día, previa
                 planificación, coloca a uno de los niños echado boca arriba; a ambos lados, cerca de sus manos y dentro
                 de su campo visual, coloca un pañuelo de colores, un muñeco de peluche pequeño, fácil de coger, y una

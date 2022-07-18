@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 <q0>Nora es maestra del aula "Ositos" de 5 años. Cierto día se encuentra trabajando con sus niños y niñas: "El cuidado de nuestras plantas"
 y una de las actividades es cercar las áreas verdes del frontis de su aula, para ello ha salido a recolectar piedras del mismo tamaño para pintarlas
 de diferente colores. Una vez pintadas las piedras, la maestra junto a los niños acuerdan que las piedras serán colocadas en el siguiente orden:

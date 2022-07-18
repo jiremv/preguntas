@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El Diccionario Akal de Teatro (1988) dice lo siguiente sobre el término 'decorado verbal': "Dícese de la
         descripción que realiza uno de los personajes de la obra teatral sobre el decorado y la ambientación de una
         escena. El recurso del decorado verbal puede servir para suplir, en parte o en todo, la escenografía, así como

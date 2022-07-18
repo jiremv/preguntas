@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Mónica, docente de una Institución Educativa Inicial, tiene a cargo la sección de 3 años, para ver el logro 
     alcanzado en sus niños y niñas, evalúa permanentemente a través de la observación sistemática y registra sus avances, 
     lo que le permite obtener información y reflexionar acerca del desempeño de sus niños y niñas. ¿Con qué finalidad

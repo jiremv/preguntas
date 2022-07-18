@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Terry es docente del 4° grado, trabaja en una Institución Educativa de la provincia de Oyón, donde
                 existen cantidades de extensiones de terrenos de cultivo, entre ellos, uno está libre, el mismo que la
                 comunidad hizo entrega a la I.E. para que lo utilicen en lo que fuera necesario, el director decide

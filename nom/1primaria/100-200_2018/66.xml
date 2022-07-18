@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 	<q0>Durante la sesión de aprendizaje en la que los estudiantes tenían que elaborar un dibujo,
 Jonás, un estudiante, utilizó de manera prolongada varios de los lápices de colores del aula. Su
 compañero, Héctor, está fastidiado porque quería utilizar los mismos colores para su dibujo y,

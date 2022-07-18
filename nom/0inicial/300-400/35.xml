@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>En el aula "Los Cariñositos", la docente orientó a los PPFF, al inicio del año escolar sobre la lonchera
     nutritiva. Sin embargo, viene observando que en el refrigerio, los niños en sus loncheras traen galletas, chizitos y 
     gaseosas, alimentos que no son nutritivos y no ayudan en la conservación de la salud. ¿Qué actividad plantearía para

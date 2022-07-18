@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Si se planifica una actividad de comprensión lectora, con el propósito de que los niños de 6° grado de
                 primaria identifiquen relaciones al interior del texto,</q0>
     <q>¿cuál de las actividades siguientes sería la más adecuada?</q>

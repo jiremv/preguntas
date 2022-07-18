@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente María, a cargo del quinto grado de primaria, tiene como objetivo que sus estudiantes
                 desarrollen la capacidad de redactar un oficio. Para ello, elabora el proyecto de aprendizaje
                 "Implementemos nuestra biblioteca de aula" y propone a sus estudiantes gestionar ante las autoridades e

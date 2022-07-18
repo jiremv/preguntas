@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>La profesora Alicia ha sido designada para hacerse cargo del 5° grado de primaria. Ella trabaja de manera
                muy activa y didáctica e Incluye en sus sesiones el uso de material didáctico. Sin embargo ha notado que
                a los estudiantes les cuesta compartir los materiales porque los estudiantes verbalizan "esto es mío"

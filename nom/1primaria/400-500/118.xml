@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Se ha seguido la secuencia didáctica prevista para desarrollar una sesión de aprendizaje. Las estrategias
                resultaron muy motivadoras e incluso generaron conflicto cognitivo. Sin embargo, los estudiantes
                evidenciaron una comprensión muy superficial del tema. ¿Qué momentos de la secuencia didáctica debería

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Aída es profesora del aula de 3 años y tiene entre sus alumnos a Jimmy, un niñito que padece
                 dificultades de coordinación de brazos y piernas cuando debe desplazarse. Además el niño se muestra
                 reacio a seguir las indicaciones de la maestra. Su informe de progreso del año pasado manifiesta que

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Rosita, docente de una Institución Educativa Inicial Polidocente Completo, a través de los talleres de
     Rutas del Aprendizaje, recibió orientaciones sobre los proyectos de aprendizaje, pese a no tener claro sobre esta
     unidad didáctica consideró que debe trabajar con esta alternativa de planificación.

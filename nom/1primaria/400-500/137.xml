@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes de la I.E. "Inmaculada concepción" han participado en el campeonato deportivo escolar
                 que se realizó en el Instituto Peruano del Deporte, los estudiantes de primer grado quieren comprender
                 la tabla de posiciones de los equipos participantes. El docente explica a sus estudiantes que: un

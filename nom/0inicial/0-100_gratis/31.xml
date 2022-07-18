@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>La docente del aula de cinco años busca favorecer el acercamiento de los niños a la lectura. Para ello, ha
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>La docente del aula de cinco años busca favorecer el acercamiento de los niños a la lectura. Para ello, ha
         colocado en el respaldo de las sillas tarjetas con sus respectivos nombres y ha cambiado las sillas de lugar
         antes de que ellos ingresen al aula. Cuando los niños ingresan, la docente les propone que encuentren sus sillas
         guiándose de las tarjetas que observan en ellas. Entonces, Daniela y Damaris se acercan al mismo tiempo a la
-        silla de Damaris. Este es el diálogo que surge a continuación:</q0>
+        silla de Damaris. Este es el diálogo que surge a continuación:</q>0>
     <g0>31.png</g0>
     <q>Daniela mira desconcertada a la docente. Ante esta situación, ¿cuál de las siguientes acciones es más pertinente
        para favorecer el acercamiento de Daniela a la lectura?</q>
-    <q2></q2>
-    <as r="R" correcta="2">
+    <q></q>
+    <as> r="R" correcta="2"
         <a>Preguntar a Daniela: "¿Todavía no sabes reconocer tu nombre? ¿Te gustaría que te enseñe a reconocerlo?".
            Luego, llevarla hacia su silla, señalar la tarjeta y decirle: "Mira, aquí dice Daniela. Ahora ya puedes
            sentarte en tu silla".</a>
@@ -23,7 +23,7 @@
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

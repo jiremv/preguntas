@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La profesora Mayra del 5° grado de primaria había programado una visita a la municipalidad del distrito
                 de la jurisdicción de su I.E. para entrevistar al alcalde y los trabajadores y conocer de forma directa
                 la problemática de su localidad, sin embargo en ese día no había pase al local municipal porque estaban

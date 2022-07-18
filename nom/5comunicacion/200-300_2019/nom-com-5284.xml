@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Durante la escritura del texto, algunos estudiantes le comentan al docente que desean incluir algunas ideas que no
       estaban en su planificación. Por ello, dichos estudiantes preguntan si deben modificar el plan.</q0>
   <g0></g0>

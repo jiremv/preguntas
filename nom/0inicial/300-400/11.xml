@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Ivonne es profesora del aula de 5 años y desea realizar sesiones de aprendizaje para ejercitar la madurez
     intelectual, el pensamiento lógico y la concentración de sus estudiantes. Ella cuenta en el aula con los sectores 
     implementados de materiales, según el contexto y la edad de los niños, pero todavía necesita ayuda para elegir 

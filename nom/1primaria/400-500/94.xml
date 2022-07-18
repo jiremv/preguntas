@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>En la localidad de Cotahuasi, el 22 de mayo se festeja el aniversario del Área Natural Protegida,
                 celebración donde participa toda la población. Juan maestro de la Institución Educativa "María
                 Auxiliadora", ha programado con los estudiantes participar en diferentes actividades que contribuyan al

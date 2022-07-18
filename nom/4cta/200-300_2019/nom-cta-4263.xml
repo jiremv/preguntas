@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luego de trabajar con los estudiantes en la comprensión de la estructura del átomo y su relación con las
         propiedades periódicas de los elementos, una docente propone la siguiente actividad de evaluación:</q0>
     <g0>4263-p1.png</g0>

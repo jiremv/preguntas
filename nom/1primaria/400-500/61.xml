@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Peter expresa la intención de su sesión de aprendizaje: "Que los niños y niñas del 6° grado, a partir de
                 las estrategias de producción de textos, aprendan a bosquejar una ficha de entrevista, para investigar
                 con sus familiares, autoridades y vecinos sobre la celebración de la Semana Santa en su comunidad".</q0>

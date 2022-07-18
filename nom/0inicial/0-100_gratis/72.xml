@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0></g0>
     <q>La docente observa que Gabriela, de ocho meses, está quedándose dormida justo antes de la hora de los alimentos.
        En esa situación, ¿qué intervención favorece el desarrollo óptimo de la niña?</q>
-    <g></g>
-    <q2></q2>
-    <g2></g2>
-    <as r="R" correcta="1">
+    <g</g
+    <q></q>
+    <g2</g2
+    <as> r="R" correcta="1"
         <a>"Gabriela, vamos a comer rapidito para que luego duermas todo lo que quieras".</a>
         <a>"Gabriela, veo que tienes sueño; te llevaré a dormir y, cuando despiertes, comerás tu comida".</a>
         <a>"Gabriela, no te vayas a dormir; mira que ya vas a comer la crema de verduras que tanto te gusta".</a>
     </as>
     <x>B</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La maestra Juana, docente de la I.E. "Carlos José Echavarry Ozacar" de San José de Tiabaya ha
                 desarrollado una actividad de aprendizaje para sus estudiantes del quinto grado, ellos han logrado
                 proponer un sistema de medidas de prevención en caso de sismos, proyecto que inclusive ha quedado en

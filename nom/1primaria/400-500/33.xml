@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes del 3° grado de la I.E. N° 40020 "Escuela Urbana Ecológica" de San Lázaro, se encuentran
                 preocupados porque ha aumentado el consumo de comida chatarra en sus compañeros, por lo tanto han
                 decidido comunicar a la maestra sobre la campaña de difusión que emprenderán en el aula para

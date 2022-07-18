@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>En la I.E. N° 41014 de Arequipa, la maestra Dina desarrolla una sesión de aprendizaje en el área de
                 Matemática con los estudiantes del segundo grado, el aprendizaje esta direccionado a la aplicación de
                 estrategias para solucionar problemas que impliquen operaciones matemáticas, para ello Dina entrega a

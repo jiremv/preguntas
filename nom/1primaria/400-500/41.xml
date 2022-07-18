@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El profesor Juiio Quispe Borda. De la I.E N° 20173, decide que sus niños y niñas del 4° grado conozcan
                 las diferentes actividades que se realizan en la fiesta patronal "Santa Rosa de Lima" del anexo de
                 Chavín y para ello sostiene que, como docente le corresponde el rol de mediador.</q0>

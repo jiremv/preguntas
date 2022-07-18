@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Martha, docente de la LE. N° 40211 "Héroes del Cenepa" de Paucarpata, organiza a sus estudiantes en el
                 patio de la escuela y les comunica que rápidamente se formen en dos columnas. El docente pide a Rosita
                 que diga la cantidad de estudiantes que hay en cada columna y registra las cantidades en un papelógrafo.

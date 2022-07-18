@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Pedro es profesor del 6° "A" de la I.E. N° 37001, quien de acuerdo a lo planificado en el área de
                 comunicación conduce a sus niños y niñas al aula de innovación a observar un video zoográfico, para lo
                 cual portan hojas de aplicación que contienen preguntas, las cuales deben ser socializadas al retorno al

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 <q>La docente María del Rosario del 4° grado de la I.E "Ricardo Palma" al evaluar a sus estudiantes en la exposición
 y sustento de sus proyectos de FENCYT, observa que algunos de ellos no se involucraron en el trabajo de equipo, y tuvieron 
 dificultad para socializar, enfrentando una problemática de acusaciones y disgustos. ¿Qué debe hacer la docente para mejorar

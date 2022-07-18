@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0></g0>
     <q>Marcela, de seis meses, ha comenzado a emitir vocalizaciones. Lo hace sobre todo cuando está en compañía de
        adultos o de otros niños.</q>
-    <q2>¿Qué acción es pertinente realizar en el momento de cuidados infantiles para favorecer los intentos
-        comunicativos de Marcela?</q2>
-    <as r="R" correcta="2">
+    <q>¿Qué acción es pertinente realizar en el momento de cuidados infantiles para favorecer los intentos
+        comunicativos de Marcela?</q>
+    <as> r="R" correcta="2"
         <a>Dejar que Marcela emita vocalizaciones sin cortar su iniciativa. Luego, reproducir sonidos de diferentes
            animales para que experimente estímulos distintos a los que escucha regularmente.</a>
         <a>Colocarse cerca de la cara de Marcela y establecer contacto visual con ella. Luego, decir varias veces una
@@ -17,7 +17,7 @@
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

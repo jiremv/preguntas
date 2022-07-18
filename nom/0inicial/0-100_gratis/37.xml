@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0></g0>
     <q>La docente del aula de cuatro años busca promover la expresión oral de los niños. ¿Cuál de las siguientes
        acciones es menos pertinente para ese propósito?</q>
-    <q2></q2>
-    <as r="R" correcta="1">
+    <q></q>
+    <as> r="R" correcta="1"
         <a>Plantear a los niños que elaboren predicciones antes y durante la lectura de cuentos.</a>
         <a>Pedir a los niños que todos los días practiquen las canciones, poesías, rimas y trabalenguas aprendidos hasta
            el momento.</a>
@@ -15,7 +15,7 @@
     </as>
     <x>B.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

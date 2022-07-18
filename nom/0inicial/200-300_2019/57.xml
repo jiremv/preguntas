@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente y los niños del aula de cinco años se encuentran planificando el proyecto "Vamos a hacer un robot".
         En ese contexto, los niños proponen distintas actividades mientras la docente anota sus propuestas en la
         pizarra. La docente nota que los niños plantean muchas actividades. Entonces, decide aprovechar esa situación

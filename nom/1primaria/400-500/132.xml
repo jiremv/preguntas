@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Héctor, es un docente de la I.E. "Santa Lucia" de Chilina, él ha enseñado a sus estudiantes a organizar
                 información sobre ei lenguaje periodístico y científico. Para seguir, con la secuencia didáctica de ia
                 sesión de aprendizaje pide a sus estudiantes que elaboren un cuadro comparativo, para precisar las

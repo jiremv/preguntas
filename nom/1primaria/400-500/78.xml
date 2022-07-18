@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente de aula del 5°. Grado informa a los alumnos que una parte del biohuerto será modificado para
                 construir un ambiente para guardar los implementos de Educación Física. Luego, la profesora le entrega a
                 cada grupo una hoja y los invita a escribir cinco motivos por los cuales el biohuerto no debe ser

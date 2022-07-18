@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>En un aula de inicial se observa que los niños y niñas se desenvuelven con tranquilidad, alegres y actúan
     de forma espontánea. La docente se muestra tranquila y de vez en cuando recalca las normas de convivencia en tono 
     suave. ¿Qué refleja esta situación?

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El docente ha propuesto varias canciones a los estudiantes y, luego de discutirlo, han seleccionado algunas y
         las han aprendido. El docente nota que los estudiantes disfrutan en particular al cantar una de las canciones
         seleccionadas, y ve en ello una oportunidad para realizar con la clase una actividad de análisis que permita que

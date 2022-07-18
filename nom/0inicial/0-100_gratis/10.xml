@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0></q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0></q>0>
     <g0>9.png</g0>
     <q>La docente busca aprovechar esta situación para que los niños formulen hipótesis.</q>
-    <g>10.png</g>
-    <q2>¿Cuál de las siguientes preguntas es pertinente para ese propósito?</q2>
-    <as r="R" correcta="2">
+    <g10.png</g
+    <q>¿Cuál de las siguientes preguntas es pertinente para ese propósito?</q>
+    <as> r="R" correcta="2"
         <a>"Antonio, ¿en tu casa preparan infusiones con agua fría?".</a>
         <a>"Niños, ¿con qué otras plantas se podrán preparar infusiones?".</a>
         <a>"María, ¿qué crees que pasa con las hojas de las plantas cuando les añadimos agua caliente?".</a>
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

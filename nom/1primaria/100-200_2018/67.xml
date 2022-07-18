@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 	<q0>La docente había pedido a los estudiantes que pregunten a sus papás y mamás qué actividades
 les gustaba realizar de niños y que realicen una presentación de estas actividades a sus
 compañeros durante la sesión de aprendizaje.</q0>

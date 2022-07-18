@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>A continuación, se presenta la transcripción de un fragmento del texto oral de Fabiana, una de las estudiantes:</q0>
   <g0>5261-p.png</g0>
   <q>El docente espera a que Fabiana concluya su exposición para resaltar los aspectos mejor logrados resp ecto de la

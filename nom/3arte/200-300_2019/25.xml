@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Un grupo de estudiantes propone al docente de Arte y Cultura que les enseñe a usar un software que puedan
         utilizar en el aula de Innovación Pedagógica o en un teléfono celular para crear canciones con instrumentos
         musicales virtuales y grabando su propia voz. El docente ve en ello una buena oportunidad para desarrollar la

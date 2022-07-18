@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La maestra Zoila destina una vez por semana para leer a los niños, y ellos también pueden leer a sus
                 compañeros. Uno de estos días dedicados a la lectura, Jonathan,un niño de 2° grado, lee el cuento
                 "Chlmoc, el perro calato". Sus compañeros se emocionaron con el personaje del cuento y la maestra

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Es el primer día de clases, la profesora Griselda está preocupada porque este año le toca trabajar con 
     grupos de niños(as) y por ello se ha propuesto elaborar un instrumento o evaluación de registro que le permitirá conocer:
 </q>

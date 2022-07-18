@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Juana, cumpliendo el último hito de la movilización de los aprendizajes ("rendición de cuentas"),
                 desarrolla ia siguiente secuencia de actividades: aplica instrumentos de evaluación, interpreta y
                 sistematiza la información y socializa los resultados con los padres de familia y autoridades para la

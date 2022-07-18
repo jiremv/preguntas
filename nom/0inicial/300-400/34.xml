@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>En el momento de "La hora del cuento",
     los niños y niñas se predisponen a escuchar el cuento que la docente les va a leer.
     Cada niño va a coger su alfombra para sentarse en el piso. En este momento, la docente observa 

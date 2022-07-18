@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 <q>José es un docente del 2° grado de educación primaria, está trabajando producción de textos narrativos, en la
 etapa de textualización observa que los trabajos de los estudiantes tienen muchos errores ortográficos. ¿Qué debe hacer 
 el docente de aula frente a esta situación?

@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>José, de tres años, ha realizado el siguiente dibujo:</q0>
-    <g0>27.png</g0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>José, de tres años, ha realizado el siguiente dibujo:</q>0>
+    <g0>7.png</g0>
     <q>¿Cuál de las siguientes acciones es pertinente para favorecer que José continúe desarrollando su capacidad de
        representación?</q>
-    <q2></q2>
-    <as r="R" correcta="1">
+    <q></q>
+    <as> r="R" correcta="1"
         <a>Proporcionarle fichas de trabajo con imágenes de personas, animales u objetos incompletos para que
            identifique qué partes les faltan a dichas imágenes y las dibuje.</a>
         <a>Después de haber realizado actividades que involucren juego libre, experiencias corporales y exploración de
@@ -16,7 +16,7 @@
     </as>
     <x>B.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

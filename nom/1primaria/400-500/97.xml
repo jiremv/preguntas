@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes de 5° grado, por indicaciones de su maestro, escriben un texto descriptivo. Antes de
                 empezar a desarrollar esta capacidad, el docente en un papelote les da algunas pistas para la redacción:
                 ¿Qué vamos a escribir?, ¿a quién va dirigido el texto?, ¿qué vamos a decir?, ¿cómo lo vamos a escribir?,

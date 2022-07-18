@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luego de analizar el video del ballet Cascanueces y discutir sobre él, la docente muestra otro video a los
         estudiantes. En esta ocasión, selecciona una coreografía de la renombrada bailarina y coreógrafa contemporánea,
         Pina Bausch (Alemania, 1940-2009), para que los estudiantes aprecien cómo se aplica en otros géneros de danza lo

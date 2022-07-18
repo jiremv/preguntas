@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Alberto es un niño de cuarto grado de primaria que muestra bajo rendimiento en la comprensión de textos.
                A pesar de tener una lectura fluida, frecuentemente falla al ubicar la respuesta correcta de las
                alternativas propuestas; en clase es participativo, pero es muy presuroso al dar las respuestas y un poco

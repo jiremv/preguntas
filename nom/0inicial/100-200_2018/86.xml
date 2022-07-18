@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente del aula de cinco años tiene como propósito que los niños creen historias. Aprovechando que los niños
         están llevando a cabo el proyecto "Hacemos un huerto", les presenta la siguiente imagen:</q0>
     <g0>./../../preguntas/nom/0inicial/100-200_2018/nom-ini-186-p.png</g0>

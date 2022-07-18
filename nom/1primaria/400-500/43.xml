@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>El profesor Arturo que trabaja en una escuela rural muy alejada de
               la provincia de Lima, se siente muy optimista porque tiene una
               meta muy importante en su vida profesional: "Lograr que sus niños

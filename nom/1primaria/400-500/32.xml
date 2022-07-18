@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El Director de la I.E. "Eduardo López de Romaña", haciendo uso del propósito comunicativo, improvisa un
                 pequeño discurso en el que indica que los últimos estudios refieren que los cambios climáticos de todas
                 maneras van a suceder, sin importar lo que haga o deje de hacer la mano del hombre. Por ello, no se

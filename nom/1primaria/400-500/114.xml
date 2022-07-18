@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>El profesor Víctor, al ingresar al aula de clase, observa que sus estudiantes están muy interesados en
                dar explicación de por qué se produjo un temblor y buscar formas de prevenir los incendios que
                ocasionaron pérdidas de vida en su comunidad. Frente a esta situación, el docente planifica trabajar el

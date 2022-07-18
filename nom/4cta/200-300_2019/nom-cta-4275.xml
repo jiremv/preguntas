@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Un equipo de estudiantes elaboró el siguiente reporte luego de realizar una indagación:</q0>
     <g0>4275-p.png</g0>
     <q>En este reporte, el docente nota logros y algunos errores en la descripción de la indagación. Por ello, luego de

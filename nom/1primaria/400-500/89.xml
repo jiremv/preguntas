@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>"¡Tenemos que afianzar el tema de probabilidades!"-Dice Ciro-uno de los 4 docentes de Matemática del
                 5° grado de la I.E. polidocente N° 18009. "¡Cierto, propongamos diversas situaciones problema!" Dijeron
                 todos y expresaron sus propuestas.</q0>

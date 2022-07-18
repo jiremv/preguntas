@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Rosa con la ayuda de su maestra, aprendió a agrupar los bloques lógicos teniendo en cuenta los criterios 
     color y forma, luego la maestra pide a Rosa que agrupe otros objetos del aula utilizando sus propios criterios. 
     ¿Qué proceso de construcción del aprendizaje ha desarrollado Rosa, con el acompañamiento de su maestra?</q>

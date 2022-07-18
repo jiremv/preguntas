@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Lea la siguiente situación y responda</q0>
     <g0>4268-p.png</g0>
     <q>Si comparamos la cantidad de átomos en un mol de C-12, un mol de C-14 y un mol de N-14, ¿cuál de las siguientes

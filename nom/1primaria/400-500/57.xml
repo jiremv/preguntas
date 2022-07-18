@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El docente Ricardo trabaja en una Institución Educativa de Barranca, Ha decidido aprovechar las riquezas
                 naturales de la zona para programar con sus niños y niñas una investigación que acopie, organice y
                 actualice información sobre las plantas y animales existentes en la localidad. Ha organizado a los niños

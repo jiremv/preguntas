@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 <q>
 La docente María Julia del 6° grado, cuyos estudiantes 
 provienen en su mayoría del Asentamiento Humano "Fernando Belaunde" cerca al mercadillo "La Oferta", quiere desarrollar

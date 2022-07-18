@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Fue un día normal de clases. Al sonar el timbre de salida (12:30 p.m.), la profesora, sin manifestar
                 palabra alguna, se dirigió rápidamente a la puerta y la cerró con llave impidiendo la salida de los
                 alumnos durante un lapso de diez minutos. Ella quería observar las diversas reacciones emocionales de

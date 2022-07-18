@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Todos los días, Manolo va solo al jardín, en el camino un perro le ladra y lo asusta, llega al jardín con
     los pantalones mojados, se sienta en su sitio, no participa y no sale a las actividades al aire libre. La docente 
     se percata de su actitud, conversa con él y lo atiende. ¿En qué instrumento registrará lo acontecido?

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente del aula de cinco años busca favorecer el acercamiento de los niños a la lectura. Para ello, ha
         colocado en el respaldo de las sillas tarjetas con sus respectivos nombres y ha cambiado las sillas de lugar
         antes de que ellos ingresen al aula. Cuando los niños ingresan, la docente les propone que encuentren sus sillas

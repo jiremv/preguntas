@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Eduardo es un docente de 4° grado de la I.E. N° 37425 de Angaraes, quien trabaja con los materiales
                 distribuidos por el MED y que al finalizar el primer trimestre se da cuenta sobre la pérdida de los
                 materiales, para lo cual convoca a los padres de familia a fin de plantear el problema y buscar las

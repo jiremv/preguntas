@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>La docente tiene como propósito favorecer la apropiación del sistema de escritura en Saida.</q0>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q>0>La docente tiene como propósito favorecer la apropiación del sistema de escritura en Saida.</q>0>
     <g0></g0>
     <q>¿Cuál de las siguientes acciones es pertinente para dicho propósito?</q>
-    <g></g>
-    <q2></q2>
-    <g2></g2>
-    <as r="R" correcta="1">
+    <g</g
+    <q></q>
+    <g2</g2
+    <as> r="R" correcta="1"
         <a>Ayudarla a encontrar su nombre en uno de los carteles del aula y pedirle que repase las letras varias veces
            con el dedo índice.</a>
         <a>Pedirle que ubique su nombre en alguno de los carteles del aula, lo compare con el texto que escribió e
@@ -17,7 +17,7 @@
     </as>
     <x>B</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

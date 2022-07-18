@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes del equipo de trabajo "Los Arguedas" planifican para producir textos narrativos, luego
                 textualizan sus experiencias, ideas, sentimientos, empleando las convenciones del lenguaje escrito, lo
                 publican sin la revisión respectiva por sugerencia de algunos integrantes.</q0>

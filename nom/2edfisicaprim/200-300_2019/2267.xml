@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Luego de realizar diversas actividades relacionadas con la respiración, una estudiante comenta: "No sabía que hay
       varios tipos de respiración. ¡Ahora me doy cuenta de que mi respiración es incompleta! Me ha parecido muy
       interesante, pero aún me quedan algunas dudas sobre el tema, así que seguiré investigando?.</q0>

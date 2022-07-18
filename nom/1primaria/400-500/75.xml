@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La maestra Julia de la I.E de Atoccasa de Churcampa, desarrolla una sesión de aprendizaje de matemática:
                 "Resolvemos situaciones problemáticas que implica el uso de fracciones". María, obtiene la respuesta
                 correcta utilizando el procedimiento adecuado, mientras que Juan y Darío tienen problemas para resolver;

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los profesores del quinto grado de primaria han planificado una jornada pedagógica para debatir y
                 reflexionar sobre el bajo rendimiento de sus estudiantes en la comprensión de textos. Producto de esta
                 jornada, se reconoció como principal dificultad que ios estudiantes no identifican la información en los

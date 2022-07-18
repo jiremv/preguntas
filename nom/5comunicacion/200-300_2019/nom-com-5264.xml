@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Para continuar con el análisis del libro, el docente propone que relean el siguiente párrafo en voz alta:</q0>
   <g0>5264-p1.png</g0>
   <q>¿Cuál de los comentarios de los estudiantes evidencia una concepción errónea sobre el uso del lenguaje en los

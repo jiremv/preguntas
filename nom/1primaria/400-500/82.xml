@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los estudiantes del segundo grado de la I.E "Fernando Belaunde Terry" de Chiguata construirán un
                 herbario de plantas silvestres, para ello toman la iniciativa y proponen a la maestra Rosario realizar
                 un recorrido por la comunidad con el propósito de recolectar plantas, cumpliendo consignas durante el

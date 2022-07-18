@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Para promover el intercambio de ideas sobre la lectura, el docente pide a los estudiantes que, en la pizarra,
       escriban un título que dé cuenta del tema central abordado conjuntamente en ambos textos. A continuación, se
       presentan las propuestas que escribieron tres estudiantes:</q0>

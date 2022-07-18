@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>En estos últimos tiempos, los padres de familia quieren participar en los procesos de aprendizaje de sus
     hijos, motivados por la maestra a quien, por cierto, estiman mucho y ante el interés de los niños, ofrecen enseñarles 
     canciones. Los niños entusiasmados, acuerdan hacer un cancionero.

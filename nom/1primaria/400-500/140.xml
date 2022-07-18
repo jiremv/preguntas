@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Se sabe que la mayoría de familias de la comunidad se congregan todos los viernes en Puerto Chipie donde, generalmente, se sirven un menú. Aprovechando esta circunstancia, la profesora del 4° Grado de Educación Primaria se ha propuesto trabajar problemas multiplicativos utilizando el siguiente cartel del Restaurante "EL JALQUEÑO".</q0>
     <g0>140-p.png</g0>
     <q>Analizando las rutas del aprendizaje de matemática, ¿cuál de las siguientes situaciones de problemas multiplicativos resultaría pertinente que la profesora María plantee a sus alumnos usando el cartel?</q>

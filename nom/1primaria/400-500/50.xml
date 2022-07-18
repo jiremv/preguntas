@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Juan es un niño que cursa el 3° grado de primaria. Es muy responsable y participativo, razón por la cual la profesora de aula lo ha designado como coordinador de un grupo. Cada vez que la profesora deja una actividad para que sea trabajada en forma grupal, Juan toma la iniciativa y trata de resolver todas las actividades propuestas sin dar oportunidad a los demás compañeros e imponiendo sus ideas, sus compañeros ya no quieren trabajar con él y le han pedido a la docente que lo cambie de grupo.</q0>
     <g0>50-p.png
     <q>Frente a esta circunstancia, ¿qué debe hacer la profesora de aula?</q>

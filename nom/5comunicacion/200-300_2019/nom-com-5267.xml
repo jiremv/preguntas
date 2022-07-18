@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Un estudiante ha terminado de escribir la primera versión de su texto y se la ha presentado al docente para que la
       revise. A continuación, se presenta dicha versión:</q0>
   <g0>5267-p.png</g0>

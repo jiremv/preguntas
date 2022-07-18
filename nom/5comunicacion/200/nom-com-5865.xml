@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los primeros versos de un famoso soneto de Luis Góngora y Argote son los siguientes:</q0>
     <g0>5865-p.png</g0>
     <q>En la relación entre "cabello" y "oro" se observa la figura literaria conocida como</q>

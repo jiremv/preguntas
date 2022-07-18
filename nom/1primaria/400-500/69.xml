@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Este año, a la profesora Rosario le han designado el aula del 3o grado "A". El director le hizo entrega
                 de los resultados de la prueba ECE aplicados a los estudiantes en el año anterior. Los resultados
                 reflejan que del total de alumnos, un 35% de sus estudiantes se encuentran en el Nivel de logro 1,

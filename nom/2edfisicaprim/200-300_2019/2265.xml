@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Cuando el docente solicita a sus estudiantes que coloquen una mano sobre la zona pectoral y la otra mano sobre la
       zona abdominal para respirar intentando expandir la zona abdominal,</q0>
   <g0></g0>

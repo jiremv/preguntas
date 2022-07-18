@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El docente desarrolla con la clase una serie de ejercicios de calentamiento vocal. Durante los ejercicios, uno
         de los estudiantes le dice al docente: "Profesor, no me salen bien las notas más agudas. Siento que sí puedo
         llegar a la nota, pero al poco rato me duele la garganta".</q0>

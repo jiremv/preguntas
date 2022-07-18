@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Una docente ha notado que muchos de sus estudiantes muestran interés en formar parte del equipo de vóley del
         colegio y decide aprovechar esta situación para trabajar una unidad didáctica sobre la identificación de las
         fuerzas que actúan en el movimiento de los cuerpos.</q0>

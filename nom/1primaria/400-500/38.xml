@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El profesor Roger revisa las pruebas escritas de sus alumnos. Al terminar, entrega a cada uno de ellos.
                 Milber observa su prueba y lee el comentario escrito por su profesor.</q0>
     <q>Esta acción que realiza el profesor es un tipo de:</q>

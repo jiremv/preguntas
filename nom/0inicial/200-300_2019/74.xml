@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0></q0>
     <g0>./../../preguntas/nom/0inicial/200-300_2019/nom-ini-274-p.png</g0>
     <q>Entonces, la docente les pide que viertan ambos líquidos en un solo vaso transparente y, luego, los remuevan con

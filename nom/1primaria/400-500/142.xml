@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luis, profesor de 2° grado tiene propuesto trabajar con sus alumnos las características y funciones de
                 los órganos de los sentidos. Durante el desarrollo de la sesión de aprendizaje escucha de sus alumnos
                 diversos comentarios como: "¡El ají pica profe!" "¡Las azucenas huelen rico!" "¡El arco iris tiene 7

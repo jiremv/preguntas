@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 	<q0>Arturo, maestro del sexto grado, en la I.E. N° 40037 "Humberto León García" del distrito de la Joya; ha planificado su sesión de aprendizaje teniendo como propósito que sus estudiantes elaboren un álbum con fichas informativas de animales del Perú. Para ello investigarán y buscarán diversas fuentes de información.
 	</q0>
 	<g0>

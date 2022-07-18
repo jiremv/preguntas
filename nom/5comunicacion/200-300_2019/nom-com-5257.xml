@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Una docente está revisando los textos narrativos que han escrito los estudiantes. En muchos casos, ella nota que
       el uso inadecuado de los signos de puntuación dificulta la comprensión de la trama de dichos textos.</q0>
   <g0></g0>

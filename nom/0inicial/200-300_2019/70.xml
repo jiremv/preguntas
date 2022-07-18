@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Víctor y Pamela, del aula de cinco años, entablan el siguiente diálogo.</q0>
     <g0>./../../preguntas/nom/0inicial/200-300_2019/nom-ini-270-p.png</g0>
     <q>¿Qué uso del número se evidencia en la intervención de Pamela?</q>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La docente y los niños del aula de cinco años han recolectado diversos materiales como botellas, cajas, bloques
         de madera, etc. para el sector de construcción. Ahora, la docente les plantea el siguiente problema: "Niños,
         ¿cómo podrían ordenar estos materiales en el sector de construcción para que puedan utilizarlos con facilidad?".</q0>

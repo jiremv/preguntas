@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
     <q>En el aula de 4 años la profesora Patricia ha detectado que sus alumnos, cuando ingresan al aula, muestran 
     un cuadro de alergia debido al polvo que genera los espacios de tierra frente a su aula. Ella desea que sus niños 
     tengan áreas verdes, para así evitar estos inconvenientes. Por tanto, propone que esos espacios de tierra sean
     utilizados para sembrado de hortalizas (rabanito, zanahoria, etc.) y presenta el proyecto "Construyendo nuestro biohuerto".
     ¿Cuál es la secuencia más adecuada para llevar a cabo el proyecto?
 </q>
-    <as r="R" correcta="0">
+    <as> r="R" correcta="0"
         <a>Planificación conjunta profesora-alumnos- padres en la solución del problema; ejecución de acciones para organizar 
 el biohuerto; definición de funciones y responsabilidades para su cuidado; evaluación de las tareas realizadas.</a>
         <a>Planificación de la profesora para resolver el problema;realización de tareas para organizar el biohuerto; elaboración

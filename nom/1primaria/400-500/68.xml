@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Norma decide utilizar los precios de los televisores y le parece interesante plantear a sus niños del 3°
                 grado de educación primaria el siguiente problema: "Javier ha comprado un televisor que va a pagar a
                 plazos de la siguiente manera: la mitad de su importe, en el momento de llevárselo; dos terceras partes

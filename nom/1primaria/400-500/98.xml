@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Los alumnos del 3° grado de educación primaria, cada vez que ayudan en el salón, siempre piden algún
                 regalo como recompensa. Sin embargo, la semana pasada, cuando Jorge llegó quince minutos tarde y Ana se
                 pasó dos minutos de la hora de entrada, pidieron que Jorge reciba mayor sanción por llegar más tarde,

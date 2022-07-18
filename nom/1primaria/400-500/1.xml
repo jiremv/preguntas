@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Rosario es una docente de 6° de Primaria. Ella trabaja en un colegio de la zona urbana de Lima,
   donde existe la discriminación a los estudiantes que proceden de la zona andina.
   José es un niño que vino hace dos años a la capital con su familia desde una zona rural de Junín.

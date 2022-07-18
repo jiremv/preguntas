@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El docente José Luis, tutor del aula de 6° grado de primaria, sabe que durante el mes de noviembre, el
                 distrito a donde pertenece la I.E "Rosa de América", estará de aniversario. Para esta fecha, muchos de
                 los nacidos aquí, retornan a su pueblo con sus familias a pasar estas fiestas. En esta fecha se realizan

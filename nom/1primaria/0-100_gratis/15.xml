@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 	<q0>Los estudiantes están trabajando una unidad didáctica denominada “¿Cómo debemos actuar
 frente al fenómeno de El Niño?”. Para el desarrollo de una de las actividades, el docente les
 ha proporcionado un texto que contiene las acciones de prevención señaladas en el Plan de

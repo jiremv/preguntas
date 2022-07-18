@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Los niños han manifestado sus necesidades e intereses y la profesora tiene claras las atenciones que debe 
     brindarles a través de unidades didácticas. Al mismo tiempo urge la necesidad de que los niños desarrollen sus
     habilidades investigativas y de exploración. Por ello, decide atender primero las necesidades de sus niños para pasar 

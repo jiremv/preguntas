@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>La maestra Julia está interesada en promover el desarrollo del pensamiento científico de sus niños y niñas,
     para ello pretende utilizar los materiales entregados por el MED. Tomando en cuenta que debe promover el proceso de 
     indagación, ¿qué secuencia debe seguir la profesora?

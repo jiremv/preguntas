@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Tomasa es una profesora de Educación Inicial, que este año tendrá a su cargo el aula de 4 años. Ella conoce muy bien
 	el nuevo paradigma educativo y el enfoque general asumido por el MINEDU, por lo que al momento de planificar la ambientación de su aula
 	toma en cuenta lo siguiente:

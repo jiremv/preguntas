@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Graciela, profesora del 5° grado, ha recibido la queja de algunos alumnos del aula, porque a Pedro, el
                 niño más inquieto, le gusta colocar apodos a sus compañeros según las características de sus apariencias
                 físicas, durante las clases les envía notas Insultándolos pese a que ellos ya hablaron con él. La

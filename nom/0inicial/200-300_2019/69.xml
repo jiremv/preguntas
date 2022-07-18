@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Cuando Fernando, de cuatro años, cuenta objetos, suele decir lo siguiente: "1, 2, 3, 4, 5". Dice esto incluso
         cuando cuenta un mismo objeto dos veces, como en este caso.</q0>
     <g0>./../../preguntas/nom/0inicial/200-300_2019/nom-ini-269-p.png</g0>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Adrián, Bruno y Cristian viven en un edificio de tres pisos, cada uno en un piso distinto. Uno de ellos es
         dentista, otro es profesor y el otro es taxista.</q0>
     <g0>128-p.png</g0>

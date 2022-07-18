@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Un docente se ha hecho cargo de un nuevo grado y durante los primeros dias de trabajo ha detectado que
                 manifestaciones de racismo, agresividad e intolerancia. Por ello, está preocupado por determinar
                 actividades y/o estrategias que le permitan mejorar las relaciones de un modo democrático y formativo.</q0>

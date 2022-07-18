@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
   <q0>Como parte del desarrollo de la coordinación de los estudiantes, una docente de Educación Física planifica
       actividades rítmicas con telas de 1,50 m x 0,70 m. Si quiere recoger los saberes previos de los estudiantes sobre
       los elementos corporales de la gimnasia para determinar el apoyo que será necesario brindarles durante el proceso

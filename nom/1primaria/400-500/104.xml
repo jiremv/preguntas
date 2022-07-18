@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
 <q>Pedro, es un maestro del 3° grado de la I.E. "San Cristóbal", que al concluir su unidad de aprendizaje observa 
 que todavía hay estudiantes que tienen dificultad para el logro de los aprendizajes de las capacidades seleccionadas en
 las áreas de Matemática y Comunicación. El maestro comunica a los padres de familia los resultados de las evaluaciones 

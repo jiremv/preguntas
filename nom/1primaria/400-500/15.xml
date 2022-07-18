@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Rosa, profesora del 2° grado de primaria, plantea a sus estudiantes la siguiente situación problemática:
                 se tiene 18 manzanas y se desea empaquetarlas, ¿de cuántas maneras podemos agruparlas? Ha planteado a
                 los niños que trabajen de forma grupal y que busquen todas las combinaciones posibles haciendo uso de

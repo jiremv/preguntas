@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Este año, al aula de sexto grado se han integrado dos niños que han llegado de la selva y tres que
                 vienen de la sierra central. El profesor Elmer en clase de comunicación, coloca a los niños nuevos en
                 diferentes grupos y les propone el tema "Costumbres y celebraciones de las diferentes regiones del Perú"

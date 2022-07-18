@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La vendedora les comenta a los niños que algunas de esas flores han sido teñidas. Cuando los niños le preguntan
         qué quiere decir "teñidas", ella les precisa que eso significa que se les ha cambiado de color. Entusiasmados,
         los niños le dicen a la docente que ellos también desean teñir flores. De regreso al aula, conversan sobre la

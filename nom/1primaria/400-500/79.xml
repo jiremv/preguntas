@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Mediante la representación con títeres, los estudiantes de 1° grado interpretan canciones, huaynos y
                 coplas del carnaval cajamarquino. En esta actividad, expresan sus emociones e ideas. Luego, comparten
                 sus experiencias y determinan los aspectos positivos y negativos de esta celebración.</q0>

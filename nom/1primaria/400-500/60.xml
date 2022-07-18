@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Observa la ilustración:</q0>
     <g0>60-p.png</g0>
     <q>Rosita es alumna de la profesora Tula. Según la actuación de Rosita, se concluye que la profesora Tula ha logrado desarrollar en ella, la siguiente capacidad:</q>

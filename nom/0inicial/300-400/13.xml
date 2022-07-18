@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Melissa, profesora del aula de 5 años, considera que la evaluación es permanente porque se realiza durante
     todo el año. Dentro de la evaluación que realiza a sus alumnos encuentra que Rosita presenta dificultades para 
     socializar, juega sola, evade los juegos grupales, y también se resiste a responder preguntas.

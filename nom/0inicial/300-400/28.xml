@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Susan, una niña de 5 años, es muy participativa. Cada vez que la maestra lee, ella formula sus hipótesis,
     hace preguntas, aclara dudas sobre lo leído, repite el texto con sus propias palabras, dibuja, dramatiza, etc. 
     ¿Qué proceso didáctico se refleja en los dominios de la niña?

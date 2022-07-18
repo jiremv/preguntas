@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>El profesor Carlos, a cargo del 6° grado de primaria, planifica trabajar con sus estudiantes la
                 siguiente capacidad: Identifica a la SUNAT como institución del gobierno nacional, y explica las
                 funcione que cumple en el desarrollo social y económico del país. Para ello realiza una serie de

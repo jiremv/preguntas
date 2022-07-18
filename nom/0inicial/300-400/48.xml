@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Estoy a cargo del aula de 5 años, tengo 15 niños. Todos son muy inteligentes e inquietos, tienen diversos 
     talentos y habilidades, son participativos y les encanta jugar la ronda. Durante los recreos noté que estaban consumiendo
     muchas golosinas y que algunos traían en sus loncheras alimentos chatarras. Eso me preocupó y me hizo pensar que sus

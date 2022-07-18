@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?> 
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q>Los niños y niñas desde el nivel inicial adquieren prácticas para el hábito a la lectura; para ello, la 
     docente considera ambientar el sector de la biblioteca y letrar el aula. La mayoría de los niños y niñas no se interesan 
     por la biblioteca, se pelean y a veces rompen los libros y no están logrando el propósito.

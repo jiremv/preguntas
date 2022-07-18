@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Adolfo es un estudiante del 3° grado. Cuando el docente forma equipos de trabajo, él se relega a grupos
                 numerosos, por lo que el docente decide que éste vaya a trabajar en grupos pequeños con la finalidad que
                 pierda la timidez.</q0>

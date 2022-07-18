@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>La profesora Lucrecia del 1° grado ha planificado actividades iúdicas con sus estudiantes para
                 desarrollar la noción de equivalencia y utiliza la estrategia: "Elaborar trenes de igual tamaño con el
                 uso de diferentes regletas que suman diez".</q0>

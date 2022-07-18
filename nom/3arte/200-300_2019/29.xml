@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+
     <q0>Luego de realizar el calentamiento vocal, el docente necesita conocer de manera general cuál es el rango de
         notas que pueden cantar los estudiantes para agruparlos según su registro vocal. Sin embargo, algunos
         estudiantes aún se sienten inseguros para cantar. En la situación descrita,</q0>
