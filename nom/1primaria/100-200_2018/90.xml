@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1187-p.png
-	</g0>
-	<q>Un estudiante realiza el siguiente comentario:
-	</q>
-	<g>1190-p.png
-	</g>
+	<q0></q0>
+	<g0></g0>
+	<q>Un estudiante realiza el siguiente comentario:</q>
+	<g>90-p.png</g>
 	<q2>¿Cuál de las siguientes acciones es pertinente que realice el docente para retroalimentar al
-estudiante respecto del error en su comentario?	
-	</q2>
+estudiante respecto del error en su comentario?	</q2>
 	<as r="R" correcta="0">
 		<a>Proponerle que repita la experiencia colocando una esfera pequeña de acero en el
 interior del envase.</a>

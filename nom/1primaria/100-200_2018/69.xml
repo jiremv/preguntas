@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>Lea las siguientes situaciones:
-	</q0>
-	<g0>1169-p.png
-	</g0>
-	<q>A partir de lo descrito en cada situación, ¿cuál de ellas constituye un dilema moral?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Lea las siguientes situaciones:</q0>
+	<g0>69-p.png</g0>
+	<q>A partir de lo descrito en cada situación,</q>
+	<q2>¿cuál de ellas constituye un dilema moral?</q2>
 	<as r="R" correcta="1">
 		<a>La situación I.</a>
 		<a>La situación II.</a>

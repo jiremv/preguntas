@@ -1,18 +1,13 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>Un grupo de estudiantes está resolviendo la siguiente situación:
-	</q0>
-	<g0>1174-p.png
-	</g0>
+	<q0>Un grupo de estudiantes está resolviendo la siguiente situación:</q0>
+	<g0>74-p.png</g0>
 	<q>Varios de los estudiantes afirmaron que Hugo comió más porque 5/6
 de un chocolate es mayor que 3/5 del mismo chocolate. La docente, con el fin de identificar la estrategia utilizada por
 los estudiantes para obtener dicha respuesta, preguntó: “¿Cómo llegaron a esa respuesta?”.
-A continuación, se muestran las explicaciones de tres estudiantes. ¿En cuál de estas se utilizó
-una estrategia correcta?
-	</q>
-	<q2>	
-	</q2>
+A continuación, se muestran las explicaciones de tres estudiantes.</q>
+	<q2>¿En cuál de estas se utilizó una estrategia correcta?</q2>
 	<as r="R" correcta="1">
 		<a>Alfonso: “5/6
 es mayor que 3/5 porque, si comparo los denominadores, resulta que 6 es

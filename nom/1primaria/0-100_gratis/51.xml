@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0></q0>
-	<g0></g0>
-	<q>Los estudiantes de segundo grado se encuentran leyendo textos poéticos en diversos formatos.
-En este contexto, el docente les ha propuesto la lectura del siguiente caligrama.</q>
-   <g>1251-p.png</g>
-	<q2>Algunos estudiantes le comentan al docente que no saben cómo empezar a leer el texto.
-Por ello, él busca ayudarlos con la lectura de este caligrama. ¿Cuál de las siguientes acciones
-pedagógicas es más adecuada para lograr este propósito?</q2>
+	<q0>Los estudiantes de segundo grado se encuentran leyendo textos poéticos en diversos formatos.
+En este contexto, el docente les ha propuesto la lectura del siguiente caligrama.</q0>
+	<g0>51-p1.png</g0>
+	<q>Algunos estudiantes le comentan al docente que no saben cómo empezar a leer el texto.
+Por ello, él busca ayudarlos con la lectura de este caligrama.</q>
+   <g>51-p2.png</g>
+	<q2>¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograr este propósito?</q2>
    <g2></g2>
 	<as r="R" correcta="1">
 		<a>Presentarles un listado con las principales características de un caligrama. Luego, pedirles

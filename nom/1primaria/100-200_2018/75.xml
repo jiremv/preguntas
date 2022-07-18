@@ -3,17 +3,12 @@
 <p>
 	<q0>Una docente tiene como propósito que los estudiantes resuelvan problemas que involucran
 el perímetro de figuras bidimensionales. Una de las actividades que ha planificado es la
-siguiente:
-	</q0>
-	<g0>1175-p1.png
-	</g0>
+siguiente:</q0>
+	<g0>75-p1.png</g0>
 	<q>Mientras la docente se desplaza por el aula, ella observa que uno de los estudiantes ha
-realizado en el papel cuadriculado la siguiente figura:
-	</q>
-	<g0>1175-p2.png
-	</g0>
-	<q2>¿Cuál de las siguientes alternativas explica el error en el que incurre el estudiante?
-	</q2>
+realizado en el papel cuadriculado la siguiente figura:</q>
+	<g0>75-p2.png</g0>
+	<q2>¿Cuál de las siguientes alternativas explica el error en el que incurre el estudiante?</q2>
 	<as r="R" correcta="0">
 		<a>Confunde la medida de la superficie con la medida del contorno de la figura.</a>
 		<a>Realiza trazos sin usar un instrumento de medida como la regla.</a>

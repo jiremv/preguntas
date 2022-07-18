@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Pedrito, alumno del 6° grado, en su afán de producir un texto, ha esbozado el siguiente esquema:</q0>
-    <g0>./../preguntas/nom/1primaria/700/nom-pri-1699-p.png</g0>
+    <g0>99-p.png</g0>
     <q>Según este esquema se deduce que:</q>
     <as r="R" correcta="1">
         <a>Pedrito escribirá un cuento.</a>

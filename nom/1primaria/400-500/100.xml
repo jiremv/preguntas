@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Eduardo, alumno del IV ciclo, resuelve sin dificultad el siguiente problema:</q0>
-    <g0>./../preguntas/nom/1primaria/700/nom-pri-1700-p.png</g0>
+    <g0>100-p.png</g0>
     <q>¿Cuál de las siguientes expresiones describe el tipo de problema que puede resolver Eduardo?</q>
     <as r="R" correcta="2">
         <a>Cambio: Se conoce la cantidad inicial y luego se aumente. Se pregunta por la cantidad final.</a>

@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1181-p.png
-	</g0>
-	<q>A continuación, se muestra la respuesta de una estudiante:
-	</q>
-	<g>1181-p2.png
-	</g>
-	<q2>¿Cuál es el error que se evidencia en la respuesta de la estudiante?	
-	</q2>
+	<q0></q0>
+	<g0>81-p.png</g0>
+	<q>A continuación, se muestra la respuesta de una estudiante:</q>
+	<g>81-p2.png</g>
+	<q2>¿Cuál es el error que se evidencia en la respuesta de la estudiante?</q2>
 	<as r="R" correcta="0">
 		<a>Creer que las plantas solo respiran de noche.</a>
 		<a>Creer que, para que se realice la fotosíntesis, se requiere únicamente luz solar.</a>

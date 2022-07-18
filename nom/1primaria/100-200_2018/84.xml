@@ -1,17 +1,11 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1184-p.png
-	</g0>
-	<q>Durante la experiencia, una pareja de estudiantes propone lo siguiente:
-	</q>
-	<g0>1184-p2.png
-	</g0>
-	<q2>En la propuesta de los estudiantes, ¿qué tipo de variable corresponde al material de los
-vasos?	
-	</q2>
+	<q0></q0>
+	<g0>84-p.png</g0>
+	<q>Durante la experiencia, una pareja de estudiantes propone lo siguiente:</q>
+	<g>84-p2.png</g>
+	<q>En la propuesta de los estudiantes, ¿qué tipo de variable corresponde al material de los vasos?</q>
 	<as r="R" correcta="0">
 		<a>Independiente</a>
 		<a>Dependiente</a>

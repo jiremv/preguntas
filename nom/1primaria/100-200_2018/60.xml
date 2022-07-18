@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1159-p.png
-	</g0>
-	<q>Otro estudiante presentó a la docente la primera versión de su texto:
-	</q>
-	<g>1160-p.png
-	</g>
-	<q2>¿Cuál de los siguientes aspectos debe priorizar la docente en su retroalimentación?	
-	</q2>
+	<q0>Otro estudiante presentó a la docente la primera versión de su texto:</q0>
+	<g0>60-p.png</g0>
+	<q>¿Cuál de los siguientes aspectos debe priorizar la docente en su retroalimentación?</q>
+	<g></g>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>La falta de signos de puntuación a lo largo del texto.</a>
 		<a>La falta de concordancia de varias oraciones del texto.</a>

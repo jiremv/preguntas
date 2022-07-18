@@ -2,9 +2,8 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q0>Observa la ilustración:</q0>
-    <g0>./../preguntas/nom/1primaria/700/nom-pri-1660-p.png</g0>
-    <q>Rosita es alumna de la profesora Tula. Según la actuación de Rosita, se concluye que la profesora Tula ha
-               logrado desarrollar en ella, la siguiente capacidad:</q>
+    <g0>60-p.png</g0>
+    <q>Rosita es alumna de la profesora Tula. Según la actuación de Rosita, se concluye que la profesora Tula ha logrado desarrollar en ella, la siguiente capacidad:</q>
     <as r="R" correcta="2">
         <a>Describe los problemas que afectan a la comunidad local y propone soluciones.</a>
         <a>Reconoce, defiende sus derechos y cumple sus responsabilidades en su entorno familiar y escolar.</a>

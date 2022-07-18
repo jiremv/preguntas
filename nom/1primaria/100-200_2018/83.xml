@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1181-p.png
-	</g0>
-	<q>Otro estudiante comenta lo siguiente:
-	</q>
-	<g>1183-p.png
-	</g>
+	<q0></q0>
+	<g0>81-p.png</g0>
+	<q>Otro estudiante comenta lo siguiente:</q>
+	<g>83-p.png</g>
 	<q2>¿Cuál de los siguientes grupos de preguntas es pertinente que plantee el docente para que el
-estudiante reflexione sobre el error que se evidencia en su comentario?
-	</q2>
+estudiante reflexione sobre el error que se evidencia en su comentario?</q2>
 	<as r="R" correcta="1">
 		<a>¿Qué pasaría si seguimos talando árboles en las ciudades con mucha población? ¿Por
 qué es importante cuidar las plantas?</a>

@@ -1,18 +1,13 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1176-p.png
-	</g0>
+	<q0></q0>
+	<g0>76-p.png</g0>
 	<q>El grupo de estudiantes logró elaborar el gráfico de barras para presentar la información que
-había recogido. El gráfico es el siguiente:
-	</q>
-	<g>1177-p.png
-	</g>
+había recogido. El gráfico es el siguiente:</q>
+	<g>77-p.png</g>
 	<q2>La docente planteará preguntas para que los estudiantes analicen la información del gráfico.
-¿Cuál de los siguientes grupos de preguntas es de mayor demanda cognitiva?
-	</q2>
+¿Cuál de los siguientes grupos de preguntas es de mayor demanda cognitiva?</q2>
 	<as r="R" correcta="1">
 		<a>¿Cuál es el animal que duerme 4 horas al día?, ¿cuál es el animal que duerme 6 horas al
 día?, ¿cuál es el que duerme 10 horas al día?, ¿cuál es el que duerme 12 horas al día?,

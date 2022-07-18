@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>
-	</q0>
-	<g0>1187-p.png
-	</g0>
-	<q>El docente aún no ha definido el nivel de logro Destacado en la rúbrica de evaluación. ¿Cuál
-de las siguientes descripciones es pertinente para este nivel?
-	</q>
-	<q2>	
-	</q2>
+	<q0></q0>
+	<g0>87-p.png</g0>
+	<q>El docente aún no ha definido el nivel de logro destacado en la rúbrica de evaluación.</q>
+	<q2>¿Cuál de las siguientes descripciones es pertinente para este nivel?</q2>
 	<as r="R" correcta="1">
 		<a>Explica la flotabilidad de los cuerpos en función de su masa, su volumen y su densidad,
 sin errores conceptuales.</a>

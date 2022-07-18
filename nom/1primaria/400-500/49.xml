@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q></q>
-    <grafico>./../preguntas/nom/1primaria/700/nom-pri-1649-p.png</grafico>
+    <g0>49-p.png</g0>
     <as r="R" correcta="1">
         <a>Sí es adecuada, porque orienta al estudiante desde el inicio hasta el final en el proceso matemático dándole las indicaciones precisas de cómo resolver los problemas.</a>
         <a>No es adecuada, porque presenta un único procedimiento a aplicar y no permite que los estudiantes realmente puedan buscar cóm resolver los problemas.</a>

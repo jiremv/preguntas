@@ -2,7 +2,7 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
     <q></q>
-    <grafico>./../preguntas/nom/1primaria/700/nom-pri-1639-p.png</grafico>
+    <g0>39-p.png</g0>
     <as r="R" correcta="0">
         <a>Teorías constructivistas del aprendizaje</a>
         <a>Teorías conductistas del aprendizaje</a>

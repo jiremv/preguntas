@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-	<q0>Una docente plantea la siguiente secuencia a los estudiantes.
-	</q0>
-	<g0>1179-p.png
-	</g0>
+	<q0>Una docente plantea la siguiente secuencia a los estudiantes.</q0>
+	<g0>79-p.png</g0>
 	<q>¿Cuál de los siguientes grupos de preguntas es pertinente para favorecer que los estudiantes
-encuentren la figura que continúa en la secuencia?
-	</q>
+encuentren la figura que continúa en la secuencia?</q>
 	<q2>	
 	</q2>
 	<as r="R" correcta="1">

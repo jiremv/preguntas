@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='iso-8859-1'?> 
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-    <q0>Juan es un niño que cursa el 3° grado de primaria. Es muy responsable y participativo, razón por la cual la profesora de aula lo ha designado como coordinador de un grupo. Cada vez que la profesora deja una actividad para que sea trabajada en forma grupal, Juan toma la iniciativa y trata de resolver todas las actividades propuestas sin dar oportunidad a los demás compañeros e imponiendo sus ideas, sus compañeros ya no quieren trabajar con él y le han pedido a la docente que lo cambie de grupo.
-</q0>
-    <q>Frente a esta circunstancia, ¿qué debe hacer la profesora de aula? 
-</q>
+    <q0>Juan es un niño que cursa el 3° grado de primaria. Es muy responsable y participativo, razón por la cual la profesora de aula lo ha designado como coordinador de un grupo. Cada vez que la profesora deja una actividad para que sea trabajada en forma grupal, Juan toma la iniciativa y trata de resolver todas las actividades propuestas sin dar oportunidad a los demás compañeros e imponiendo sus ideas, sus compañeros ya no quieren trabajar con él y le han pedido a la docente que lo cambie de grupo.</q0>
+    <g0>50-p.png
+    <q>Frente a esta circunstancia, ¿qué debe hacer la profesora de aula?</q>
     <as r="R" correcta="1">
         <a>Dialogar con todos los estudiantes y reflexionar acerca del problema y designar las tareas que desempeña cada miembro del grupo.</a>
         <a>Dialogar con Juan y sus compañeros sobre el tema y establecer junto con ellos las tareas y obligaciones que desempeña cada miembro del grupo.</a>
