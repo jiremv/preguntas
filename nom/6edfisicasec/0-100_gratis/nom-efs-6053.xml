@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones es más pertinente que realice el docente a continuación?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Pedir a los estudiantes que se calmen, que reflexionen por separado sobre sus actos, y que luego se pidan
+           disculpas por sus acciones y se den la mano para demostrar que ya no existe rencor entre ellos.</a>
+        <a>Explicar a los estudiantes lo perjudiciales que son las peleas entre compañeros de aula, tanto para los
+           involucrados en el conflicto como para el resto del grupo; luego recordarles el valor del compañerismo y el
+           trabajo en equipo.</a>
+        <a>Pedir a los estudiantes que, sin interrumpirse y hablando en primera persona, expliquen qué pasó, por qué
+           pasó y cómo se sienten al respecto; luego, que cada uno proponga alternativas que puedan ayudarlos a expresar
+           su malestar de manera constructiva.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

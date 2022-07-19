@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes es una actividad que corresponde a la fase de activación corporal general?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Desplazarse salticando mientras se realizan movimientos de circunducción con las extremidades superiores
+           extendidas.</a>
+        <a>Desplazarse en zigzag conduciendo un balón a través de una serie de conos colocados en el piso a un metro uno
+           del otro.</a>
+        <a>Trotar en el sitio y luego pasar a la posición de cuclillas, apoyar las manos en el piso, extender las
+           piernas hacia atrás, volver a la posición de cuclillas y dar un salto con palmada.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Como parte del desarrollo de la coordinación de los estudiantes, una docente de Educación Física planifica
+        actividades rítmicas con telas de 1,50 m x 0,70 m. Si quiere recoger los saberes previos de los estudiantes
+        sobre los elementos corporales de la gimnasia para determinar el apoyo que será necesario brindarles durante el
+        proceso de aprendizaje,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes actividades es adecuada?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Proponer a los estudiantes realizar libremente balanceos, saltos y giros usando la tela de forma individual.</a>
+        <a>Pedirles a los estudiantes que ejecuten coreografías en pequeños grupos utilizando la tela de forma
+           individual.</a>
+        <a>Proponer a los estudiantes realizar movimientos circulares, serpenteos y ondas con la tela de forma
+           individual.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

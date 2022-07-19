@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes situaciones se relaciona principalmente con el enfoque transversal de orientación al bien
+       común?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>El docente se preocupa porque algunos estudiantes tienen dificultades para lograr los objetivos del área; por
+           eso, reconociendo el valor inherente de cada persona por encima de cualquier diferencia, les ofrece diversas
+           oportunidades de aprendizaje para que logren desarrollar sus capacidades.</a>
+        <a>Uno de los estudiantes llegó tarde a la IE, y el vigilante que supervisa la entrada y salida de los
+           estudiantes le dice que no podrá ingresar a clases; el estudiante le responde que, si bien ha llegado tarde,
+           es su derecho asistir a la escuela y aprender; entonces el vigilante le da la razón y lo deja ingresar
+           pidiéndole que por favor sea más puntual.</a>
+        <a>El equipo de atletismo de la IE no tiene zapatillas adecuadas para competir en los próximos juegos
+           interescolares, por lo que no podrán participar en la competencia; los atletas y sus compañeros se reúnen y,
+           entre todos, planifican una actividad para conseguir las zapatillas que el equipo necesita.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

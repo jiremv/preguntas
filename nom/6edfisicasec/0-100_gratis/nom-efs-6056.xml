@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>El docente ha planificado las siguientes actividades para una sesión de la unidad didáctica "Conociendo y
+        desarrollando mi esquema corporal".</q0>
+    <g0></g0>
+    <q>¿Cuál de ellas es más compleja?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Cada estudiante mantiene en el aire un globo golpeándolo con diferentes segmentos de su cuerpo, según la
+           consigna dada por el docente: "¡Con el hombro!", "¡Ahora con la mano!", "¡Con el pie!", "¡Ahora
+           intercambiando el globo con el compañero!", entre otras.</a>
+        <a>Un grupo de estudiantes persigue al resto de compañeros intentando tocar con un globo la parte del cuerpo
+           indicada por el docente: "¡Intenten tocar las rodillas de sus compañeros!", "¡Ahora su espalda!", "¡Los
+           pies!", "¡La cabeza!", "¡Las manos!", "¡Los tobillos!", entre otras.</a>
+        <a>Un estudiante, sentado en una colchoneta y sin salir de ella, debe evitar que su compañero, que está de pie
+           fuera de la colchoneta, toque con un globo la parte de su cuerpo indicada por el docente: "¡Intenten tocar la
+           espalda de su compañero!", "¡Ahora el tobillo!", "¡La cabeza!", entre otras.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

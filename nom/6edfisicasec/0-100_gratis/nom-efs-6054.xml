@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de ellas tiene mayor demanda cognitiva?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Hacer un registro de sus tiempos en una ficha y luego trasladarlos a una hoja de cálculo.</a>
+        <a>Identificar las principales dificultades que han tenido en las últimas carreras realizadas.</a>
+        <a>Proponer un plan de mejora a corto, mediano y largo plazo para optimizar sus tiempos.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

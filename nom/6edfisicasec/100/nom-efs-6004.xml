@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿Qué comprende la resistencia anaerobica alactica?</q>
+  <as r="R" correcta="2">
+    <a>Esfuerzos largos pero muy intensos.</a>
+    <a>Esfuerzos cortos y muy intensos.</a>
+    <a>Esfuerzos muy cortos y muy intensos.</a>
+    <a>Esfuerzos largos pero poco intensos.</a>
+  </as>
+  <x>C.
+  </x>
+</p>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿Cuáles son los sistemas de entrenamiento de la flexibilidad?
+  </q>
+  <as r="R" correcta="2">
+    <a>Método dinámico, trabajo más fácil y más efectivo.</a>
+    <a>Método dinámico es más  aburrido, pero más fácil de trabajar.</a>
+    <a>Método dinámico es más fácil de trabajar y menos efectivo.</a>
+    <a>Método dinámico es más difícil de trabajar y menos efectivo.</a>
+  </as>
+  <x>C.
+  </x>
+</p>

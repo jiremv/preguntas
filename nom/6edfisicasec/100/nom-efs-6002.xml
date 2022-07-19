@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Tipos de velocidad
+  </q>
+  <as r="R" correcta="1">
+    <a>Se pueden clasificar en 4 tipos: Cíclica, Aciclica, Desplazamiento y Reacción.</a>
+    <a>Se pueden clasificar en 3 tipos: Desplazamiento, Reacción y Gestual.</a>
+    <a>Se pueden clasificar en 3 tipos: Desplazamiento, Cíclica y Aciclica.</a>
+    <a>Se pueden clasificar en 4 tipos: Cíclica, Aciclica, Reacción y Gestual.</a>
+  </as>
+  <x>B</x>
+</p>

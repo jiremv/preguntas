@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q>El calentamiento</q>
+    <as r="R" correcta="2">
+        <a>Solo sirve para evitar posibles lesiones y aumentar la frecuencia cardiaca.</a>
+        <a>Nos ayuda a poner en tensión a los centros nerviosos y musculares.</a>
+        <a>Prepara al organismo para el ejercicio</a>
+        <a>Cualquier calentamiento es bueno para cualquier deporte.</a>
+    </as>
+    <x>C.</x>
+</p>

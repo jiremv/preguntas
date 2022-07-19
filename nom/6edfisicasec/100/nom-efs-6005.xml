@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>
+  ¿Cuántas y cuáles sin las perspectivas de estudio de la fuerza?
+  </q>
+  <as r="R" correcta="0">
+    <a>Son 3: kinesiologica, fisiológica y anatómica.</a>
+    <a>Son 4: Isotónica concéntrica, excéntrica e Isometrica.</a>
+    <a>Son 3: Agonista, antagonista y fijadora.</a>
+    <a>Son 4: Isotónica concéntrica, fisiológica y anatómica.</a>
+  </as>
+  <x>A.
+  </x>
+</p>
