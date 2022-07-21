@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Los estudiantes de cuarto grado han escrito textos en los que analizan diferentes parábolas. Después de revisar
+      los textos, la docente de Educación Religiosa se propone retroalimentar a los estudiantes respecto de su
+      desempeño. Para ello, pide recomendaciones a sus colegas del área.</q0>
+  <g0></g0>
+  <q>A continuación, se presentan los comentarios de tres docentes:</q>
+  <g>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8165-p.png</g>
+  <q2>¿Cuál de las recomendaciones de los docentes es adecuada para retroalimentar a los estudiantes?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>La de Elías</a>
+    <a>La de Isabel</a>
+    <a>La de Gabriel</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

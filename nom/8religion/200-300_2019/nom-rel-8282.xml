@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente busca que los estudiantes comprendan la importancia de las encíclicas. ¿Cuál de las siguientes
+     actividades es más adecuada para que logre dicho propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Explicar qué son las encíclicas y por qué son importantes. Luego, pedir que seleccionen una de ellas y elijan las
+       partes que más llamaron su atención. Finalmente, pedir que compartan con la clase por qué eligieron dichas partes.</a>
+    <a>Indicar que lean la introducción de una encíclica. Luego, pedir que dialoguen sobre el contexto social en que se
+       escribió. Finalmente, orientarlos en la lectura de los capítulos de la encíclica y hacerles preguntas para
+       verificar su comprensión.</a>
+    <a>Organizar a los estudiantes en equipos. Luego, solicitar que cada uno de ellos elija una encíclica para que
+       elaboren un resumen. Finalmente, indicar que intercambien sus resúmenes para que todos los estudiantes conozcan
+       el contenido de las encíclicas.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11274-p.png</g0>
+  <q>First, Karina wants to activate her students' prior knowledge on that topic. Given the teacher's purpose, which of
+     the following activities is least appropriate?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Play a video about free time activities people usually do. Tell the students to identify the names of those
+       activities and write them down in their notebooks. Call on some volunteers to share their answers</a>
+    <a>Write "free time activities" on the board and tell the students to think of all the words they can relate to
+       that phrase. Invite some students to go to the board and write the words they thought of.</a>
+    <a>Show the students some pictures of free time activities. Ask the students which of those activities and/or others
+       they do in their free time. Have them exchange ideas and then call on volunteers.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

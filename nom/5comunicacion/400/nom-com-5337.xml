@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Señale la alternativa que presenta correcto uso de mayúsculas.</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>Hoy almorzamos un delicioso Chaufa con champiñones.</a>
+        <a>Esos turistas visitarán el templo de Chavín de Huántar.</a>
+        <a>El Presidente del Perú criticó la industria armamentista.</a>
+        <a>Los Shipibos del Rímac recibieron ayuda médica del Estado.</a>
+        <a>Los Congresistas dialogaron con el representante piurano.</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

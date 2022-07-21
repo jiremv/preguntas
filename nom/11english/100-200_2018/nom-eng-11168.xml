@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Isabel wants to help her students improve their speaking skills through a group discussion. She tells them to use
+       the following expressions: "Speaking personally?" / "In my view..." / "I strongly believe..."</q>
+    <g></g>
+    <q2>Which of the following language functions corresponds to the expressions Isabel wants her students to practice?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Negotiating.</a>
+        <a>Self-correcting.</a>
+        <a>Expressing opinions.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

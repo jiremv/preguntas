@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un docente presenta a los estudiantes la siguiente situación:</q>
+    <g>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10286-p.png</g>
+    <q2>¿Cuál de las siguientes acciones es adecuada para favorecer que los estudiantes analicen la situación presentada
+        considerando los tres pilares del desarrollo sostenible?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Primero, pedir a los estudiantes que busquen información sobre cuánto se han expandido las plantaciones de
+           aceite de palma en el bosque tropical de Semunying Jaya en los últimos 10 años. Luego, solicitarles que
+           señalen qué tipos de ecosistemas han desaparecido a raíz de dicha expansión. Por último, pedirles que
+           indiquen qué recursos naturales han disminuído a raíz de la desaparición de estos ecosistemas del bosque
+           tropical.</a>
+        <a>Primero, pedir a los estudiantes que busquen información sobre el desarrollo de las actividades económicas en
+           Semunying Jaya antes de la llegada de las empresas aceiteras. Luego, solicitarles que identifiquen cuáles de
+           estas actividades han reducido su producción con la llegada de dichas empresas. Por último, pedirles que
+           comenten qué actividades económicas alternativas se pueden desarrollar en la comunidad.</a>
+        <a>Primero, pedir a los estudiantes que busquen información sobre los efectos negativos del uso de pesticidas en
+           el bosque de Semunying Jaya. Luego, solicitarles que expliquen cómo este tipo de contaminación ha influido en
+           la producción pesquera y agrícola. Por último, pedirles que comenten las consecuencias negativas del uso de
+           pesticidas en la salud de la población.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

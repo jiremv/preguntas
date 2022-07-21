@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente busca iniciar su sesión con una parábola que trate sobre la importancia de estar preparado para ingresar
+     al Reino de Dios. ¿Qué parábola debe emplear el docente para que logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>"Las diez jóvenes", (Mt 25, 1-13)</a>
+    <a>"La moneda perdida", (Lc 15, 8-10).</a>
+    <a>"El grano de mostaza", (Mt 13, 31-32).</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

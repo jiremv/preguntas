@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál es el objetivo principal de la encíclica Fides et ratio?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Explicar el predominio de la fe sobre la razón.</a>
+    <a>Aclarar las diferencias fundamentales entre fe y razón.</a>
+    <a>Valorar la capacidad de la razón humana para conocer a Dios.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Las tres parábolas presentan personajes que buscan con ahínco algo que se les perdió: el pastor a la oveja; la
+      mujer, a su moneda, y el padre, al hijo menor. La docente quiere destacar esta búsqueda, ya que representa cómo
+      Dios siempre llama al hombre para que vuelva a la gracia. Para ello, se ha propuesto complementar la lectura de
+      estas tres parábolas con una historia bíblica que refleje dicha búsqueda divina.</q0>
+  <g0></g0>
+  <q>¿Qué historia es adecuada para el propósito de la docente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>La de Job.</a>
+    <a>La de Pablo de Tarso.</a>
+    <a>La de Lucas el evangelista.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

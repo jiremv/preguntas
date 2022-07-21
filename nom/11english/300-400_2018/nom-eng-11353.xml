@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Freddy's students have been practicing the topic "Places in the community." In this context, he wants his students
+     to develop their writing skills through a meaningful activity. Which of the following activities is more
+     appropriate to achieve the teacher's purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>The students read a magazine about tourist places in town. Using this information, they write a paragraph about
+       the most popular tourist spots in town.</a>
+    <a>The students watch a video about public places in the city. They identify the places and then, in their
+       notebooks, they write a short paragraph describing those places.</a>
+    <a>The students draw a map of their neighborhoods displaying the two places they like the most. Next, they write a
+       paragraph giving directions to go from their home to those places.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

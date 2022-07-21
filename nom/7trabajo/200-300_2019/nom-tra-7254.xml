@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Si se quiere brindar a los padres de familia orientaciones acerca de los logros de aprendizaje de sus hijos en
+        el marco de una evaluación formativa,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes propuestas es pertinente</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Informar que se les asignará a sus hijos actividades extracurriculares para que sustituyan la nota más baja
+           del bimestre.</a>
+        <a>Informar que, periódicamente, se publicará el orden de mérito de las calificaciones de sus hijos para
+           promover la competitividad entre ellos.</a>
+        <a>Informar que, periódicamente, se publicará el orden de mérito de las calificaciones de sus hijos para
+           promover la competitividad entre ellos.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

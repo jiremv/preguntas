@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Rumbo, vía, camino,</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>meta</a>
+        <a>precepto</a>
+        <a>borde</a>
+        <a>senda</a>
+        <a>trazo</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2>Las palabras rumbo, vía y camino son sinónimos entre sí. Por lo tanto, el término que completa la serie es senda
+        (camino pequeño). Se descarta el vocablo meta, pues este refiere a la finalidad u objetivo que alguien se traza
+        en la vida.</x2>
+    <i2></i2>
+    <v></v>
+</p>

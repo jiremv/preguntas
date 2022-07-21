@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>After listening to the audio, Daniela tells her students to answer the following questions:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11258-p.png</g0>
+  <q>Which of the following listening skills is Daniela trying to promote?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Listening for gist.</a>
+    <a>Inferring meaning.</a>
+    <a>Listening for specific information.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

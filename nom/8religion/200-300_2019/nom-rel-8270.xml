@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente ha planificado tres actividades orientadas a que los estudiantes enriquezcan sus conocimientos sobre
+      la religiosidad popular. Ella busca iniciar su sesión con la actividad que supone un menor nivel de demanda
+      cognitiva.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades es adecuada para lograr su propósito? 70</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Analizar cómo se expresa la religiosidad popular en algunas regiones del Perú para celebrar Semana Santa.</a>
+    <a>Comparar las costumbres rurales y urbanas de varias ciudades del Perú para celebrar Semana Santa.</a>
+    <a>Describir una de las tradiciones más representativas del Perú para celebrar Semana Santa.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

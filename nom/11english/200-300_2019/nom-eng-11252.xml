@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Alberto wants his students to infer information from the text. Which of the following questions is appropriate to
+     achieve his purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Alberto wants his students to infer information from the text. Which of the following questions is appropriate to
+       achieve his purpose?</a>
+    <a>Why do kids in India touch their parents' feet during birthdays?</a>
+    <a>Why do couples blow out the first two candles during weddings in Colombia?</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

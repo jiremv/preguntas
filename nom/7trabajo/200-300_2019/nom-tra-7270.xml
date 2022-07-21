@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Luego de haber desarrollado actividades sobre la identificación de los criterios de calidad de un producto, un
+        docente tiene como propósito que los estudiantes realicen la simulación del proceso de control de calidad, para
+        ello, los organiza en equipos.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones pedagógicas es más pertinente para favorecer dicho propósito?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Solicitar que presenten un producto explicando la calidad de este a partir de las siguientes preguntas:
+           "¿Cuáles son las características de calidad de este producto?, ¿qué estrategias utilizaron para identificar
+           esta calidad?". Luego, pedir que sus compañeros pregunten lo que no les quedó claro.</a>
+        <a>Entregar una ficha con especificaciones técnicas de un producto. Explicar las mediciones u observaciones que
+           se deben realizar al producto y la tolerancia de cada uno de sus valores. Luego, presentar otro producto
+           similar, con su ficha técnica, para que realicen mediciones y evalúen si este cumple con las especificaciones
+           propuestas en la ficha.</a>
+        <a>Pedir que busquen información en internet sobre control de calidad para responder las siguientes preguntas:
+           "¿Cuántas definiciones de calidad encontraron?, ¿en qué se diferencian?, ¿qué dicen las normas ISO sobre
+           calidad del proceso y calidad del producto?". Luego, solicitar que elaboren una maqueta donde se muestre el
+           proceso de control de calidad.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Durante una sesión de aprendizaje, uno de los equipos de estudiantes está analizando algunos indicadores
+       macroeconómicos de la India. El docente se acerca a este equipo para conocer sus avances y uno de los estudiantes
+       comenta lo siguiente:</q>
+    <g>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10189-p.png</g>
+    <q2>La docente desea ayudar a que el estudiante reflexione críticamente sobre su conclusión. ¿Cuál de las siguientes
+        intervenciones es más pertinente para retroalimentar al estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>"Estoy de acuerdo con tu conclusión porque la economía es un factor importante en la calidad de vida. Tal vez
+           podrías complementar tu análisis con información sobre el incremento de inversiones extranjeras y el
+           crecimiento de la industria en ese país".</a>
+        <a>"Tu afirmación indica que asocias calidad de vida a factores exclusivamente económicos. Sin embargo, podrías
+           preguntarte cuál es la situación de las mujeres que habitan ahí o cómo es la calidad del aire".</a>
+        <a>"Observo que has recogido información que te ha permitido conocer cómo se ha desarrollado el crecimiento
+           económico de este país. Sin embargo, no has considerado que la calidad de vida involucra otros aspectos".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd"> 
+<p>
+  <q>
+   En el arqueo de caja ¿Qué se debe hacer con la moneda extranjera?
+  </q>
+  <as r="R" correcta="1">
+    <a>
+      Registrarlo como moneda extranjera en el activo.
+    </a><a>
+      Convertirlo a su equivalente en moneda nacional.
+    </a><a>
+      Convertir todo tipo de moneda extranjera a dólares.
+    </a><a>
+      Separarlo y trabajar solamente con moneda nacional.
+    </a>
+  </as>
+  <x>B.
+  </x>
+</p>

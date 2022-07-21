@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Estela's students are going to write a short paragraph. She asks them to use the following expressions:</q>
+    <g>./../../preguntas/nom/11english/100-200_2018/nom-eng-11175-p.png</g>
+    <q2>Which of the following language functions corresponds to the expressions Estela wants her students to practice?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Interpreting data.</a>
+        <a>Expressing wishes.</a>
+        <a>Showing preferences.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

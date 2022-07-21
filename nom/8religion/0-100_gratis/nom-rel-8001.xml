@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd"> 
+<p>
+  <q>Siddartha Gautama fue conocido como:</q>
+  <as r="R" correcta="0">
+    <a>Buda.</a>
+    <a>Jesús.</a>
+    <a>Mahoma.</a>
+    <a>El papa.</a>
+  </as>
+  <x>A.
+  </x>
+</p>

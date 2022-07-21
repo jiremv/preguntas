@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La docente realizó con los estudiantes el análisis de la parábola "El que no perdonó a su compañero" a través de
+      la Lectio Divina.</q0>
+  <g0></g0>
+  <q>A continuación, se presenta el comentario de una estudiante.</q>
+  <g>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8177-p.png</g>
+  <q2>El comentario de la estudiante se enmarca en un paso de la Lectio Divina. ¿Cuál es este paso?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Oración</a>
+    <a>Meditación</a>
+    <a>Contemplación</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

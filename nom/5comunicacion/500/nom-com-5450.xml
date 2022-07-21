@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>En los últimos decenios del siglo pasado, el crecimiento de la población se ha acelerado de forma vertiginosa y cada año se produce el incremento de unos setenta millones de personas, debido al descenso de la mortalidad.
+	</q0>
+	<g0>
+	</g0>
+<q>Infiera la causa del incremento de la población:
+</q>
+<as r="R" correcta="2">
+<a>buena alimentación</a>
+<a>crecimientos vertiginosos</a>
+<a>mortalidad baja</a>
+<a>muchos matrimonios</a>
+<a>nacimiento de mellizos</a>
+</as>
+<x>C.</x>
+</p>

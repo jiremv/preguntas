@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>¿Cuáles son los pecados capitales de la Iglesia Católica?</q>
+  <as r="R" correcta="0">
+    <a>Soberbia, avaricia, lujuria, gula, envidia, pereza.</a>
+    <a>Gula, lujuria, desidia, desobediencia, soberbia, rebeldía.</a>
+    <a>Avaricia, lujuria, pereza, vanidad, ociosidad.</a>
+    <a>Soberbia, vanidad, angustia, pereza,ociosidad, hipocresía.</a>
+  </as>
+  <x>A.</x>
+</p>

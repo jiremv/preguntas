@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Con cuál de los siguientes procesos históricos internacionales coincidió el denominado boom del caucho en el
+       Perú, ocurrido entre fines del siglo XIX e inicios del siglo XX?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La implementación de New Deal (Nuevo Trato) en EE. UU.</a>
+        <a>El desarrollo de la guerra de Secesión norteamericana.</a>
+        <a>El desarrollo de la Segunda Revolución Industrial.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

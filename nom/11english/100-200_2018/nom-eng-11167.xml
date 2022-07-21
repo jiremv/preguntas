@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Sergio wants his students to reinforce their planning skills for writing. Since the World Red Cross day is
+       coming, Sergio asks his students to make a brochure on first aid techniques to distribute it at school. In this
+       context, which of the following strategies is most appropriate for Sergio's purpose of reinforcing his students'
+       planning skills?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>The teacher draws three columns on the board and labels them as follows: (1) first aid technique, (2) steps
+           to apply it and (3) pictures to include in the brochure. The teacher elicits some ideas to complete the first
+           column. Next, the students complete the other columns with information related to the topic.</a>
+        <a>The teacher inquires the students about first aid techniques they know and how to put them into practice. On
+           the board, he summarizes the students' ideas using words and phrases. Then the students write complete
+           sentences using the information written on the board. Next, in pairs, the students organize the sentences in
+           their brochures.</a>
+        <a>The teacher tells the students to make a list of first aid techniques they are familiarized with to be
+           included in their brochures. Then he asks the following questions: "What's the purpose of your brochure?",
+           ?Who is it written for?" and "What sources can you use?" The students discuss the questions and share their
+           answers with the rest of the class.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

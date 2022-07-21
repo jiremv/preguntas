@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>IMAGEN
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5403-p.png
+	</g0>
+<q>Infiere el tema de la imagen
+</q>
+<as r="R" correcta="0">
+<a>La higiene bucal</a>
+<a>El cuidado de la muela</a>
+<a>El orden en el baño</a>
+<a>Las herramientas para el aseo</a>
+<a>El día del odontólogo</a>
+</as>
+<x>A.</x><x2></x2>
+</p>

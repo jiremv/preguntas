@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>
+        Un docente tiene como propósito estudiantes reflexionen consecuencias no considerar cuidado del ambiente la
+        implementación proyecto emprendimiento. Por ello les propone visitar su localidad para registren información
+        sobre aquellas acciones lo dañan. Uno equipos ha observado que los negocios de comida aceite utilizado en las
+        frituras es desechado por el lavadero.
+        <q0/>
+        <g0></g0>
+        <q>¿Cuál de las siguientes acciones pedagógicas es pertinente para favorecer el logro de dicho propósito?</q>
+        <g></g>
+        <q2></q2>
+        <g2></g2>
+        <as r="R" correcta="0">
+            <a>Preguntar: "¿Qué creen que ocurre con el aceite que se desecha por el desagüe? ¿Cómo afectarían estos
+               aceites usados a los ríos y mares? ¿Existirán otras formas para desecharlos, reciclarlos o reutilizarlos?
+               ¿Cómo afecta a la salud de la población? ¿Qué previsiones deben tomar los proyectos de emprendimiento
+               para el cuidado del ambiente?".</a>
+            <a>Preguntar: "¿Qué estrategias existen para desechar el aceite usado?, ¿cuánto les costará implementar esta
+               estrategia?, ¿será rentable? ¿Es necesario pensar en el costo beneficio de implementar una estrategia de
+               reciclaje en tu proyecto de emprendimiento? ¿Este costo será considerado como fijo o variable?".</a>
+            <a>Entregar trípticos acerca del cuidado del ambiente para que los repartan en los negocios de venta de
+               comida. Asimismo, proporcionar imágenes digitales referidas al daño que ocasionan en los ecosistemas
+               cuando el aceite llega a los ríos y mares para que los estudiantes las difundan por las redes sociales.</a>
+        </as>
+        <x>A</x>
+        <i></i>
+        <x2></x2>
+        <i2></i2>
+        <v></v>
+    </q0>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>En una IE, los docentes de Educación Religiosa y un grupo de estudiantes están planificando cómo realizarán la
+      celebración de Semana Santa. En este contexto, los docentes van a trabajar junto con los estudiantes la
+      realización de estas actividades: investigarán el inicio de la Semana Santa, analizarán el significado de los
+      símbolos cristianos, y elaborarán ensayos sobre las tradiciones de esta festividad católica en el Perú.</q0>
+  <g0></g0>
+  <q>¿Qué tipo de unidad didáctica es más adecuada para que los docentes organicen las actividades?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Proyecto de aprendizaje.</a>
+    <a>Módulo de aprendizaje.</a>
+    <a>Unidad de aprendizaje.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

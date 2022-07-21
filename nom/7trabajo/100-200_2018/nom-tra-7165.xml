@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Considerando el análisis de la matriz FODA de una empresa de confección de polos deportivos, ¿cuál de las
+     siguientes alternativas corresponde a la estrategia DO?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Desarrollar capacitaciones gratuitas para los operarios con dificultades en el manejo de máquinas para la
+       confección de polos deportivos.</a>
+    <a>Confeccionar polos deportivos por la alta demanda de estos ante la existencia de equipamiento y maquinaria
+       necesarios en la empresa.</a>
+    <a>Realizar el bordado de sus polos en otras empresas de la localidad por insuficiencia de máquinas de bordado en la
+       empresa y la demanda permanente de los polos deportivos.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>During her last class, Lucrecia has noticed that her students have difficulties to pronounce some words. She
+       wants her students to improve their pronunciation of those words in a meaningful way. Given Lucrecia's purpose,
+       which of the following strategies is it more appropriate to adopt?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>The teacher brings bingo cards with the words she wants the students to practice. She gives a bingo card to
+           each student and reads the words aloud for the students to mark them down in their cards. Finally, she asks
+           the students to pronounce the words as they have heard them some minutes ago.</a>
+        <a>The teacher writes on the board the words she wants the students to practice and reads them while trying to
+           emphasize their correct pronunciation. After that, she asks the students to repeat each word after her.
+           Finally, she points at the words randomly and all the students pronounce them at the same time.</a>
+        <a>The teacher writes three tongue twisters on the board. She reads them aloud and has the students repeat them
+           after her. Then she puts the students in pairs and asks them to practice those tongue twisters. Finally, they
+           make their own tongue twister using some of the words they find more difficult to pronounce and present it to
+           the class.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

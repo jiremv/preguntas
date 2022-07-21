@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>La docente pregunta al equipo de estudiantes acerca de la secuencia de actividades que han establecido en su
+     diagrama de flujo. Uno de ellos comenta lo siguiente: "Yo no estuve de acuerdo con que se considere la 'emisión de
+     recibo de pago' en la actividad 3 ni con el símbolo usado; propuse que la actividad 3 sea 'almacenar una copia del
+     recibo de pago' y que se use el símbolo de archivo".</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes acciones pedagógicas es más pertinente para que el estudiante reflexione sobre su error?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Presentar en la pizarra el símbolo documento y su significado, y hacer lo mismo con el símbolo archivo. Luego,
+       justificar el uso del símbolo documento en la actividad 3 del diagrama y decirle por qué no debe usarse el
+       símbolo archivo para dicha actividad.</a>
+    <a>Preguntar: "¿Qué símbolos se usan en los diagramas de flujo? ¿Qué forma tiene cada uno de ellos?". Luego, pedir
+       que identifique los símbolos que se han usado en el diagrama realizado y solicitar cuáles son las razones por las
+       que cree que el símbolo archivo debe ir en el paso 3.</a>
+    <a>Preguntar: "Si su propuesta considera que, luego de la actividad 2, se almacenen los recibos de pago, ¿en qué
+       momento se emite el recibo de pago? ¿Qué diferencias existen entre los símbolos documento y archivo?". Luego,
+       pedir que indique la pertinencia del uso de uno de estos símbolos en el diagrama Pago de productos.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

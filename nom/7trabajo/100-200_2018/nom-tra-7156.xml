@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Según las normas ISO, con respecto al significado, los colores y la forma de las señales de seguridad, ¿cuál de los
+     siguientes enunciados es correcto?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Las señales de prohibición se representan con símbolos con fondo de color rojo, con pictogramas necesariamente de
+       color blanco y pueden ser de forma rectangular.</a>
+    <a>Las señales de advertencia se representan con símbolos con fondo de color amarillo, con pictogramas de color
+       blanco y son de forma triangular.</a>
+    <a>Las señales de obligación se representan con símbolos con fondo de color azul, con pictogramas de color blanco y
+       son de forma circular.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

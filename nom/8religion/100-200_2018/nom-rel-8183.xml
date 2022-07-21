@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente busca presentar una parábola que ejemplifique la siguiente frase de Jesús: "[...] Me gusta la
+      misericordia más que las ofrendas [...]" Mt 9, 13.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes parábolas es adecuada para ejemplificar esta frase?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>"El buen samaritano"</a>
+    <a>"El fariseo y el publicano"</a>
+    <a>"El deudor que no perdona"</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

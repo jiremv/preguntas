@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un docente va a iniciar el paso de la oración de la Lectio Divina.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes preguntas corresponde a dicho paso?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>¿Qué acciones invita a realizar el Señor mediante su Palabra?</a>
+    <a>¿Qué le decimos al Señor luego de escuchar su Palabra? ¿</a>
+    <a>¿Qué nos dice el Señor a través de su Palabra?</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

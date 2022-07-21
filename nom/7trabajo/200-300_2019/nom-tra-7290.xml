@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Otro miembro del equipo propone hacer un isologo a partir de la idea anterior.</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes procedimientos deben realizar para elaborar dicho isologo?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Cambiar el dibujo realizado por un texto cuyo diseño tenga la forma de un rayo.</a>
+        <a>Incluir un texto que se asocie con la rapidez debajo del dibujo del rayo.</a>
+        <a>Integrar, en un solo elemento, un texto y el símbolo del rayo.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

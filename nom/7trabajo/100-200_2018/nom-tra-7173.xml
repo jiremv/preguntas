@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Una empresa ha identificado fallas en el proceso de producción que están generando defectos en el producto final.
+       Se desea realizar el análisis mediante un gráfico de Pareto y se ha iniciado con la elaboración de la siguiente
+       tabla:</q>
+    <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7173-p.png</g>
+    <q2>Considerando la información registrada en la tabla, ¿cuál de las siguientes afirmaciones es correcta?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>El 10% de unidades del producto tienen la falla 3.</a>
+        <a>El 77% del total de las fallas registradas corresponden a las fallas 1 y 2.</a>
+        <a>El 94% de las fallas en el proceso de producción corresponden a la falla 4.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

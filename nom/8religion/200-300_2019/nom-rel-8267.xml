@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente busca que los estudiantes analicen la realidad a través del método Ver-juzgar-actuar. Para ello, ha
+     planificado leer con ellos la parábola "El buen samaritano". ¿Cuál de las siguientes actividades corresponde al
+     método Ver-juzgar-actuar?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Pedir que interpreten el mensaje de la parábola. Luego, preguntarles por qué eran rechazados los samaritanos y
+       por qué ni el sacerdote ni el levita ayudaron al hombre herido. Finalmente, indicar que elaboren una oración para
+       pedir templanza a Dios y ser un buen prójimo.</a>
+    <a>Presentar una noticia en la que un hombre encontró una billetera, buscó al dueño y se la devolvió. Luego, pedir
+       que identifiquen las semejanzas entre la parábola y la noticia leída. Finalmente, preguntarles cómo ellos pueden
+       ayudar a las personas de su comunidad.</a>
+    <a>Solicitar que lean los comentarios del contexto bíblico de la parábola "El buen samaritano". Luego, indicar que,
+       por escrito, describan a los personajes. Finalmente, pedir que expliquen por qué Jesús escogió a un samaritano
+       como protagonista de la parábola.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

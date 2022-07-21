@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Alberto has brought the following text for a reading session with his third graders:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11251-p1.png</g0>
+  <q>Alberto asks his students to read the text and look for the following information:</q>
+  <g>./../../preguntas/nom/11english/200-300_2019/nom-eng-11251-p2png</g>
+  <q2>Which of the following reading skills is Alberto trying to reinforce with his activity?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Scanning</a>
+    <a>Skimming</a>
+    <a>Summarizing</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Dina wants to help her students develop their speaking skills through the topic "water scarcity." Which of the
+     following activities is most meaningful for the students?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Group the students and ask them to give an oral presentation about water scarcity around the world. Tell them to
+       include statistics to support their ideas. They will elaborate a catchy presentation to get others interested in
+       the topic.</a>
+    <a>Ask the students to elaborate an interview between an environmental engineer and a journalist about water
+       scarcity in their country. Tell them to include interesting questions and answers. They will present their
+       interviews in front of the class.</a>
+    <a>Pair up the students and ask them to design an action plan to face water scarcity in their community. Tell them
+       to discuss the objectives, strategies, and resources they will include in it. They will present their action
+       plans to decide which one is the most suitable to apply.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

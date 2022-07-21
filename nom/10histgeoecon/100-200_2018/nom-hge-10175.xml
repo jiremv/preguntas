@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Los estudiantes llevaron a la sesión de aprendizaje noticias sobre problemáticas ambientales y territoriales en el
+      Perú. Durante la presentación, uno de los estudiantes comentó lo siguiente:</q0>
+  <g0>./../../preguntas/nom/10histgeoecon/100-200_2018/nom-hge-10175-p.png</g0>
+  <q>El docente quiere aprovechar la noticia para que los estudiantes analicen dicha problemática considerando diversas
+     dimensiones.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes actividades favorece el logro de este propósito?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Primero, pedir a los estudiantes que busquen información sobre si el incendio elevó el nivel de contaminación del
+       aire en las zonas aledañas. Luego, solicitarles que expliquen cuáles son las consecuencias de esta contaminación
+       en la población. Por último, pedirles que señalen qué medidas han adoptado las autoridades para evitar que este
+       hecho se repita.</a>
+    <a>Primero, pedir a los estudiantes que recaben información acerca del potencial turístico del humedal. Luego,
+       solicitarles que indiquen cuáles son los circuitos turísticos y actividades más atractivas en el humedal. Por
+       último, pedirles que averigüen si algunas de estas actividades han sido afectadas después del incendio.</a>
+    <a>Primero, pedir a los estudiantes que señalen las principales especies que alberga el humedal. Luego, solicitarles
+       que identifiquen los principales hábitats dentro del humedal. Por último, pedirles que busquen información acerca
+       de las especies de aves que han sido afectadas por el incendio en el humedal.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

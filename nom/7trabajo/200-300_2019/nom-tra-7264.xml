@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En una sesión de aprendizaje, el docente les presenta a los estudiantes una noticia de un accidente de trabajo
+        ocurrido en un área del taller que no contaba con las señales de seguridad requeridas. En dicho taller, se
+        encontró que, de sus cinco áreas de trabajo, solo dos de ellas cuentan con señales de seguridad fáciles de
+        identificar y leer. Las otras áreas se encuentran sin señalizar o con señales de seguridad deterioradas. El
+        docente se ha propuesto incluir en la actividad de aprendizaje este contexto para promover la reflexión de los
+        estudiantes sobre la importancia del uso de las señales de seguridad en un taller.</q0>
+    <g0></g0>
+    <q>En una sesión de aprendizaje, el docente les presenta a los estudiantes una noticia de un accidente de trabajo
+       ocurrido en un área del taller que no contaba con las señales de seguridad requeridas. En dicho taller, se
+       encontró que, de sus cinco áreas de trabajo, solo dos de ellas cuentan con señales de seguridad fáciles de
+       identificar y leer. Las otras áreas se encuentran sin señalizar o con señales de seguridad deterioradas. El
+       docente se ha propuesto incluir en la actividad de aprendizaje este contexto para promover la reflexión de los
+       estudiantes sobre la importancia del uso de las señales de seguridad en un taller.</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Pedir que indaguen cómo se originó el accidente y qué consecuencias les ocasionó a los trabajadores y
+           propietarios. Luego, solicitar que averigüen si el uso de señales de seguridad ha contribuido en la
+           prevención de accidentes en las áreas señalizadas. Finalmente, pedir que sugieran qué señales de seguridad
+           requieren las áreas no señalizadas.</a>
+        <a>Pedir que busquen información acerca de las señales de seguridad y las clasifiquen. Luego, indicar que
+           elaboren una presentación multimedia y presenten dicha información a sus compañeros. Finalmente, solicitar
+           que todos los estudiantes del aula difundan entre sus contactos la presentación sobre las señales de
+           seguridad.</a>
+        <a>Leer con los estudiantes reglamentos de seguridad en los que se mencione que es importante utilizar señales
+           de seguridad. Luego, pedir que resuelvan un cuestionario sobre aquellas señales de prevención que se usan más
+           en los talleres. Finalmente, solicitar que dibujen dichas señales.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

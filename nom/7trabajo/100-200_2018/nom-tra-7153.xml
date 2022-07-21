@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente está realizando una sesión y tiene como propósito que los estudiantes planteen ideas creativas para su
+     propuesta de valor utilizando la técnica SCAMPER. Durante el monitoreo, se da cuenta de que uno de los equipos de
+     trabajo está comentando el éxito de la venta de su pan artesanal en la zona y de cómo aplicar la técnica SCAMPER
+     para crear un nuevo producto. Luis, uno de los integrantes de este equipo, comenta: "Según los resultados de la
+     encuesta que aplicamos, nuestro segmento de clientes consume gran cantidad de aceitunas de botija". Al escuchar la
+     afirmación anterior, Jorge, otro integrante, dice: "propongo hacer pan artesanal de aceituna".</q>
+  <g></g>
+  <q2>¿A cuál de los siguientes aspectos de la técnica SCAMPER se refiere lo propuesto por Jorge?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>A sustituir (S).</a>
+    <a>A permutar (P).</a>
+    <a>A combinar (C).</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

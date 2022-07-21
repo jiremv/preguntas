@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un equipo de estudiantes está dialogando acerca de los pasos a seguir para registrar o constituir una empresa con
+       personería jurídica en el Perú. Uno de ellos menciona: "El proceso inicia con la búsqueda y reserva de nombre, la
+       elaboración del acto constitutivo (minuta), y el abono de capital y bienes".</q>
+    <g></g>
+    <q2>¿Cuál de las siguientes alternativas expresa la correcta secuencia de pasos para culminar con el proceso
+        mencionado?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Elaboración de escritura pública - inscripción en Registros Públicos - inscripción al RUC para persona
+           jurídica.</a>
+        <a>Inscripción en Registros Públicos - inscripción al RUC para persona jurídica - elaboración de escritura
+           pública.</a>
+        <a>Inscripción al RUC para persona jurídica - inscripción en Registros Públicos - elaboración de escritura
+           pública.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

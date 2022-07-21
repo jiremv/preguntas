@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente busca que sus estudiantes conozcan la fe religiosa. ¿Cuál de las siguientes actividades es más adecuada
+     para que el docente logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Preguntarles por qué creen que es importante la fe para la vida y de qué manera se puede manifestar. Luego, pedir
+       que, en grupos, escriban un texto sobre lo que creen que es la fe. Finalmente, pedirles que comparen sus escritos
+       para que noten las diferencias.</a>
+    <a>Leer con ellos algunas historias bíblicas sobre Noé, Abraham y Moisés, que muestren actos de fe. Luego,
+       preguntarles dónde creen que radicaba la fuerza de la fe de los personajes de esas historias. Finalmente,
+       solicitar que expliquen, en sus propios términos, qué es la fe.</a>
+    <a>Mostrarles algunas imágenes en las que se observen personas rezando con actitud de respeto. Luego, analizar las
+       imágenes y preguntarles si creen que esas personas tienen fe en Dios. Finalmente, pedir que compartan con la
+       clase si ellos expresan su fe de la misma manera.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

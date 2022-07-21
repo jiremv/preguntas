@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>¿Cuál de las siguientes tareas es de mayor demanda cognitiva?</q0>
+    <g0></g0>
+    <q></q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Calcular el total de los costos fijos de un proyecto.</a>
+        <a>Analizar el punto de equilibrio de un proyecto.</a>
+        <a>Identificar los costos variables de un proyecto.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

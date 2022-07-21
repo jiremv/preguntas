@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Identifica el referente textual que evite la repetición de
+las palabras que van entre comillas simples:
+	</q0>
+	<g0>
+	</g0>
+<q>Las 'fiestas de promoción' requieren ser planificadas,
+felizmente hay promotoras que organizan 'fiestas
+de promoción'. Las 'fiestas de promoción' son
+una preocupación para los padres, por eso mis padres
+ya me compraron ropa para mi 'fiesta de promoción'.
+</q>
+<as r="R" correcta="2">
+<a>Sinalefa</a>
+<a>Catáfora</a>
+<a>Anáfora</a>
+<a>Sustitución gramatical</a>
+<a>Elipsis</a>
+</as>
+<x>C.</x>
+</p>

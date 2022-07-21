@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <q>Lea el siguiente texto y luego conteste.</q>
+  <g>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8190-p.png</g>
+  <q2>¿A qué Evangelio corresponde la descripción anterior?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Al Evangelio de Juan.</a>
+    <a>Al Evangelio de Lucas.</a>
+    <a>Al Evangelio de Mateo.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

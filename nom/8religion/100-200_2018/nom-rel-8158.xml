@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La docente busca que los estudiantes conozcan las características de las religiones reveladas.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades es más adecuada para recoger los saberes previos de los estudiantes al respecto?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Explicar que las religiones reveladas son aquellas en las que el mismo Dios se manifestó y expresó su voluntad.</a>
+    <a>Pedirles que lean un texto en el que se explique qué es la revelación divina, y luego preguntarles: "¿Por qué es
+       importante que Dios se revele a los hombres?".</a>
+    <a>Preguntar: "¿Qué religiones tienen profetas? ¿Qué papel desempeña un profeta en una religión? ¿Por qué Dios
+       escoge a estas personas para revelarse a los hombres?".</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

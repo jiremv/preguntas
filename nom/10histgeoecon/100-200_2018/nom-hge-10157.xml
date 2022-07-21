@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Como parte de una actividad, la docente presenta a los estudiantes la siguiente fuente:</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/100-200_2018/nom-hge-10157-p1.png</g0>
+    <q>Luego, les pide que respondan la siguiente pregunta: "¿Qué idea de la fuente 1 es cuestionada en la fuente 3?".
+       Tres de los estudiantes responden lo siguiente:</q>
+    <g>./../../preguntas/nom/10histgeoecon/100-200_2018/nom-hge-10157-p2.png</g>
+    <q2>¿Cuál de las respuestas de los estudiantes es correcta?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La de Alejandro.</a>
+        <a>La de Amanda.</a>
+        <a>La de Lourdes.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

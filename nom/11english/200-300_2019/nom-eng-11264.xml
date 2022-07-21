@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>After having been working on the topic "daily routines" for some sessions, Guillermo wants his students to
+      develop their oral fluency on that topic. He puts the students in pairs and gives each pair a picture of a famous
+      singer. He asks them to take turns describing the singer's daily routine. While monitoring, the teacher notices
+      that a couple of students say the following sentences: "He is get up at 10:00 am" and "He don't have to
+      work."</q0>
+  <g0></g0>
+  <q>Given that situation, which strategy is it appropriate for Guillermo to carry out?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Kindly, interrupt the two students and indicate their errors. Then give them a short explanation about the
+       correct use of the simple present tense.</a>
+    <a>Don't make any comments on the students' mistakes and let them finish. Then, when the activity is over, remind
+       all the students how the simple present tense is formed.</a>
+    <a>Approach each student that has problems using the simple present tense. Echo the student's sentence emphasizing
+       the problem and ask him to say the sentence again.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

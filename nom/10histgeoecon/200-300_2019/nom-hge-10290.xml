@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente definición:</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10290-p.png</g0>
+    <q>¿A cuál de los siguientes conceptos corresponde la definición presentada?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Devaluación</a>
+        <a>Deflación</a>
+        <a>Inflación</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

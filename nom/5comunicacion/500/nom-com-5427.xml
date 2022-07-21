@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Determinar la cantidad de sustantivos colectivos empleados en el texto.
+	</q0>
+	<g0>
+	</g0>
+<q>Madeleine iba alegre por la alameda, cuando de pronto divisó la jauría que
+perseguía a dos zorros. La hojarasca de otoño entristecía el lugar. Recordó
+su último viaje a Chile; en su mente quedó grabado el archipiélago y la playa
+tranquila donde un cardumen impactó su ser. Salió de su ensimismamiento
+y se dio cuenta que estaba sola entre la arboleda.
+</q>
+<as r="R" correcta="2">
+<a>tres</a>
+<a>cuatro </a>
+<a>seis</a>
+<a>cinco</a>
+<a>siete</a>
+</as>
+<x>C.</x><x2></x2>
+</p>

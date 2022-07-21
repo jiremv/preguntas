@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Mariela's students are going to listen to a song of a famous singer. Here is the chorus of the song:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11266-p.png</g0>
+  <q>After having worked on different activities using the song, Mariela would like her students to develop the
+     listening skill Inferring attitude. Taking her purpose into account, which of the following strategies is it
+     appropriate to adopt?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Play the audio of the song and write the following questions on the board: "How does the singer feel?" and
+       "How can you tell?" Ask the students to work in pairs and discuss those questions.</a>
+    <a>Play the audio of the song and ask the students to write down the verbs they hear. Pair up the students and have
+       them identify the main idea of the song using the verbs they have written down.</a>
+    <a>Play the audio of the song and write the following sentences on the board: "When I listened to the song, I
+       felt..." and "I liked/didn't like the song because..." Ask the students to complete those sentences in
+       their notebooks.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

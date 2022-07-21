@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/11english/300-400_2018/nom-eng-11357-p1.png</g0>
+  <q>Sophia has planned to give her students a communicative post-reading task. Given the teacher's goal, which activity
+     is least appropriate for her purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>The teacher tells the students to choose their favorite character and draw it on a piece of paper. Then the
+       teacher asks some volunteers to come to the front and describe the drawings.</a>
+    <a>The teacher asks the students to work in pairs to create a conversation between the fox and the crow. They write
+       the conversation, practice it for some minutes and present it in front of the class.</a>
+    <a>The teacher groups the students and tells them to change some details of the story in order to make a new version
+       of it. The students discuss, put their ideas together and narrate the new version of the fable to the class.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

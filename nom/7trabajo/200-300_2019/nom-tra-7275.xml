@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Considerando el análisis de la matriz FODA de una empresa de producción de bienes,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes alternativas corresponde a la estrategia DO?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Aprovechar que los costos de la publicidad radial y televisiva han bajado, debido a que las empresas de la
+           localidad no hacen publicidad.</a>
+        <a>Comprar maquinaria para satisfacer la demanda no atendida, sabiendo que hay ofertas de créditos con baja tasa
+           de interés.</a>
+        <a>Promover a un trabajador destacado para optimizar los canales de distribución que tienen dificultades.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

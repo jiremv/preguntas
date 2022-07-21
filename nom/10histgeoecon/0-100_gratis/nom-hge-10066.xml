@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Durante una sesión de aprendizaje, una docente presenta a los estudiantes la siguiente pintura rupestre creada
+        por los primeros pobladores que habitaron Macusani (Puno).</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10166-p.png</g0>
+    <q>Luego de brindar información a los estudiantes acerca de la época y el lugar en que fue elaborada esta pintura
+       rupestre, ¿cuál de las siguientes actividades es más adecuada para ayudar a que los estudiantes interpreten la
+       fuente presentada?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Pedir a los estudiantes que describan cómo son representados los animales y las personas en la pintura.
+           Luego, solicitarles que señalen qué elementos de la representación no corresponden a la realidad. Por último,
+           pedirles que comenten cómo deberían haber sido representados los animales y las personas para tener una
+           apariencia más realista.</a>
+        <a>Pedir a los estudiantes que señalen qué acciones realizan los animales y las personas mostrados en la
+           pintura. Luego, solicitarles que expliquen por qué creen que las personas de esa época realizaban pinturas
+           que las representaban a sí mismas y a los animales. Por último, pedirles que busquen información en diversas
+           fuentes para contrastar sus respuestas.</a>
+        <a>Pedir a los estudiantes que describan de forma detallada cómo se representa la cacería de animales en la
+           pintura. Luego, solicitarles que indiquen qué tipos de animales eran cazados en esa época. Por último,
+           pedirles que elaboren un listado en el que se indique qué otras actividades realizaban las personas en esa
+           época.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

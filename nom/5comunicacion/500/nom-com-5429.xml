@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Señala a qué valor de "El Cantar de Mío Cid" corresponde lo que a
+continuación se escribe:
+	</q0>
+	<g0>
+	</g0>
+<q>La obra es un vivo testimonio de los usos y costumbres de los españoles
+de la Edad Media.
+</q>
+<as r="R" correcta="0">
+<a>Histórico.</a>
+<a>Linguístico.</a>
+<a>Psicológico.</a>
+<a>Estético.</a>
+<a>Sociológico.</a>
+</as>
+<x>A.</x><x2></x2>
+</p>

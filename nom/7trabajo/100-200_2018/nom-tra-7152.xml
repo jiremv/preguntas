@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Uno de los estudiantes, durante la exposición de la técnica de venta AIDA, presentó un cartel que dice: "Cuando uno
+     vende un producto (bien) de manera directa y no es posible mostrar su funcionamiento en el momento, hay que mostrar
+     sus bondades con gráficos, folletos, números, audiovisuales, planos, mapas, testimonios, etc.".</q>
+  <g></g>
+  <q2>¿A cuál de los siguientes aspectos de la técnica AIDA corresponde lo anunciado en el cartel?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>A atención (A).</a>
+    <a>A deseo (D).</a>
+    <a>A interés (I)</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

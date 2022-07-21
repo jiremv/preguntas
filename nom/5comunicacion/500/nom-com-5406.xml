@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+<q>Identifica "X", en el siguiente organizador:
+</q>
+	<g>./../preguntas/nom/5comunicacion/500/nom-com-5406-p.png
+	</g>
+<as r="R" correcta="4">
+<a>Tragedia</a>
+<a>Drama</a>
+<a>Comedia</a>
+<a>Epopeya</a>
+<a>Elegía</a>
+</as>
+<x>E.</x><x2></x2>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Braulio wants to reinforce his students' writing skills by having them work on a persuasive piece of writing. He
+       will take advantage of the school anniversary. In this context, which of the following activities is more
+       appropriate for his purpose?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Have the students write a speech on the way a teacher has influenced their academic and personal life. Ask
+           them to include examples of how they have become better persons thanks to that teacher. The best speeches
+           will be read at the anniversary ceremony.</a>
+        <a>Have the students write an essay about the things they like most about their school. Ask them to describe
+           good memories such as anecdotes, celebrations, school trips, etc. Some of their final products will be posted
+           on the school bulletin board.</a>
+        <a>Have the students write a flyer to motivate the school community to participate in the anniversary ceremony.
+           Ask them to include arguments and appealing information. The flyers will be distributed within the school
+           premises.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

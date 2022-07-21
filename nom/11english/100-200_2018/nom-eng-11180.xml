@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Esteban's students are going to have a round table discussion in groups. He will provide them with the following
+       expressions to improve their oral interaction:</q>
+    <g>./../../preguntas/nom/11english/100-200_2018/nom-eng-11180-p.png</g>
+    <q2>Which of the following language functions is NOT involved in the expressions provided?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Distrusting information.</a>
+        <a>Inquiring someone.</a>
+        <a>Expressing certainty.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

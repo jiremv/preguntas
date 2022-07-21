@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Durante una sesión de aprendizaje, los estudiantes, en equipos, están investigando acerca de la sociedad
+       medieval. Uno de los equipos comenta al docente que consideran que la Edad Media es una época oscura
+       caracterizada por el estancamiento cultural.</q>
+    <g></g>
+    <q2>Frente a ello, ¿cuál de las siguientes actividades del docente es pertinente para ayudar a que este equipo
+        reflexione sobre su afirmación?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Primero, pedir a los estudiantes que expliquen la importancia de las universidades como instituciones que
+           contribuyen en el desarrollo del conocimiento. Luego, solicitarles que recaben información acerca del origen
+           histórico de las universidades. Por último, pedirles que respondan la siguiente pregunta: "¿Cuál fue el papel
+           de las universidades en la Edad Media?".</a>
+        <a>Primero, pedir a los estudiantes que recaben información acerca de las tradiciones religiosas más importantes
+           de Europa en la Edad Media. Luego, solicitarles que describan los actuales rituales religiosos. Por último,
+           pedirles que respondan la siguiente pregunta: "¿En qué han cambiado los rituales religiosos de la actualidad
+           respecto de los rituales medievales?".</a>
+        <a>Primero, pedir a los estudiantes que recaben información acerca de cómo explicaban el origen de las
+           enfermedades en la Edad Media. Luego, solicitarles que comparen los postulados de las teorías medievales con
+           los postulados de la medicina contemporánea. Por último, pedirles que respondan la siguiente pregunta: "¿Cuál
+           de ambas teorías es más efectiva para tratar las enfermedades?".</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

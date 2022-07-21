@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>(I) Francisco de Ávila, cura de Huarochirí, que se había formado con los jesuitas, pidió ayuda a sus antiguos
+       mentores y al arzobispo Bartolomé Lobo Guerrero para combatir las idolatrías. (II) Los arzobispos y los virreyes
+       que apoyaron esta guerra contra las idolatrías consideraron a los jesuitas como los más indicados para conducirla
+       debido a su amplio conocimiento de las lenguas y culturas indígenas. (III) El virrey Francisco de Borja confiaba
+       especialmente en los jesuitas y, frecuentemente, los nombraba jueces-visitadores con la misión de extirpar las
+       idolatrías. (IV) Los jesuitas cumplían la labor encomendada en las campañas de extirpación, por ello realizaron
+       innumerables visitas a los pueblos de indios en todo el Perú. (V) Después de un entusiasmo inicial, los jesuitas
+       cuestionaron su participación y perdieron interés en la misión, puesto que la mentalidad que dio origen a las
+       campañas contra las idolatrías se oponía a la espiritualidad de su doctrina.</q>
+    <q2></q2>
+    <as r="R" correcta="1">
+        <a>III</a>
+        <a>V</a>
+        <a>I</a>
+        <a>II</a>
+        <a>IV</a>
+    </as>
+    <x>B.</x>
+    <i></i>
+    <x2>El asunto principal del ejercicio es el protagonismo de los jesuitas en la lucha contra las idolatrías de los
+        pueblos indígenas del Perú. Por tal razón, por contradicción, se elimina la quinta oración. En esta se alude a
+        una idea opuesta: el desinterés de los jesuitas por el problema de las idolatrías.</x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Señale la opción que presenta uso correcto del gerundio.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Estudió incansablemente obteniendo el primer puesto del aula.</a>
+        <a>Acabo de leer un artículo denunciando la corrupción ministerial.</a>
+        <a>Compré un televisor comparando precios funciones.</a>
+        <a>Me quemé la mano derecha preparando la cena navideña.</a>
+        <a>Lo operaron de emergencia falleciendo la noche siguiente.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente ha observado que a la mayoría de estudiantes aún les resulta difícil interpretar textos bíblicos a
+      través del método histórico-crítico. Por ello, está planificando una unidad didáctica cuyo propósito es ayudar a
+      estos estudiantes en la interpretación bíblica mediante dicho método. Además, ella ha previsto que esta unidad
+      didáctica se realice durante dos sesiones.</q0>
+  <g0></g0>
+  <q>¿Qué tipo de unidad didáctica debe emplear la docente para que logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Proyecto de aprendizaje.</a>
+    <a>Módulo de aprendizaje.</a>
+    <a>Unidad de aprendizaje.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

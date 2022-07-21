@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>John's students are talking about "Likes and dislikes." At the beginning of an activity, he gives them the
+     following instruction: "Ask each other the question 'What's your favorite hobby?' as well as other wh-questions to
+     get additional information." Before the students begin the task, he wants to check the students' comprehension of
+     his instruction. Which of the following strategies is more appropriate for his purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>The teacher repeats the instruction as many times as necessary until the students know what to do.</a>
+    <a>The teacher chooses some students to come to the front of the class and help him model the activity.</a>
+    <a>The teacher calls one volunteer to explain to his classmates, in Spanish, what the instruction for the task is.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

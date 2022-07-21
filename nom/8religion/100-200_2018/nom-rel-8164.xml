@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades implica un menor nivel de demanda cognitiva?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Identificar los objetivos de la Gran Misión Continental.</a>
+    <a>Sintetizar en un organizador los capítulos III y IV de la encíclica Laudato si'.</a>
+    <a>Evaluar los argumentos de las personas ateas para negar la existencia de Dios.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Una docente propone a los estudiantes un problema de funcionamiento que presenta un prototipo. Luego, con la
+        participación de ellos, establece la meta de trabajo: solucionar el problema usando diversas técnicas creativas
+        y estrategias de solución.</q0>
+    <g0></g0>
+    <q>Durante la resolución del problema, cada estudiante revisa su avance con la orientación de la docente. Identifica
+       alguna dificultad para que pueda explorar diversas técnicas creativas y estrategias distintas de las que ha ido
+       utilizando la docente. Al final, cada estudiante evalúa si ha llegado a la meta propuesta mediante la valoración
+       de sus fortalezas y debilidades.</q>
+    <g></g>
+    <q2>Considerando todas las acciones descritas, ¿por qué se puede afirmar que la docente ha promovido un proceso
+        metacognitivo en los estudiantes?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Porque ha guiado paso a paso el proceso de resolución del problema y ha generado que los estudiantes
+           desarrollen su confianza al resolverlos.</a>
+        <a>Porque ha permitido que los estudiantes tomen conciencia de lo que quieren lograr, regulen su propia
+           actividad y analicen sus propias formas de aprender.</a>
+        <a>Porque ha permitido que la meta de trabajo se establezca de manera conjunta entre ella y los estudiantes, lo
+           que generó un mayor compromiso en su cumplimiento por parte de estos.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Es una de las técnicas aplicables al cuero para la elaboración de planchas de huecograbado.
+    Se basa en hacer un corte superficial de la flor del cuero para luego crear líneas
+de mayor profundidad.
+  </q>
+  <as r="R" correcta="0">
+    <a>Incizado</a>
+    <a>Trazado</a>
+    <a>Barnizado</a>
+    <a>Troquelado</a>
+  </as>
+  <x>A.
+  </x>
+  <i>El incizado se basa en hacer un corte superficial de la flor del cuero para luego crear líneas
+de mayor profundidad. En los grabados realizados con esta técnica los tonos son
+de muy buena definición ya que los surcos de la línea retienen bastante la tinta.
+Se recomienda para el contorno general del diseño o las partes de mayor interés
+plástico.</i>
+</p>

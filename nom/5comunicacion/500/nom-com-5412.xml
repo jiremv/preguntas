@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+<q>PLAN DE REDACCIÓN
+</q>
+	<g>./../preguntas/nom/5comunicacion/500/nom-com-5412-p.png</g>
+<as r="R" correcta="0">
+<a>III-IV-II-I</a>
+<a>II-III-IV-I</a>
+<a>III-I-IV-II</a>
+<a>III-II-I-IV</a>
+<a>IV-III-II-I</a>
+</as>
+<x>A.</x><x2></x2>
+</p>

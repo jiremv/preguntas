@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente presenta a sus estudiantes el siguiente texto:</q0>
+  <g0>./../../preguntas/nom/8religion/200-300_2019/nom-rel-8277-p.png</g0>
+  <q>La docente busca que los estudiantes inicien el análisis del texto a través del método histórico-crítico. ¿Qué
+     grupo de preguntas es adecuado para que logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>¿Por qué la mujer no se curaba de su mal? ¿De dónde provino el poder de Jesús para sanarla? ¿Qué significa la
+       expresión "Hija, tu fe te ha salvado"?</a>
+    <a>¿Por qué la mujer se acercó a Jesús por detrás? ¿Qué tiene que ver su enfermedad con esto? ¿Por qué se
+       consideraba impuras a las personas que sangraban?</a>
+    <a>¿Por qué los médicos no habían podido curar a la mujer? ¿Con qué intención la mujer tocó el manto de Jesús? ¿Cómo
+       pudo darse cuenta Jesús de quién tocó su manto?</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

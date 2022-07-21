@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Marisa's students are going to listen to the audio of a fable. She wants to assess her students'
+comprehension of the fable. Given the teacher's goal, which of the following activities is NOT
+appropriate?
+</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>The teacher plays the audio of the fable once and tells the students to listen to it. Then
+she writes some questions about it on the board and plays the audio again. This time, the
+students answer the questions.</a>
+		<a>The teacher plays the audio of the fable a couple of times and the students listen to it
+carefully. Then she gives the students a word search puzzle. She tells them to find the
+words they remember from the audio.</a>
+		<a>The teacher plays the audio of the fable and tells the students to listen to it. Then she
+gives the students a fill-in-the-blank worksheet with excerpts from the fable. She tells
+them to fill in the missing information while she plays the audio again.</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>¿Cuál de las siguientes tareas propuestas por el docente es de menor demanda cognitiva?
+</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="2">
+		<a>Pedir que propongan estrategias de venta efectivas.</a>
+		<a>Pedir que elaboren productos nuevos a partir de las necesidades de los clientes.</a>
+		<a>Pedir que presenten en una tabla los resultados de una encuesta aplicada en su localidad.</a>
+	</as>
+	<x>C</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

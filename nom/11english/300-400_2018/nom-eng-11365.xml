@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Miranda's students have just finished reading a text about different ways to deal with stress. Now Miranda wants to
+     check if her students have acquired a global understanding of it. Which of the following instructions can be
+     delivered for that purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>"Look for the expression 'pamper yourself' and tell me what you think it means. You can't use a dictionary."</a>
+    <a>"Close your books and discuss the following questions in pairs: 'What is the text about?' 'Why do you think so?'"</a>
+    <a>"The text mentions six relaxation techniques. 'Which are those techniques?' Take a look at the article again and
+       underline the techniques."</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>El caballero cazó una hermosa grulla. Volvió a su casa con la pieza
+y se la dio a un excelente cocinero llamado Chichibio, que era veneciano de nacimiento, encargándole
+que la asara y aderezara bien para la cena.
+	</q0>
+	<g0>
+	</g0>
+<q>Identifique el tipo de texto anterior:
+</q>
+<as r="R" correcta="1">
+<a>descriptivo</a>
+<a>narrativo</a>
+<a>dialogado</a>
+<a>argumentativo</a>
+<a>instructivo</a>
+</as>
+<x>B.</x>
+</p>

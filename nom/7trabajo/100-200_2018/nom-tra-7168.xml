@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente tiene como propósito que los estudiantes formulen la propuesta de valor de su proyecto. Para ello,
+      propone espacios de diálogo en equipos de trabajo de modo que puedan determinar dicha propuesta de valor.</q0>
+  <g0></g0>
+  <q>Al monitorear la actividad, un estudiante comenta a la docente lo siguiente: "Mi primo vive al sur del país y en su
+     localidad hace mucho frío durante todo el año. Por ello, inició un negocio de venta de café caliente en su barrio y
+     tiene mucha demanda. Propongo vender café caliente en la losa deportiva de mi barrio".</q>
+  <g></g>
+  <q2>¿Cuál de los siguientes grupos de preguntas permite la reflexión del estudiante acerca de su propuesta de valor?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>¿Qué es una propuesta de valor? ¿Qué características tiene? ¿Cuáles son sus elementos? ¿Cuál es la propuesta de
+       valor de tu primo? ¿Cuál es la importancia de la propuesta de valor para tener éxito en un negocio?</a>
+    <a>¿Qué tipo de café caliente ofrece tu primo? ¿Por qué consideras que la venta de café caliente es un buen negocio?
+       ¿Cuál es tu propósito con la venta de café caliente? ¿Qué otros productos relacionados a la venta de café
+       caliente podrías ofrecer?</a>
+    <a>¿Qué diferencias hay entre el segmento de clientes del negocio de tu primo y el de tu propuesta? ¿La venta de
+       café caliente que propones resuelve un problema similar al que está solucionando tu primo? ¿Por qué? ¿Tu
+       propuesta de negocio es sostenible?</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

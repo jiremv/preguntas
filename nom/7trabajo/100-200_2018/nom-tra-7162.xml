@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Los estudiantes están trabajando el módulo ?Socio clave? del modelo de negocio CANVAS para el producto que desean
+     elaborar. Al exponer sus avances, uno de los equipos afirmó lo siguiente: "Por unanimidad, hemos elegido como socio
+     clave al que aporta más, pues va a financiar el diseño del prototipo y todo el proyecto".</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes alternativas expresa el principal error del equipo?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Creer que el financista es el socio clave.</a>
+    <a>Asumir que el socio clave se encarga del diseño del prototipo.</a>
+    <a>Considerar que el socio clave es el que debe liderar el proyecto.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd"> 
+<p>
+  <q>
+  Correlacione los fines de la Santa Misa con sus respectivos significados:
+  </q>
+  <g>./../../preguntas/nom/8religion/100/nom-rel-8004-p.png</g>
+  <as r="R" correcta="2">
+    <a>a1-b2-c3-d4</a>    
+    <a>a3-b1-c4-d2</a>
+    <a>a4-b2-c3-d1</a>
+    <a>a2-b4-c1-d3</a>
+  </as>
+  <x>C.</x>
+  <i>El Sacrificio de la Santa Misa se ofrece a Dios para cuatro fines: 1º., para honrarle como conviene, 
+  y por esto se llama latréutico; 2º., para agradecerle sus beneficios, y por esto se llama eucarístico; 3º., 
+  para aplicarle, para darle alguna satisfacción de nuestros pecados y para ofrecerle sufragios por las almas del
+  purgatorio, por lo cual se llama propiciatorio; 4º., para alcanzar todas las gracias que nos son necesarias, y por 
+  esto se llama impetratorio. Catecismo mayor de S. Pío X cuestión 660; parte cuarta de los sacramentos, capítulo V-1º
+  </i>
+</p>

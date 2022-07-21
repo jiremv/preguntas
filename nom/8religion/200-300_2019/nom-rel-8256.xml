@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente tiene como propósito que los estudiantes conozcan la actividad misionera de la Iglesia católica. Por
+     esta razón, trabajará sobre la base de un documento del concilio Vaticano II. ¿Qué documento de dicho concilio debe
+     emplear el docente para que logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Ad Gentes</a>
+    <a>Perfectae Caritatis.</a>
+    <a>Apostolicam Actuositatem.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

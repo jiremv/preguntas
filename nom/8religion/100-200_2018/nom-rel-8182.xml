@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente busca que los estudiantes identifiquen la relación de concordancia entre el Antiguo Testamento y el
+      Nuevo Testamento.</q0>
+  <g0></g0>
+  <q>¿Cuáles de los siguientes textos son adecuados para el propósito de la docente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>La narración de la torre de Babel y Pentecostés.</a>
+    <a>La historia de Abraham y la historia de Juan Bautista.</a>
+    <a>El relato de la Creación y la parábola "La semilla de mostaza".</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

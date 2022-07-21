@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Con respecto a la información proporcionada por los estudiantes,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes afirmaciones referente al punto de equilibrio es verdadera?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>El dato comisión por venta de cada polo no se necesita para hallar el punto de equilibrio.</a>
+        <a>Es necesario hallar cuánto es su costo variable total para calcular el punto de equilibrio.</a>
+        <a>Los costos fijos mensuales se utilizan para el cálculo del punto de equilibrio.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>El Concilio Vaticano II generó cambios fundamentales en la Iglesia Católica.</q0>
+  <g0></g0>
+  <q>¿Cuál es uno de esos cambios?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Se impulsó la inculturación del Evangelio.</a>
+    <a>Se decidió crear grandes universidades auspiciadas por la Iglesia.</a>
+    <a>Se estableció el dogma de las dos naturalezas de Cristo: humana y divina.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

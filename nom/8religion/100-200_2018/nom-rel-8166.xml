@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente conoce que la mayoría de los estudiantes de primer grado no ha tenido mayor acercamiento a la Biblia.
+      Por ello, se ha propuesto que los estudiantes inicien la lectura de los diferentes libros que componen la Biblia
+      siguiendo las recomendaciones del Magisterio de la Iglesia.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes estrategias es pertinente para el propósito de la docente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Indicarles que inicien leyendo los Evangelios del Nuevo Testamento, pues, conociendo las enseñanzas de Jesús,
+       podrán comprender mejor los demás libros, ya que Él es el centro de la Biblia.</a>
+    <a>Decirles que abran la Biblia al azar y lean la primera cita que encuentren, pues de esa manera se puede recibir
+       un mensaje personal de Dios, ya que Él sabe lo que realmente necesitamos en nuestras vidas.</a>
+    <a>Pedirles que comiencen leyendo el Génesis y, cuando hayan terminado con el Antiguo Testamento, recién proponerles
+       leer los Evangelios del Nuevo Testamento, pues, para comprender bien la Historia de la Salvación, es preferible
+       seguir la secuencia de los libros.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>The teacher wants her fourth graders to develop their oral skills through the topic "Life experiences." She has
+       thought of three strategies to achieve her purpose. Which of the following strategies she has thought of is more
+       meaningful for her students'</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>The teacher has the students answer a questionnaire about life experiences. She asks them to exchange it with
+           a classmate and read the classmate's answers for some minutes. Then the teacher calls on volunteers to report
+           some of their classmate's answers aloud.</a>
+        <a>The teacher tells the students to use the question "Have you ever...?" to interview their classmates. She tells
+           the students to ask follow-up questions to get details about their peers? experiences. Finally, the teacher
+           calls on volunteers to report their findings to the class.</a>
+        <a>The teacher puts the students in groups and gives them biographic information about famous singers. She tells
+           the students to read the information and decide which singer has had the most interesting experiences.
+           Finally, the students report the singer's experiences to the class.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

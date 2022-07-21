@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un equipo de estudiantes ha decidido realizar modificaciones en su exprimidora mecánica de jugo de naranja con el
+     propósito de que pueda exprimir naranjas de diversos tamaños a la vez. A continuación, se presenta parte del diario
+     de estos estudiantes que muestra los procedimientos que han realizado.</q>
+  <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7172-p.png</g>
+  <q2>¿Cuál de las siguientes técnicas creativas se corresponde con el conjunto de pasos descritos por los estudiantes?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>TRIZ</a>
+    <a>SCAMPER</a>
+    <a>Lista de atributos</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

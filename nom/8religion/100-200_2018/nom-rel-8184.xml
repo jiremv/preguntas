@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente tiene como propósito que los estudiantes identifiquen la principal diferencia entre las cartas
+     católicas y las cartas paulinas. ¿Cuál de las siguientes actividades es adecuada para ese propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Indicar que analicen una carta católica y una paulina, e identifiquen sus mensajes. Luego, pedir que comparen
+       ambos mensajes, y señalen las características que presentan en sus contenidos.</a>
+    <a>Preguntar: "¿Qué significa 'católico'? ¿Por qué se llaman cartas paulinas? ¿Por qué a ambos documentos se les
+       llama cartas si son textos doctrinales?". Luego, pedir que expliquen por qué es importante conocer estos textos.</a>
+    <a>Pedir que identifiquen los destinatarios de ambas cartas. Luego, preguntar: "¿Por qué las cartas católicas llevan
+       el nombre de sus autores y las paulinas llevan el nombre de sus destinarios? ¿A quiénes se dirigen las cartas
+       católicas?".</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

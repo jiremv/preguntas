@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente presenta a sus estudiantes el siguiente texto bíblico:</q>
+  <g>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8174-p.png</g>
+  <q2>La docente tiene como propósito que los estudiantes analicen este texto según el método histórico crítico. ¿Cuál
+      de las siguientes actividades es pertinente para iniciar el análisis de dicho texto según el método histórico
+      crítico?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Pedirles que lean el significado de los regalos en los comentarios del contexto bíblico. Luego, preguntarles:
+       "¿Para qué se usaba la mirra? ¿Por qué regalar a un recién nacido algo que se relacionaba con la muerte? ¿Quiénes
+       eran los Magos? ¿Por qué fueron escogidos para adorar a Jesús si no eran judíos?".</a>
+    <a>Preguntarles: "¿Por qué, a pesar de haber sido adorado por los Magos en su nacimiento, Jesús llevó una vida
+       sencilla? ¿Qué enseñanzas transmite este texto?". Luego, promover la reflexión de los estudiantes sobre la
+       actitud de humildad que Jesús mantuvo en su vida y sobre cómo ello constituye un ejemplo para los cristianos.</a>
+    <a>Preguntarles: "Según el texto, ¿por qué Herodes buscaba saber dónde nació Jesús? ¿Ustedes creen que realmente
+       quería adorarlo? ¿Por qué los Magos regresaron a su país por otro camino?". Luego, explicarles que el aviso que
+       los Magos recibieron en sueños era un mandato de Dios que permitió que se cumpliera la profecía del Mesías.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

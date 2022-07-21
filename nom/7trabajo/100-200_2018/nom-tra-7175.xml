@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente les ha propuesto a los estudiantes la siguiente situación:</q0>
+  <g0>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7175-p.png</g0>
+  <q>A partir de la situación presentada, la docente les pide que planteen una estrategia basada en las 4P del marketing
+     para lograr el propósito de vender la mayor cantidad de dichas prendas.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes estrategias de marketing es la más apropiada para el logro del propósito planteado?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Estrategias para el precio.</a>
+    <a>Estrategias para el producto.</a>
+    <a>Estrategias para la promoción.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

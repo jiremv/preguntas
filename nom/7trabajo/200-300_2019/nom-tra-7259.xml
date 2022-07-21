@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente, al percatarse de la dificultad que tiene un estudiante para elaborar su Diagrama de Operaciones del
+        Proceso (DOP), le formula las siguientes preguntas: ¿qué producto estás elaborando? ¿Qué actividades vas a
+        realizar? ¿Cuáles son los símbolos del DOP que representan estas actividades? ¿Cuál es la secuencia de
+        actividades que te permitirá elaborar tu producto?, entre otras.</q0>
+    <g0></g0>
+    <q>¿Cuál es el propósito del docente al realizar dichas preguntas?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Explorar los saberes previos del estudiante.</a>
+        <a>Generar conflicto cognitivo en el estudiante.</a>
+        <a>Desarrollar procesos de andamiaje para el estudiante.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

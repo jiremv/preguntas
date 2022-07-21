@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>CLOZE</q0>
+  <g0></g0>
+  <q>Read the following text and choose the best alternative to fill in the blanks</q>
+  <g>./../../preguntas/nom/11english/200-300_2019/nom-eng-11281-p.png</g>
+  <q2>This is for 85</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>for</a>
+    <a>so that</a>
+    <a>in order to</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

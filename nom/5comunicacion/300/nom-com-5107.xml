@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Infografía</q0>
+    <g0>./../../preguntas/nom/5comunicacion/300/nom-com-5105-p.png</g0>
+	<q>Se puede inferir que una pericia en el uso de ambos hemisferios la tendría 
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="1">
+		<a>un músico con un gran poder creativo. </a>
+		<a>un arquitecto que escriba columnas periodísticas. </a>
+		<a>un físico puro que tenga un programa de televisión. </a>
+		<a>un crítico de cine y a la vez director fílmico.</a>
+		 
+	</as>	
+	<x>B.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

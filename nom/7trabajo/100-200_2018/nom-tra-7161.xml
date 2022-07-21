@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un equipo de estudiantes está trabajando el módulo "Fuente de ingresos" del modelo de negocio CANVAS para el
+     producto que desean elaborar. Al monitorear el trabajo de los estudiantes, uno de ellos le comenta al docente lo
+     siguiente: "Nuestra fuente de ingresos se obtendrá del alquiler de nuestras máquinas y de los préstamos que
+     recaudaremos de nuestros familiares y amigos".</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes alternativas expresa el error del estudiante con respecto a la fuente de ingresos?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Manifestar que cuentan con la fuente de ingresos de sus familiares y amigos.</a>
+    <a>Considerar que la fuente de ingresos no proviene de la venta del producto.</a>
+    <a>Creer que el alquiler de máquinas es una fuente de ingresos.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

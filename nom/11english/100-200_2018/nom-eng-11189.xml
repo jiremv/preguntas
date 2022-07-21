@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Choose one of the alternatives to complete the given fragment with a verb in the correct tense.</q0>
+    <g0></g0>
+    <q>Fragment:</q>
+    <g></g>
+    <q2>When we entered our living room, the toys were all over the floor. The kids __________ but they were finally
+        asleep.</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>played</a>
+        <a>were playing</a>
+        <a>had been playing</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Completa la siguiente expresión:
+	</q0>
+	<g0>
+	</g0>
+<q>Estudié mucho tiempo para este examen ... mi meta es ingresar a la
+UNCP; ..., anoche no pude dormir ... ahora me siento cansado.
+</q>
+<as r="R" correcta="1">
+<a>y-porque-sin embargo</a>
+<a>porque-sin embargo-así que</a>
+<a>a la par-a causa de-que</a>
+<a>entonces-obviamente-mas</a>
+<a>más-por ello-también</a>
+</as>
+<x>B.</x><x2>Porque-sin embargo-Así que</x2>
+</p>

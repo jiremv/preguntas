@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Lea la siguiente profecía bíblica y responda la pregunta.</q0>
+  <g0>./../../preguntas/nom/8religion/200-300_2019/nom-rel-8273-p.png</g0>
+  <q>¿En qué narración bíblica del Nuevo Testamento se comprueba el cumplimiento de esta profecía?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>En Lc 1, 26 -38: "La Anunciación".</a>
+    <a>En Mt 2, 13-14: "La huida a Egipto".</a>
+    <a>En Mt 2, 1-12: "Del oriente vienen unos magos".</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

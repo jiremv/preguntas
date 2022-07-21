@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>During last class, Lorena's students worked on the topic "environmental problems." Now, she wants to help her
+     students develop their speaking skills through a free activity. According to the teacher's goal, which of the
+     following strategies is it more appropriate to carry out?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>The teacher groups the students and asks each group to choose an environmental problem. The students reflect on
+       the problem and propose solutions for it. Each group presents their proposals to the rest of the class.</a>
+    <a>The teacher provides the students with a dialogue between two friends talking about environmental problems. The
+       teacher pairs up the students and assigns each student a role. The students practice the dialogue for some
+       minutes.</a>
+    <a>The teacher writes the following questions on the board: "Which environmental problem is affecting our country
+       nowadays?" and "Have the authorities adopted environmental policies to solve that problem?" The students
+       exchange their answers in pairs.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

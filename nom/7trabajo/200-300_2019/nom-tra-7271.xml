@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un equipo de estudiantes está implementando la fase de distribución y venta de los productos de su proyecto. La
+        entrega del producto se hace a domicilio y el pago se realiza contra entrega. Los repartidores en varias
+        ocasiones han retornado con el producto porque los clientes manifiestan que ya se desanimaron de adquirirlo. Con
+        el propósito de encontrar una solución, uno de los estudiantes ha sugerido lo siguiente: "Propongo que el
+        cliente, primero, pague el precio de lo que va a comprar y, luego, le entregamos su producto".</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes aspectos de la técnica SCAMPER corresponde a la propuesta del estudiante?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Sustituir (S).</a>
+        <a>Modificar (M).</a>
+        <a>Reordenar (R).</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

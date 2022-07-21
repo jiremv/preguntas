@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Katherine's students have been dealing with the topic "Personal belongings." She wants them to develop their
+     speaking skills through a communicative activity. Given the teacher's goal, which of the following activities is
+     appropriate?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>The teacher tells one student to come to the front of the classroom and sit down, facing his classmates. The
+       teacher writes the name of a personal belonging on the board, and tells the student to ask his classmates yes/no
+       questions to try to guess the name of the object. His classmates must give short responses.</a>
+    <a>The teacher asks the students to bring a personal belonging. They sit in groups and one student shows his object
+       to his peers and they ask him questions such as: "How did you get the object?", "Why do you like it?", "When did
+       you get it?", etc. The student answers his classmates' questions. Once there are no more questions, they swap
+       roles.</a>
+    <a>The teacher pastes a list with the names of different kinds of personal belongings on the walls outside the
+       classroom. The students sit in pairs. One student runs outside, reads one word and runs back to dictate the word
+       to his partner. His partner writes the word and then they swap roles. They stop when they've written all the
+       words from the list.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>4762 denuncias de maltrato ha contabilizado el Mnisterio de la Mujer y Desarrollo Social en 273 defensorías del niño y del adolescente en Lima durante el año 2010.
+	</q0>
+	<g0>
+	</g0>
+<q>
+La palabra MALTRATO en el texto significa:
+</q>
+<as r="R" correcta="1">
+<a>Castigo moral</a>
+<a>Castigo físico</a>
+<a>Castigo celestial</a>
+<a>Castigo popular</a>
+<a>Castigo de Dios</a>
+</as>
+<x>B.</x>
+</p>

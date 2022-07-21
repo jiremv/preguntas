@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Choose the most suitable response.</q0>
+  <q>COULD YOU PASS ME THE SALT, PLEASE?</q>
+  <as r="R" correcta="2">
+    <a>There isn't it.</a>
+    <a>Yes, I'd like some salt.</a>
+    <a>Sure, Here you are.</a>
+  </as>
+  <x>C.</x>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Manuela's students are going to give an oral presentation about "global warming and its possible consequences on
+      the planet." She asks her students to build their arguments using the following expressions:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11260-p.png</g0>
+  <q>Which of the following language functions corresponds to the expressions Manuela wants her students to practice?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Making predictions.</a>
+    <a>Making comparisons.</a>
+    <a>Making generalizations.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

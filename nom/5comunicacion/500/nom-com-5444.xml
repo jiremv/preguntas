@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+<q>Dentro de los textos narrativos, existen narraciones que
+se producen en interacción cotidiana, siendo estos:
+</q>
+	<g>./../preguntas/nom/5comunicacion/500/nom-com-5444-p.png
+	</g>
+<as r="R" correcta="4">
+<a>I-III-IV</a>
+<a>I-II-IV</a>
+<a>II-IV-VI</a>
+<a>II-III-IV</a>
+<a>III-IV-V</a>
+</as>
+<x>E.</x>
+</p>

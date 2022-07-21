@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>./../../preguntas/nom/4cta/100-200_2018/nom-cta-4106-p.png
+	</g0>
+	<q>En el último párrafo del texto, el autor cita un comentario de un adversario político de Olympe.
+¿Cuál es la finalidad principal del autor al citar este comentario?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>Señalar que Olympe terminó siendo considerada una criminal por sus orientaciones
+políticas.</a>
+		<a>Cuestionar la actitud intolerante de los líderes políticos montañeses hacia las ideas de
+sus rivales girondinos.</a>
+		<a>Mostrar cuál fue la perspectiva dominante sobre el papel de la mujer en la sociedad tras
+la Revolución francesa.</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

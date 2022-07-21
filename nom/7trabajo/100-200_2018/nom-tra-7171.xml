@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un equipo de estudiantes está vendiendo en su comunidad un producto elaborado por ellos mismos. Como parte del
+      análisis de sus ventas, el equipo ha decidido aplicar una encuesta para conocer qué percepción tienen sus clientes
+      sobre la calidad de su producto.</q0>
+  <g0></g0>
+  <q>A continuación, se muestra lo manifestado por uno de los miembros del equipo:</q>
+  <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7171-p.png</g>
+  <q2>¿A cuál de los siguientes tipos de encuesta se refiere Luisa?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>A encuesta cara a cara.</a>
+    <a>A encuesta vía telefónica.</a>
+    <a>A encuesta por correo electrónico.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

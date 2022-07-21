@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>A continuación, se muestran dos señales de seguridad.</q>
+  <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7157-p.png</g>
+  <q2>¿Cuál de los siguientes enunciados corresponde al significado de las señales mostradas?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>No se desplace por esta área sin hablar en voz alta.</a>
+    <a>No ingrese a esta área porque hay ruidos peligrosos.</a>
+    <a>No transite solo por esta área y solicite ayuda si tiene discapacidad auditiva.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

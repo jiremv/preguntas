@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente busca que sus estudiantes comprendan la importancia de las cartas católicas.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades es adecuada para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Indicarles que resuman algunas cartas católicas. Luego, pedirles que comparen los mensajes de las cartas
+       analizadas. Finalmente, pedirles que señalen cuáles consideran que son más relevantes para el cristianismo.</a>
+    <a>Explicarles el significado del término católico. Luego, indicarles que revisen algunas cartas y expliquen por qué
+       tienen un mensaje universal. Finalmente, explicarles que las cartas católicas están dirigidas a todos los
+       cristianos del mundo.</a>
+    <a>Describir el contexto en que se escribieron las cartas. Luego, pedirles que lean algunas cartas e identifiquen
+       sus enseñanzas. Finalmente, preguntarles por qué las diversas comunidades cristianas debían conocer y practicar
+       las mismas enseñanzas presentadas en las cartas.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

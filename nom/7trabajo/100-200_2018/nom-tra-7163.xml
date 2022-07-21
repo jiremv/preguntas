@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Considerando el análisis FODA de una empresa que vende bocaditos para eventos diversos, ¿cuál de las siguientes
+     alternativas corresponde a una fortaleza?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Contar con una demanda permanente de bocaditos para eventos.</a>
+    <a>Tener equipamiento funcionando a tiempo completo en el proceso de producción.</a>
+    <a>Hacer que la cámara de comercio de la localidad brinde seminarios y talleres especializados.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

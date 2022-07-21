@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO:
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5436-p.png</g0>
+<q>"Maridos agresores usarán brazaletes" es:
+</q>
+<as r="R" correcta="2">
+<a>Título.</a>
+<a>Entrada.</a>
+<a>Sobre-título.</a>
+<a>Cuerpo.</a>
+<a>Sub-título.</a>
+</as>
+<x>C.</x><x2></x2>
+</p>

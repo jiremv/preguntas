@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente busca recoger los saberes previos de sus estudiantes sobre la dignidad humana.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes acciones pedagógicas es adecuada para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Pedir que lean el resumen de Evangelium Vitae. A partir de la lectura, solicitar que expliquen por qué es deber
+       de un cristiano defender la dignidad humana.</a>
+    <a>Organizar a los estudiantes en grupos y entregarles el Catecismo. Después, pedirles que busquen por qué en el
+       Catecismo se dice que todas las personas son dignas.</a>
+    <a>Solicitar que seleccionen noticias en las que consideren que se vulnera la dignidad humana. Luego, pedirles que
+       ofrezcan algunas propuestas para revertir la situación presentada en dicha noticia.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

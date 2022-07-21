@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Durante el desarrollo de una sesión de aprendizaje, un docente entrega a los estudiantes el siguiente gráfico:</q0>
+  <g0>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10273-p1.png</g0>
+  <q>El docente les pide que, utilizando como referencia las líneas imaginarias (meridianos y paralelos), identifiquen
+     las similitudes y diferencias de los puntos A y B ubicados en el globo terráqueo mostrado. Las respuestas de tres
+     estudiantes son las siguientes:</q>
+  <g>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10273-p2.png</g>
+  <q2>¿Cuál de las respuestas de los estudiantes NO es correcta?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>La de Juana.</a>
+    <a>La de Aldo.</a>
+    <a>La de Diana.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

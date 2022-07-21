@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Una docente tiene como propósito que los estudiantes identifiquen situaciones consideradas accidentes de
+        trabajo. Para ello, los estudiantes previamente han leído las normas acerca de los accidentes de trabajo y
+        enfermedades profesionales. A continuación, se presentan tres situaciones que propusieron los estudiantes.</q0>
+    <g0></g0>
+    <q>¿Cuál de estas situaciones NO constituye un accidente de trabajo?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>La situación 1.</a>
+        <a>La situación 2.</a>
+        <a>La situación 3.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

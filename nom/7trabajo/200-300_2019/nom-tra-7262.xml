@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>A continuación, se presentan las siguientes señales:</q0>
+    <g0></g0>
+    <q>¿Cuál es la interpretación de las tres señales?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>¿Cuál es la interpretación de las tres señales?</a>
+        <a>En caso de incendio, ingrese con ropa que no sea inflamable y apague el fuego.</a>
+        <a>Material altamente inflamable, use ropa de protección y no provoque fuego.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes grupos de preguntas permite identificar un modelo de negocio centrado en los clientes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>¿Qué aspiraciones tienen los clientes? ¿Cómo se les puede ayudar a alcanzarlas?</a>
+        <a>¿Qué se le puede vender a los clientes? ¿Cómo se puede obtener beneficios de ellos?</a>
+        <a>¿Qué tipo de relación se debe establecer con los clientes? ¿Cómo se puede llegar a ellos de forma más eficaz?</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

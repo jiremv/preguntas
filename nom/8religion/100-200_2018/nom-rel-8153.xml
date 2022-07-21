@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente va a iniciar una sesión sobre las cinco grandes religiones del mundo (budismo, hinduismo,
+      cristianismo, judaísmo e islam).</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades es pertinente para recoger los saberes previos de los estudiantes sobre estas
+     religiones?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Plantearles que, en grupos, escriban lo que recuerden sobre las cinco grandes religiones del mundo. Luego,
+       pedirles que lo compartan con sus compañeros.</a>
+    <a>Pedirles que lean los documentos del Concilio Vaticano II sobre el diálogo interreligioso. Luego, preguntarles:
+       "¿Por qué es importante conocer las diversas religiones?".</a>
+    <a>Entregarles un cuadro resumen de las cinco grandes religiones del mundo. Luego, preguntarles: "¿Qué semejanzas y
+       diferencias encuentran entre estas religiones?".</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

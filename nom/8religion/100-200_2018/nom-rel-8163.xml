@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>En el aula de cuarto grado, la docente y los estudiantes conversan sobre la relación entre fe y ciencia. Algunos
+      estudiantes comentan que fe y ciencia se contradicen, pues, mientras la fe se basa en lo espiritual, la ciencia
+      apela a la razón.</q0>
+  <g0></g0>
+  <q>Ante ello, la docente les pregunta lo siguiente: "Si Dios creó la razón y la ciencia es producto de ella, ¿por qué
+     Dios crearía algo que lo contradiga?".</q>
+  <g></g>
+  <q2>¿Qué busca la docente principalmente con su intervención?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Generar conflicto cognitivo</a>
+    <a>Recoger saberes previos.</a>
+    <a>Recoger saberes previos.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

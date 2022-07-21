@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>A continuación, se presenta la gráfica correspondiente a los tipos de defectos identificados en el empaque de
+        cartón utilizado para las tortas de una empresa de pastelería.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes alternativas es una interpretación correcta de la gráfica presentada?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>74 defectos corresponden al material y al corte.</a>
+        <a>El 79% de los defectos corresponden a la impresión.</a>
+        <a>12 defectos corresponden al corte, que representan el 90% del total.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

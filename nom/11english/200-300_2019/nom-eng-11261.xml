@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Claudia's students have been working on giving directions to places. Now, she wants to take advantage of this
+      context to help her students improve their speaking skills in a meaningful way.</q0>
+  <g0></g0>
+  <q>Which of the following strategies is least appropriate for the teacher's purpose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>The teacher pairs up the students and assigns them a role. Student A is a foreigner who gets lost and student B
+       is a local citizen. The foreigner asks how to get to some specific places in town and the local citizen gives him
+       directions.</a>
+    <a>The teacher displays, on the board, a map of the neighborhood showing places and their locations. She writes
+       prompts such as: "How do I get...?", "Go straight", "Turn left", etc. In pairs, the students ask
+       for and give directions to get to some of those places.</a>
+    <a>The teacher gives each student a conversation between a police officer and a tourist who is asking for
+       directions. She tells them to practice the conversation with different classmates changing some prepositions and
+       places every time they talk to a new peer.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

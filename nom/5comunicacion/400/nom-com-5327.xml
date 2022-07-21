@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Señale la alternativa que presenta correcto empleo de las letras mayúsculas.</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Margarita reside en los Olivos.</a>
+        <a>Aún no regresa la señora la Torre.</a>
+        <a>En el circo, había un Tigre de Bengala.</a>
+        <a>Viajaremos por el océano Índico.</a>
+        <a>Fue notificado por el poder Judicial.</a>
+    </as>
+    <x>D.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

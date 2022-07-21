@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente busca orientar a sus estudiantes para que inicien la elaboración de su proyecto de vida cristiana.
+     ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Una docente busca orientar a sus estudiantes para que inicien la elaboración de su proyecto de vida cristiana.
+       ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?</a>
+    <a>Orientarlos para que revisen los evangelios y, así, puedan comprender el verdadero mensaje de vida de Jesucristo.</a>
+    <a>Orientarlos para que hagan una lista con las características que debe reunir un buen cristiano según la doctrina
+       de la Iglesia.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

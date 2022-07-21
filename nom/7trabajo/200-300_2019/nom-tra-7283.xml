@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Considerando que la utilidad está referida a la ganancia que se obtiene a partir de la venta de un bien,</q0>
+    <g0></g0>
+    <q>¿cuánto de utilidad genera la venta de 500 polos en un mes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>S/ 3036</a>
+        <a>S/ 6000</a>
+        <a>S/ 7000</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

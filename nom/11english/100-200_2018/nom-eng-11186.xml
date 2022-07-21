@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Choose one of the alternatives to complete the given sentence with the correct phrasal verb.</q0>
+  <g0></g0>
+  <q>Sentence:</q>
+  <g></g>
+  <q2>The couple ______the child ______ after his parents had that accident.</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>back - out</a>
+    <a>took - off</a>
+    <a>brought - up</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

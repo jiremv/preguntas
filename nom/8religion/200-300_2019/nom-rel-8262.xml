@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un docente y sus estudiantes están desarrollando una serie de actividades sobre el sacramento del Bautismo.
+      Durante la realización de uno de los trabajos grupales, una estudiante comentó al docente lo siguiente:</q0>
+  <g0>./../../preguntas/nom/8religion/200-300_2019/nom-rel-8262-p.png</g0>
+  <q>El docente busca ayudar a la estudiante a comprender por qué los recién nacidos son bautizados. ¿Cuál de las
+     siguientes acciones pedagógicas es adecuada para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Indicarle que lea el texto "Jesús envía a sus apóstoles" (Mt 28, 19-20). Luego, preguntarle por qué todos los
+       cristianos están obligados a bautizarse y a bautizar a las demás personas.</a>
+    <a>Indicarle que lea "La hija de Jairo" (Mc 5, 21-42). Luego, solicitar que explique si cree que la hija de Jairo
+       mostró su fe para ser curada o fue la fe de su padre el medio por el cual su hija recibió la gracia divina.</a>
+    <a>Indicarle que investigue en qué consiste el sacramento del Bautismo, y cuál es su materia y su forma. Luego,
+       sugerirle que asista a un rito de Bautismo de niños recién nacidos para que contraste los resultados de su
+       investigación.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

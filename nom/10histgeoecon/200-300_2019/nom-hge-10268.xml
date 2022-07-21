@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Como parte de una actividad que aborda el rol de las mujeres en la historia del Perú y luego de haber
+        investigado en diversas fuentes, un estudiante elaboró el siguiente texto:</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10268-p.png</g0>
+    <q>¿Cuál de los siguientes aprendizajes se evidencia en el texto elaborado por el estudiante?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>El reconocimiento de la sucesión causal de hechos a lo largo del tiempo.</a>
+        <a>El reconocimiento de cambios y permanencias de un fenómeno histórico.</a>
+        <a>El reconocimiento de diferentes ritmos de cambio en un proceso histórico.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

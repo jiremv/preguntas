@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7176-p1.png</g0>
+  <q>Luego, les pregunta: "¿Cuál es la acción inmediata de primeros auxilios que se le debe brindar a este operario?".</q>
+  <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7176-p2.png</g>
+  <q2>¿Cuál de los estudiantes respondió correctamente?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Álvaro</a>
+    <a>Betania</a>
+    <a>Corina</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

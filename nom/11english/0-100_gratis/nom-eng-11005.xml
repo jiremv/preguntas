@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Choose the answer you think fits best into the gaps.</q0>
+  <q>"What are you doing next Monday?" "I ............. to New York, I have my ticket."</q>
+  <as r="R" correcta="3">
+    <a>flies</a>
+    <a>am goingto fly</a>
+    <a>have flown</a>
+    <a>am flying</a>
+  </as>
+  <x>D.</x>
+</p>

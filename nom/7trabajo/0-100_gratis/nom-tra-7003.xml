@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd"> 
+<p>
+  <q>
+   El tallador Hernández ha esculpido caballos de una sola pieza de material caoba y necesita después del lijado
+   aplicar la técnica conocida como ...................... para asegurar su conservación y darle una mejor presentación.
+  </q>
+  <as r="R" correcta="1">
+    <a>encerado</a>
+    <a>barnizado</a>
+    <a>masillado</a>
+    <a>torneado</a>
+    <a>clavado</a>
+  </as>
+  <x>B.
+  </x>
+</p>

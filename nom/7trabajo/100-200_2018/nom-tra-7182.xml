@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un equipo de estudiantes está discutiendo acerca de qué personería jurídica es más conveniente para constituir su
+       empresa. Ricardo, un miembro del equipo, dice: "Si aspiramos a tener una gran empresa, nosotros cinco podemos
+       constituir una Sociedad Anónima Abierta (SAA) porque algunas de las grandes empresas tienen este tipo de
+       personería jurídica. Además, tiene prestigio y permite acceder a créditos financieros con facilidad".</q>
+    <g></g>
+    <q2>¿Cuál es el principal error que se evidencia en la afirmación del estudiante?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Creer que los otros tipos de personería jurídica tienen menos prestigio.</a>
+        <a>Elegir un tipo de sociedad inadecuado para el número de socios que conforman la empresa.</a>
+        <a>Considerar que con una Sociedad Anónima Abierta se puede obtener un crédito con facilidad.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

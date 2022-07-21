@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5419-p.png
+	</g0>
+<q>En el texto leido, el problema que se hace referencia es ...
+</q>
+<as r="R" correcta="0">
+<a>familiar</a>
+<a>cultural</a>
+<a>educativo</a>
+<a>psicológico</a>
+<a>social</a>
+</as>
+<x>A.</x><x2>En el texto leído , el problema que hace referencia: Familiar</x2>
+</p>

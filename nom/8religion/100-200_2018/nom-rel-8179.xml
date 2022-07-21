@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Después de la lectura, algunos estudiantes manifestaron que no comprendieron el significado de la frase "setenta
+      veces siete".</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades es adecuada para que los estudiantes comprendan el significado de esta frase?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Indicarles que lean textos bíblicos en los que puedan identificar que el 7 significa perfección. Sobre esa base,
+       preguntarles por qué creen que Jesús amplió y repitió el 7 para explicar cómo debía ser el perdón.</a>
+    <a>Indicarles que los números en la Biblia no representan una cantidad literal, sino que son símbolos. Luego,
+       pedirles que busquen otras narraciones que contengan números y planteen hipótesis respecto de su significado.</a>
+    <a>Indicarles que la palabra 7 en hebreo proviene de la raíz "Sabah" que significa satisfacción o perfección. Luego,
+       explicarles que Jesús usó el 7 en la parábola para llamar la atención de los judíos, pues este era un número
+       sagrado para ellos</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

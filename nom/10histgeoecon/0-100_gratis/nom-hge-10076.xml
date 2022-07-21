@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10176-p.png</g0>
+  <q>A partir del croquis correspondiente al año 2002, ¿cuál de los siguientes conjuntos de preguntas es más pertinente
+     para que el equipo explique el orden espacial en el paisaje?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>¿Cómo crees que era el relieve de la localidad en esa época? ¿Cómo crees que era el clima de la localidad en el
+       año 2002? ¿Qué tipos de productos se cultivaban en la localidad en ese año?</a>
+    <a>¿Dónde se encuentran las viviendas que se muestran en este croquis? ¿Qué dirección siguen las vías que aparecen
+       en este croquis? ¿Qué espacios se encuentran alrededor de las vías?</a>
+    <a>¿Por qué las viviendas están distribuidas de la forma en que aparece en este croquis? ¿Por qué se han distribuido
+       las vías de la manera como se muestra en este croquis? ¿Cómo está organizado el espacio agrícola?</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

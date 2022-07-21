@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Después del riego de machaco se debe esperar algunos días 
+    hasta que el suelo se seque un poco hasta un nivel en el que las herramientas puedan penetrarlo y desmenuzarlo con 
+    facilidad sin que esto produzca barro ni bloques de tierra.</q0>
+  <q>
+    Dependiendo del suelo y clima ¿cuántos días se debe esperar?.
+  </q>
+  <as r="R" correcta="2">
+    <a>de 1 a 2 días</a>
+    <a>de 1 a 3 días</a>
+    <a>de 2 a 4 días</a>
+    <a>de 3 a 5 días</a>
+    <a>de 4 a 6 días</a>
+  </as>
+  <x>C.
+  </x>
+  <i>El riego de machaco consiste en un riego pesado o prolongado (inundación) que permite que el suelo duro 
+  pueda absorber el agua a través de las capas duras y de este modo pueda ponerse más suave para poder prepararlo con 
+  las herramientas. Además también se utiliza para ahogar larvas y pupas (estadíos inmaduros de insectos plaga) y permite
+  la germinación de malas hierbas, las cuales serán incorporadas al suelo durante la preparación.
+Después del riego de machaco se debe esperar algunos días (2 ? 4, dependiendo del suelo y clima) hasta que el suelo se 
+seque un poco hasta un nivel en el que las herramientas puedan penetrarlo y desmenuzarlo con facilidad sin que esto
+produzca barro ni bloques de tierra (terrones).</i>
+</p>

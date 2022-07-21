@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes afirmaciones expresa una de las características del modelo de negocio LEAN CANVAS?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Su foco está en los clientes y en la relación con ellos.</a>
+    <a>Sus aspectos o módulos tienen mayor dependencia entre sí.</a>
+    <a>Su prioridad está en la aportación de valor de los productos.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

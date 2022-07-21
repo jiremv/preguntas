@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En la sesión anterior, los estudiantes han utilizado diversas fuentes para explicar las causas de la expansión
+        territorial de la República romana. En esta sesión, el docente les presenta el siguiente problema:</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10161-p.png</g0>
+    <q>A continuación, pide a los estudiantes que elaboren hipótesis sobre las causas que explican el crecimiento
+       demográfico de la República romana.</q>
+    <g></g>
+    <q2>¿Cuál de las siguientes propuestas de los estudiantes evidencia la elaboración de una hipótesis en relación con
+        el problema planteado por el docente?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Inés: ?Muchos territorios se anexaron a la República romana debido a sus conquistas militares, ello implicó
+           que las poblaciones conquistadas pasaron a formar parte de sus dominios. Por eso, yo considero que el
+           crecimiento demográfico fue consecuencia de esas conquistas?.</a>
+        <a>Margarita: ?Son diversas las fuentes históricas que confirman el crecimiento demográfico de la República
+           romana. Yo encontré información sobre los últimos censos realizados en la República romana, y según ellos, el
+           número de los ciudadanos fue aumentando?.</a>
+        <a>Santiago: ?Según un especialista en historia, el crecimiento demográfico de la República romana generó la
+           expansión territorial de las ciudades y la creación de otras nuevas. Por eso, el estilo arquitectónico de
+           Roma se expandió en varias partes de Europa?.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

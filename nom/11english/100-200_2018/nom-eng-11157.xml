@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0>./../../preguntas/nom/11english/100-200_2018/nom-eng-11157-p.png</g0>
+	<q>Which approach to teaching grammar is Brenda trying to promote?</q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="2">
+		<a>Inductive approach.
+
+</a>
+		<a>Deductive approach.</a>
+		<a>Functional approach.</a>
+	</as>
+	<x>C</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

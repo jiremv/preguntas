@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En el marco del Currículo Nacional de Educación Básica, un equipo de docentes está analizando el desempeño
+        "Selecciona en equipo necesidades o problemas de un grupo de usuarios de su entorno para mejorarlo o resolverlo
+        a partir de su campo de interésâ€¦" de la competencia "Gestiona proyectos de emprendimiento económico o social".</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes capacidades corresponde a dicho desempeño?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Trabaja cooperativamente para lograr objetivos y metas.</a>
+        <a>Aplica habilidades técnicas.</a>
+        <a>Crea propuestas de valor.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

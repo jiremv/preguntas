@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Cuáles son los fines de la Santa Misa?</q>
+  <as r="CHECK" correcta="0,3">
+    <a>Honrar a Dios.</a>
+    <a>Acompañar al sacerdote de nuestra parroquia.</a>
+    <a>Pasar un divertido día.</a>
+    <a>Dar gracias a Dios por los beneficios recibidos.</a>
+    <a>Pedir beneficios espirituales y corporales.</a>
+    <a>Pedir por todos los cristianos.</a>
+  </as>
+  <x>A, D.</x>
+</p>

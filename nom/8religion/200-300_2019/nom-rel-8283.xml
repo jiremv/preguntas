@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente busca que los estudiantes reconozcan la importancia del concilio Vaticano II para la Iglesia católica.
+     ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que el docente logre su propósito? 82</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Proponerles analizar los cambios sociales que logró el concilio Vaticano II. Luego, preguntar si creen que es
+       necesario convocar un concilio hoy y cuál sería la finalidad. Finalmente, pedir que, en grupos, señalen qué creen
+       que debería cambiar la Iglesia católica para atender las necesidades de la sociedad actual.</a>
+    <a>Pedir que analicen el documento conclusivo del concilio Vaticano II. Luego, solicitar que identifiquen al papa
+       que lo organizó y las razones de por qué duró tanto tiempo. Finalmente, pedir que realicen una línea de tiempo
+       con los aportes de los papas que intervinieron en dicho concilio.</a>
+    <a>Presentar el contexto de la Iglesia católica antes del concilio Vaticano II: celebración de misas, uso del latín,
+       formación de los sacerdotes, entre otros. Luego, presentar los cambios que produjo dicho concilio. Finalmente,
+       pedir que expliquen por qué creen que se introdujeron esos cambios.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

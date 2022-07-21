@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Durante una sesión de aprendizaje relacionada con el desarrollo del Renacimiento europeo en el siglo XVI, un
+        docente presenta a los estudiantes láminas de esculturas griegas, y de pinturas y esculturas renacentistas para
+        que las describan. Luego, a partir de lo anterior, el docente les pide que, en equipos, presenten una propuesta
+        de problema de investigación histórica.</q0>
+    <g0></g0>
+    <q>Las propuestas de tres equipos de estudiantes son las siguientes:</q>
+    <g>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10262-p.png</g>
+    <q2>¿Cuál de las propuestas es más adecuada para iniciar una investigación histórica?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>La del equipo 1.</a>
+        <a>La del equipo 2.</a>
+        <a>La del equipo 3.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

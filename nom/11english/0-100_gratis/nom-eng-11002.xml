@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Read the paragraph.</q0>
+  <g0>./../../preguntas/nom/11english/0-100_gratis/nom-eng-11002-p.png</g0>
+  <q>Then read the statements and check true</q>
+  <as r="CHECK" correcta="1,2,4">
+    <a>Ellen Martin?s party is on Saturday.</a>
+    <a>Ellen is inviting twenty people to her party.</a>
+    <a>The menu includes seafood, fruit, and a rice dish.</a>
+    <a>Ellen has a brother.</a>
+    <a>Ellen's sister works for an airline.</a>
+    <a>Alan doesn?t like Latin music.</a>
+    <a>Alan and Amy are colleagues</a>
+  </as>
+  <x>B,C,E.</x>
+</p>

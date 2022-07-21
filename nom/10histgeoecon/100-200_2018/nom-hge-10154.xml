@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Lea el siguiente texto:</q>
+  <g>./../../preguntas/nom/10histgeoecon/100-200_2018/nom-hge-10154-p.png</g>
+  <q2>En el texto presentado, ¿cuál de las siguientes alternativas señala la característica principal del análisis
+      realizado por el autor sobre la Primera Guerra Mundial?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>El reconocimiento de la simultaneidad de hechos durante el desarrollo de la Primera Guerra Mundial.</a>
+    <a>La explicación de los cambios y permanencias tras el desarrollo de la Primera Guerra Mundial.</a>
+    <a>La identificación de la multicausalidad de los orígenes de la Primera Guerra Mundial.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

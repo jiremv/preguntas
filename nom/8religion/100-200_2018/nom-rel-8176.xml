@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8176-p.png</g0>
+  <q>La docente busca que los estudiantes lean la parábola "El que no perdonó a su compañero" a través del método de la
+     Lectio Divina.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes actividades corresponde al paso de la contemplación de este método?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Preguntarles: "¿Qué significa que debes perdonar setenta veces siete? ¿Consideras que perdonas de verdad?".</a>
+    <a>Preguntarles: "¿Qué camino te indica Dios a través de este texto? ¿Qué debes hacer para actuar según el mensaje
+       recibido?".</a>
+    <a>Preguntarles: "¿Qué le dirías a Dios para agradecerle por el mensaje que te entregó a través del texto? ¿Qué le
+       pedirías para que te ayude a conocer el verdadero perdón?".</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

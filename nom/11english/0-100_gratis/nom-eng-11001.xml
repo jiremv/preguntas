@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Read the e-mail. Then answer each q. Circle the letter of the correct answer.</q0>
+  <g0>./../../preguntas/nom/11english/0-100_gratis/nom-eng-11001-p.png</g0>
+  <q>Who is Beth writing to?</q>
+  <as r="R" correcta="2">
+    <a>her mother</a>
+    <a>her friend</a>
+    <a>her cousin</a>
+  </as>
+  <x>C.</x>
+</p>

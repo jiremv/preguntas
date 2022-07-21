@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0></q0>
+	<g0></g0>
+	<q>Un docente presenta a los estudiantes la siguiente situación:</q>
+   <g>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10283-p.png</g>
+	<q2>Para el análisis de la situación, el docente solicita a los estudiantes que recopilen información
+que les permita identificar las relaciones entre lo natural y lo social. ¿Cuál de los siguientes
+conjuntos de preguntas es más pertinente para guiar a los estudiantes en esta actividad?</q2>
+   <g2></g2>
+	<as r="R" correcta="2">
+		<a>¿Cuál es la relación entre el incremento de la temperatura del planeta y el cambio
+climático? ¿Qué impacto tiene el cambio climático en la ocurrencia de diversos fenómenos
+naturales? ¿Cómo está siendo afectada la biodiversidad por el cambio climático?
+</a>
+		<a>¿Cuáles son las consecuencias políticas de las migraciones descritas en la fuente? ¿Cuáles
+son las consecuencias sociales? ¿Qué acciones deben emprender los países receptores
+de la migración causada por el cambio climático?</a>
+		<a>¿Cuáles son las causas del cambio climático? ¿Qué consecuencias pueden generar las
+migraciones descritas en la situación? ¿Por qué algunas poblaciones del mundo son más
+vulnerables a los efectos del cambio climático?</a>
+	</as>
+	<x>C</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

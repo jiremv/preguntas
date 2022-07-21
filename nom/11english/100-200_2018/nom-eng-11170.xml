@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>A CEBA teacher wants his students to predict content in a communicative way. He is going to play the audio of an
+       adventure trip. Before he plays the audio, which of the following strategies is it more appropriate to apply to
+       help his students predict the content of the audio?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>The teacher pastes three titles for the story on the board: "The most exciting adventure ever", "The scariest
+           experience in my life" and "The most difficult activity I have done." Next, he asks the students to work in
+           pairs to select one of the titles as a guess for the listening they are about to hear.</a>
+        <a>The teacher writes on the board four words related to the audio: "adventure", "trip", "water" and "rapids."
+           In pairs, the students use those words to discuss the possible context in which the story they are about to
+           hear will take place. Then the teacher asks the students to present their ideas to the rest of the class.</a>
+        <a>The teacher sticks a picture of a person doing bungee jumping and writes two questions on the board: "What
+           activity is the person doing?" and "Do you think the activity is safe or dangerous?" Next, the students have
+           one minute to think about possible answers. Finally, the teacher elicits the students' answers and writes the
+           most common ones on the board.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

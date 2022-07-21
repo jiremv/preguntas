@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes características corresponde a la teoría para resolver problemas inventivos con TRIZ?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Se aborda un problema desde varias perspectivas, haciendo preguntas en torno a él.</a>
+    <a>Se presentan problemas como contradicciones técnicas con el propósito de resolverlos utilizando algunos de sus
+       principios.</a>
+    <a>Se identifican las características del producto con la finalidad de modificar y perfeccionar algunas de ellas.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

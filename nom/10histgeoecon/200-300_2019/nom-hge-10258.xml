@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente entrega a los estudiantes una caricatura diseñada por el artista alemán Thomas Theodor Heine que fue
+        publicada en la revista Simplicissimus en julio de 1900. El título de la caricatura es: "El sueño de la
+        emperatriz de China", y en la parte inferior del marco dice lo siguiente: "Los europeos vierten las bendiciones
+        de su cultura en el mundo". Además, el líquido que está vertiendo el caballero sobre el planeta Tierra y el que
+        está goteando de la espada es un líquido rojo.</q0>
+    <g0>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10258-p.png</g0>
+    <q>Luego de que los estudiantes han trabajado acerca del contexto histórico en el que se produjo esta fuente, la
+       docente desea brindarles pautas para que interpreten el mensaje de la caricatura.</q>
+    <g></g>
+    <q2>¿Cuál de los siguientes conjuntos de pautas es más adecuado para lograr el propósito de la docente?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Primero, pedir a los estudiantes que expliquen a quién representa el caballero y qué simbolizan la cornucopia
+           y la espada en la caricatura. Luego, solicitarles que expliquen la posición política que expresa la
+           caricatura respecto de la expansión del imperialismo.</a>
+        <a>Primero, pedir a los estudiantes que busquen otras caricaturas de la época que respaldan al imperialismo y al
+           colonialismo. Luego, solicitarles que expliquen por qué es importante reconocer más de una perspectiva sobre
+           un mismo proceso histórico.</a>
+        <a>Primero, pedir a los estudiantes que describan los elementos y el escenario que representa la caricatura.
+           Luego, solicitarles que indiquen cuál de los elementos de la caricatura les ha llamado más la atención.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

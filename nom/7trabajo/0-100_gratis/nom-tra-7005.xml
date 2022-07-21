@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q>Al inicio del año académico se elaboran nóminas de matrícula. 
+  ¿Qué herramientas de Microsoft Word Office son necesarias para este fin?
+  </q>
+  <as r="R" correcta="3">
+    <a>Hipervínculos</a>
+    <a>Internet</a>
+    <a>Referencias</a>
+    <a>Tablas</a>
+    <a>Gráficos</a>
+  </as>
+  <x>D.
+  </x>
+  <i>Una nómina de matrícula contiene tablas compuestas por filas y columnas.</i>
+</p>

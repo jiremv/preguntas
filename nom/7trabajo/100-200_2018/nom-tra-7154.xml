@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente tiene como propósito desarrollar la siguiente capacidad: "Realiza procesos de estudio de mercado para la
+     producción de bienes sencillos" y desea plantear indicadores de evaluación para su propósito.</q>
+  <g></g>
+  <q2>¿Cuál de los siguientes indicadores se alinea con la capacidad que tiene como propósito desarrollar el docente?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Reconoce los recursos del mercado que tienen un valor agregado.</a>
+    <a>Identifica las preferencias del mercado local realizando un focus group.</a>
+    <a>Utiliza la técnica SCAMPER para crear un bien que atienda las necesidades del mercado.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

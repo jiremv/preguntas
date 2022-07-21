@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Read the following paragraph and choose among the underlined connectors, the one that does NOT correspond to the
+     context presented.</q>
+  <g>./../../preguntas/nom/11english/200-300_2019/nom-eng-11290-p.png</g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>as far as</a>
+    <a>for instance</a>
+    <a>either</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

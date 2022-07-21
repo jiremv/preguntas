@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO:
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5434-p.png</g0>
+<q>Determine la sumilla de lo subrayado:
+</q>
+<as r="R" correcta="1">
+<a>Fuentes del conocimiento.</a>
+<a>Diferencia entre información y conocimiento.</a>
+<a>Estrategias de análisis y reflexión.</a>
+<a>Significado de los mensajes.</a>
+<a>La información se convierte en conocimiento por el análisis.</a>
+</as>
+<x>B.</x><x2></x2>
+</p>

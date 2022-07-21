@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>La docente busca que los estudiantes analicen la parábola "La oveja perdida" a través del método histórico crítico.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes actividades se enmarca en el método histórico crítico?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Indicar que lean la parábola "La oveja perdida". Luego, preguntar: "¿Por qué el pastor dejó todo para buscar a
+       una oveja desobediente? ¿Qué hubiese pasado con la oveja si es que el pastor no la buscaba?". Finalmente, pedir
+       que expliquen cuál es el mensaje que Jesús entrega a través del texto.</a>
+    <a>Pedir que lean la parábola "La oveja perdida" y los comentarios del contexto bíblico. Luego, explicar quiénes
+       eran los fariseos y los maestros de la Ley, y por qué el oficio de pastor era despreciado por ambos. Finalmente,
+       preguntar: "¿Por qué creen que Jesús escogió a un pastor para dar una enseñanza a quienes lo criticaban?".</a>
+    <a>Presentar el testimonio de un hombre que se alejó de Dios y que luego de un tiempo volvió arrepentido a la
+       Iglesia. Luego, pedir que lean y analicen la parábola "La oveja perdida". Finalmente, preguntar: "¿Consideras que
+       estás cerca de Dios o te has alejado de él? ¿Qué acciones te acercan o te alejan de Dios?".</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

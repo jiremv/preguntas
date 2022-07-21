@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Martin wants to help his students improve their speaking skills. Before starting a speaking practice, he provides
+       them with the following expressions: "I wouldn't be surprised if..." / "Knowing him, he'll..." / "I bet..."</q>
+    <g></g>
+    <q2>Considering the expressions provided, which is the language function that Martin wants his students to practice?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Making guesses.</a>
+        <a>Making complaints.</a>
+        <a>Making generalizations.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

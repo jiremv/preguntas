@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Un equipo de estudiantes comenta que, a pesar de que sus productos no tienen fallas, la venta de estos ha
+       disminuido semana tras semana, por lo que el docente, al monitorear estos resultados, plantea al equipo realizar
+       la siguiente tarea:</q>
+    <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7190-p.png</g>
+    <q2>¿Por qué esta tarea es de alta demanda cognitiva?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Porque la tarea planteada exige evaluar la situación para resolverla.</a>
+        <a>Porque la tarea planteada exige realizar varias acciones que hay que trabajar en equipo.</a>
+        <a>Porque la tarea exige la incorporación de un presentador de diapositivas para dar a conocer la solución.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

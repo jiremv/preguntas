@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>El propósito de un docente es que los estudiantes reconozcan la relevancia histórica de las ideas y propuestas de Martin Luther King a favor de los derechos civiles de la población afrodescendiente en EE. UU. </q0>
+	<g0>¿Cuál de las siguientes actividades es más adecuada para alcanzar el propósito planteado?
+</g0>
+	<q></q>
+   <g></g>
+	<q2></q2>
+   <g2></g2>
+	<as r="R" correcta="1">
+		<a>Pedir a los estudiantes que busquen información sobre los postulados de Martin Luther King contra el segregacionismo en EE. UU. en los años sesenta. Luego, solicitarles que describan el liderazgo que ejerció en algunos movimientos sociales de la época. Por último, pedirles que expliquen cómo sus ideas han influido en los movimientos sociales de la actualidad. </a>
+		<a>Pedir a los estudiantes que busquen información sobre los movimientos sociales a favor de los derechos civiles en América Latina en el siglo XX. Luego, solicitarles que los ubiquen en una línea de tiempo. Por último, pedirles que identifiquen cuáles son los movimientos sociales latinoamericanos que coincidieron temporalmente con el movimiento social que lideró Martin Luther King.  </a>
+		<a>Pedir a los estudiantes que busquen información acerca de la situación de la población afrodescendiente durante las décadas del cincuenta y sesenta en EE. UU. Luego, solicitarles que identifiquen los casos más mediáticos de segregacionismo en ese país durante las décadas mencionadas. Por último, pedirles que expliquen cómo dicho contexto influyó en los postulados de Martin Luther King a favor de los derechos civiles.</a>
+	</as>
+	<x>B</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

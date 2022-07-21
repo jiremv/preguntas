@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Lea los siguientes enunciados y determine cuál presenta verbo en modo subjuntivo.</q>
+    <q2></q2>
+    <as r="R" correcta="4">
+        <a>En este preciso instante, te acercarás y le pedirás disculpas.</a>
+        <a>Nos anunció que se retirará de la universidad el próximo año.</a>
+        <a>Apenas hubo cenado por la clausura de fin de año, se marchó.</a>
+        <a>Mañana habré terminado de empacar mis objetos personales.</a>
+        <a>Dudo que haya terminado su romance con aquel muchacho.</a>
+    </as>
+    <x>E.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Belinda's students are participating in a guessing game in which they have to give descriptions of people, places
+     and things. Which of the following grammatical structures is most appropriate for the language function Describing
+     people, places and things?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Adverbs</a>
+    <a>Adjectives</a>
+    <a>Prepositions</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5417-p.png</g0>
+<q>El texto descriptivo leído es un ejemplo de ...
+</q>
+<as r="R" correcta="4">
+<a>carácter</a>
+<a>caricatura</a>
+<a>etopeya</a>
+<a>retrato</a>
+<a>prosopografía</a>
+</as>
+<x>E.</x><x2>Prosopografía</x2>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5423-p.png
+	</g0>
+<q>¿Cuál es la idea principal del texto?
+</q>
+<as r="R" correcta="4">
+<a>El autor de El si de las niñas es Moratín</a>
+<a>Los padres imponen a la mujer un matrimonio pactado</a>
+<a>Las organizaciones de derechos humanos respetan las tradiciones
+afganas</a>
+<a>El año 2003, en Herat se inmolaron 300 mujeres</a>
+<a>Actualmente, en varios países, la mujer es considerada esclava del
+esposo</a>
+</as>
+<x>E.</x><x2>Actualmente, en varios países, la mujer es considerada esclava del
+esposo.</x2>
+</p>

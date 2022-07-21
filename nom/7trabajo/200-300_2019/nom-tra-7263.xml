@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>La docente y los estudiantes han llegado a la conclusión de que es necesario agregar una señal de seguridad para
+        indicar el uso de protectores auditivos en el taller, pues, al encender las máquinas, estas emiten ruidos muy
+        fuertes que pueden afectar la audición.</q0>
+    <g0></g0>
+    <q>¿Qué características debe tener esta señal de seguridad?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Forma circular, color de fondo azul y pictograma de color blanco.</a>
+        <a>Forma triangular, color de fondo amarillo y pictograma de color negro.</a>
+        <a>Forma rectangular, color de fondo verde y pictograma de color blanco.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

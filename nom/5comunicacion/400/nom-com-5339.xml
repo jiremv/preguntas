@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes enunciados está bien puntuado?</q>
+    <q2></q2>
+    <as r="R" correcta="3">
+        <a>Si no hubiera llegado a la isla habría muerto, en el mar.</a>
+        <a>Esos problemas, debes resolverlos con él, amigo mío.</a>
+        <a>La señora, cocina riquísimo, pero no le gusta hacerlo.</a>
+        <a>Aun cuando deje de verte, nunca dejaré de escribirte.</a>
+        <a>La niña, bailaba con su padre; el niño, con su madre.</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

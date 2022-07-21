@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>Completa la oración con los conectores lógicos más apropiados.
+	</q0>
+	<g0>
+	</g0>
+<q>... estaba enfermo rindió el examen ... era su última oportunidad.
+</q>
+<as r="R" correcta="1">
+<a>Porque-en suma</a>
+<a>A pesar de que-en vista de que</a>
+<a>Obviamente-ya que</a>
+<a>Pero-vale decir</a>
+<a>Si bien-en otras palabras</a>
+</as>
+<x>B.</x><x2></x2>
+</p>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>En una actividad de aprendizaje, un equipo de estudiantes está aplicando las 4P del marketing a su propuesta de
+     valor.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes acciones propuestas por los estudiantes se relaciona con Plaza?</q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>José: "Tenemos que discutir el valor de intercambio de nuestro producto".</a>
+    <a>Javier: "Tenemos que satisfacer una necesidad del consumidor y nuestra propuesta de valor es buena para llegar a
+       esa meta".</a>
+    <a>Verónica: "Tenemos que listar todas las actividades que vamos a realizar para decidir la forma como
+       comercializaremos nuestro producto".</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

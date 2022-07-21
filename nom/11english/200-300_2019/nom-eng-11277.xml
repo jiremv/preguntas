@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Augusto's students are going to work in pairs in order to practice how to make invitations. After Augusto assigns
+      each student a role and gives instructions for the activity, he provides the students with the following
+      expressions:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11277-p.png</g0>
+  <q>Considering the expressions provided, which of the following language functions is mainly going to be promoted in
+     Augusto's activity?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Saying no politely.</a>
+    <a>Giving clarifications.</a>
+    <a>Expressing uncertainty.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

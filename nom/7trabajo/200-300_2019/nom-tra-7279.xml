@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En equipo, los estudiantes están analizando un caso referido a los procedimientos para el registro de una
+        empresa de elaboración de alimentos naturales ante la Superintendencia Nacional de Registros Públicos (SUNARP).
+        Durante el monitoreo, la docente escucha que uno de los estudiantes comenta:</q0>
+    <g0></g0>
+    <q>¿Cuál es el error que se presenta en la afirmación del estudiante?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Considerar que la razón social incluye las siglas del tipo de empresa.</a>
+        <a>Considerar que en la SUNARP se registra la razón social de la empresa.</a>
+        <a>Considerar que el nombre de la razón social y la marca significan lo mismo.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

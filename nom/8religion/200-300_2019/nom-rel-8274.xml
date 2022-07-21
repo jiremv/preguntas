@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un docente se propone iniciar su sesión con una historia bíblica sobre la importancia de nacer del agua y del
+      espíritu para poder entrar al Reino de los Cielos.</q0>
+  <g0></g0>
+  <q>¿Cuál de las siguientes historias bíblicas debe emplear el docente para que logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>"Jesús sana a un ciego de nacimiento", (Jn 9, 1-41).</a>
+    <a>"Jesús y la samaritana", (Jn 4, 1-42).</a>
+    <a>"Jesús y Nicodemo", (Jn 3, 1-15).</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

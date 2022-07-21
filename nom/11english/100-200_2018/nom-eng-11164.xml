@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Mario's students have been talking about "Social networking." Since the students got interested in that topic, he
+     wants to use that context to have them improve their oral skills through a communicative activity.</q>
+  <g></g>
+  <q2>Given Mario's goal, which activity is it least appropriate to carry out?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>The teacher tells the students to make a list of either the pros or cons of social networking and add some
+       arguments such as examples or opinions to support their ideas. Then he asks two students with different points of
+       view to get together. Finally, he asks them to have a short discussion on the topic.</a>
+    <a>The teacher writes the title "Social networking" on the board. Then he asks as many students as possible to go to
+       the board and write words related to that title. Finally, the teacher pairs up the students and tells them to
+       take turns to speak about social networking for one minute using the words from the board.</a>
+    <a>The teacher writes the following questions on the board: "What social networking sites do you use?", "What
+       information do you have on those sites?" and "What are some good/bad points about social networking?" Then he
+       puts the students in groups and tells them to discuss their answers. Finally, the students share their findings
+       with the class.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

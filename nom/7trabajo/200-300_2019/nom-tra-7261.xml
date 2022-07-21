@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Al dar pautas para que se organicen en equipos de trabajo, una docente observa que un número significativo de
+        estudiantes empieza a murmurar y a discutir entre ellos. Al pedirles que tomen la palabra y opinen al respecto,
+        uno de ellos manifestó: "No queremos trabajar con ellos -señalando a algunos de sus compañeros-; ya hemos
+        realizado trabajos juntos y no han sido responsables. Incluso, retrasan el cumplimiento de nuestras tareas, a
+        pesar de que son muy hábiles".</q0>
+    <g0></g0>
+    <q>¿Qué competencia socioemocional debe promover la docente en esta situación?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Adaptación al cambio.</a>
+        <a>Trabajo cooperativo.</a>
+        <a>Perseverancia.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

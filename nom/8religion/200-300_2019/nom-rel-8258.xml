@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Cuál es el mensaje principal de "El ciego de Jericó"?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Enseñarnos que la fe es un don de Dios.</a>
+    <a>Enseñarnos que la fe es una fuerza que transforma.</a>
+    <a>Enseñarnos que la fe es un premio por nuestras acciones.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

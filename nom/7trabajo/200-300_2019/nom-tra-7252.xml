@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un docente, luego de culminar una sesión acerca de los tipos de personería, ha planificado la sesión de
+        aprendizaje "Identificamos los impuestos que tributan las empresas y/o negocios en el Perú".</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones pedagógicas es más pertinente para activar los saberes previos de los
+       estudiantes?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Pedir que ingresen a la página web de la SUNAT, que busquen información relacionada con los regímenes
+           tributarios. Luego, que respondan al siguiente cuestionario: "¿Cuántos tipos de empresas existen?, ¿cuál es
+           la personería que les corresponde?, ¿cuánto les toca pagar de impuestos según el régimen elegido?".</a>
+        <a>Mostrar las imágenes y características de las micro, pequeña y mediana empresa de la localidad. Luego,
+           preguntar: "¿Qué personería tendrán las empresas que se presentan en las imágenes?, ¿estas empresas pagarán
+           impuestos?, ¿todas ellas pagarán el mismo monto de impuestos?, ¿por qué?".</a>
+        <a>Presentar un video en el que se observen ejemplos de empresas que pertenecen a los diferentes regímenes
+           tributarios del Perú. Luego, a partir de este video, preguntar: "¿Cuáles son los tipos de personería?, ¿qué
+           características tienen?, ¿cuántos regímenes tributarios existen en el Perú?".</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

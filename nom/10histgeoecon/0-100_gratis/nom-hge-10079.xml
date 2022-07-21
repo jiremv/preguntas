@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Durante una sesión de aprendizaje, una docente presenta a los estudiantes la siguiente situación:</q0>
+  <g0>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10179-p.png</g0>
+  <q>Luego de leer con los estudiantes la situación presentada, la docente los organiza en equipos y les pide que
+     respondan un conjunto de preguntas con ayuda de diversas fuentes de información.</q>
+  <g></g>
+  <q2>Si el propósito de la docente es que los estudiantes reconozcan múltiples dimensiones de la problemática
+      presentada, ¿qué conjunto de preguntas es adecuado para este propósito?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>¿En qué forma las empresas se benefician económicamente de los recursos naturales de la zona marino costera de
+       Paita? ¿Cómo ha afectado la contaminación a la actividad turística? ¿Qué productos derivados de los recursos
+       hidrobiológicos han sido afectados por la contaminación en la bahía de Paita?</a>
+    <a>¿Qué consecuencias tiene la contaminación sobre los ecosistemas de la zona marino costera de Paita? ¿Cómo afecta
+       la contaminación a la calidad de vida de la población de Paita? ¿Qué normas nacionales respecto a la gestión
+       ambiental están siendo vulneradas en la situación presentada?</a>
+    <a>¿Qué ecosistemas forman parte de la zona marino costera de Paita? ¿Cuáles son las principales características de
+       la fauna y flora de la zona marino costera de Paita? ¿Qué especies marinas han sido afectadas por los efectos de
+       la contaminación en la bahía de Paita?</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Durante una sesión de aprendizaje, el docente presenta a los estudiantes el siguiente texto que fue publicado por
+       un pensador peruano en el diario El Comercio, en octubre de 1846.</q>
+    <g>./../../preguntas/nom/10histgeoecon/200-300_2019/nom-hge-10270-p.png</g>
+    <q2>¿A cuál de las siguientes ideologías del siglo XIX corresponde el texto mostrado?</q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Conservadurismo</a>
+        <a>Nacionalismo</a>
+        <a>Liberalismo</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

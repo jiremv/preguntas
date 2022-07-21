@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Una docente está leyendo con los estudiantes la parábola ?La casa edificada sobre la roca?, que se presenta a
+      continuación:</q0>
+  <g0>./../../preguntas/nom/8religion/200-300_2019/nom-rel-8278-p.png</g0>
+  <q>La docente les ha propuesto a los estudiantes analizar la parábola mediante el método Ver-juzgar-actuar.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes acciones pedagógicas es adecuada para que la docente cumpla su propósito?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Presentar el caso de aquellos misioneros que intentaron evangelizar personas en Japón y que, a pesar de los
+       maltratos que sufrieron, no renunciaron a su fe. Luego, pedir que expliquen qué semejanzas encuentran entre dicho
+       caso y la parábola. Finalmente, pedir que propongan acciones para poner en práctica el mensaje del texto.</a>
+    <a>Preguntar a quiénes creen que representan los que construyen su casa sobre la roca y los que la construyen sobre
+       la arena. Luego, pedir que expliquen cómo poner en práctica el mensaje de la parábola. Finalmente, solicitar que
+       elaboren una oración para pedir fortaleza a Dios y así cumplir con su Palabra.</a>
+    <a>Pedir que comenten qué obstáculos tienen para cumplir con las enseñanzas de Jesús. Luego, preguntarles si su fe
+       es fuerte como una casa sobre una roca o frágil como una casa en la arena. Finalmente, ayudarlos a planificar un
+       proyecto para poder cumplir con sus metas cristianas.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

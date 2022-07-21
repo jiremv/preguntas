@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO:
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5431-p.png</g0>
+<q>Sintetiza el texto leído.
+</q>
+<as r="R" correcta="0">
+<a>Ser agradecido es bueno para la salud.</a>
+<a>Dar las gracias es de buena costumbre.</a>
+<a>Sonríe más y mejorará tu salud.</a>
+<a>El agradecimiento alivia el estrés.</a>
+<a>La salud mental influye en la salud física.</a>
+</as>
+<x>A.</x><x2></x2>
+</p>

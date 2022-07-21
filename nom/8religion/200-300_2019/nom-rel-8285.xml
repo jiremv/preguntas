@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un docente busca que los estudiantes comprendan por qué es importante la revelación de Dios. ¿Cuál de las
+     siguientes actividades es más adecuada para que el docente logre su propósito?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Presentarles las etapas de la revelación y resaltar el mensaje de Dios en cada una de ellas. Luego, preguntarles
+       por qué fue trascendental que Dios se dé a conocer a los hombres en dichas etapas. Finalmente, pedir que
+       expliquen por qué es necesaria la revelación de Dios para las personas.</a>
+    <a>Explicarles que el hombre tiene la necesidad de permanecer fiel a la revelación de Dios. Luego, pedirles que
+       busquen textos bíblicos en los que se narren las formas en que Dios se reveló a las personas. Finalmente,
+       señalarles algunos ejemplos de cómo se revela Dios en la actualidad.</a>
+    <a>Solicitarles que investiguen de qué manera se manifestó Dios en la historia de salvación. Luego, pedir que
+       identifiquen a las personas en quienes Dios confió la revelación. Finalmente, explicar cuáles son las principales
+       verdades de fe que se ofrecen a través de la revelación.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

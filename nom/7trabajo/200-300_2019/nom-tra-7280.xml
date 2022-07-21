@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Los estudiantes organizados en equipos están dialogando acerca de los pasos y requisitos para constituir una
+        empresa con personería jurídica en el Perú. Durante el monitoreo, el docente escucha que un estudiante afirma lo
+        siguiente: "En este paso, los socios deben elaborar un documento en el que cada uno de ellos indique su voluntad
+        de crear la empresa y registrar todos los acuerdos".</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes pasos de la constitución de una empresa es el que corresponde a la afirmación del
+       estudiante?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>La elaboración de la minuta.</a>
+        <a>La solicitud de reserva de nombre.</a>
+        <a>La elaboración de escritura pública.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

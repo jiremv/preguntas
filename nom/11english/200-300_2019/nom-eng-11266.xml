@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Mariela's students are going to listen to a song of a famous singer. Here is the chorus of the song:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11266-p.png</g0>
+  <q>Which of the following language functions can the teacher promote using the text above?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Apologizing</a>
+    <a>Complimenting</a>
+    <a>Speculating</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

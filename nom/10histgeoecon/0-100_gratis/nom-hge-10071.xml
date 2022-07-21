@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Un docente presenta a los estudiantes una fuente que explica los factores que han influido en la producción del
+      cultivo de papa en una determinada localidad durante dos años consecutivos. Luego del análisis de la fuente, el
+      docente pregunta a los estudiantes lo siguiente: "¿Qué factor antrópico ha contribuido al incremento de la
+      producción de papa en un 5% en comparación al año anterior?".</q0>
+  <g0></g0>
+  <q>Tres de los estudiantes respondieron lo siguiente:</q>
+  <g>./../../preguntas/nom/10histgeoecon/0-100_gratis/nom-hge-10170-p.png</g>
+  <q2>¿Cuál de las respuestas de los estudiantes es la correcta?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>La de Sara.</a>
+    <a>La de Antonio.</a>
+    <a>La de Margarita.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

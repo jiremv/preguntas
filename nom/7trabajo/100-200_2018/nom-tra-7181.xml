@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Un equipo de estudiantes le comenta al docente que sus productos son de calidad y atienden a las necesidades de sus
+     clientes, pero la venta ha disminuido semana tras semana. El docente ha planificado varias tareas con el propósito
+     de ayudarles a solucionar la situación.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes tareas planteadas es de mayor demanda cognitiva?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Elaborar un listado de los principales errores identificados en el proceso de ventas.</a>
+    <a>Formular un plan de acción a partir de las debilidades identificadas en el área de ventas.</a>
+    <a>Buscar información en internet acerca de las técnicas de ventas con la participación de todos los integrantes del
+       equipo.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

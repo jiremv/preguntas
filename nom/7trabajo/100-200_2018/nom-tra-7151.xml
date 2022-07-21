@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7151-p1.png</g0>
+    <q>Los estudiantes realizan, en parejas, la simulación del proceso de venta de celulares, utilizando la técnica de
+       ventas SPIN.</q>
+    <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7151-p2.png</g>
+    <q2>¿A cuál de los siguientes aspectos de la técnica SPIN corresponden las preguntas formuladas por el estudiante
+        que simula ser vendedor?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>A necesidad de beneficio (N).</a>
+        <a>A implicancias (I).</a>
+        <a>A situación (S).</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

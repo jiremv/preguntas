@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>En el siguiente enunciado, identifique la secuencialidad de los tipos de conectores destacados. Compró un auto y
+       lo alquiló, pero solo por dos meses.</q>
+    <q2></q2>
+    <as r="R" correcta="2">
+        <a>Distributivo-adversativo</a>
+        <a>Disyuntivo-explicativo</a>
+        <a>Adversativo-copulativo</a>
+        <a>Copulativo-adversativo</a>
+        <a>Disyuntivo-distributivo</a>
+    </as>
+    <x>C.</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

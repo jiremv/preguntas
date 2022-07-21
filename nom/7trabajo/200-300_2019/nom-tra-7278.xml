@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un equipo de estudiantes está clasificando los costos de la implementación de su proyecto. Flora, una de las
+        integrantes, comenta: "Los costos fijos están constituidos por los siguientes pagos: alquiler del local,
+        servicio de electricidad y la compra de insumos".</q0>
+    <g0></g0>
+    <q>¿Cuál es el error de la estudiante con respecto a los costos fijos?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Considerar que la compra de insumos es un costo fijo.</a>
+        <a>Considerar que el alquiler de la tienda es un costo fijo.</a>
+        <a>Considerar que el servicio de electricidad es un costo fijo.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Considerando la implementación del proyecto 'Sal de Mesa de Origen Vegetal',</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes alternativas corresponde a la "Métrica clave" de su modelo de negocios?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>El ranking de sueldos.</a>
+        <a>El incremento de nuevos clientes.</a>
+        <a>La fluctuación del costo de la materia prima.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

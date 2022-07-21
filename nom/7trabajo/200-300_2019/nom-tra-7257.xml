@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un equipo de estudiantes está debatiendo acerca de qué organizador visual utilizar para dar a conocer algunos
+        componentes de su modelo de negocio: lo que espera ganar, cómo se organizó, costos iniciales de operación, metas
+        de venta y el impacto en el entorno, entre otros.</q0>
+    <g0></g0>
+    <q>¿Cuál de los estudiantes ha propuesto un organizador visual pertinente para dar a conocer estos componentes de su
+       modelo de negocio?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>Adrián</a>
+        <a>Berenice</a>
+        <a>César</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

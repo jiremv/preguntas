@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5421-p.png
+	</g0>
+<q>El texto corresponde al género periodístico denominado:
+</q>
+<as r="R" correcta="1">
+<a>Crónica</a>
+<a>Informativo</a>
+<a>Interpretativo</a>
+<a>Ensayo</a>
+<a>De opinión</a>
+</as>
+<x>B.</x><x2>Informativo</x2>
+</p>

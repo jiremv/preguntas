@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>La estrategia transversal que permite al lector conocer las modalidades
+de procesamiento y decisión cognitivas que empleó antes, durante y
+después de la lectura, es decir, le permite autocontrolar su proceso de
+comprensión.
+	</q0>
+	<g0>
+	</g0>
+<q>Se refiere a la ...
+</q>
+<as r="R" correcta="2">
+<a>revisión.</a>
+<a>reescritura.</a>
+<a>autointerrogación.</a>
+<a>categorización.</a>
+<a>jerarquización.</a>
+</as>
+<x>C.</x><x2></x2>
+</p>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+<q>Accidente gramatical del verbo que expresa la intención del hablante
+al comunicar una acción.
+</q>
+<as r="R" correcta="4">
+<a>Tiempo</a>
+<a>Aspecto</a>
+<a>Persona</a>
+<a>Número</a>
+<a>Modo</a>
+</as>
+<x>E.</x><x2></x2>
+</p>

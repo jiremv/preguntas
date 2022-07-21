@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Roberta's students have been working on different kinds of writing products during the past few months. She has
+       planned the following sequence to reinforce her students' writing skills:</q>
+    <g>./../../preguntas/nom/11english/100-200_2018/nom-eng-11169-p.png</g>
+    <q2>Based on the sequence above, which of the following methods to teaching writing has Roberta adopted?</q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Task-Based Learning.</a>
+        <a>Problem-Based Learning.</a>
+        <a>Presentation-Practice-Production.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Considerando el análisis de la matriz FODA de una empresa de producción de lácteos,</q0>
+    <g0></g0>
+    <q>¿cuál de las siguientes alternativas corresponde a la estrategia FO?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Identificar productos que no han generado beneficios para la empresa por ausencia de demanda en los últimos
+           meses.</a>
+        <a>Destinar parte de los préstamos bancarios para realizar publicidad masiva no implementada por la empresa.</a>
+        <a>Elaborar productos derivados del original para atender la creciente demanda de consumidores.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

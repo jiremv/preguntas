@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Jose's students are going to write a short essay on "the advantages and disadvantages of having a pet". 
+  He has designed the following sequence:</q0>
+  <g0>./../../preguntas/nom/11english/200-300_2019/nom-eng-11279-p.png</g0>
+  <q>Which writing skill needs to be improved in the sequence presented by Jose?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Planning</a>
+    <a>Drafting</a>
+    <a>Revising</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v1></v1>
+</p>

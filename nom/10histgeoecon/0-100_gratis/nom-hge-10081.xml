@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Para el desarrollo de una de las actividades, el docente les ha proporcionado un texto que contiene las acciones
+      de prevención señaladas en el Plan de Gestión del Riesgo de Desastres del distrito donde se ubica la IE.</q0>
+  <g0></g0>
+  <q>Si el propósito del docente es que los estudiantes evalúen la pertinencia de dichas acciones frente a la ocurrencia
+     del fenómeno de El Niño en la localidad donde se ubica la IE, ¿cuál de las siguientes actividades es la más
+     pertinente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Primero, entregar a los estudiantes un croquis de la localidad. Luego, durante una visita de campo a la
+       localidad, solicitarles que señalen, en el croquis, las áreas de mayor vulnerabilidad frente al fenómeno de El
+       Niño. Por último, en el aula, pedirles que contrasten lo señalado en el texto presentado por el docente con el
+       croquis de vulnerabilidad que han elaborado.</a>
+    <a>Primero, pedir a los estudiantes que reconozcan cuáles son las condiciones climáticas vinculadas al fenómeno de
+       El Niño. Luego, solicitarles que identifiquen las consecuencias de este fenómeno a diferentes escalas. Por
+       último, pedirles que identifiquen, según el texto presentado por el docente, qué peligros naturales existen en la
+       localidad donde se ubica la IE.</a>
+    <a>Primero, pedir a los estudiantes que entrevisten a representantes de la municipalidad de su distrito acerca de
+       cómo está organizada la Comisión de Gestión del Riesgo de Desastres en su jurisdicción. Luego, solicitarles que
+       comenten qué instituciones integran esta comisión. Por último, pedirles que propongan cómo la IE podría
+       participar en dicha comisión.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

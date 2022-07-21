@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>El docente aprovechará el caso presentado para que los estudiantes reflexionen sobre la conducta del operario.</q>
+  <g></g>
+  <q2>¿Cuál de las siguientes acciones pedagógicas es más pertinente para su propósito?</q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Entregar a los estudiantes algunos casos de accidentes ocurridos en el trabajo para que los lean en equipos e
+       indicarles que respondan a las preguntas: "¿Qué tipo de accidente ocurrió? y ¿qué factores del trabajo lo
+       ocasionaron?". Luego, pedir que comparen si el caso del operario se asemeja a alguno de los casos entregados.</a>
+    <a>Pedir a los estudiantes que brinden razones por las que la conducta del operario no fue la correcta. A
+       continuación, preguntarles: "¿Qué desenlace pudo tener para su salud y qué órganos internos pudieron ser
+       afectados?". Luego, pedir que elaboren un diagrama de causa ? efecto para organizar las causas y las
+       consecuencias analizadas.</a>
+    <a>Preguntar: "¿Qué señal de seguridad incumplió el operario? ¿De qué forma su conducta pudo perjudicar a la
+       producción? ¿Qué sanción le pondrían a los trabajadores que no respetan las normas de seguridad?". Luego, pedir
+       que elaboren una infografía de las normas de seguridad.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5425-p.png
+	</g0>
+<q>Del texto se infiere:
+</q>
+<as r="R" correcta="3">
+<a>El zumbayllu era el cantante del pueblo</a>
+<a>El zumbayllu sopló hacia Chalhuanca</a>
+<a>Los niños estaban en Chalhuanca</a>
+<a>Para los niños, el zumbayllu era algo más que un juguete</a>
+<a>Los niños eran amigos del zumbayllu</a>
+</as>
+<x>D.</x><x2>Para los niños, el zumbayllo era algo más que un juguete</x2>
+</p>

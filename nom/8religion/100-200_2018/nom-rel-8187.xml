@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente está desarrollando con sus estudiantes una sesión sobre el diálogo interreligioso. En este contexto, se
+     propone incorporar una actividad que promueva la identificación de los elementos comunes entre el cristianismo y
+     las diferentes religiones. ¿Cuál de las siguientes actividades es adecuada para el propósito de la docente?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="1">
+    <a>Indicar a los estudiantes que comparen los libros sagrados y las doctrinas de los cristianos, musulmanes,
+       budistas y judíos.</a>
+    <a>Indicar a los estudiantes que comparen la posición de los cristianos, musulmanes, budistas y judíos sobre el
+       respeto a la vida humana.</a>
+    <a>Indicar a los estudiantes que comparen el significado de la muerte desde la perspectiva de los cristianos,
+       musulmanes, budistas y judíos respectivamente.</a>
+  </as>
+  <x>B</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

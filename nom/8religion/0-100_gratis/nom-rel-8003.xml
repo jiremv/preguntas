@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?> 
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd"> 
+<p>
+  <q>
+  Los sacramentos del catolicismo son:
+  </q>
+  <as r="R" correcta="2">
+    <a>
+    Bautismo, consagración,confirmación, orden sagrado, penitencia.
+    </a><a>
+    Bautismo, confirmación, Matrimonio, unción de los enfermos, paciencia.
+    </a><a>
+    Bautismo, comunión, confirmación, matrimonio, orden sacerdotal, unción de los enfermos.
+    </a><a>
+    Bautismo, orden sacerdotal, castidad, matrimonio, unción de los enfermos, penitencia.
+    </a>
+  </as>
+  <x>C.
+  </x>
+</p>

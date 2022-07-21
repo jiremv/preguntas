@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>Una docente está analizando una parábola con sus estudiantes a través del método Ver-juzgar-actuar. La docente
+     busca trabajar el momento de la celebración. ¿Cuál de las siguientes actividades es adecuada para ello?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>Pedir que elaboren una oración en la que agradezcan a Dios por el mensaje de la parábola.</a>
+    <a>Pedir que ofrezcan propuestas para que puedan incorporar el mensaje de la parábola en sus vidas.</a>
+    <a>Pedir que compartan aspectos de su vida cotidiana en los que se pueda aplicar el mensaje de la parábola.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

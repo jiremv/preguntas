@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0></q0>
+  <g0></g0>
+  <q>¿Qué actividad es adecuada para recoger los saberes previos de los estudiantes sobre la importancia del ecumenismo?</q>
+  <g></g>
+  <q2></q2>
+  <g2></g2>
+  <as r="R" correcta="2">
+    <a>Dialogar con los estudiantes sobre la unidad y la unicidad de la Santa Iglesia. Luego, explicarles cuál es la
+       relación que existe entre los cristianos protestantes y la Iglesia católica.</a>
+    <a>Indicar a los estudiantes que lean y analicen algunos numerales del decreto Unitatis Redintegratio. Luego,
+       pedirles que expliquen, con sus propias palabras, la importancia del ecumenismo.</a>
+    <a>Pedir a los estudiantes que mencionen qué iglesias conocen que siguen a Cristo, pero no son católicas. Luego,
+       preguntarles por qué no se unen las iglesias que mencionaron si son parte de la misma religión.</a>
+  </as>
+  <x>C</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

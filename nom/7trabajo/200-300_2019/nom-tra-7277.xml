@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Un equipo de estudiantes está realizando propuestas para la implementación de las 4P del marketing.</q0>
+    <g0></g0>
+    <q>¿Cuál de las siguientes propuestas se refiere al aspecto Producto?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="1">
+        <a>Desarrollar estrategias para el almacenamiento del producto y los gastos de envío.</a>
+        <a>Incluir un valor agregado al producto para que resuelva más de una necesidad.</a>
+        <a>Utilizar técnicas de publicidad para superar las ventas del producto.</a>
+    </as>
+    <x>B</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

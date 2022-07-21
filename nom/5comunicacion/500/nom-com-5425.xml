@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>TEXTO
+	</q0>
+	<g0>./../preguntas/nom/5comunicacion/500/nom-com-5425-p.png
+	</g0>
+<q>¿Qué tipo de narrador se evidencia en el texto?
+</q>
+<as r="R" correcta="2">
+<a>Narrador omnisciente</a>
+<a>Desdoblamiento del yo</a>
+<a>Narrador en primera persona gramatical</a>
+<a>Narrador secundario</a>
+<a>Narrador en segunda persona gramatical</a>
+</as>
+<x>C.</x><x2>Narrador en 1era persona gramatical.</x2>
+</p>

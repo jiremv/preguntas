@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>En una reunión de trabajo colegiado, un docente propone a su equipo lo siguiente: "Para la evaluación de
+        proceso, debemos promover el uso de un instrumento que permita a los estudiantes documentar las evidencias de
+        sus logros y sus progresos. Con esto, los estudiantes podrán reflexionar acerca de sus aprendizajes y
+        desarrollar un pensamiento crítico. Asimismo, serán capaces de explicar cómo superaron sus dificultades".</q0>
+    <g0></g0>
+    <q>¿Cuál de los siguientes instrumentos se alinea con la propuesta del docente?</q>
+    <g></g>
+    <q2></q2>
+    <g2></g2>
+    <as r="R" correcta="0">
+        <a>El portafolio.</a>
+        <a>La lista de cotejo.</a>
+        <a>El registro anecdótico.</a>
+    </as>
+    <x>A</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

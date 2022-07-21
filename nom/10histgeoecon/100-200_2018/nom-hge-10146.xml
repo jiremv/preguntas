@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+	<q>En una maratón de baile, gana la pareja que logre bailar sin descanso por más tiempo. Si la
+pareja ganadora empezó a bailar a las 17:36 h y paró a las 20:14 h del mismo día, ¿cuánto
+tiempo estuvo bailando?
+	</q>
+	<q2>	
+	</q2>
+	<as r="R" correcta="2">
+		<a>3 h 38 min</a>
+		<a>3 h 22 min</a>
+		<a>2 h 38 min</a>
+	</as>	
+	<x>C.</x>
+	<i></i>
+	<x2>
+	</x2>
+	<i2></i2>
+	<v></v>
+</p>

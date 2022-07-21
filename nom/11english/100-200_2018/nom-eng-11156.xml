@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0></q0>
+    <g0></g0>
+    <q>Roxana's students have been working on comparisons. Now they will write on the pros and cons of attending a
+       public or a private university. Roxana has designed the following sequence, which will be developed in two
+       sessions:</q>
+    <g>./../../preguntas/nom/11english/100-200_2018/nom-eng-11156-p.png</g>
+    <q2>Which writing skill has NOT been promoted adequately in the sequence above?</q2>
+    <g2></g2>
+    <as r="R" correcta="2">
+        <a>Planning.</a>
+        <a>Drafting.</a>
+        <a>Revising.</a>
+    </as>
+    <x>C</x>
+    <i></i>
+    <x2></x2>
+    <i2></i2>
+    <v></v>
+</p>

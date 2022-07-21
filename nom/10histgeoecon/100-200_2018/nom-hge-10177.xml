@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+  <q0>Luego de que los estudiantes culminaron la lectura del paisaje mostrado en ambas imágenes, el docente les pidió
+      que compartieran sus conclusiones sobre el reconocimiento de las dinámicas.</q0>
+  <g0></g0>
+  <q>Tres equipos plantearon las siguientes conclusiones:</q>
+  <g>./../../preguntas/nom/10histgeoecon/100-200_2018/nom-hge-10177-p.png</g>
+  <q2>¿Cuál de los equipos evidencia el reconocimiento de las dinámicas en la localidad?</q2>
+  <g2></g2>
+  <as r="R" correcta="0">
+    <a>El equipo A.</a>
+    <a>El equipo B.</a>
+    <a>El equipo C.</a>
+  </as>
+  <x>A</x>
+  <i></i>
+  <x2></x2>
+  <i2></i2>
+  <v></v>
+</p>

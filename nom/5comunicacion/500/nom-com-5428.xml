@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+	<q0>
+	</q0>
+	<g0>
+	</g0>
+<q>Relaciona las funciones del lenguaje con sus ejemplos respectivos:
+</q>
+	<g>./../preguntas/nom/5comunicacion/500/nom-com-5428-p.png</g>
+<as r="R" correcta="0">
+<a>L-G-A-E-N-U.</a>
+<a>L-G-E-A-U-N.</a>
+<a>G-L-A-N-U-E.</a>
+<a>A-G-L-E-U-N.</a>
+<a>L-G-E-A-N-U.</a>
+</as>
+<x>A.</x><x2></x2>
+</p>
