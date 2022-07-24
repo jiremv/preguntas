@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
-    <q0></q0>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+    <q>0></q>0>
     <g0>1-p.png</g0>
     <q>En un niño de seis meses, la sonrisa constituye un indicio de que busca interactuar socialmente. Considerando la
        importancia de este hecho, ¿qué acción es pertinente realizar ante la sonrisa de un niño de seis meses?</q>
-    <q2></q2>
-    <as r="R" correcta="2">
+    <q></q>
+    <as> r="R" correcta="2"
         <a>Hacerle cosquillas para prolongar su alegría.</a>
         <a>Celebrar su sonrisa y pedirle que vuelva a sonreír.</a>
         <a>Responderle con sonrisas y poner en palabras su expresión.</a>
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>
