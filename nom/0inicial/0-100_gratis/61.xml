@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Santiago, de veinticuatro meses, ha empezado a comer sin ayuda. Hoy la docente ha decidido sentarlo junto a dos
@@ -7,9 +7,9 @@
     <g0></g0>
     <q>Frente a esta situación de conflicto, ¿qué acción es pertinente que realice la docente?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="0"
+    <as r="R" correcta="0">
         <a>Explicar a Santiago que sus compañeros están llorando, pues no les gusta que les quiten la comida de sus
            platos.</a>
         <a>Pedir a los niños que le tengan paciencia a Santiago, pues él recién está aprendiendo a comer y poco a poco

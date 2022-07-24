@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Víctor y Pamela, del aula de cinco años, entablan el siguiente diálogo.</q>0>
     <g0>70.png</g0>
     <q>¿Qué uso del número se evidencia en la intervención de Pamela?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="1"
+    <as r="R" correcta="1">
         <a>Como ordinal.</a>
         <a>Como cardinal.</a>
         <a>Como nominal.</a>

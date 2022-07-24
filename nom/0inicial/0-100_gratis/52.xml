@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0></g0>
-    <q>Andrea, de dos años, suele decir "feyo" cuando algo no le agrada.</q>
+    <q>Andrea, de dos años, suele decir ">feyo"> cuando algo no le agrada.</q>
     <g</g
     <q>¿Cuál de las siguientes intervenciones favorece la expresión oral de Andrea en esa situación?</q>
     <g2</g2
-    <as> r="R" correcta="0"
-        <a>"Andrea, ¿estás diciendo que algo es feo? ¿Es así? ¿Qué es?".</a>
-        <a>"¿Quién dijo 'feyo'? No has sido tú, ¿verdad, Andrea?".</a>
-        <a>"Andrea, se dice 'feo'. Repite conmigo: 'Fee-oo'".</a>
+    <as r="R" correcta="0">
+        <a>">Andrea, ¿estás diciendo que algo es feo? ¿Es así? ¿Qué es?">.</a>
+        <a>">¿Quién dijo 'feyo'? No has sido tú, ¿verdad, Andrea?">.</a>
+        <a>">Andrea, se dice 'feo'. Repite conmigo: 'Fee-oo'">.</a>
     </as>
     <x>A</x>
     <i></i>

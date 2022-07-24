@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0></g0>
     <q>La docente y los niños del aula de cinco años se encuentran explorando los libros de la biblioteca. Si el
        propósito de la docente es promover en los niños la aproximación a la lectura,</q>
     <g</g
     <q>¿qué acción es más pertinente que realice a continuación?</q>
     <g2</g2
-    <as> r="R" correcta="1"
+    <as r="R" correcta="1">
         <a>Proponerles que en parejas escojan un libro que les guste. Luego, decirles que señalen las letras que
            conozcan y las lean en voz alta.</a>
         <a>Decirles que cada uno elija el libro que desee. Luego, indicarles que se pongan cómodos para leerlo, y, si
            algún niño le pide que le lea el libro, atender su pedido.</a>
-        <as>eleccionar diversos libros y entregar uno distinto a cada niño. Luego, decirles que, cuando terminen de
+        <aseleccionar diversos libros y entregar uno distinto a cada niño. Luego, decirles que, cuando terminen de
            revisarlo, la llamen para entregarles uno nuevo.</a>
     </as>
     <x>B</x>

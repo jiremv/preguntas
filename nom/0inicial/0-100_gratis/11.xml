@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
     <q0>Sonia es una niña de cinco años que presenta hipoacusia leve o sordera leve. Ella requiere mirar el rostro de
         las personas para observar sus gestos, y, de ese modo, comprender mejor lo que dicen. Sonia será incluida en una
@@ -6,7 +6,7 @@
     <g0></g0>
     <q>En el marco de un enfoque inclusivo, la docente busca generar condiciones que favorezcan el aprendizaje de la
        niña. ¿Cuál de las siguientes acciones es pertinente que realice la docente para ese propósito?</q>
-    <q2></q2>
+    <q0></q0>
     <as r="R" correcta="2">
         <a>Preparar para Sonia actividades de aprendizaje más sencillas que las propuestas para el resto de sus
            compañeros. Así, ella podrá realizarlas y valorar sus logros.</a>

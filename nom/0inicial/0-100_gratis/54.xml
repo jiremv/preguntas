@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Carla, de tres años, ha ingresado hace poco al jardín. El primer día, ella se resistía a ingresar al aula.
@@ -12,14 +12,14 @@
        favoreciendo ese proceso. Considerando dicho propósito, ¿cuál de las siguientes intervenciones es pertinente que
        realice la docente?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="1"
-        <a>"Carla, ven; vamos a trabajar todos juntos. Guardaré tu osito y te lo devolveré a la hora de salida".</a>
-        <a>"Carla, pregúntale a tu osito si quiere estar con nosotros. Nosotros tenemos muchas ganas de trabajar con
-           ustedes".</a>
-        <a>"Carla, creo que tu osito quiere descansar. Vamos a sentarlo en ese estante y, desde allí, él te va a cuidar
-           mientras trabajamos todos juntos".</a>
+    <as r="R" correcta="1">
+        <a>">Carla, ven; vamos a trabajar todos juntos. Guardaré tu osito y te lo devolveré a la hora de salida">.</a>
+        <a>">Carla, pregúntale a tu osito si quiere estar con nosotros. Nosotros tenemos muchas ganas de trabajar con
+           ustedes">.</a>
+        <a>">Carla, creo que tu osito quiere descansar. Vamos a sentarlo en ese estante y, desde allí, él te va a cuidar
+           mientras trabajamos todos juntos">.</a>
     </as>
     <x>B</x>
     <i></i>

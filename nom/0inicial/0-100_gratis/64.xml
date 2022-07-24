@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Los niños del aula de cinco años se encuentran en el sector de juegos tranquilos. Teresa, Susana y Esteban cogen
@@ -7,15 +7,15 @@
     <g0></g0>
     <q>¿Cuál de las siguientes acciones es más pertinente para ello?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="0"
-        <a>Preguntarles: "¿Cuántas cartas hay y cuántos son ustedes? ¿Qué hacemos para que todos tengan la misma
-           cantidad de cartas?". Luego, decirles que pongan en práctica sus propuestas y elijan la que consideren mejor.</a>
+    <as r="R" correcta="0">
+        <a>Preguntarles: ">¿Cuántas cartas hay y cuántos son ustedes? ¿Qué hacemos para que todos tengan la misma
+           cantidad de cartas?">. Luego, decirles que pongan en práctica sus propuestas y elijan la que consideren mejor.</a>
         <a>Decirles que se repartan las cartas hasta que todos tengan la misma cantidad. Cuando noten que sobra una,
-           preguntarles: "¿Qué podrían hacer con esta carta?".</a>
-        <a>Repartir tres cartas a cada niño. Luego, mostrarles la carta sobrante y preguntarles: "¿Les parece si esta
-           carta se queda en la mesa?".</a>
+           preguntarles: ">¿Qué podrían hacer con esta carta?">.</a>
+        <a>Repartir tres cartas a cada niño. Luego, mostrarles la carta sobrante y preguntarles: ">¿Les parece si esta
+           carta se queda en la mesa?">.</a>
     </as>
     <x>A</x>
     <i></i>

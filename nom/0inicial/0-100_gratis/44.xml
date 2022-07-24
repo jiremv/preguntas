@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="iso-8859-1" ?> 
+<?xml version="1.0"> encoding="iso-8859-1"> ?> 
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>El profesor Jaime en la clase de matemática muestra a sus estudiantes, gráficos, imágenes, diagramas, 
     tablas, etc. ¿Qué capacidad matemática está desarrollando frente a sus estudiantes?
 </q>
-    <as> r="R" correcta="1"
+    <as r="R" correcta="1">
         <a>Elaborar estrategias.</a>
         <a>Representar.</a>
         <a>Argumentar.</a>

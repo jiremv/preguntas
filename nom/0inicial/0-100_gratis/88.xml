@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0>88-p1.png</g0>
     <q>Todos los días, la docente y los niños del aula de cinco años reservan un momento para leer un texto que los
        niños elijan. Hoy Sebastián ha elegido el siguiente texto:</q>
@@ -9,9 +9,9 @@
     <q>¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este
         texto?</q>
     <g2</g2
-    <as> r="R" correcta="1"
-        <a>¿Qué querrá decir "bayas"?</a>
-        <a>¿De qué color es la flor llamada "pervinca"?</a>
+    <as r="R" correcta="1">
+        <a>¿Qué querrá decir ">bayas">?</a>
+        <a>¿De qué color es la flor llamada ">pervinca">?</a>
         <a>¿Qué les parece que los ratoncitos junten alimentos para el invierno?</a>
     </as>
     <x>B</x>

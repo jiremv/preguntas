@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0>La docente y los niños del aula de cinco años se encuentran planificando el proyecto "Vamos a hacer un robot".
+    <q>0>La docente y los niños del aula de cinco años se encuentran planificando el proyecto ">Vamos a hacer un robot">.
         En ese contexto, los niños proponen distintas actividades mientras la docente anota sus propuestas en la
         pizarra. La docente nota que los niños plantean muchas actividades. Entonces, decide aprovechar esa situación
         para promover en ellos procesos metacognitivos.</q>0>
     <g0></g0>
     <q>Considerando ese propósito, ¿cuál de las siguientes acciones es pertinente que realice la docente?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="0"
+    <as r="R" correcta="0">
         <a>Leerles las actividades propuestas y preguntarles si creen que podrán realizar todas. Luego, proponerles que
            elijan aquellas que sean posibles de realizar, considerando el tiempo y los recursos con los que cuentan.</a>
         <a>Escoger las actividades que realizarán los niños durante el proyecto y organizarlas temporalmente. Luego,

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0></g0>
     <q>La docente busca que los niños construyan sus propias explicaciones respecto de por qué el aceite y el vinagre se
        separan. ¿Cuál de las siguientes acciones es pertinente para ese propósito?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="2"
+    <as r="R" correcta="2">
         <a>Elaborar para ellos un texto sencillo acompañado de gráficos para que comprendan por qué ambos líquidos se
            separan y leérselo.</a>
         <a>Comentarles que el aceite y el vinagre son líquidos muy distintos, y están compuestos por partículas que no

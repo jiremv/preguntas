@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>La docente del aula de cuatro años busca favorecer en los niños el desarrollo de la noción de tiempo.</q>0>
     <g0></g0>
     <q>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="2"
+    <as r="R" correcta="2">
         <a>Emplear un reloj con manecillas para explicar a los niños a qué hora realizarán cada actividad. Luego,
            designar responsables para que observen el reloj y avisen cuándo toca cambiar de actividad.</a>
         <a>Mostrarles imágenes de las actividades que realizan durante la jornada, ordenadas temporalmente. Luego, pedir
            voluntarios para que describan cada una de ellas.</a>
         <a>Pedir a los niños que dibujen la actividad de la jornada que más les gusta. Luego, ordenar con ellos sus
-           dibujos empleando términos como "antes" o "después".</a>
+           dibujos empleando términos como ">antes"> o ">después">.</a>
     </as>
     <x>C</x>
     <i></i>

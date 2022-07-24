@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1" ?> 
+<?xml version="1.0"> encoding="iso-8859-1"> ?> 
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>Un domingo Felicita planificó un proyecto de aprendizaje tomando como punto de partida la falta de higiene 
     personal de los niños. El lunes empezó a ejecutar el proyecto durante diez días subsiguientes, al término de este 
     tiempo evalúa el proyecto juntamente con los niños. A tu criterio:
 </q>
-    <as> r="R" correcta="0"
+    <as r="R" correcta="0">
         <a>Felicita cumplió con la secuencia didáctica de la elaboración de un proyecto.</a>
         <a>Felicita no cumplió con la secuencia didáctica de la elaboración de un proyecto.</a>
         <a>Felicita debió planificar una unidad de aprendizaje.</a>

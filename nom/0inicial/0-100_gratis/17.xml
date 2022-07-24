@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
     <q0>Organizados en grupos de 6 integrantes, los niños del aula de cinco años han reciclado materiales y construido
         un juguete. Ahora, se preparan para explicar a sus compañeros cómo lo hicieron. La docente busca aprovechar esta
-        situación para que los niños resuelvan problemas. Para ello, primero les dice lo siguiente: "Necesitamos que 2
+        situación para que los niños resuelvan problemas. Para ello, primero les dice lo siguiente: ">Necesitamos que 2
         niños de cada grupo cuenten cómo construyeron el juguete y el resto responda las preguntas que hagan sus
-        compañeros. Entonces, ¿cuántos niños deberán responder las preguntas?". Luego, se asegura de que los niños
+        compañeros. Entonces, ¿cuántos niños deberán responder las preguntas?">. Luego, se asegura de que los niños
         comprendan el problema que les acaba de plantear.</q0>
     <g0></g0>
     <q>En el marco de la resolución de problemas, ¿qué acción es pertinente que la docente realice a continuación?</q>
-    <q2></q2>
+    <q0></q0>
     <as r="R" correcta="2">
         <a>Pedirles que cada uno resuelva el problema. Luego, decirles que comparen sus respuestas con las de sus
            compañeros.</a>

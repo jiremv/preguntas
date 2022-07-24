@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Sofía, de dos años, está empezando a resfriarse. Debido a ello, presenta mucosidad en la nariz. La docente sabe
         que a Sofía no le gusta que le limpien la nariz, pues la mamá de la niña así se lo ha comentado. En esa
         situación, ¿cuál de las siguientes intervenciones supone una atención respetuosa hacia la niña?</q>0>
     <g0></g0>
-    <q></q>
+    <q0></q0>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="0"
-        <a>"Sofía, sé que no te gusta que te limpien la nariz, pero si la limpiamos podrás respirar mejor. ¿Lo hacemos
-           juntas?".</a>
-        <a>"Sofía, si me dejas que te limpie la nariz, te daré una sorpresita. ¿Verdad que te gustan las sorpresitas? Te
-           limpio la nariz y te la doy".</a>
-        <a>"Sofía, como no te gusta que te limpien la nariz, no te voy a obligar. Pero si te quedas así, se te va a ver
-           feo y tus amiguitos ya no van a querer jugar contigo".</a>
+    <as r="R" correcta="0">
+        <a>">Sofía, sé que no te gusta que te limpien la nariz, pero si la limpiamos podrás respirar mejor. ¿Lo hacemos
+           juntas?">.</a>
+        <a>">Sofía, si me dejas que te limpie la nariz, te daré una sorpresita. ¿Verdad que te gustan las sorpresitas? Te
+           limpio la nariz y te la doy">.</a>
+        <a>">Sofía, como no te gusta que te limpien la nariz, no te voy a obligar. Pero si te quedas así, se te va a ver
+           feo y tus amiguitos ya no van a querer jugar contigo">.</a>
     </as>
     <x>A</x>
     <i></i>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0>32.png</g0>
     <q>¿Cuál de las siguientes preguntas es pertinente para que los niños identifiquen información explícita en este
        cuento?</q>
-    <q></q>
-    <as> r="R" correcta="2"
+    <q0></q0>
+    <as r="R" correcta="2">
         <a>¿Para qué pintó el profesor Chucrut de color fresa a una de las vacas?</a>
         <a>¿Qué les parece lo que hizo el profesor Chucrut con las vacas?</a>
         <a>¿Con qué alimentó el profesor Chucrut a las vacas?</a>

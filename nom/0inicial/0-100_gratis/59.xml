@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Jazmín es una niña que presenta baja visión y será incluida en el aula de cinco años. A raíz de ello, las
@@ -8,7 +8,7 @@
     <g59.png</g
     <q>¿Cuál de los comentarios se enmarca en el enfoque inclusivo?</q>
     <g2</g2
-    <as> r="R" correcta="2"
+    <as r="R" correcta="2">
         <a>El de Sandra.</a>
         <a>El de Gladis.</a>
         <a>El de Martha.</a>

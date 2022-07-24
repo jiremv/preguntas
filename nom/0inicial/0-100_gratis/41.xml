@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?> 
+<?xml version="1.0"> encoding="iso-8859-1"> ?> 
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>Ángel, un niño del aula de 3 años, patalea, llora y grita de manera sistemática agrediendo en ocasiones a
@@ -6,8 +6,8 @@
     estas actitudes, la primera profesora a su cargo lo aisló para evitar que agreda a alguien o que sea agredido. Bertha,
     la nueva profesora, quiere revertir esta actitud de Angelito: ¿Qué estrategia es la más acertada para el caso?
 </q>
-    <as> r="R" correcta="1"
-        <as>eguir la estrategia de la primera docente, es decir aislarlo de sus compañeros para evitar que los agreda
+    <as r="R" correcta="1">
+        <aseguir la estrategia de la primera docente, es decir aislarlo de sus compañeros para evitar que los agreda
         o sea agredido.</a>
         <a>Realizar juegos sociales con sus pares, donde el niño exprese distintos sentimientos; mostrarle afecto y
         respeto con palabras y acciones.</a>

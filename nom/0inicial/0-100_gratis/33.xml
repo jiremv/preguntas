@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0>33.png</g0>
     <q>¿Cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre este cuento?</q>
-    <q></q>
-    <as> r="R" correcta="2"
+    <q0></q0>
+    <as r="R" correcta="2">
         <a>¿Qué hicieron las vacas para protestar contra el profesor Chucrut?</a>
         <a>¿Qué creen que se merece el profesor Chucrut por lo que les hizo a las vacas?</a>
         <a>¿Por qué se mareó la vaca que el profesor Chucrut subió a un helicóptero?</a>

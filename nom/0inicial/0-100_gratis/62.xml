@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>La docente les pregunta a los niños de cinco años para qué sirven los números. A continuación, se presentan
@@ -6,9 +6,9 @@
     <g0>62.png</g0>
     <q>¿En cuál de las intervenciones se evidencia el uso del número como nominal?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="1"
+    <as r="R" correcta="1">
         <a>En la de Eva.</a>
         <a>En la de Javier.</a>
         <a>En la de Marcela.</a>

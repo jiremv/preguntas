@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>La docente y los niños del aula de cinco años han visitado una granja. Al volver al aula, dialogan y acuerdan
@@ -7,9 +7,9 @@
     <q>En esa situación, ¿cuál de las siguientes acciones es más pertinente para favorecer la expresión creativa de los
        niños?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="1"
+    <as r="R" correcta="1">
         <a>Proponerles que elaboren un dibujo de la granja que sea lo más parecido posible a la que visitaron.</a>
         <a>Pedirles que dibujen lo que más les gustó de la granja y utilicen para ello los materiales que deseen.</a>
         <a>Darles siluetas de animales de la granja para que las delineen y decirles que decoren sus dibujos con papel

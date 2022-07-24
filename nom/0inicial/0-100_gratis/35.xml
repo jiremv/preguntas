@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0>En el aula de cuatro años, los niños están cantando la canción "Los patitos". En ese contexto, la docente busca
+    <q>0>En el aula de cuatro años, los niños están cantando la canción ">Los patitos">. En ese contexto, la docente busca
         favorecer la expresión corporal y gestual de los niños al entonar dicha canción.</q>0>
     <g0></g0>
     <q>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q>
-    <q></q>
-    <as> r="R" correcta="0"
+    <q0></q0>
+    <as r="R" correcta="0">
         <a>Pedirles que imaginen que son patitos y preguntarles cómo se moverían. Luego, dejarles experimentar
            libremente esos movimientos.</a>
         <a>Proporcionarles diversos elementos como los picos, las alas y las patas de los patitos. Luego, pedirles que

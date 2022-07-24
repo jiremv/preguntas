@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>0>Los niños del aula de cinco años están realizando un collage en grupos. La docente se encuentra atendiendo las
@@ -6,9 +6,9 @@
     <g0>81.png</g0>
     <q>¿Qué aprendizaje relacionado con la oralidad se evidencia en la intervención de Yaquelín?</q>
     <g</g
-    <q></q>
+    <q0></q0>
     <g2</g2
-    <as> r="R" correcta="2"
+    <as r="R" correcta="2">
         <a>Opina sobre un tema planteado en la conversación.</a>
         <a>Incorpora comparaciones y ejemplos en su texto oral.</a>
         <a>Deduce el significado de una palabra por el contexto.</a>

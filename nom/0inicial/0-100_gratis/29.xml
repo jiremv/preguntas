@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>0></q>0>
+    <q0></q0>
     <g0></g0>
     <q>La docente del aula de cinco años busca favorecer la apropiación del sistema de escritura en los niños. ¿Cuál de
        las siguientes acciones es pertinente para dicho propósito?</q>
-    <q></q>
-    <as> r="R" correcta="1"
+    <q0></q0>
+    <as r="R" correcta="1">
         <a>Escribir en la pizarra un comunicado corto dirigido a los padres de familia. Luego, pedir a los niños que lo
            transcriban a sus cuadernos de control.</a>
         <a>Pedir a los niños que comenten la última actividad realizada. Luego, decirles que dibujen lo que más les

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?> 
+<?xml version="1.0"> encoding="iso-8859-1"> ?> 
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
     <q>La profesora Miriam está preocupada porque sus niños y niñas utilizan los materiales de lectura en forma 
@@ -6,7 +6,7 @@
     toman interés a la hora de la lectura, cambian de texto sin terminar de observarlo. ¿Qué secuencia didáctica debe 
     utilizar Miriam para desarrollar con pertinencia el inicio del aprendizaje de la lectura?
 </q>
-    <as> r="R" correcta="2"
+    <as r="R" correcta="2">
         <a>Realizan una asamblea para tomar acuerdos de cómo actuar durante la lectura; absuelven diversas preguntas acerca de 
 los textos; dramatizan el texto leído; infieren el contenido del texto leído y dibujan otro final del cuento.</a>
         <a>Organizan su texto oralmente; expresan con claridad el mensaje; aplican varios recursos expresivos; grafican el hecho y personaje que les agradó; responden interrogantes y evalúan su trabajo para mejorarlo.</a>
