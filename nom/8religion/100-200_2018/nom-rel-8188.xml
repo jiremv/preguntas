@@ -2,10 +2,10 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
   <q0>Los estudiantes de cuarto grado conversan respecto de las fiestas religiosas que celebran sus familias.</q0>
-  <g0>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8188-p1.png</g0>
+  <g0>88-p1.png</g0>
   <q>Después de escuchar las intervenciones de Ana y José, la docente pregunta a los estudiantes: ¿Cuál de las dos
      fiestas es un ejemplo de religiosidad popular?</q>
-  <g>./../../preguntas/nom/8religion/100-200_2018/nom-rel-8188-p2.png</g>
+  <g>88-p2.png</g>
   <q2>¿Qué estudiante comprende adecuadamente la noción de religiosidad popular?</q2>
   <g2></g2>
   <as r="R" correcta="2">

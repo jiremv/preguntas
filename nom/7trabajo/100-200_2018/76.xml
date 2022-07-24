@@ -2,9 +2,9 @@
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
   <q0></q0>
-  <g0>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7176-p1.png</g0>
+  <g0>76-p1.png</g0>
   <q>Luego, les pregunta: "¿Cuál es la acción inmediata de primeros auxilios que se le debe brindar a este operario?".</q>
-  <g>./../../preguntas/nom/7trabajo/100-200_2018/nom-tra-7176-p2.png</g>
+  <g>76-p2.png</g>
   <q2>¿Cuál de los estudiantes respondió correctamente?</q2>
   <g2></g2>
   <as r="R" correcta="1">
