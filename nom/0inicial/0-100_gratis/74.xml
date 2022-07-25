@@ -1,12 +1,12 @@
 <?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q0></q0>
+    
     <g0>74.png</g0>
-    <q>Entonces, la docente les pide que viertan ambos líquidos en un solo vaso transparente y, luego, los remuevan con
-       una cuchara. Los niños observan sorprendidos que, después de unos momentos, ambos líquidos se separan.</q>
+    <q0>Entonces, la docente les pide que viertan ambos líquidos en un solo vaso transparente y, luego, los remuevan con
+       una cuchara. Los niños observan sorprendidos que, después de unos momentos, ambos líquidos se separan.</q0>
     <g</g
-    <q>¿Qué proceso de aprendizaje está promoviendo la docente en su última intervención?</q>
+    <q0>¿Qué proceso de aprendizaje está promoviendo la docente en su última intervención?</q0>
     <g2</g2
     <as r="R" correcta="1">
         <a>La transferencia de los aprendizajes.</a>

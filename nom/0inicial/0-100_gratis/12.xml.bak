@@ -1,11 +1,11 @@
 <?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q0></q0>
+    
     <g0></g0>
-    <q>Micaela, de dos meses, ha descubierto sus manos en su campo visual. Para favorecer que la niña continúe
-       explorando sus manos, ¿cuál de las siguientes acciones es pertinente?</q>
-    <q0></q0>
+    <q0>Micaela, de dos meses, ha descubierto sus manos en su campo visual. Para favorecer que la niña continúe
+       explorando sus manos, ¿cuál de las siguientes acciones es pertinente?</q0>
+    
     <as r="R" correcta="0">
         <a>Recostarla sobre su espalda y dejar sus manos libres.</a>
         <a>Colocarla boca abajo y ubicar sus manos a la altura de sus ojos.</a>

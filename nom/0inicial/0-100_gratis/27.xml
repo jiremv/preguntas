@@ -1,11 +1,11 @@
 <?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q>José, de tres años, ha realizado el siguiente dibujo:<q>
+    <q0>José, de tres años, ha realizado el siguiente dibujo:<q0>
     <g0>7.png</g0>
     <q>¿Cuál de las siguientes acciones es pertinente para favorecer que José continúe desarrollando su capacidad de
        representación?</q>
-    <q0></q0>
+    
     <as r="R" correcta="1">
         <a>Proporcionarle fichas de trabajo con imágenes de personas, animales u objetos incompletos para que
            identifique qué partes les faltan a dichas imágenes y las dibuje.</a>

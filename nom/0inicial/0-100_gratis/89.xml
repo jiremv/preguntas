@@ -1,11 +1,11 @@
 <?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
  
-    <q0></q0>
+    
     <g0></g0>
-    <q>¿Cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre el texto?</q>
+    <q0>¿Cuál de las siguientes preguntas es pertinente para que los niños realicen inferencias sobre el texto?</q0>
     <g</g
-    <q0></q0>
+    
     <g2</g2
     <as r="R" correcta="2">
         <a>¿Dónde vivían los ratoncitos?</a>
