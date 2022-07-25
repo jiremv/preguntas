@@ -1,13 +1,9 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
-    <q0>Hace dos semanas, los niños del aula de cinco años han sembrado frejolitos. Cada día se acercan a observar cómo crecen.
-	</q0>
-    <g0></g0>
-    <q>Hoy, Carolina y Antonio están discutiendo, pues cada uno afirma que su frejolito creció más que el de su compañero.</q>
-    <q2>Al escucharlos, la docente se acerca a los niños y se produce el siguiente diálogo:</q2>
-	<g2>16-p.png</g2>
-	<q3>En esta situación, ¿qué acción está desarrollando principalmente la docente?</q3>
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+    <q0></q0>
+    <g0>16.png</g0>
+    <q>En esta situación, ¿qué acción está desarrollando principalmente la docente?</q>
+    <q2></q2>
     <as r="R" correcta="0">
         <a>Brindar andamiaje.</a>
         <a>Generar conflicto cognitivo.</a>
@@ -15,7 +11,7 @@
     </as>
     <x>A.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>

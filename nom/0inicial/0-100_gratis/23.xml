@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='iso-8859-1'?>
 <!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
 <p>
-    <q0></q0>
+    <q0>Lea la siguiente situación y responda la pregunta</q0>
     <g0>23-p.png</g0>
     <q>La docente busca aprovechar esta situación para favorecer que los niños diseñen prototipos. ¿Cuál de las
        siguientes acciones es más pertinente para ese propósito?</q>

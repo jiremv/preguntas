@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
     <q0></q0>
     <g0>9.png</g0>
     <q>La docente busca aprovechar esta situación para que los niños formulen hipótesis.</q>
@@ -13,7 +12,7 @@
     </as>
     <x>C.</x>
     <i></i>
-    <x2></x2>
-    <i2></i2>
+    <x></x>
+    <i></i>
     <v1></v1>
 </p>
