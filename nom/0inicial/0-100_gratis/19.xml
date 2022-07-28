@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
+<<<<<<< HEAD
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
+=======
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <q0>La docente y los niños del aula de cinco años han recolectado diversos materiales como botellas, cajas, bloques
         de madera, etc. para el sector de construcción. Ahora, la docente les plantea el siguiente problema: "Niños,
         ¿cómo podrían ordenar estos materiales en el sector de construcción para que puedan utilizarlos con facilidad?".</q0>
     <g0></g0>
     <q>En esta situación, ¿cuál de las siguientes acciones es pertinente para favorecer la resolución de problemas?</q>
+<<<<<<< HEAD
     
+=======
+    <q2></q2>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="1">
         <a>Presentarles un dibujo del sector de construcción en el que se considere el criterio de accesibilidad a los
            materiales. Luego, pedirles que ordenen el sector guiándose del dibujo.</a>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
+<<<<<<< HEAD
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
     <q0></q0>
+=======
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+    <q2></q2>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <g0></g0>
     <q>Los niños del aula de cinco años y la docente han salido al parque. Un grupo de niños se acercan a las flores y
        las observan. De pronto, Sofía comenta que le gustan mucho las margaritas y arranca algunas. Al verla arrancar

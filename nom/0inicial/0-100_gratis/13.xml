@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
+<<<<<<< HEAD
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
+=======
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <q0></q0>
     <g0></g0>
     <q>Desde hace una semana, Bruno, de ocho meses, se chupa los dedos de su mano. Esta acción le brinda seguridad y
        calma. Tomando en cuenta el desarrollo emocional de Bruno, ¿cuál de las siguientes acciones es pertinente que
        realice la docente en esta situación?</q>
+<<<<<<< HEAD
     
+=======
+    <q2></q2>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="2">
         <a>Estar atenta a los momentos en que Bruno intente chuparse los dedos para decirle que no lo haga. Luego,
            distraerlo con acciones y juguetes de su agrado.</a>

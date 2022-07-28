@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
@@ -6,6 +7,16 @@
     <q>La docente busca aprovechar esta situación para favorecer que los niños diseñen prototipos. ¿Cuál de las
        siguientes acciones es más pertinente para ese propósito?</q>
     
+=======
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+    <q0>Lea la siguiente situación y responda la pregunta</q0>
+    <g0>23-p.png</g0>
+    <q>La docente busca aprovechar esta situación para favorecer que los niños diseñen prototipos. ¿Cuál de las
+       siguientes acciones es más pertinente para ese propósito?</q>
+    <q2></q2>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="0">
         <a>Pedir a cada grupo que proponga cómo elaborar el paracaídas y con qué materiales. Luego, decirles que dibujen
            su propuesta y expliquen a sus compañeros cómo la realizarán.</a>
@@ -16,7 +27,7 @@
     </as>
     <x>A.</x>
     <i></i>
-    <x></x>
-    <i></i>
+    <x2></x2>
+    <i2></i2>
     <v1></v1>
 </p>

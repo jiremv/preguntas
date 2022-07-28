@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
+=======
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
+<p>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <q0></q0>
-    <g0>3.png</g0>
+    <q0>Lea la siguiente situación y responda la pregunta</q0>
+    <g0>23-p.png</g0>
     <q>Mientras los niños construyen sus paracaídas, la docente los acompaña y conversa con ellos. Les pide que le
        comenten cómo lo están haciendo, qué dificultades han tenido hasta el momento y cómo las han solucionado.</q>
     <q2>En la situación presentada, ¿qué acción realiza principalmente la docente?</q2>
@@ -13,7 +20,7 @@
     </as>
     <x>B.</x>
     <i></i>
-    <x></x>
-    <i></i>
+    <x2></x2>
+    <i2></i2>
     <v1></v1>
 </p>

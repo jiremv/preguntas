@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
+<<<<<<< HEAD
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
   
     <q0></q0>
@@ -6,6 +7,15 @@
     <q>¿Cuál de las siguientes acciones es pertinente para atender a la necesidad de sueño de niños menores de dieciocho
        meses?</q>
     
+=======
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+ 
+    <q2></q2>
+    <g0></g0>
+    <q>¿Cuál de las siguientes acciones es pertinente para atender a la necesidad de sueño de niños menores de dieciocho
+       meses?</q>
+    <q2></q2>
+>>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="0">
         <a>Observar a cada niño para identificar en qué momentos suele tener sueño y llevarlo al espacio de descanso.</a>
         <a>Realizar actividades con mucho movimiento antes de dormir para que los niños se cansen y concilien el sueño
