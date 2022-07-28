@@ -1,14 +1,14 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0>Santiago, de veinticuatro meses, ha empezado a comer sin ayuda. Hoy la docente ha decidido sentarlo junto a dos
         niños que ya comen solos para que comparta la mesa con ellos. Al inicio, Santiago come sus propios alimentos;
         pero, luego de unos minutos, coge los alimentos de sus compañeros. Ante esto, ellos lloran.<q0>
     <g0></g0>
     <q0>Frente a esta situación de conflicto, ¿qué acción es pertinente que realice la docente?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="0">
         <a>Explicar a Santiago que sus compañeros están llorando, pues no les gusta que les quiten la comida de sus
            platos.</a>

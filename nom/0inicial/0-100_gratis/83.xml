@@ -1,14 +1,14 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0>La docente y los niños del aula de cinco años han visitado una granja. Al volver al aula, dialogan y acuerdan
         elaborar dibujos sobre la visita.<q0>
     <g0></g0>
     <q0>En esa situación, ¿cuál de las siguientes acciones es más pertinente para favorecer la expresión creativa de los
        niños?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="1">
         <a>Proponerles que elaboren un dibujo de la granja que sea lo más parecido posible a la que visitaron.</a>
         <a>Pedirles que dibujen lo que más les gustó de la granja y utilicen para ello los materiales que deseen.</a>

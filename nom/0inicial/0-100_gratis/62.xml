@@ -1,13 +1,13 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0>La docente les pregunta a los niños de cinco años para qué sirven los números. A continuación, se presentan
         algunas respuestas.<q0>
     <g0>62.png</g0>
     <q0>¿En cuál de las intervenciones se evidencia el uso del número como nominal?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="1">
         <a>En la de Eva.</a>
         <a>En la de Javier.</a>

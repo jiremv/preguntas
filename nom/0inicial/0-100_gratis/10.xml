@@ -1,9 +1,9 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
     <q0></q0>
-    <g0>9.png</g0>
+    <g0>10.png</g0>
     <q>La docente busca aprovechar esta situación para que los niños formulen hipótesis.</q>
-    <g>10.png</g>
+    <g>>10.png</g>
     <q2>¿Cuál de las siguientes preguntas es pertinente para ese propósito?</q2>
     <as r="R" correcta="2">
         <a>"Antonio, ¿en tu casa preparan infusiones con agua fría?".</a>

@@ -1,13 +1,12 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
-    
     <g0>86.png</g0>
     <q0>Considerando los niveles de apropiación del sistema de escritura propuestos por Emilia Ferreiro, ¿en qué nivel se
        encuentra Saida?</q0>
-    <g</g
-    
-    <g2</g2
+    <g></g>
+    <q></q>
+    <g2></g2>
     <as r="R" correcta="0">
         <a>Presilábico.</a>
         <asilábico.</a>

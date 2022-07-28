@@ -1,5 +1,5 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0><q0>
     <g0></g0>
@@ -7,7 +7,7 @@
        adultos o de otros niños.</q>
     <q2>¿Qué acción es pertinente realizar en el momento de cuidados infantiles para favorecer los intentos
         comunicativos de Marcela?</q2>
-    <as r="R"> correcta="2">
+    <as r="R" correcta="2">
         <a>Dejar que Marcela emita vocalizaciones sin cortar su iniciativa. Luego, reproducir sonidos de diferentes
            animales para que experimente estímulos distintos a los que escucha regularmente.</a>
         <a>Colocarse cerca de la cara de Marcela y establecer contacto visual con ella. Luego, decir varias veces una

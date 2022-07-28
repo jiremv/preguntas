@@ -1,12 +1,11 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     
     <g0></g0>
     <q0>¿Cuál de las siguientes preguntas es pertinente para que los niños reflexionen sobre el texto?</q0>
-    <g</g
-    
-    <g2</g2
+    <g></g>
+    <g2></g2>
     <as r="R" correcta="0">
         <a>¿Qué piensan de lo que hacía Frederick en el cuento?</a>
         <a>¿Por qué los ratoncitos aplaudieron a Frederick al final?</a>

@@ -2,9 +2,9 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
     <q0></q0>
-    <g0>./../../preguntas/nom/0inicial/100-200_2018/nom-ini-159-p.png</g0>
+    <g0>60-p.png</g0>
     <q>La docente busca aprovechar esta situación para que los niños formulen hipótesis.</q>
-    <g>./../../preguntas/nom/0inicial/100-200_2018/nom-ini-160-p.png</g>
+    <g></g>
     <q2>¿Cuál de las siguientes preguntas es pertinente para ese propósito?</q2>
     <as r="R" correcta="2">
         <a>"Antonio, ¿en tu casa preparan infusiones con agua fría?".</a>

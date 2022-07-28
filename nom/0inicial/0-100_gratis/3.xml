@@ -1,5 +1,5 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
     <q0></q0>
     <g0></g0>
     <q>Los niños del aula de doce a dieciocho meses están jugando. Andrea sostiene un payasito y Saúl se acerca a ella
@@ -8,11 +8,11 @@
     <q2>Frente a esta situación de conflicto, ¿cuál de las siguientes intervenciones es pertinente que realice la
         docente?</q2>
     <as r="R" correcta="2">
-        <a>">Andrea, tú ya jugaste con el payasito. Dámelo para entregárselo a Saúl, porque él también quiere jugar">.</a>
-        <a>">Niños, miren estos juguetes. Son más bonitos que el payasito y hay uno para cada uno. Así, los dos podrán
-           jugar sin pelear">.</a>
-        <a>">Saúl, ya sé que quieres el payasito. Cuando Andrea termine de jugar, te lo dará. Mientras tanto, busquemos
-           otro juguete que te guste">.</a>
+        <a>"Andrea, tú ya jugaste con el payasito. Dámelo para entregárselo a Saúl, porque él también quiere jugar".</a>
+        <a>"Niños, miren estos juguetes. Son más bonitos que el payasito y hay uno para cada uno. Así, los dos podrán
+           jugar sin pelear".</a>
+        <a>"Saúl, ya sé que quieres el payasito. Cuando Andrea termine de jugar, te lo dará. Mientras tanto, busquemos
+           otro juguete que te guste".</a>
     </as>
     <x>C.</x>
     <i></i>

@@ -1,13 +1,12 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
-    <q0>Cuando Fernando, de cuatro años, cuenta objetos, suele decir lo siguiente: ">1, 2, 3, 4, 5">. Dice esto incluso
+    <q0>Cuando Fernando, de cuatro años, cuenta objetos, suele decir lo siguiente: "1, 2, 3, 4, 5". Dice esto incluso
         cuando cuenta un mismo objeto dos veces, como en este caso.<q0>
     <g0>69.png</g0>
-    <q0>De acuerdo con la información presentada, ¿qué principio del conteo evidencia haber alcanzado Fernando?</q0>
-    <g</g
-    
-    <g2</g2
+    <q>De acuerdo con la información presentada, ¿qué principio del conteo evidencia haber alcanzado Fernando?</q>
+    <g></g>
+    <g2></g2>
     <as r="R" correcta="0">
         <a>Orden estable.</a>
         <a>No pertinencia del orden.</a>

@@ -1,14 +1,14 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0>Durante la asamblea, la docente del aula de cuatro años les pregunta a los niños qué hicieron el día anterior.
-        Antonia, muy emocionada, comenta lo siguiente: ">¡Yo fui a la fiesta de mi prima y jugamos con burbujas
-        gigantes!">.<q0>
+        Antonia, muy emocionada, comenta lo siguiente: "¡Yo fui a la fiesta de mi prima y jugamos con burbujas
+        gigantes!".<q0>
     <g0></g0>
     <q0>En esa situación, ¿cuál de las siguientes acciones NO favorece la expresión oral de Antonia?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="2">
         <a>Preguntarle en qué consiste el juego con burbujas gigantes y decirle que, si desea, utilice materiales del
            aula para apoyar su explicación.</a>

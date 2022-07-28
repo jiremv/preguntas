@@ -1,13 +1,13 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0></q0>
     <g0>51.png</g0>
     <q0>Cuando Carlos, de dieciocho meses, quiere que la docente le dé un objeto, él lo señala con el dedo. Si la docente
        busca favorecer la expresión oral de Carlos en esa situación,</q0>
-    <g></g>
+    <g>></g>>
     <q0>¿cuál de las siguientes acciones es pertinente?</q0>
-    <g2></g2>
+    <g>2></g>2>
     <as r="R" correcta="2">
         <a>Decirle a Carlos que si quiere que le dé un objeto debe pedirlo por su nombre.</a>
         <a>Entregarle a Carlos el objeto que ha señalado como muestra de que lo ha comprendido.</a>

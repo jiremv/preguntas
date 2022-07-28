@@ -1,14 +1,14 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     
     <g0></g0>
     <q0>Javier, de 11 meses, ha empezado a ponerse de pie. Cuando la docente intenta cambiarle el pañal, él se mueve
        mucho y quiere pararse en el cambiador. En esa situación, ¿cuál de las siguientes acciones es respetuosa con el
        desarrollo motor del niño?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="2">
         <a>Acostar a Javier y darle un juguete para que se distraiga y así se le pueda cambiar el pañal.</a>
         <a>Jugar con Javier hasta que se canse y esperar a que se duerma para cambiarle el pañal.</a>

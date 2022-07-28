@@ -1,11 +1,11 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?> 
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?> 
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     <q0>La profesora Mirtha del aula de 5 años ha planificado con los niños una sesión de la seriación, explorando 
     situaciones cotidianas referidas a ordenar una colección de hasta tres objetos de grande a pequeño, de largo a corto, 
     de grueso a delgado para construir la noción de número. Los materiales utilizados son de origen estructurado y no estructurado.
     ¿Qué actividades de aprendizaje debe planificar Mirtha para lograr que los niños tengan la noción de número?</q0>
-    <as r="R" correcta="3">
+    <as r="R" correcta="3">>
         <a>Manipulación del material, aplicación de la seriación con los bloques lógicos, ordenar los materiales de
         pequeño a grande, representa gráficamente lo realizado en el juego, realiza preguntas para describir el orden de
         los materiales.</a>

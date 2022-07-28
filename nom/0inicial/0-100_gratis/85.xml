@@ -1,13 +1,13 @@
-<?xml version="1.0"> encoding="iso-8859-1"> ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
  
     
     <g0></g0>
     <q0>¿Cuál de las siguientes acciones es más adecuada para promover la expresión oral de los niños durante la
        preparación de una entrevista?</q0>
-    <g</g
+    <g></g>
     
-    <g2</g2
+    <g2></g2>
     <as r="R" correcta="2">
         <a>Preguntarles qué equipos usan los periodistas en una entrevista y proponerles elaborar con material reusable
            algunos de esos equipos, como cámaras o micrófonos.</a>
