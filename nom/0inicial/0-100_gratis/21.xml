@@ -1,24 +1,12 @@
-<<<<<<< HEAD
  <?xml version="1.0"> encoding="iso-8859-1"> ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
- 
-    <q0></q0>
-    <g0>21.png</g0>
-    <q>Juana se queda observando las flores detenidamente. Luego de unos momentos, le pregunta a la docente: "¿Por qué
-       las flores tienen color?".</q>
-    <q0>La docente busca ayudar a Juana a construir sus propias explicaciones respecto del mundo físico. Considerando
-        ese propósito, ¿qué acción es más pertinente que realice la docente ante la inquietud de la niña?</q0>
-=======
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
     <q0>Lea la siguiente situación y responda la pregunta</q0>
-    <g0>21-p.png</g0>
-    <q>Juana se queda observando las flores detenidamente. Luego de unos momentos, le pregunta a la docente: "¿Por qué
-       las flores tienen color?".</q>
-    <q2>La docente busca ayudar a Juana a construir sus propias explicaciones respecto del mundo físico. Considerando
-        ese propósito, ¿qué acción es más pertinente que realice la docente ante la inquietud de la niña?</q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
+    <g0>21-p0.png</g0>
+    <q>Juana se queda observando las flores detenidamente.</q>
+    <q2>Luego de unos momentos, le pregunta a la docente:</q2>
+	<q3>"¿Por qué las flores tienen color?".</q3>
+	<q4>La docente busca ayudar a Juana a construir sus propias explicaciones respecto del mundo físico.</q4>
+	<q5>Considerando ese propósito, ¿qué acción es más pertinente que realice la docente ante la inquietud de la niña?</q5>
     <as r="R" correcta="2">
         <a>Decirle que las flores tienen color porque así pueden atraer a las aves, abejas y otros insectos. Estos
            llevan el polen de una flor a otra y así las flores pueden asegurar su supervivencia.</a>
