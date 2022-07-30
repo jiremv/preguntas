@@ -1,29 +1,13 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
- 
-    <q0>La vendedora les comenta a los niños que algunas de esas flores han sido teñidas. Cuando los niños le preguntan
-        qué quiere decir "teñidas", ella les precisa que eso significa que se les ha cambiado de color. Entusiasmados,
-        los niños le dicen a la docente que ellos también desean teñir flores. De regreso al aula, conversan sobre la
-        propuesta.</q0>
-    <g0></g0>
-    <q>La docente busca conocer qué saben los niños respecto del proceso de teñir. ¿Cuál de las siguientes preguntas NO
-       es pertinente para recoger los saberes previos de los niños sobre el proceso de teñir?</q>
-    <as r="R" correcta="2">
-=======
-<?xml version='1.0' encoding='iso-8859-1'?>
-<!DOCTYPE pregunta SYSTEM "./../../../clase.dtd">
-<p>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
     <q0>Lea la siguiente situación y responda la pregunta</q0>
-    <g0>21-p.png</g0>
+    <g0>21-p0.png</g0>
     <q>La vendedora les comenta a los niños que algunas de esas flores han sido teñidas. Cuando los niños le preguntan qué quiere decir "teñidas", ella les precisa que eso significa que se les ha cambiado de color.</q>
     <q2>Entusiasmados, los niños le dicen a la docente que ellos también desean teñir flores.</q2>
     <q3>De regreso al aula, conversan sobre la propuesta.</q3>
 	<q4>La docente busca conocer qué saben los niños respecto del proceso de teñir. </q4>
-	<q5>¿Cuál de las siguientes preguntas NO
-       es pertinente para recoger los saberes previos de los niños sobre el proceso de teñir?</q5>
+	<q5>¿Cuál de las siguientes preguntas NO es pertinente para recoger los saberes previos de los niños sobre el proceso de teñir?</q5>
 	<as r="R" correcta="2">
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
         <a>¿Alguna vez han visto cómo se cambia de color algo? ¿Qué materiales se utilizaron?</a>
         <a>¿Qué nos dijo la vendedora que era teñir? ¿A qué cosas se les podrá cambiar de color?</a>
         <a>¿Quieren saber cuántas maneras de cambiar de color a las cosas hay? ¿Cómo podríamos averiguarlo?</a>
