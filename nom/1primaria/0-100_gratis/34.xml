@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1184-p.png
-	</g0>
-	<q>Durante la experiencia, una pareja de estudiantes propone lo siguiente:
-	</q>
-	<g0>1184-p2.png
-	</g0>
+	<q0></q0>
+	<g0>34-p.png</g0>
+	<q>Durante la experiencia, una pareja de estudiantes propone lo siguiente:</q>
+	<g0>34-p2.png</g0>
 	<q2>En la propuesta de los estudiantes, ¿qué tipo de variable corresponde al material de los
-vasos?	
-	</q2>
+vasos?</q2>
 	<as r="R" correcta="0">
 		<a>Independiente</a>
 		<a>Dependiente</a>

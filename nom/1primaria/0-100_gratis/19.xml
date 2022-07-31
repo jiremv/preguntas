@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Lea las siguientes situaciones:
-	</q0>
-	<g0>1169-p.png
-	</g0>
-	<q>A partir de lo descrito en cada situación, ¿cuál de ellas constituye un dilema moral?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Lea las siguientes situaciones:</q0>
+	<g0>19-p.png</g0>
+	<q>A partir de lo descrito en cada situación, ¿cuál de ellas constituye un dilema moral?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>La situación I.</a>
 		<a>La situación II.</a>

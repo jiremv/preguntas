@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Una docente presenta a los estudiantes de sexto grado el siguiente texto:
-	</q0>
-	<g0>1168-p.png
-	</g0>
+	<q0>Una docente presenta a los estudiantes de sexto grado el siguiente texto:</q0>
+	<g0>18-p.png</g0>
 	<q>Luego de la lectura conjunta, la docente desea ayudar a los estudiantes a que identifiquen un
 asunto público implicado en la situación que narra el texto. ¿Cuál de las siguientes actividades
-es pertinente para el propósito de la docente?
-	</q>
-	<q2>	
-	</q2>
+es pertinente para el propósito de la docente?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Organizar una lluvia de ideas para que los estudiantes indiquen qué acciones realizarían
 si el problema de la contaminación fuera en su comunidad. Luego, solicitarles que

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Una docente plantea la siguiente secuencia a los estudiantes.
-	</q0>
-	<g0>1179-p.png
-	</g0>
+	<q0>Una docente plantea la siguiente secuencia a los estudiantes.</q0>
+	<g0>29-p.png</g0>
 	<q>¿Cuál de los siguientes grupos de preguntas es pertinente para favorecer que los estudiantes
-encuentren la figura que continúa en la secuencia?
-	</q>
-	<q2>	
-	</q2>
+encuentren la figura que continúa en la secuencia?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>¿En cuál de las figuras mostradas hay mayor cantidad de círculos? y ¿en cuál hay
 menor cantidad de círculos? ¿Cuál de las figuras está formada por 5 círculos? y ¿cuál

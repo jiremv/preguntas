@@ -3,14 +3,10 @@
 
 	<q0>Un docente ha pedido a los estudiantes que lleven a la próxima sesión de aprendizaje libros
 publicados hace mucho tiempo y libros publicados recientemente para desarrollar la siguiente
-actividad:
-	</q0>
-	<g0>1163-p.png
-	</g0>
-	<q>¿A cuál de los siguientes aprendizajes favorece la actividad descrita?
-	</q>
-	<q2>	
-	</q2>
+actividad:</q0>
+	<g0>13-p.png</g0>
+	<q>¿A cuál de los siguientes aprendizajes favorece la actividad descrita?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>A la organización de una secuencia cronológica.</a>
 		<a>A la identificación de diferentes unidades temporales.</a>

@@ -2,16 +2,12 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
 	<q0>Un docente presenta a los estudiantes una lámina en la que se representan balanzas en
-equilibrio. La lámina se muestra a continuación:
-	</q0>
-	<g0>1178-p.png
-	</g0>
+equilibrio. La lámina se muestra a continuación:</q0>
+	<g0>28-p.png</g0>
 	<q>El propósito del docente es que los estudiantes establezcan relaciones de equivalencia entre
-los conos, esferas y el cilindro.
-	</q>
+los conos, esferas y el cilindro.</q>
 	<q2>¿Cuál de las siguientes acciones pedagógicas es pertinente que realice para que se pueda
-lograr el propósito planteado?
-	</q2>
+lograr el propósito planteado?</q2>
 	<as r="R" correcta="2">
 		<a>Solicitar a los estudiantes que cuenten los conos y esferas que están en la balanza 1, así
 como las esferas y cilindros que están en la balanza 2. Luego, preguntar: “Respecto de las

@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1155-p.png
-	</g0>
+	<q0></q0>
+	<g0>5-p.png</g0>
 	<q>Como parte del proyecto, los estudiantes están elaborando breves descripciones de los
 animales que han elegido. En este contexto, el docente nota que uno de los estudiantes
 escribió ‘tucha’ (en lugar de ‘trucha’) en varias partes de su texto. Por esta razón, busca que
 el estudiante avance en su proceso de apropiación del sistema de escritura. ¿Cuál de las
-siguientes acciones es más adecuada para conseguir su propósito?
-	</q>
-	<q2>	
-	</q2>
+siguientes acciones es más adecuada para conseguir su propósito?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>Pedir al estudiante que diga palabras similares a ‘trapo’ o ‘tren’. Luego, escribirlas delante
 de él para que las compare con ‘tucha’ y seleccione, de dichas palabras, la parte que

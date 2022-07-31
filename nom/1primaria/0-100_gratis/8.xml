@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1157-p.png
-	</g0>
+	<q0></q0>
+	<g0>7-p.png</g0>
 	<q>El docente busca que los estudiantes reflexionen sobre el contenido del texto. ¿Cuál de las
-siguientes acciones pedagógicas es adecuada para lograr su propósito?
-	</q>
-	<q2>	
-	</q2>
+siguientes acciones pedagógicas es adecuada para lograr su propósito?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Pedirles que subrayen en el texto expresiones con sentido figurado, como “[...] la vida
 de Gladys dio un giro”. Luego, pedir que en equipos traten de explicar qué significan,

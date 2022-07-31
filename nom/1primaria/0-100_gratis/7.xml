@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1157-p.png
-	</g0>
+	<q0></q0>
+	<g0>7-p.png</g0>
 	<q>El docente busca que los estudiantes deduzcan información implícita en el texto. ¿Cuál de las
-siguientes preguntas es apropiada para conseguir este propósito?
-	</q>
-	<q2>	
-	</q2>
+siguientes preguntas es apropiada para conseguir este propósito?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>¿Qué hecho sorprendió a Gladys cuando vio las olimpiadas de Sidney?</a>
 		<a>¿Cuál era el objetivo principal que Gladys quería alcanzar?</a>

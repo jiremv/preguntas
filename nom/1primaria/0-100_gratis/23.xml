@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Un docente plantea el siguiente problema a los estudiantes.
-	</q0>
-	<g0>1173-p1.png
-	</g0>
+	<q0>Un docente plantea el siguiente problema a los estudiantes.</q0>
+	<g0>23-p1.png</g0>
 	<q>A continuación, se muestra la representación gráfica que usaron tres estudiantes como parte
-de la estrategia para resolver el problema.
-	</q>
-	<g>1173-p2.png
-	</g>
-	<q2>¿Cuál o cuáles de los estudiantes ha(n) utilizado una representación correcta?
-	</q2>
+de la estrategia para resolver el problema.</q>
+	<g>23-p2.png</g>
+	<q2>¿Cuál o cuáles de los estudiantes ha(n) utilizado una representación correcta?</q2>
 	<as r="R" correcta="2">
 		<a>Solo Abel.</a>
 		<a>Solo Abel y Carola.</a>

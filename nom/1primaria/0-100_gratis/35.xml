@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1184-p.png
-	</g0>
-	<q>Otra pareja de estudiantes propone lo siguiente:
-	</q>
-	<g>1185	-p.png
-	</g>
-	<q2>En la propuesta de los estudiantes, ¿cuál es la variable dependiente?	
-	</q2>
+	<q0></q0>
+	<g0>34-p.png</g0>
+	<q>Otra pareja de estudiantes propone lo siguiente:</q>
+	<g>35-p.png</g>
+	<q2>En la propuesta de los estudiantes, ¿cuál es la variable dependiente?</q2>
 	<as r="R" correcta="0">
 		<a>La calidad del sonido.</a>
 		<a>La longitud del pabilo.</a>

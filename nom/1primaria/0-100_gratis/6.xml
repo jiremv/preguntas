@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>1155-p.png
-	</g0>
+	<q0></q0>
+	<g0>5-p.png</g0>
 	<q>Un estudiante ha decidido escribir sobre las ballenas. Por ello, está buscando información en
 una enciclopedia ilustrada. El docente lo acompaña a explorar el índice de dicha enciclopedia
 y le pide que busque la frase ‘la ballena’. Entonces, el estudiante señala ‘la gallina’ y le dice:
-“La encontré. Aquí dice ‘la ballena’, profesor”.
-	</q>
+“La encontré. Aquí dice ‘la ballena’, profesor”.</q>
 	<q2>El docente tiene como propósito ayudar al estudiante a avanzar en su apropiación del sistema
-de escritura. ¿Cuál es la acción pedagógica más adecuada para ello?	
-	</q2>
+de escritura. ¿Cuál es la acción pedagógica más adecuada para ello?</q2>
 	<as r="R" correcta="2">
 		<a>“Aquí dice ‘la gallina’ (señalando la frase que eligió el estudiante). Te sugiero que vuelvas
 a buscar, pero esta vez hazlo más despacio. ¿Te parece?”.</a>
