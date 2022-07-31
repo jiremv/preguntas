@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
-    <q0></q0>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
+    <q0>La docente del aula de dos a tres años busca favorecer la colaboración voluntaria entre los niños.</q0>
     <g0></g0>
-    <q>La docente del aula de dos a tres años busca favorecer la colaboración voluntaria entre los niños. ¿Cuál de las
-       siguientes intervenciones es pertinente para ese propósito?</q>
-<<<<<<< HEAD
-    
-=======
+    <q>¿Cuál de las siguientes intervenciones es pertinente para ese propósito?</q>
     <q2></q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="0">
         <a>"¿Quién puede llevar las cucharas a la mesa para comer el refrigerio?".</a>
         <a>"Para mantener el aula en orden, cada uno debe guardar el juguete con el que jugó".</a>

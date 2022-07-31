@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<<<<<<< HEAD
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
-    <q0></q0>
-=======
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
-    <q2></q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
+    <q0>Los niños del aula de cinco años se están lavando las manos.</q0>
     <g0></g0>
-    <q>Los niños del aula de cinco años se están lavando las manos. En ese contexto, la docente observa que, cuando
-       terminan de asearse, algunos niños dejan el caño abierto. Ante ello, la docente busca que los niños comprendan la
-       importancia de cuidar el agua.</q>
-    <q2>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q2>
-    <as r="R" correcta="1">
+    <q>En ese contexto, la docente observa que, cuando terminan de asearse, algunos niños dejan el caño abierto.</q>
+	<q2>Ante ello, la docente busca que los niños comprendan la
+       importancia de cuidar el agua.</q2>
+	<q3>¿Cuál de las siguientes acciones es más pertinente para ese propósito?</q3>
+	<as r="R" correcta="1">
         <a>Proponerles dramatizar lo sucedido durante el lavado de manos. Luego, explicarles que las personas, animales
            y plantas necesitan agua para vivir. Finalmente, decirles que el agua se va a acabar en cualquier momento y,
            por lo tanto, es importante cuidarla.</a>

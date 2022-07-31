@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<<<<<<< HEAD
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
-    <q0></q0>
-=======
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
-    <q2></q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
+    <q0>Los niños del aula de doce a dieciocho meses están jugando.</q0>
     <g0></g0>
-    <q>Los niños del aula de doce a dieciocho meses están jugando. Andrea sostiene un payasito y Saúl se acerca a ella
-       con la intención de quitárselo. Al verlo, la niña toma el juguete con un brazo y, con el otro, aleja a Saúl. Ante
-       ello, el niño mira a la docente buscando su apoyo.</q>
-    <q2>Frente a esta situación de conflicto, ¿cuál de las siguientes intervenciones es pertinente que realice la
-        docente?</q2>
+    <q>Andrea sostiene un payasito y Saúl se acerca a ella con la intención de quitárselo.</q>
+    <q2>Al verlo, la niña toma el juguete con un brazo y, con el otro, aleja a Saúl.</q2>
+	<q3>Ante ello, el niño mira a la docente buscando su apoyo.</q3>
+	<q4>Frente a esta situación de conflicto,</q4>
+	<q5>¿cuál de las siguientes intervenciones es pertinente que realice la docente?</q5>
     <as r="R" correcta="2">
         <a>"Andrea, tú ya jugaste con el payasito. Dámelo para entregárselo a Saúl, porque él también quiere jugar".</a>
         <a>"Niños, miren estos juguetes. Son más bonitos que el payasito y hay uno para cada uno. Así, los dos podrán
