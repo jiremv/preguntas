@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Se ha formado una secuencia de figuras con palitos de helado de la siguiente manera:
-	</q0>
-	<g0>4144-p.png
-	</g0>
-	<q>¿Cuántos palitos se usarán para formar la figura 12?
-	</q>
-	<q2>
-	</q2>
+	<q0>Se ha formado una secuencia de figuras con palitos de helado de la siguiente manera:</q0>
+	<g0></g0>
+	<q>¿Cuántos palitos se usarán para formar la figura 12?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>48</a>
 		<a>40</a>

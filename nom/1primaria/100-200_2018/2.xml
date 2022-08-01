@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4101-p2.png
-	</g0>
+	<q0></q0>
+	<g0></g0>
 	<q>¿Cuál de las siguientes alternativas presenta una secuencia de acciones que se ajusta
-cronológicamente al contenido del texto?
-	</q>
-	<q2>	
-	</q2>
+cronológicamente al contenido del texto?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>El esposo de la tejedora pidió un palacio – La tejedora destejió los jardines y criados que
 pidió su esposo – El esposo de la tejedora le dijo a ella que faltaban hilar los establos.</a>

@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4101-p1.png
-	</g0>
-	<q>En el texto, 
-	</q>
-	<g>4101-p2.png
-	</g>
-	<q2>¿cuál de los siguientes rasgos caracteriza al esposo de la tejedora?
-	</q2>
+	<q0></q0>
+	<g0></g0>
+	<q>En el texto,/q>
+	<g>4101-p2.png</g>
+	<q2>¿cuál de los siguientes rasgos caracteriza al esposo de la tejedora?</q2>
 	<as r="R" correcta="2">
 		<a>Es alegre.</a>
 		<a>Es paciente.</a>

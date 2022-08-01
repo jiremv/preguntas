@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4121-p.png
-	</g0>
-	<q>En el texto, el autor propone un conjunto de medidas para mejorar los aprendizajes de los
-estudiantes. ¿Cuál de las siguientes NO es una de estas medidas?
-	</q>
-	<q2>	
-	</q2>
+	<q0>En el texto, el autor propone un conjunto de medidas para mejorar los aprendizajes de los
+estudiantes.</q0>
+	<g0></g0>
+	<q>¿Cuál de las siguientes NO es una de estas medidas?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>Facilitar el acceso de niños y jóvenes a la escuela.</a>
 		<a>Medir el rendimiento educativo de los estudiantes.</a>

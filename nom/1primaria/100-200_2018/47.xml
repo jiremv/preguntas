@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>Si se organiza un concurso entre cinco equipos de tal manera que cada equipo compite con
-otro una sola vez, ¿cuántos encuentros se deben programar?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Si se organiza un concurso entre cinco equipos de tal manera que cada equipo compite con
+otro una sola vez,</q0>
+	<g0></g0>
+	<q>¿cuántos encuentros se deben programar?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>10</a>
 		<a>20</a>

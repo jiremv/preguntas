@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Relea el siguiente fragmento del último párrafo del texto:
-	</q0>
-	<g0>4125-p.png
-	</g0>
-	<q>¿Cuál es el objetivo principal por el que el autor utiliza esta pregunta en el texto?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Relea el siguiente fragmento del último párrafo del texto:</q0>
+	<g0></g0>
+	<q>¿Cuál es el objetivo principal por el que el autor utiliza esta pregunta en el texto?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Exhortar a las autoridades educativas a que respondan si es posible mejorar los
 aprendizajes de los estudiantes.</a>

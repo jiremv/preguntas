@@ -3,14 +3,10 @@
 
 	<q0>En una biblioteca, por cada tres libros leídos, el lector recibe dos pulseras amarillas; por
 cuatro pulseras amarillas, recibe tres pulseras rojas; y, por cada seis pulseras rojas, recibe dos
-pulseras verdes.
-	</q0>
-	<g0>
-	</g0>
-	<q>Si Jaime tiene seis pulseras verdes, ¿cuál de las siguientes afirmaciones es verdadera?
-	</q>
-	<q2>	
-	</q2>
+pulseras verdes.</q0>
+	<g0></g0>
+	<q>Si Jaime tiene seis pulseras verdes, ¿cuál de las siguientes afirmaciones es verdadera?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Por las seis pulseras verdes, Jaime tuvo que leer nueve libros.</a>
 		<a>Jaime leyó ocho libros para obtener dos pulseras verdes.</a>

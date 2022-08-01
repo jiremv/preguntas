@@ -3,15 +3,11 @@
 
 	<q0>Ante la cercanía de un encuentro deportivo internacional, el dueño de una tienda comercial
 de venta de artefactos eléctricos decide incrementar en 25% el precio de venta de los
-televisores.
-	</q0>
-	<g0>
-	</g0>
+televisores.</q0>
+	<g0></g0>
 	<q>Si uno de los televisores se vendió a S/ 2000 con el incremento, ¿cuál era el precio de venta
-inicial?
-	</q>
-	<q2>	
-	</q2>
+inicial?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>S/ 1500</a>
 		<a>S/ 1600</a>

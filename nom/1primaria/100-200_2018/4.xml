@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4101-p2.png
-	</g0>
+	<q0></q0>
+	<g0></g0>
 	<q>¿Cuál es la razón principal por la que a la tejedora “le pareció que su tristeza era más grande
-que el palacio”?
-	</q>
-	<q2>	
-	</q2>
+que el palacio”?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Porque su esposo se olvidó de la idea de tener hijos junto a ella.</a>
 		<a>Porque su esposo la había aislado en la torre más alta del palacio.</a>

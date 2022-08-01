@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4121-p.png
-	</g0>
-	<q>¿Por qué el autor afirma que una gran parte de la inversión educativa se pierde?
-	</q>
-	<q2>	
-	</q2>
+	<q0></q0>
+	<g0></g0>
+	<q>¿Por qué el autor afirma que una gran parte de la inversión educativa se pierde?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>Porque los estudiantes de países de menores ingresos aún tienen dificultades para
 acceder a una escuela.</a>

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>A partir de las siguientes premisas:
-	</q0>
-	<g0>4139-p.png
-	</g0>
-	<q>¿Cuál de los siguientes razonamientos es correcto?
-	</q>
-	<q2>	
-	</q2>
+	<q0>A partir de las siguientes premisas:</q0>
+	<g0></g0>
+	<q>¿Cuál de los siguientes razonamientos es correcto?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>Adrián es un norteño pelirrojo; por lo tanto, estudió en el colegio C.</a>
 		<a>Claudio es músico y estudió en el colegio C; por lo tanto, es norteño.</a>

@@ -2,15 +2,11 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
 	<q0>Melina, Nancy, Olivia y Paola compitieron en una carrera en la que no hubo empates. Más
-tarde, Rodrigo le preguntó a cada una cómo le fue y ellas respondieron lo siguiente:
-	</q0>
-	<g0>4138-p.png
-	</g0>
+tarde, Rodrigo le preguntó a cada una cómo le fue y ellas respondieron lo siguiente:</q0>
+	<g0></g0>
 	<q>Diego, quien presenció la carrera, le dijo a Rodrigo los puestos de llegada de cada una. Así
-Rodrigo descubrió que una de las cuatro competidoras le había mentido.
-	</q>
-	<q2>¿Quién ganó la carrera?	
-	</q2>
+Rodrigo descubrió que una de las cuatro competidoras le había mentido.</q>
+	<q2>¿Quién ganó la carrera?</q2>
 	<as r="R" correcta="1">
 		<a>Melina</a>
 		<a>Olivia</a>

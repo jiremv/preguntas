@@ -3,15 +3,11 @@
 
 	<q0>Una heladería ofrece los siguientes sabores de helado: vainilla, fresa, chocolate y lúcuma
 acompañados de un tipo de recubrimiento que puede ser mermelada, pecanas o frutas
-confitadas.
-	</q0>
-	<g0>
-	</g0>
+confitadas.</q0>
+	<g0></g0>
 	<q>Si solo se puede elegir un sabor de helado y un tipo de recubrimiento, ¿cuántas combinaciones
-diferentes se pueden pedir?
-	</q>
-	<q2>	
-	</q2>
+diferentes se pueden pedir?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>7</a>
 		<a>12</a>

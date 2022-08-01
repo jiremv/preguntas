@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>Juan decide preparar un flan para la cena. Según las indicaciones de una receta, se necesitan
+	<q0>Juan decide preparar un flan para la cena. Según las indicaciones de una receta, se necesitan
 6 huevos, 240 g de azúcar y 540 mL de leche. Juan desea obtener más porciones, manteniendo
-la misma proporción de los ingredientes de la receta. Si tiene pensado usar 8 huevos, ¿qué
-cantidad de azúcar y de leche necesitará?
-	</q>
-	<q2>	
-	</q2>
+la misma proporción de los ingredientes de la receta. Si tiene pensado usar 8 huevos,</q0>
+	<g0></g0>
+	<q>¿qué cantidad de azúcar y de leche necesitará?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>242 g de azúcar y 542 mL de leche.</a>
 		<a>320 g de azúcar y 720 mL de leche.</a>

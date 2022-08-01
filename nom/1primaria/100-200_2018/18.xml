@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>En el penúltimo párrafo, se presenta la siguiente cita:
-	</q0>
-	<g0>4118-p.png
-	</g0>
-	<q>¿En qué consiste el “interés particular” al que se refiere la cita?
-	</q>
-	<q2>	
-	</q2>
+	<q0>En el penúltimo párrafo, se presenta la siguiente cita:</q0>
+	<g0></g0>
+	<q>¿En qué consiste el “interés particular” al que se refiere la cita?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>En procurar que la opinión pública desconozca la relación entre el consumo de azúcar y
 las enfermedades cardiovasculares.</a>

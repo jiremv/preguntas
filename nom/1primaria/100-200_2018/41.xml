@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>A un taller de capacitación asistieron 80 docentes peruanos. Además, se sabe que:
-	</q0>
-	<g0>4141-p.png
-	</g0>
-	<q>Del total de asistentes al taller, ¿cuántos docentes nacieron en una región diferente de Lima?
-	</q>
-	<q2>	
-	</q2>
+	<q0>A un taller de capacitación asistieron 80 docentes peruanos. Además, se sabe que:</q0>
+	<g0></g0>
+	<q>Del total de asistentes al taller, ¿cuántos docentes nacieron en una región diferente de Lima?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>47</a>
 		<a>33</a>

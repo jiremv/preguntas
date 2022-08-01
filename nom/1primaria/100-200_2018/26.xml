@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4126-p.png
-	</g0>
-	<q>Un estudiante emplea ocho horas del día en dormir, seis horas en sus labores académicas y
-tres horas en alimentarse. ¿Qué parte del día le queda para realizar otras actividades?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Un estudiante emplea ocho horas del día en dormir, seis horas en sus labores académicas y
+tres horas en alimentarse.</q0>
+	<g0></g0>
+	<q>¿Qué parte del día le queda para realizar otras actividades?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>7/24</a>
 		<a>9/24</a>

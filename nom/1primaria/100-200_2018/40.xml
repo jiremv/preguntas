@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>En la ciudad de Nairobi amanece antes que en la ciudad de Kinshasa y, además, hay
+	<q0>En la ciudad de Nairobi amanece antes que en la ciudad de Kinshasa y, además, hay
 dos horas de diferencia entre ambas ciudades. El vuelo entre estas dos ciudades dura
-3 horas 15 minutos. Si un avión parte al mediodía de la ciudad de Nairobi (hora de Nairobi),
-¿a qué hora llegará a la ciudad de Kinshasa (hora de Kinshasa)?
-	</q>
-	<q2>	
-	</q2>
+3 horas 15 minutos. Si un avión parte al mediodía de la ciudad de Nairobi (hora de Nairobi),</q0>
+	<g0></g0>
+	<q>¿a qué hora llegará a la ciudad de Kinshasa (hora de Kinshasa)?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>17:15 h</a>
 		<a>15:15 h</a>

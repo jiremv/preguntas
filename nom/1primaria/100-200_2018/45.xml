@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>Una carretera pasa por las ciudades P, Q, R y S, pero no necesariamente en ese orden. Su
+	<q0>Una carretera pasa por las ciudades P, Q, R y S, pero no necesariamente en ese orden. Su
 recorrido es de sur a norte y viceversa. Si se sabe que la ciudad S está al norte de Q y R, la
-ciudad Q está al sur de P y la ciudad S está entre P y R, ¿cuál de estas ciudades está más al
-norte?
-	</q>
-	<q2>	
-	</q2>
+ciudad Q está al sur de P y la ciudad S está entre P y R,</q0>
+	<g0></g0>
+	<q>¿cuál de estas ciudades está más al norte?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>P</a>
 		<a>Q</a>

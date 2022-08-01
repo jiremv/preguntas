@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>Cinthya es 3 cm más alta que su madre y su madre es 5 cm más baja que su abuela. Si se sabe
-que la estatura de Cinthya es 1,65 m, ¿cuál de las siguientes afirmaciones es verdadera?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Cinthya es 3 cm más alta que su madre y su madre es 5 cm más baja que su abuela. Si se sabe
+que la estatura de Cinthya es 1,65 m,</q0>
+	<g0></g0>
+	<q>¿cuál de las siguientes afirmaciones es verdadera?</q>
+	<q2>	</q2>
 	<as r="R" correcta="0">
 		<a>La estatura de la abuela de Cinthya es 1,67 m.</a>
 		<a>Cinthya es 2 cm más alta que su abuela.</a>

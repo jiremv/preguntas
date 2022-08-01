@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
-	<q>En una región del Perú, se realizan trueques entre los pobladores de una comunidad. Dichos
+	<q0>En una región del Perú, se realizan trueques entre los pobladores de una comunidad. Dichos
 pobladores intercambian una olla de barro por medio kg de zanahorias y 1 kg de alverjas. Por
-otro lado, 1 kg de alverjas se puede intercambiar por 2 kg de zanahorias. ¿Cuántas ollas de
-barro se pueden intercambiar por 20 kg de alverjas?
-	</q>
-	<q2>	
-	</q2>
+otro lado, 1 kg de alverjas se puede intercambiar por 2 kg de zanahorias.</q0>
+	<g0></g0>
+	<q>¿Cuántas ollas de barro se pueden intercambiar por 20 kg de alverjas?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>8 ollas de barro.</a>
 		<a>16 ollas de barro.</a>

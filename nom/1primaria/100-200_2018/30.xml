@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>Lea con atención las siguientes premisas:
-	</q0>
-	<g0>4130-p.png
-	</g0>
-	<q>A partir de las premisas anteriores, ¿qué se puede inferir?
-	</q>
-	<q2>	
-	</q2>
+	<q0>Lea con atención las siguientes premisas:</q0>
+	<g0></g0>
+	<q>A partir de las premisas anteriores, ¿qué se puede inferir?</q>
+	<q2></q2>
 	<as r="R" correcta="1">
 		<a>Todos los que han llevado un curso de reciclaje trabajan en la empresa E.</a>
 		<a>Todos los trabajadores de la empresa E han llevado un curso de reciclaje.</a>

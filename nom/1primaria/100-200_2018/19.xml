@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4116-p.png
-	</g0>
-	<q>¿Cuál de las siguientes afirmaciones se puede concluir a partir de la información del texto?
-	</q>
-	<q2>	
-	</q2>
+	<q0></q0>
+	<g0></g0>
+	<q>¿Cuál de las siguientes afirmaciones se puede concluir a partir de la información del texto?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>Mark Hegsted fue nombrado en un alto cargo del gobierno estadounidense a pesar de
 que se sabía que estaba involucrado en un caso de tráfico de influencias.</a>

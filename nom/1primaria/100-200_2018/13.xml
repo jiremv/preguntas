@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4111-p.png
-	</g0>
-	<q>Bárbara leyó el texto y realizó la siguiente observación:
-	</q>
-	<g>4113-p.png
-	</g>
+	<q0></q0>
+	<g0></g0>
+	<q>Bárbara leyó el texto y realizó la siguiente observación:</q>
+	<g></g>
 	<q2>¿Cuál de las siguientes alternativas NO es uno de los “ejes de comparación” utilizados por el
-autor?	
-	</q2>
+autor?</q2>
 	<as r="R" correcta="1">
 		<a>La frecuencia con la que se contrata el servicio.</a>
 		<a>El nivel de innovación en la prestación del servicio.</a>

@@ -2,15 +2,11 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
 	<q0>Alicia, Bianca, Charo, Dafne y Elena se sientan alrededor de una mesa circular con seis asientos
-distribuidos simétricamente.
-	</q0>
-	<g0>
-	</g0>
-	<q>Se observa que:
-	</q>
-        <g>4137-p.png</g>
-	<q2>Entonces, se puede afirmar que necesariamente el asiento vacío se encuentra	
-	</q2>
+distribuidos simétricamente.</q0>
+	<g0></g0>
+	<q>Se observa que:</q>
+        <g></g>
+	<q2>Entonces, se puede afirmar que necesariamente el asiento vacío se encuentra</q2>
 	<as r="R" correcta="2">
 		<a>junto a Alicia.</a>
 		<a>junto a Dafne.</a>

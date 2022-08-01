@@ -2,14 +2,10 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
 	<q0>Adrián, Bruno y Cristian viven en un edificio de tres pisos, cada uno en un piso distinto. Uno
-de ellos es dentista, otro es profesor y el otro es taxista.
-	</q0>
-	<g0>4128-p.png
-	</g0>
-	<q>Se sabe que:
-	</q>
-	<q2>¿Cuál de las siguientes afirmaciones es verdadera?	
-	</q2>
+de ellos es dentista, otro es profesor y el otro es taxista.</q0>
+	<g0></g0>
+	<q>Se sabe que:</q>
+	<q2>¿Cuál de las siguientes afirmaciones es verdadera?</q2>
 	<as r="R" correcta="2">
 		<a>El taxista vive en el segundo piso.</a>
 		<a>El dentista vive en el primer piso.</a>

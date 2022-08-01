@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>
-	</g0>
+	<q0></q0>
+	<g0></g0>
 	<q>Los tiempos (en segundos) de los concursantes de una competencia de natación estilo
-mariposa en la prueba de 100 m son los siguientes:
-	</q>
-        <g>4136-p.png</g>
-	<q2>¿Quién llegó primero?	
-	</q2>
+mariposa en la prueba de 100 m son los siguientes:</q>
+        <g></g>
+	<q2>¿Quién llegó primero?</q2>
 	<as r="R" correcta="2">
 		<a>Roger</a>
 		<a>Daniel</a>

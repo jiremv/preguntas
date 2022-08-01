@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
-	<q0>
-	</q0>
-	<g0>4106-p.png
-	</g0>
-	<q>Según el texto, ¿cuál de los siguientes hechos causó la detención de Olympe?
-	</q>
-	<q2>	
-	</q2>
+	<q0></q0>
+	<g0></g0>
+	<q>Según el texto, ¿cuál de los siguientes hechos causó la detención de Olympe?</q>
+	<q2></q2>
 	<as r="R" correcta="2">
 		<a>La publicación de una pieza teatral en la que denunciaba el enriquecimiento de la nobleza
 a partir de la trata de esclavos.</a>

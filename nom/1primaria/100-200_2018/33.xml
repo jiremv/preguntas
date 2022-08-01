@@ -2,15 +2,11 @@
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
 
 	<q0>En una ciudad, hay tres tipos de monedas: kina, soti y lets; los cambios monetarios se realizan
-entre kinas y sotis, y entre sotis y letses.
-	</q0>
-	<g0>
-	</g0>
+entre kinas y sotis, y entre sotis y letses.</q0>
+	<g0></g0>
 	<q>Si se sabe que dos kinas equivalen a tres sotis y un soti equivale a tres letses, ¿cuál es el
-precio en kinas de un artefacto que cuesta 54 letses?
-	</q>
-	<q2>	
-	</q2>
+precio en kinas de un artefacto que cuesta 54 letses?</q>
+	<q2></q2>
 	<as r="R" correcta="0">
 		<a>12 kinas.</a>
 		<a>27 kinas.</a>
