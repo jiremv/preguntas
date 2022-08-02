@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1" ?> 
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
     <q0>El profesor Jaime en la clase de matemática muestra a sus estudiantes, gráficos, imágenes, diagramas, 
     tablas, etc. ¿Qué capacidad matemática está desarrollando frente a sus estudiantes?</q0>
     <as r="R" correcta="1">
