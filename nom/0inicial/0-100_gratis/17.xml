@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<<<<<<< HEAD
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
-=======
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <q0>Organizados en grupos de 6 integrantes, los niños del aula de cinco años han reciclado materiales y construido
         un juguete. Ahora, se preparan para explicar a sus compañeros cómo lo hicieron. La docente busca aprovechar esta
         situación para que los niños resuelvan problemas. Para ello, primero les dice lo siguiente: "Necesitamos que 2
@@ -11,12 +7,8 @@
         compañeros. Entonces, ¿cuántos niños deberán responder las preguntas?". Luego, se asegura de que los niños
         comprendan el problema que les acaba de plantear.</q0>
     <g0></g0>
-    <q>En el marco de la resolución de problemas, ¿qué acción es pertinente que la docente realice a continuación?</q>
-<<<<<<< HEAD
-    
-=======
-    <q2></q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
+    <q>En el marco de la resolución de problemas,</q>
+    <q2>¿qué acción es pertinente que la docente realice a continuación?</q2>
     <as r="R" correcta="2">
         <a>Pedirles que cada uno resuelva el problema. Luego, decirles que comparen sus respuestas con las de sus
            compañeros.</a>

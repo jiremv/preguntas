@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
-<<<<<<< HEAD
 <p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd"
     <q0></q0>
     <g0></g0>
     <q>¿En cuál de las siguientes acciones se evidencia el principio de cardinalidad?</q>
-    
-=======
-<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="./../../../clase.xsd">
-    <q0></q0>
-    <g0></g0>
-    <q>¿En cuál de las siguientes acciones se evidencia el principio de cardinalidad?</q>
     <q2></q2>
->>>>>>> c96a7b220097be14b7b4f5312256f136a05432e3
     <as r="R" correcta="0">
         <a>La docente le dice a Daniel que le ayude a contar las pelotas que hay en la caja. Daniel lo hace diciendo lo
            siguiente: "1, 2, 3, 4 y 5. Hay 5 pelotas".</a>
